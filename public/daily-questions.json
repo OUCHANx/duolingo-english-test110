@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-15",
+  "generatedAt": "2026-06-14",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,56 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "candid", "isReal": true },
-          { "id": "w2", "text": "gleption", "isReal": false },
-          { "id": "w3", "text": "profound", "isReal": true },
-          { "id": "w4", "text": "morbund", "isReal": false },
-          { "id": "w5", "text": "concise", "isReal": true },
-          { "id": "w6", "text": "vandle", "isReal": false },
-          { "id": "w7", "text": "robust", "isReal": true },
-          { "id": "w8", "text": "thrandic", "isReal": false },
-          { "id": "w9", "text": "genuine", "isReal": true },
-          { "id": "w10", "text": "sploon", "isReal": false },
-          { "id": "w11", "text": "explicit", "isReal": true },
-          { "id": "w12", "text": "norpeth", "isReal": false }
+          { "id": "w1", "text": "brittle", "isReal": true },
+          { "id": "w2", "text": "brimic", "isReal": false },
+          { "id": "w3", "text": "lucid", "isReal": true },
+          { "id": "w4", "text": "plactic", "isReal": false },
+          { "id": "w5", "text": "frugal", "isReal": true },
+          { "id": "w6", "text": "snorvel", "isReal": false },
+          { "id": "w7", "text": "nimble", "isReal": true },
+          { "id": "w8", "text": "glimber", "isReal": false },
+          { "id": "w9", "text": "eloquent", "isReal": true },
+          { "id": "w10", "text": "trindle", "isReal": false },
+          { "id": "w11", "text": "ample", "isReal": true },
+          { "id": "w12", "text": "vasque", "isReal": false }
+        ]
+      }
+    },
+    {
+      "id": "daily-rs-2",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "read_and_select",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "prompt": "実在する英単語をすべて選んでください。",
+      "passage": null,
+      "tags": ["vocab"],
+      "source": "daily",
+      "payload": {
+        "timeLimitSec": 70,
+        "words": [
+          { "id": "w1", "text": "ephemeral", "isReal": true },
+          { "id": "w2", "text": "quandle", "isReal": false },
+          { "id": "w3", "text": "austere", "isReal": true },
+          { "id": "w4", "text": "mervic", "isReal": false },
+          { "id": "w5", "text": "tenacious", "isReal": true },
+          { "id": "w6", "text": "flantic", "isReal": false },
+          { "id": "w7", "text": "prudent", "isReal": true },
+          { "id": "w8", "text": "drupex", "isReal": false },
+          { "id": "w9", "text": "gregarious", "isReal": true },
+          { "id": "w10", "text": "sermal", "isReal": false },
+          { "id": "w11", "text": "opaque", "isReal": true },
+          { "id": "w12", "text": "plontish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -44,18 +74,38 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "The manager decided to {{b1}} the project after careful {{b2}}.",
+        "text": "Scientists warn that rising sea levels could {{b1}} coastal cities within a few {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "approve", "keepHead": 4 },
-          { "id": "b2", "full": "analysis", "keepHead": 4 }
+          { "id": "b1", "full": "threaten", "keepHead": 4 },
+          { "id": "b2", "full": "decades", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "空所に入る語の残りを入力してください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "A balanced {{b1}} and regular exercise can {{b2}} the risk of chronic disease.",
+        "blanks": [
+          { "id": "b1", "full": "diet", "keepHead": 2 },
+          { "id": "b2", "full": "reduce", "keepHead": 3 }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-3",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -64,18 +114,38 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Regular feedback can {{b1}} student motivation and {{b2}}.",
+        "text": "Engineers are developing batteries that {{b1}} energy more efficiently for electric {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "increase", "keepHead": 4 },
-          { "id": "b2", "full": "confidence", "keepHead": 5 }
+          { "id": "b1", "full": "store", "keepHead": 3 },
+          { "id": "b2", "full": "vehicles", "keepHead": 4 }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-4",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "prompt": "空所に入る語の残りを入力してください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "The new telescope allows astronomers to {{b1}} distant galaxies in remarkable {{b2}}.",
+        "blanks": [
+          { "id": "b1", "full": "observe", "keepHead": 3 },
+          { "id": "b2", "full": "detail", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cs-1",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -87,39 +157,92 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The new policy will take",
-            "after": "next month.",
-            "options": ["effect", "affect", "effort", "effective"],
+            "before": "The factory has reduced its carbon",
+            "after": "significantly this year.",
+            "options": ["footprint", "footstep", "trace", "mark"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "take effect = 効力を持つ"
+            "explanation": "carbon footprint = 炭素排出量という決まった言い方。"
           },
           {
             "id": "g2",
-            "before": "She is responsible",
-            "after": "managing the team.",
-            "options": ["for", "to", "with", "of"],
+            "before": "Households are being asked to cut",
+            "after": "on single-use plastic.",
+            "options": ["down", "off", "out", "away"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "responsible for 〜"
+            "tag": "collocation",
+            "explanation": "cut down on 〜 = 〜を減らす。"
           },
           {
             "id": "g3",
-            "before": "Despite",
-            "after": "hard, he failed the exam.",
-            "options": ["studying", "study", "studied", "to study"],
+            "before": "",
+            "after": "the heavy rain, the outdoor event continued as planned.",
+            "options": ["Despite", "Although", "However", "Because"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "despite + 動名詞"
+            "explanation": "Despite + 名詞句。Although は節を取るので不可。"
           },
           {
             "id": "g4",
-            "before": "The results were",
-            "after": "to what we expected.",
-            "options": ["similar", "same", "identical", "equal"],
+            "before": "Solar power is",
+            "after": "becoming cheaper than fossil fuels.",
+            "options": ["increasingly", "increase", "increasing", "increased"],
+            "answerIdx": 0,
+            "tag": "grammar",
+            "explanation": "動詞 becoming を修飾する副詞 increasingly が適切。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "daily-cs-2",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "complete_the_sentences",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "prompt": "文脈に合う語句を選んでください。",
+      "passage": null,
+      "tags": ["grammar", "cohesion", "collocation", "vocab"],
+      "source": "daily",
+      "payload": {
+        "gaps": [
+          {
+            "id": "g1",
+            "before": "The committee will",
+            "after": "the proposal at next week's meeting.",
+            "options": ["review", "revise", "reverse", "revive"],
+            "answerIdx": 0,
+            "tag": "vocab",
+            "explanation": "review = 検討する。revise は「改訂する」で意味がずれる。"
+          },
+          {
+            "id": "g2",
+            "before": "Her conclusion was firmly",
+            "after": "on years of fieldwork.",
+            "options": ["based", "basing", "base", "bases"],
+            "answerIdx": 0,
+            "tag": "grammar",
+            "explanation": "be based on 〜 = 〜に基づく。受動の過去分詞 based。"
+          },
+          {
+            "id": "g3",
+            "before": "The plan sounds promising;",
+            "after": ", it still requires careful funding.",
+            "options": ["however", "therefore", "moreover", "meanwhile"],
+            "answerIdx": 0,
+            "tag": "cohesion",
+            "explanation": "前後が逆接の関係なので however。"
+          },
+          {
+            "id": "g4",
+            "before": "The new safety regulation will come into",
+            "after": "in January.",
+            "options": ["force", "strength", "power", "action"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "similar to 〜"
+            "explanation": "come into force = (法律などが) 施行される。"
           }
         ]
       }
@@ -127,21 +250,21 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-detail", "reading-gist"],
+      "tags": ["reading-detail", "reading-gist", "inference"],
       "source": "daily",
       "payload": {
-        "title": "The Shift to Remote Work",
+        "title": "The Hidden Importance of Coral Reefs",
         "paragraphs": [
-          "Over the past few years, many companies have allowed employees to work from home.",
-          "Remote work can reduce commuting time and give workers more flexibility over their schedules.",
-          "However, some managers worry that working remotely makes teamwork and communication harder."
+          "Coral reefs cover less than one percent of the ocean floor, yet they support nearly a quarter of all marine species.",
+          "Besides their biological value, reefs protect coastlines from storms and provide food and income for millions of people.",
+          "Rising ocean temperatures, however, are causing widespread coral bleaching, putting reefs around the world at serious risk."
         ],
         "questions": [
           {
@@ -149,30 +272,103 @@
             "id": "q1",
             "prompt": "この文章に最も適したタイトルを選んでください。",
             "options": [
-              "The End of Offices",
-              "Remote Work: Benefits and Concerns",
-              "How to Commute Faster",
-              "A History of Companies"
+              "Why Coral Reefs Matter and What Threatens Them",
+              "How to Dive Safely on a Reef",
+              "The Largest Oceans on Earth",
+              "A Guide to Tropical Fish"
             ],
-            "answerIdx": 1
+            "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Remote work gives employees more flexibility over their",
-            "after": "and daily routines.",
-            "options": ["schedules", "schedule's", "scheduling", "scheduled"],
+            "before": "Although they cover a tiny area, reefs support nearly a quarter of all",
+            "after": "species.",
+            "options": ["marine", "marines", "marine's", "mariner"],
+            "answerIdx": 0,
+            "tag": "vocab"
+          },
+          {
+            "kind": "highlight",
+            "id": "q3",
+            "prompt": "サンゴ礁への脅威を述べている箇所を選んでください。",
+            "spans": [
+              { "id": "s1", "text": "support nearly a quarter of all marine species" },
+              { "id": "s2", "text": "protect coastlines from storms and provide food and income" },
+              { "id": "s3", "text": "Rising ocean temperatures, however, are causing widespread coral bleaching" }
+            ],
+            "answerSpanId": "s3"
+          },
+          {
+            "kind": "insertSentence",
+            "id": "q4",
+            "sentence": "Coastal communities often rely on them for both protein and tourism.",
+            "slots": ["after paragraph 1", "after paragraph 2", "after paragraph 3"],
+            "answerSlot": 1
+          },
+          {
+            "kind": "summarize",
+            "id": "q5",
+            "prompt": "本文の要約として最も適切なものを選んでください。",
+            "options": [
+              "Coral reefs are ecologically and economically vital, but warming seas now endanger them.",
+              "Coral reefs cover most of the ocean and are perfectly safe.",
+              "Coral reefs are useful only to tourists who visit them."
+            ],
+            "answerIdx": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "daily-ir-2",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "interactive_reading",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "本文を読んで各設問に答えてください。",
+      "passage": null,
+      "tags": ["reading-detail", "reading-gist", "cohesion"],
+      "source": "daily",
+      "payload": {
+        "title": "Why Sleep Matters",
+        "paragraphs": [
+          "Many people treat sleep as a luxury, giving it up to finish work or watch one more episode.",
+          "Yet research shows that while we sleep, the brain consolidates memories and clears away harmful waste.",
+          "People who regularly sleep too little face higher risks of poor concentration, weight gain, and illness."
+        ],
+        "questions": [
+          {
+            "kind": "identifyIdea",
+            "id": "q1",
+            "prompt": "この文章の主な考えを選んでください。",
+            "options": [
+              "Sleep is a basic need that strongly affects health and the mind.",
+              "Watching one more episode is always worth it.",
+              "Only athletes need a full night of sleep.",
+              "The brain does nothing useful during sleep."
+            ],
+            "answerIdx": 0
+          },
+          {
+            "kind": "completeSentence",
+            "id": "q2",
+            "before": "While we sleep, the brain",
+            "after": "memories from the day.",
+            "options": ["consolidates", "consolidate", "consolidating", "consolidated"],
             "answerIdx": 0,
             "tag": "grammar"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "リモートワークの欠点を述べている箇所を選んでください。",
+            "prompt": "睡眠不足の結果を述べている箇所を選んでください。",
             "spans": [
-              { "id": "s1", "text": "allowed employees to work from home" },
-              { "id": "s2", "text": "reduce commuting time and give workers more flexibility" },
-              { "id": "s3", "text": "makes teamwork and communication harder" }
+              { "id": "s1", "text": "treat sleep as a luxury" },
+              { "id": "s2", "text": "the brain consolidates memories and clears away harmful waste" },
+              { "id": "s3", "text": "higher risks of poor concentration, weight gain, and illness" }
             ],
             "answerSpanId": "s3"
           },
@@ -181,9 +377,9 @@
             "id": "q4",
             "prompt": "本文の要約として最も適切なものを選んでください。",
             "options": [
-              "Remote work offers flexibility but can make teamwork more difficult.",
-              "All companies have banned remote work.",
-              "Commuting is the only benefit of remote work."
+              "Sleep supports memory and health, so cutting it short carries real risks.",
+              "People should sleep as little as possible to be productive.",
+              "Sleep only affects how tired we feel the next day."
             ],
             "answerIdx": 0
           }
@@ -195,13 +391,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The new employees will attend a training session next Monday.",
+      "transcript": "The committee will announce the final results on Friday afternoon.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -210,13 +406,73 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-15T00:00:00.000Z",
-      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "audioUrl": null,
+      "transcript": "The museum welcomed over twelve thousand visitors during its first week.",
+      "prompt": null,
+      "tags": ["listen-numeral"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    },
+    {
+      "id": "daily-lt-3",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Most experts agree that early planning reduces unnecessary stress.",
+      "transcript": "She would have joined us if she had known about the meeting earlier.",
+      "prompt": null,
+      "tags": ["listen-funcword"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    },
+    {
+      "id": "daily-lt-4",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "audioUrl": null,
+      "transcript": "Please remember to back up your files before the system update.",
+      "prompt": null,
+      "tags": ["listen-chunk"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    },
+    {
+      "id": "daily-lt-5",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "audioUrl": null,
+      "transcript": "The thorough investigation revealed several unexpected weaknesses in the design.",
+      "prompt": null,
+      "tags": ["listen-phoneme"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    },
+    {
+      "id": "daily-lt-6",
+      "userId": null,
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "audioUrl": null,
+      "transcript": "A healthy breakfast can help you stay focused throughout the morning.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
