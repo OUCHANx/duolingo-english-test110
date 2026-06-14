@@ -1,0 +1,226 @@
+{
+  "generatedAt": "2026-06-15",
+  "readingQuestions": [
+    {
+      "id": "daily-rs-1",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "read_and_select",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "実在する英単語をすべて選んでください。",
+      "passage": null,
+      "tags": ["vocab"],
+      "source": "daily",
+      "payload": {
+        "timeLimitSec": 70,
+        "words": [
+          { "id": "w1", "text": "candid", "isReal": true },
+          { "id": "w2", "text": "gleption", "isReal": false },
+          { "id": "w3", "text": "profound", "isReal": true },
+          { "id": "w4", "text": "morbund", "isReal": false },
+          { "id": "w5", "text": "concise", "isReal": true },
+          { "id": "w6", "text": "vandle", "isReal": false },
+          { "id": "w7", "text": "robust", "isReal": true },
+          { "id": "w8", "text": "thrandic", "isReal": false },
+          { "id": "w9", "text": "genuine", "isReal": true },
+          { "id": "w10", "text": "sploon", "isReal": false },
+          { "id": "w11", "text": "explicit", "isReal": true },
+          { "id": "w12", "text": "norpeth", "isReal": false }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-1",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "空所に入る語の残りを入力してください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "The manager decided to {{b1}} the project after careful {{b2}}.",
+        "blanks": [
+          { "id": "b1", "full": "approve", "keepHead": 4 },
+          { "id": "b2", "full": "analysis", "keepHead": 4 }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-2",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "prompt": "空所に入る語の残りを入力してください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "Regular feedback can {{b1}} student motivation and {{b2}}.",
+        "blanks": [
+          { "id": "b1", "full": "increase", "keepHead": 4 },
+          { "id": "b2", "full": "confidence", "keepHead": 5 }
+        ]
+      }
+    },
+    {
+      "id": "daily-cs-1",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "complete_the_sentences",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "文脈に合う語句を選んでください。",
+      "passage": null,
+      "tags": ["grammar", "collocation"],
+      "source": "daily",
+      "payload": {
+        "gaps": [
+          {
+            "id": "g1",
+            "before": "The new policy will take",
+            "after": "next month.",
+            "options": ["effect", "affect", "effort", "effective"],
+            "answerIdx": 0,
+            "tag": "collocation",
+            "explanation": "take effect = 効力を持つ"
+          },
+          {
+            "id": "g2",
+            "before": "She is responsible",
+            "after": "managing the team.",
+            "options": ["for", "to", "with", "of"],
+            "answerIdx": 0,
+            "tag": "grammar",
+            "explanation": "responsible for 〜"
+          },
+          {
+            "id": "g3",
+            "before": "Despite",
+            "after": "hard, he failed the exam.",
+            "options": ["studying", "study", "studied", "to study"],
+            "answerIdx": 0,
+            "tag": "grammar",
+            "explanation": "despite + 動名詞"
+          },
+          {
+            "id": "g4",
+            "before": "The results were",
+            "after": "to what we expected.",
+            "options": ["similar", "same", "identical", "equal"],
+            "answerIdx": 0,
+            "tag": "collocation",
+            "explanation": "similar to 〜"
+          }
+        ]
+      }
+    },
+    {
+      "id": "daily-ir-1",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "interactive_reading",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "prompt": "本文を読んで各設問に答えてください。",
+      "passage": null,
+      "tags": ["reading-detail", "reading-gist"],
+      "source": "daily",
+      "payload": {
+        "title": "The Shift to Remote Work",
+        "paragraphs": [
+          "Over the past few years, many companies have allowed employees to work from home.",
+          "Remote work can reduce commuting time and give workers more flexibility over their schedules.",
+          "However, some managers worry that working remotely makes teamwork and communication harder."
+        ],
+        "questions": [
+          {
+            "kind": "identifyIdea",
+            "id": "q1",
+            "prompt": "この文章に最も適したタイトルを選んでください。",
+            "options": [
+              "The End of Offices",
+              "Remote Work: Benefits and Concerns",
+              "How to Commute Faster",
+              "A History of Companies"
+            ],
+            "answerIdx": 1
+          },
+          {
+            "kind": "completeSentence",
+            "id": "q2",
+            "before": "Remote work gives employees more flexibility over their",
+            "after": "and daily routines.",
+            "options": ["schedules", "schedule's", "scheduling", "scheduled"],
+            "answerIdx": 0,
+            "tag": "grammar"
+          },
+          {
+            "kind": "highlight",
+            "id": "q3",
+            "prompt": "リモートワークの欠点を述べている箇所を選んでください。",
+            "spans": [
+              { "id": "s1", "text": "allowed employees to work from home" },
+              { "id": "s2", "text": "reduce commuting time and give workers more flexibility" },
+              { "id": "s3", "text": "makes teamwork and communication harder" }
+            ],
+            "answerSpanId": "s3"
+          },
+          {
+            "kind": "summarize",
+            "id": "q4",
+            "prompt": "本文の要約として最も適切なものを選んでください。",
+            "options": [
+              "Remote work offers flexibility but can make teamwork more difficult.",
+              "All companies have banned remote work.",
+              "Commuting is the only benefit of remote work."
+            ],
+            "answerIdx": 0
+          }
+        ]
+      }
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "daily-lt-1",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "audioUrl": null,
+      "transcript": "The new employees will attend a training session next Monday.",
+      "prompt": null,
+      "tags": ["listen-chunk"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    },
+    {
+      "id": "daily-lt-2",
+      "userId": null,
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "audioUrl": null,
+      "transcript": "Most experts agree that early planning reduces unnecessary stress.",
+      "prompt": null,
+      "tags": ["listen-chunk"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    }
+  ]
+}
