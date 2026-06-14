@@ -3,8 +3,12 @@
 //   seed の語彙を網羅。未収録語は手動編集で補える。
 // =============================================================
 import type { ReviewItem } from "./types";
+import { VOCAB } from "./vocab";
+import { VOCAB2 } from "./vocab2";
+import { VOCAB3 } from "./vocab3";
+import { VOCAB4 } from "./vocab4";
 
-export const EN_JA: Record<string, string> = {
+const BASE_EN_JA: Record<string, string> = {
   // Read and Select（実在語）
   meticulous: "細心の、几帳面な",
   resilient: "回復力のある、立ち直りが早い",
@@ -143,6 +147,15 @@ export const EN_JA: Record<string, string> = {
   sustain: "維持する、支える",
   tendency: "傾向",
   utilize: "活用する",
+};
+
+// 既存の基本語彙 + 自動生成の追加語彙（vocab.ts）をマージ
+export const EN_JA: Record<string, string> = {
+  ...BASE_EN_JA,
+  ...VOCAB,
+  ...VOCAB2,
+  ...VOCAB3,
+  ...VOCAB4,
 };
 
 function normalize(word: string): string {

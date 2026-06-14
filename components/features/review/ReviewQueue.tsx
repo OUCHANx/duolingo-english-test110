@@ -7,6 +7,7 @@ import { Card, CardBody } from "@/components/ui/Card";
 import { Tag } from "@/components/ui/Tag";
 import type { ReviewResult } from "@/lib/srs";
 import { WEAKNESS_TAG_LABELS } from "@/lib/det";
+import { loadSpeechSettings, speak as speakEnglish } from "@/lib/speech";
 
 const RATINGS: { result: ReviewResult; label: string; cls: string }[] = [
   { result: "again", label: "もう一度", cls: "bg-danger text-white" },
@@ -24,12 +25,7 @@ export function ReviewQueue({ items }: { items: ReviewItem[] }) {
   const current = queue[index];
 
   const speak = (text: string) => {
-    if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "en-US";
-    u.rate = 0.9;
-    window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
+    void speakEnglish(text, { rate: loadSpeechSettings().rate });
   };
 
   if (!current) {

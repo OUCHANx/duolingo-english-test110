@@ -1,9 +1,14 @@
 // =============================================================
 // Read and Select 自動生成用の語彙バンク
 //   REAL_WORDS は全て dictionary.ts の EN_JA に意味あり（復習で表示される）
+//   基本語彙 + 自動生成の追加語彙（vocab.ts）をマージして使う。
 // =============================================================
+import { VOCAB, FAKE_WORDS_EXTRA } from "./vocab";
+import { VOCAB2 } from "./vocab2";
+import { VOCAB3 } from "./vocab3";
+import { VOCAB4 } from "./vocab4";
 
-export const REAL_WORDS: string[] = [
+const BASE_REAL_WORDS: string[] = [
   "meticulous", "resilient", "obscure", "conscientious", "pragmatic",
   "ephemeral", "verbose", "diligent", "believe", "practice", "review",
   "decision", "analyze", "misleading", "improve", "effective", "consistent",
@@ -23,7 +28,7 @@ export const REAL_WORDS: string[] = [
 ];
 
 // 実在しないが英語らしい綴りの偽単語
-export const FAKE_WORDS: string[] = [
+const BASE_FAKE_WORDS: string[] = [
   "flantern", "plendor", "quindle", "gandible", "morbund", "trasply", "blorth",
   "frindle", "snurgle", "plimber", "dracton", "vimption", "gorpith", "melction",
   "crandle", "thrandic", "gleption", "prombic", "fluxant", "fendril", "catrize",
@@ -31,3 +36,17 @@ export const FAKE_WORDS: string[] = [
   "mancive", "norpeth", "oblantic", "rangive", "sturnle", "tendrith", "ulmary",
   "vandle", "welkish", "grontal", "drupent", "sploon",
 ];
+
+// 基本語彙 + 追加語彙をマージ（重複は除去）
+export const REAL_WORDS: string[] = Array.from(
+  new Set([
+    ...BASE_REAL_WORDS,
+    ...Object.keys(VOCAB),
+    ...Object.keys(VOCAB2),
+    ...Object.keys(VOCAB3),
+    ...Object.keys(VOCAB4),
+  ]),
+);
+export const FAKE_WORDS: string[] = Array.from(
+  new Set([...BASE_FAKE_WORDS, ...FAKE_WORDS_EXTRA]),
+);

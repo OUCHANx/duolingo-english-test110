@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import type {
   GradeOutput,
   ListenTypePayload,
@@ -9,6 +9,14 @@ import type {
 import { gradeListenType } from "@/lib/graders";
 import { Button } from "@/components/ui/Button";
 import { TextArea } from "@/components/ui/Field";
+import {
+  isSpeechAvailable,
+  loadSpeechSettings,
+  loadVoices,
+  pickVoice,
+  saveSpeechSettings,
+  speak,
+} from "@/lib/speech";
 
 export function ListenAndType({
   question,
@@ -26,23 +34,35 @@ export function ListenAndType({
   const [submitted, setSubmitted] = useState(false);
   const [grade, setGrade] = useState<GradeOutput | null>(null);
 
-  const ttsAvailable =
-    typeof window !== "undefined" && "speechSynthesis" in window;
+  // 音声設定（声は Google US English を最優先で自動選択。速さのみ調整可）
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+  const [rate, setRate] = useState(0.9);
+
+  const ttsAvailable = isSpeechAvailable();
+
+  useEffect(() => {
+    setRate(loadSpeechSettings().rate);
+    loadVoices().then(setVoices);
+  }, []);
+
+  const activeVoice = pickVoice(voices);
 
   const play = () => {
     if (replays >= maxReplays && !submitted) return;
     if (question.audioUrl) {
       if (!audioRef.current) audioRef.current = new Audio(question.audioUrl);
       audioRef.current.currentTime = 0;
+      audioRef.current.volume = 1;
       void audioRef.current.play();
     } else if (ttsAvailable) {
-      const u = new SpeechSynthesisUtterance(question.transcript);
-      u.lang = payload.voiceHint ?? "en-US";
-      u.rate = payload.rate ?? 0.9;
-      window.speechSynthesis.cancel();
-      window.speechSynthesis.speak(u);
+      void speak(question.transcript, { rate });
     }
     if (!submitted) setReplays((r) => r + 1);
+  };
+
+  const changeRate = (r: number) => {
+    setRate(r);
+    saveSpeechSettings({ voiceURI: null, rate: r });
   };
 
   const submit = () => {
@@ -53,6 +73,7 @@ export function ListenAndType({
   };
 
   const remaining = Math.max(0, maxReplays - replays);
+  const usingTts = !question.audioUrl && ttsAvailable;
 
   return (
     <div className="flex flex-col gap-4">
@@ -71,10 +92,41 @@ export function ListenAndType({
           ▶
         </button>
         <span className="text-xs text-ink-faint">
-          {submitted
-            ? "もう一度聞いて確認できます"
-            : `残り再生 ${remaining} 回`}
+          {submitted ? "もう一度聞いて確認できます" : `残り再生 ${remaining} 回`}
         </span>
+
+        {/* 速度の調整（声は Google US English を自動使用）*/}
+        {usingTts ? (
+          <div className="mt-2 flex w-full flex-col items-center gap-2">
+            {activeVoice ? (
+              <span className="text-[11px] text-ink-faint">
+                声: {activeVoice.name}
+              </span>
+            ) : null}
+            <div className="flex items-center gap-1.5 text-xs">
+              <span className="text-ink-faint">速さ</span>
+              {[
+                { label: "ゆっくり", v: 0.7 },
+                { label: "ふつう", v: 0.9 },
+                { label: "速め", v: 1.05 },
+              ].map((o) => (
+                <button
+                  key={o.v}
+                  type="button"
+                  onClick={() => changeRate(o.v)}
+                  className={`rounded-pill px-2.5 py-1 font-medium transition ${
+                    Math.abs(rate - o.v) < 0.01
+                      ? "bg-brand-600 text-white"
+                      : "bg-white text-ink-soft hover:bg-brand-50"
+                  }`}
+                >
+                  {o.label}
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : null}
+
         {!question.audioUrl && !ttsAvailable ? (
           <span className="text-xs text-danger">
             この環境では音声読み上げが使えません
