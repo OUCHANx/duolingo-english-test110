@@ -6,6 +6,8 @@ import { LinkButton } from "@/components/ui/Button";
 import { Card, CardBody } from "@/components/ui/Card";
 import { Tag } from "@/components/ui/Tag";
 import { EmptyState } from "@/components/ui/EmptyState";
+import { TodayPhotoCard } from "@/components/features/writing/TodayPhotoCard";
+import { PhotoReviewCard } from "@/components/features/writing/PhotoReviewCard";
 import { formatDateShort, TASK_LABELS } from "@/lib/det";
 
 export default function WritingListPage() {
@@ -26,6 +28,10 @@ export default function WritingListPage() {
         }
       />
 
+      <div className="mb-4">
+        <TodayPhotoCard />
+      </div>
+
       {logs.length === 0 ? (
         <EmptyState
           icon="✍️"
@@ -36,38 +42,44 @@ export default function WritingListPage() {
         />
       ) : (
         <div className="flex flex-col gap-3">
-          {logs.map((l) => (
-            <Card key={l.id}>
-              <CardBody>
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center gap-2">
-                    <span className="text-sm font-bold text-ink">
-                      {formatDateShort(l.date)}
+          {logs.map((l) =>
+            l.photoImage ? (
+              <PhotoReviewCard key={l.id} log={l} />
+            ) : (
+              <Card key={l.id}>
+                <CardBody>
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                      <span className="text-sm font-bold text-ink">
+                        {formatDateShort(l.date)}
+                      </span>
+                      <Tag tone="green">{TASK_LABELS[l.detTaskType]}</Tag>
+                    </div>
+                    <span className="text-xs text-ink-faint">
+                      {l.wordCount} words
                     </span>
-                    <Tag tone="green">{TASK_LABELS[l.detTaskType]}</Tag>
                   </div>
-                  <span className="text-xs text-ink-faint">{l.wordCount} words</span>
-                </div>
 
-                {l.prompt ? (
-                  <p className="mt-2 line-clamp-2 text-sm text-ink-soft">
-                    {l.prompt}
-                  </p>
-                ) : null}
+                  {l.prompt ? (
+                    <p className="mt-2 line-clamp-2 text-sm text-ink-soft">
+                      {l.prompt}
+                    </p>
+                  ) : null}
 
-                {l.grammarErrors.length ? (
-                  <p className="mt-2 text-xs text-ink-soft">
-                    ⚠️ 文法ミス: {l.grammarErrors.join(" / ")}
-                  </p>
-                ) : null}
-                {l.newExpressions.length ? (
-                  <p className="mt-1 text-xs text-ink-soft">
-                    ✨ 覚えた表現: {l.newExpressions.join(" / ")}
-                  </p>
-                ) : null}
-              </CardBody>
-            </Card>
-          ))}
+                  {l.grammarErrors.length ? (
+                    <p className="mt-2 text-xs text-ink-soft">
+                      ⚠️ 文法ミス: {l.grammarErrors.join(" / ")}
+                    </p>
+                  ) : null}
+                  {l.newExpressions.length ? (
+                    <p className="mt-1 text-xs text-ink-soft">
+                      ✨ 覚えた表現: {l.newExpressions.join(" / ")}
+                    </p>
+                  ) : null}
+                </CardBody>
+              </Card>
+            ),
+          )}
         </div>
       )}
     </div>

@@ -17,7 +17,7 @@ const TYPES: { type: DetTaskType; title: string; desc: string; dynamic: boolean 
   {
     type: "read_and_complete",
     title: "Read and Complete",
-    desc: "単語の残りの文字を埋める（クローズ）",
+    desc: "単語帳の語を意味ヒント付きでスペル入力",
     dynamic: true,
   },
   {

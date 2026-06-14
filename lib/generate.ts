@@ -13,6 +13,7 @@ import type {
 import { uid } from "./id";
 import { REAL_WORDS, FAKE_WORDS } from "./wordbank";
 import { SENTENCES } from "./sentencebank";
+import { getStudyVocab } from "./vocabStudy";
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -145,5 +146,50 @@ export function generateListenType(count = 8): ListeningQuestion[] {
     payload: { rate: 0.9, voiceHint: "en-US", maxReplays: 3 },
     tags: ["listen-chunk"],
     source: "generated",
+  }));
+}
+
+// ---------- 単語帳ベース ----------
+// Read and Complete（意味ヒント＋スペル穴埋め）を単語帳の語から生成
+export function generateReadCompleteFromVocab(count = 10): ReadingQuestion[] {
+  return sample(getStudyVocab(), count).map((e) => {
+    const word = e.word;
+    const keepHead = Math.max(1, Math.ceil(word.length / 2));
+    return {
+      id: uid(),
+      userId: null,
+      createdAt: T,
+      updatedAt: T,
+      taskType: "read_and_complete",
+      difficulty: "medium",
+      cefr: null,
+      prompt: "意味をヒントに、単語のつづりを完成させてください。",
+      passage: null,
+      payload: {
+        text: `（${e.ja}）  {{b1}}`,
+        blanks: [{ id: "b1", full: word, keepHead }],
+      },
+      tags: ["vocab", "spelling"],
+      source: "vocab",
+    };
+  });
+}
+
+// Listen and Type（単語ディクテーション）を単語帳の語から生成
+export function generateListenTypeFromVocab(count = 10): ListeningQuestion[] {
+  return sample(getStudyVocab(), count).map((e) => ({
+    id: uid(),
+    userId: null,
+    createdAt: T,
+    updatedAt: T,
+    taskType: "listen_and_type",
+    difficulty: "medium",
+    cefr: null,
+    audioUrl: null,
+    transcript: e.word,
+    prompt: null,
+    payload: { rate: 0.85, voiceHint: "en-US", maxReplays: 5 },
+    tags: ["vocab"],
+    source: "vocab",
   }));
 }

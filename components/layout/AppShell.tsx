@@ -60,6 +60,12 @@ const SIDE_NAV: { section: string; items: NavItem[] }[] = [
         icon: "📚",
         match: (p) => p.startsWith("/vocab"),
       },
+      {
+        href: "/writing",
+        label: "ChatGPT（Writing）",
+        icon: "✍️",
+        match: (p) => p.startsWith("/writing"),
+      },
     ],
   },
   {
@@ -70,12 +76,6 @@ const SIDE_NAV: { section: string; items: NavItem[] }[] = [
         label: "Cambly（Speaking）",
         icon: "🗣️",
         match: (p) => p.startsWith("/speaking"),
-      },
-      {
-        href: "/writing",
-        label: "ChatGPT（Writing）",
-        icon: "✍️",
-        match: (p) => p.startsWith("/writing"),
       },
       {
         href: "/log",

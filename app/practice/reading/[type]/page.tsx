@@ -7,7 +7,10 @@ import { PageHeader, Loading } from "@/components/ui/PageHeader";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { PracticeRunner } from "@/components/features/practice/PracticeRunner";
 import { TASK_LABELS } from "@/lib/det";
-import { generateReadComplete, generateReadSelectSets } from "@/lib/generate";
+import {
+  generateReadCompleteFromVocab,
+  generateReadSelectSets,
+} from "@/lib/generate";
 import type { DetTaskType } from "@/lib/types";
 
 const READING_TYPES: DetTaskType[] = [
@@ -30,7 +33,7 @@ export default function ReadingRunnerPage() {
       taskType === "read_and_select"
         ? generateReadSelectSets(3)
         : taskType === "read_and_complete"
-          ? generateReadComplete(8)
+          ? generateReadCompleteFromVocab(10)
           : readingQuestions.filter((q) => q.taskType === taskType);
     const pool = [...daily, ...fallback].sort(() => Math.random() - 0.5);
     return pool.slice(0, taskType === "read_and_select" ? 4 : 10);

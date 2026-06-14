@@ -7,7 +7,7 @@ import { PageHeader, Loading } from "@/components/ui/PageHeader";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { PracticeRunner } from "@/components/features/practice/PracticeRunner";
 import { TASK_LABELS } from "@/lib/det";
-import { generateListenType } from "@/lib/generate";
+import { generateListenTypeFromVocab } from "@/lib/generate";
 import type { DetTaskType } from "@/lib/types";
 
 const LISTENING_TYPES: DetTaskType[] = ["listen_and_type"];
@@ -21,7 +21,7 @@ export default function ListeningRunnerPage() {
     const daily = dailyListening.filter((q) => q.taskType === taskType);
     const fallback =
       taskType === "listen_and_type"
-        ? generateListenType(8)
+        ? generateListenTypeFromVocab(10)
         : listeningQuestions.filter((q) => q.taskType === taskType);
     return [...daily, ...fallback].sort(() => Math.random() - 0.5).slice(0, 10);
   }, [listeningQuestions, dailyListening, taskType]);

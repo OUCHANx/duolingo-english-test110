@@ -25,7 +25,7 @@ export default function ListeningListPage() {
                   <Tag tone="green">毎回新しい問題</Tag>
                 </div>
                 <div className="mt-0.5 text-xs text-ink-soft">
-                  音声を聞いて英文を入力（ディクテーション）。聞き取れなかった語は自動で復習リストへ。
+                  単語帳の語を聞いて入力（単語ディクテーション）。間違えた語は自動で復習リストへ。
                 </div>
               </div>
               <span className="text-ink-faint">→</span>

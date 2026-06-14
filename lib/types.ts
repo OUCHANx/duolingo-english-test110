@@ -274,6 +274,11 @@ export interface WritingLog extends BaseEntity {
   durationMinutes: number;
   selfScore: 1 | 2 | 3 | 4 | 5 | null;
   note: string | null;
+  // Write About the Photo の写真課題を保存したとき（復習セット用）
+  photoImage?: string | null;
+  modelAnswer?: string | null;
+  modelAnswerJa?: string | null;
+  photoTips?: { term: string; ja: string }[] | null;
 }
 
 // ---------- 模試・復習・タスク ----------
