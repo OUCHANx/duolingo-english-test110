@@ -13,6 +13,7 @@ import { formatDateShort } from "@/lib/det";
 const QUICK = [
   { href: "/practice/reading", label: "Reading 演習", icon: "📖" },
   { href: "/practice/listening", label: "Listening 演習", icon: "🎧" },
+  { href: "/vocab", label: "単語帳", icon: "📚" },
   { href: "/speaking/new", label: "Cambly 記録", icon: "🗣️" },
   { href: "/writing/new", label: "Writing 記録", icon: "✍️" },
 ];

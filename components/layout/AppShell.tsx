@@ -54,6 +54,12 @@ const SIDE_NAV: { section: string; items: NavItem[] }[] = [
         icon: "🎧",
         match: (p) => p.startsWith("/practice/listening"),
       },
+      {
+        href: "/vocab",
+        label: "単語帳",
+        icon: "📚",
+        match: (p) => p.startsWith("/vocab"),
+      },
     ],
   },
   {

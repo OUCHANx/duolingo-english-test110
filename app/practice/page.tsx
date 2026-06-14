@@ -19,6 +19,13 @@ const SECTIONS = [
     desc: "Listen and Type（ディクテーション）",
     tone: "accent",
   },
+  {
+    href: "/vocab",
+    icon: "📚",
+    title: "単語帳",
+    desc: "取り込んだ単語をカードで暗記・検索（英→日・音声）",
+    tone: "brand",
+  },
 ] as const;
 
 export default function PracticeIndexPage() {
