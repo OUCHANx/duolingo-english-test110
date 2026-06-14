@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-14",
+  "generatedAt": "2026-06-15",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "brittle", "isReal": true },
-          { "id": "w2", "text": "brimic", "isReal": false },
-          { "id": "w3", "text": "lucid", "isReal": true },
-          { "id": "w4", "text": "plactic", "isReal": false },
-          { "id": "w5", "text": "frugal", "isReal": true },
-          { "id": "w6", "text": "snorvel", "isReal": false },
-          { "id": "w7", "text": "nimble", "isReal": true },
-          { "id": "w8", "text": "glimber", "isReal": false },
-          { "id": "w9", "text": "eloquent", "isReal": true },
-          { "id": "w10", "text": "trindle", "isReal": false },
-          { "id": "w11", "text": "ample", "isReal": true },
-          { "id": "w12", "text": "vasque", "isReal": false }
+          { "id": "w1", "text": "candid", "isReal": true },
+          { "id": "w2", "text": "grellow", "isReal": false },
+          { "id": "w3", "text": "robust", "isReal": true },
+          { "id": "w4", "text": "spandic", "isReal": false },
+          { "id": "w5", "text": "vivid", "isReal": true },
+          { "id": "w6", "text": "treblish", "isReal": false },
+          { "id": "w7", "text": "scarce", "isReal": true },
+          { "id": "w8", "text": "flornid", "isReal": false },
+          { "id": "w9", "text": "mellow", "isReal": true },
+          { "id": "w10", "text": "quabid", "isReal": false },
+          { "id": "w11", "text": "blunt", "isReal": true },
+          { "id": "w12", "text": "snelph", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "ephemeral", "isReal": true },
-          { "id": "w2", "text": "quandle", "isReal": false },
-          { "id": "w3", "text": "austere", "isReal": true },
-          { "id": "w4", "text": "mervic", "isReal": false },
-          { "id": "w5", "text": "tenacious", "isReal": true },
-          { "id": "w6", "text": "flantic", "isReal": false },
-          { "id": "w7", "text": "prudent", "isReal": true },
-          { "id": "w8", "text": "drupex", "isReal": false },
-          { "id": "w9", "text": "gregarious", "isReal": true },
-          { "id": "w10", "text": "sermal", "isReal": false },
-          { "id": "w11", "text": "opaque", "isReal": true },
-          { "id": "w12", "text": "plontish", "isReal": false }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "morbent", "isReal": false },
+          { "id": "w3", "text": "fervent", "isReal": true },
+          { "id": "w4", "text": "plethic", "isReal": false },
+          { "id": "w5", "text": "succinct", "isReal": true },
+          { "id": "w6", "text": "vandrous", "isReal": false },
+          { "id": "w7", "text": "resilient", "isReal": true },
+          { "id": "w8", "text": "crestal", "isReal": false },
+          { "id": "w9", "text": "ubiquitous", "isReal": true },
+          { "id": "w10", "text": "grandiff", "isReal": false },
+          { "id": "w11", "text": "prosperous", "isReal": true },
+          { "id": "w12", "text": "lurnesse", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Scientists warn that rising sea levels could {{b1}} coastal cities within a few {{b2}}.",
+        "text": "Archaeologists recently {{b1}} an ancient tomb hidden beneath the city {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "threaten", "keepHead": 4 },
-          { "id": "b2", "full": "decades", "keepHead": 4 }
+          { "id": "b1", "full": "discovered", "keepHead": 5 },
+          { "id": "b2", "full": "square", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "A balanced {{b1}} and regular exercise can {{b2}} the risk of chronic disease.",
+        "text": "Many companies now {{b1}} employees to work from home several days a {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "diet", "keepHead": 2 },
-          { "id": "b2", "full": "reduce", "keepHead": 3 }
+          { "id": "b1", "full": "allow", "keepHead": 3 },
+          { "id": "b2", "full": "week", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Engineers are developing batteries that {{b1}} energy more efficiently for electric {{b2}}.",
+        "text": "Community gardens can {{b1}} run-down neighbourhoods and bring residents {{b2}} together.",
         "blanks": [
-          { "id": "b1", "full": "store", "keepHead": 3 },
-          { "id": "b2", "full": "vehicles", "keepHead": 4 }
+          { "id": "b1", "full": "transform", "keepHead": 5 },
+          { "id": "b2", "full": "closer", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -134,62 +134,62 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "The new telescope allows astronomers to {{b1}} distant galaxies in remarkable {{b2}}.",
+        "text": "Learning an instrument can {{b1}} memory and sharpen a child's {{b2}} skills.",
         "blanks": [
-          { "id": "b1", "full": "observe", "keepHead": 3 },
-          { "id": "b2", "full": "detail", "keepHead": 3 }
+          { "id": "b1", "full": "enhance", "keepHead": 4 },
+          { "id": "b2", "full": "cognitive", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-cs-1",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "文脈に合う語句を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation"],
+      "tags": ["grammar", "collocation", "vocab"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The factory has reduced its carbon",
-            "after": "significantly this year.",
-            "options": ["footprint", "footstep", "trace", "mark"],
+            "before": "The manager asked everyone to",
+            "after": "part in the training session.",
+            "options": ["take", "make", "do", "have"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "carbon footprint = 炭素排出量という決まった言い方。"
+            "explanation": "take part in 〜 = 〜に参加する。"
           },
           {
             "id": "g2",
-            "before": "Households are being asked to cut",
-            "after": "on single-use plastic.",
-            "options": ["down", "off", "out", "away"],
+            "before": "If the project",
+            "after": "on time, we will receive a bonus.",
+            "options": ["finishes", "finish", "finishing", "will finish"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "cut down on 〜 = 〜を減らす。"
+            "tag": "grammar",
+            "explanation": "条件の if 節は未来でも現在形。主語 project は三単現で finishes。"
           },
           {
             "id": "g3",
-            "before": "",
-            "after": "the heavy rain, the outdoor event continued as planned.",
-            "options": ["Despite", "Although", "However", "Because"],
+            "before": "Our team asked the client to",
+            "after": "the deadline to next Friday.",
+            "options": ["extend", "expand", "stretch", "lengthen"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "Despite + 名詞句。Although は節を取るので不可。"
+            "tag": "vocab",
+            "explanation": "extend the deadline = 締め切りを延ばす、が自然な組み合わせ。"
           },
           {
             "id": "g4",
-            "before": "Solar power is",
-            "after": "becoming cheaper than fossil fuels.",
-            "options": ["increasingly", "increase", "increasing", "increased"],
+            "before": "She has plenty of",
+            "after": "in dealing with difficult customers.",
+            "options": ["experience", "experiment", "expertise", "expectation"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "動詞 becoming を修飾する副詞 increasingly が適切。"
+            "tag": "vocab",
+            "explanation": "experience = 経験。文脈に合う不可算名詞。"
           }
         ]
       }
@@ -197,8 +197,8 @@
     {
       "id": "daily-cs-2",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -210,39 +210,39 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The committee will",
-            "after": "the proposal at next week's meeting.",
-            "options": ["review", "revise", "reverse", "revive"],
+            "before": "Immersion is often seen as the most effective",
+            "after": "to learning a language.",
+            "options": ["approach", "access", "attempt", "attitude"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "review = 検討する。revise は「改訂する」で意味がずれる。"
+            "explanation": "approach to 〜 = 〜への取り組み方。前置詞 to と結びつく。"
           },
           {
             "id": "g2",
-            "before": "Her conclusion was firmly",
-            "after": "on years of fieldwork.",
-            "options": ["based", "basing", "base", "bases"],
+            "before": "Hardly",
+            "after": "she begun speaking when the room fell silent.",
+            "options": ["had", "has", "did", "was"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "be based on 〜 = 〜に基づく。受動の過去分詞 based。"
+            "explanation": "Hardly had S+過去分詞 ... when 〜 の倒置構文。begun は過去分詞なので had。"
           },
           {
             "id": "g3",
-            "before": "The plan sounds promising;",
-            "after": ", it still requires careful funding.",
-            "options": ["however", "therefore", "moreover", "meanwhile"],
+            "before": "Grammar drills can be tedious;",
+            "after": ", they build a solid foundation.",
+            "options": ["nevertheless", "therefore", "similarly", "consequently"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "前後が逆接の関係なので however。"
+            "explanation": "前後が逆接の関係なので nevertheless（それでもなお）。"
           },
           {
             "id": "g4",
-            "before": "The new safety regulation will come into",
-            "after": "in January.",
-            "options": ["force", "strength", "power", "action"],
+            "before": "Making mistakes is a natural",
+            "after": "of the learning process.",
+            "options": ["part", "piece", "portion", "section"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "come into force = (法律などが) 施行される。"
+            "explanation": "a natural part of 〜 = 〜の自然な一部、という定型表現。"
           }
         ]
       }
@@ -250,8 +250,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -260,11 +260,11 @@
       "tags": ["reading-detail", "reading-gist", "inference"],
       "source": "daily",
       "payload": {
-        "title": "The Hidden Importance of Coral Reefs",
+        "title": "The Return of Urban Wildlife",
         "paragraphs": [
-          "Coral reefs cover less than one percent of the ocean floor, yet they support nearly a quarter of all marine species.",
-          "Besides their biological value, reefs protect coastlines from storms and provide food and income for millions of people.",
-          "Rising ocean temperatures, however, are causing widespread coral bleaching, putting reefs around the world at serious risk."
+          "As cities expand, an unexpected trend has emerged: wild animals are increasingly making their homes among streets and buildings.",
+          "Foxes, falcons, and even deer have adapted to urban life, finding abundant food and few natural predators.",
+          "While many residents welcome these visitors, others worry about disease, traffic accidents, and conflicts over space."
         ],
         "questions": [
           {
@@ -272,37 +272,37 @@
             "id": "q1",
             "prompt": "この文章に最も適したタイトルを選んでください。",
             "options": [
-              "Why Coral Reefs Matter and What Threatens Them",
-              "How to Dive Safely on a Reef",
-              "The Largest Oceans on Earth",
-              "A Guide to Tropical Fish"
+              "How Wild Animals Are Adapting to City Life",
+              "The Best Zoos Around the World",
+              "Why Cities Should Ban All Pets",
+              "A Short History of Urban Architecture"
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Although they cover a tiny area, reefs support nearly a quarter of all",
-            "after": "species.",
-            "options": ["marine", "marines", "marine's", "mariner"],
+            "before": "Foxes and falcons have gradually",
+            "after": "to the conditions of urban life.",
+            "options": ["adapted", "adopted", "adept", "adapting"],
             "answerIdx": 0,
             "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "サンゴ礁への脅威を述べている箇所を選んでください。",
+            "prompt": "都市の野生動物に対する懸念を述べている箇所を選んでください。",
             "spans": [
-              { "id": "s1", "text": "support nearly a quarter of all marine species" },
-              { "id": "s2", "text": "protect coastlines from storms and provide food and income" },
-              { "id": "s3", "text": "Rising ocean temperatures, however, are causing widespread coral bleaching" }
+              { "id": "s1", "text": "wild animals are increasingly making their homes among streets and buildings" },
+              { "id": "s2", "text": "finding abundant food and few natural predators" },
+              { "id": "s3", "text": "others worry about disease, traffic accidents, and conflicts over space" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Coastal communities often rely on them for both protein and tourism.",
+            "sentence": "Pigeons and rats, of course, have thrived in cities for centuries.",
             "slots": ["after paragraph 1", "after paragraph 2", "after paragraph 3"],
             "answerSlot": 1
           },
@@ -311,9 +311,9 @@
             "id": "q5",
             "prompt": "本文の要約として最も適切なものを選んでください。",
             "options": [
-              "Coral reefs are ecologically and economically vital, but warming seas now endanger them.",
-              "Coral reefs cover most of the ocean and are perfectly safe.",
-              "Coral reefs are useful only to tourists who visit them."
+              "Wildlife is increasingly thriving in cities, bringing both benefits and concerns.",
+              "Cities have successfully removed every wild animal from their streets.",
+              "Only foxes are capable of surviving in an urban environment."
             ],
             "answerIdx": 0
           }
@@ -323,8 +323,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -333,11 +333,11 @@
       "tags": ["reading-detail", "reading-gist", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Why Sleep Matters",
+        "title": "Why Reading Fiction Matters",
         "paragraphs": [
-          "Many people treat sleep as a luxury, giving it up to finish work or watch one more episode.",
-          "Yet research shows that while we sleep, the brain consolidates memories and clears away harmful waste.",
-          "People who regularly sleep too little face higher risks of poor concentration, weight gain, and illness."
+          "Reading novels is often seen as mere entertainment, a pleasant way to pass the time.",
+          "However, studies suggest that fiction can strengthen empathy by letting readers experience the world through other people's eyes.",
+          "Regular readers also tend to have larger vocabularies and a greater ability to concentrate for long periods."
         ],
         "questions": [
           {
@@ -345,41 +345,41 @@
             "id": "q1",
             "prompt": "この文章の主な考えを選んでください。",
             "options": [
-              "Sleep is a basic need that strongly affects health and the mind.",
-              "Watching one more episode is always worth it.",
-              "Only athletes need a full night of sleep.",
-              "The brain does nothing useful during sleep."
+              "Reading fiction offers real mental and social benefits.",
+              "Fiction is simply a waste of valuable time.",
+              "Only young children should read novels.",
+              "Nonfiction is always more useful than fiction."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "While we sleep, the brain",
-            "after": "memories from the day.",
-            "options": ["consolidates", "consolidate", "consolidating", "consolidated"],
+            "before": "Fiction can strengthen empathy by letting readers",
+            "after": "the world through other people's eyes.",
+            "options": ["experience", "experiment", "expand", "expect"],
             "answerIdx": 0,
-            "tag": "grammar"
+            "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "睡眠不足の結果を述べている箇所を選んでください。",
+            "prompt": "小説を読むことの利点を述べている箇所を選んでください。",
             "spans": [
-              { "id": "s1", "text": "treat sleep as a luxury" },
-              { "id": "s2", "text": "the brain consolidates memories and clears away harmful waste" },
-              { "id": "s3", "text": "higher risks of poor concentration, weight gain, and illness" }
+              { "id": "s1", "text": "often seen as mere entertainment" },
+              { "id": "s2", "text": "strengthen empathy by letting readers experience the world through other people's eyes" },
+              { "id": "s3", "text": "a pleasant way to pass the time" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文の要約として最も適切なものを選んでください。",
             "options": [
-              "Sleep supports memory and health, so cutting it short carries real risks.",
-              "People should sleep as little as possible to be productive.",
-              "Sleep only affects how tired we feel the next day."
+              "Beyond entertainment, fiction can build empathy, vocabulary, and focus.",
+              "Reading fiction has no measurable effect on the mind.",
+              "Fiction is only useful for helping people fall asleep."
             ],
             "answerIdx": 0
           }
@@ -391,13 +391,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The committee will announce the final results on Friday afternoon.",
+      "transcript": "Could you please send me the report before the end of the day?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -406,13 +406,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum welcomed over twelve thousand visitors during its first week.",
+      "transcript": "The flight departs at a quarter past seven tomorrow morning.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -421,13 +421,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She would have joined us if she had known about the meeting earlier.",
+      "transcript": "I wish I had taken the earlier train to avoid the crowd.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -436,13 +436,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please remember to back up your files before the system update.",
+      "transcript": "Let's meet at the cafe around the corner after lunch.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -451,13 +451,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The thorough investigation revealed several unexpected weaknesses in the design.",
+      "transcript": "The researchers thoroughly examined the unusual statistical patterns.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -466,13 +466,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-14T00:00:00.000Z",
-      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "A healthy breakfast can help you stay focused throughout the morning.",
+      "transcript": "Remember to water the plants while I am away next week.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
