@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useData } from "@/context/DataContext";
 import { PageHeader, Loading } from "@/components/ui/PageHeader";
@@ -8,6 +8,12 @@ import { Card, CardBody, SectionTitle } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { Field, NumberStepper, TextArea, TextInput } from "@/components/ui/Field";
 import { DEFAULT_DEADLINE, DEFAULT_TARGET } from "@/lib/det";
+import {
+  applyBackup,
+  downloadBackup,
+  readBackupFile,
+  type BackupFile,
+} from "@/lib/backup";
 
 export default function SettingsPage() {
   const router = useRouter();
@@ -20,6 +26,44 @@ export default function SettingsPage() {
   const [note, setNote] = useState("");
   const [confirmReset, setConfirmReset] = useState(false);
   const [saved, setSaved] = useState(false);
+
+  // ---- バックアップ / 復元 ----
+  const fileInputRef = useRef<HTMLInputElement>(null);
+  const [exportMsg, setExportMsg] = useState<string | null>(null);
+  const [pendingImport, setPendingImport] = useState<BackupFile | null>(null);
+  const [importError, setImportError] = useState<string | null>(null);
+
+  const handleExport = () => {
+    try {
+      const { keys, fileName } = downloadBackup();
+      setExportMsg(`${keys} 件のデータを ${fileName} に書き出しました ✓`);
+    } catch {
+      setExportMsg("書き出しに失敗しました。");
+    }
+  };
+
+  const handlePickFile = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    setImportError(null);
+    setPendingImport(null);
+    const f = e.target.files?.[0];
+    e.target.value = ""; // 同じファイルを選び直せるようにリセット
+    if (!f) return;
+    try {
+      const parsed = await readBackupFile(f);
+      setPendingImport(parsed);
+    } catch (err) {
+      setImportError(err instanceof Error ? err.message : "読み込みに失敗しました。");
+    }
+  };
+
+  const confirmImport = () => {
+    if (!pendingImport) return;
+    applyBackup(pendingImport);
+    // 再読込で DataContext を作り直し、復元データを反映
+    window.location.reload();
+  };
+
+  const importCount = pendingImport ? Object.keys(pendingImport.data).length : 0;
 
   useEffect(() => {
     if (goal) {
@@ -119,6 +163,68 @@ export default function SettingsPage() {
       </Card>
 
       <Card>
+        <CardBody className="flex flex-col gap-3">
+          <SectionTitle>💾 バックアップ・端末間の引っ越し</SectionTitle>
+          <p className="text-xs text-ink-soft">
+            学習データはこのブラウザ（ドメインごと）に保存されます。別の端末・ブラウザ・URL
+            で同じデータを使うには、ここで<b>書き出し</b>たファイルを、移行先で
+            <b>読み込み</b>ます。日々のバックアップにも使えます。
+          </p>
+
+          <div className="flex flex-col gap-1">
+            <Button variant="secondary" fullWidth onClick={handleExport}>
+              ⬇️ データを書き出す（バックアップ）
+            </Button>
+            {exportMsg ? (
+              <p className="text-xs text-accent-700">{exportMsg}</p>
+            ) : null}
+          </div>
+
+          <div className="flex flex-col gap-1">
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept="application/json,.json"
+              className="hidden"
+              onChange={handlePickFile}
+            />
+            <Button
+              variant="secondary"
+              fullWidth
+              onClick={() => fileInputRef.current?.click()}
+            >
+              ⬆️ ファイルから読み込む（復元）
+            </Button>
+            {importError ? (
+              <p className="text-xs text-danger">{importError}</p>
+            ) : null}
+          </div>
+
+          {pendingImport ? (
+            <div className="flex flex-col gap-2 rounded-xl border border-brand-200 bg-brand-50 p-3">
+              <p className="text-xs text-brand-700">
+                このファイルには <b>{importCount} 件</b> のデータがあります
+                {pendingImport.exportedAt
+                  ? `（書き出し日時: ${pendingImport.exportedAt.slice(0, 16).replace("T", " ")}）`
+                  : ""}
+                。
+                <br />
+                読み込むと<b>この端末の現在のデータは上書き</b>され、ファイルの内容に置き換わります。
+              </p>
+              <div className="flex gap-2">
+                <Button variant="primary" fullWidth onClick={confirmImport}>
+                  このデータで復元する
+                </Button>
+                <Button variant="ghost" onClick={() => setPendingImport(null)}>
+                  やめる
+                </Button>
+              </div>
+            </div>
+          ) : null}
+        </CardBody>
+      </Card>
+
+      <Card>
         <CardBody className="flex flex-col gap-2">
           <SectionTitle>⚠️ データ管理</SectionTitle>
           <p className="text-xs text-ink-soft">
@@ -149,7 +255,8 @@ export default function SettingsPage() {
       </Card>
 
       <p className="px-2 text-center text-xs text-ink-faint">
-        データはこの端末のブラウザ（localStorage）に保存されます。
+        データはこの端末のブラウザ（localStorage）に保存されます。端末をまたぐときは上の
+        「バックアップ・端末間の引っ越し」を使ってください。
       </p>
     </div>
   );
