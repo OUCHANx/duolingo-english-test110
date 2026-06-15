@@ -174,6 +174,20 @@ export function TodayPhotoCard() {
         {/* ===== done ===== */}
         {phase === "done" ? (
           <div className="flex flex-col gap-3">
+            {/* 答え合わせ用に写真を再表示（本番は時間終了で消えるが、振り返りでは見比べたい） */}
+            <div className="flex flex-col gap-1">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={data.image}
+                alt="写真"
+                className="w-full rounded-xl border border-surface-border object-cover"
+                style={{ maxHeight: 300 }}
+              />
+              <span className="text-xs text-ink-faint">
+                📷 答え合わせ用に写真を再表示しています
+              </span>
+            </div>
+
             <div className="rounded-xl bg-surface-muted p-3 text-sm">
               <div className="mb-1 text-xs font-medium text-ink-faint">
                 ⏱ 時間終了 — あなたの解答（{wordCount(answer)} words）
