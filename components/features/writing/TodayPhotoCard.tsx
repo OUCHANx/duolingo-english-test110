@@ -34,7 +34,7 @@ export function TodayPhotoCard() {
   const [showModel, setShowModel] = useState(false);
   const [saved, setSaved] = useState(false);
   const [gptHelp, setGptHelp] = useState(false);
-  const [promptCopied, setPromptCopied] = useState(false);
+  const [photoCopied, setPhotoCopied] = useState<boolean | null>(null);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const save = () => {
@@ -99,47 +99,63 @@ export function TodayPhotoCard() {
     setShowModel(false);
     setSaved(false);
     setGptHelp(false);
-    setPromptCopied(false);
+    setPhotoCopied(null);
     setPhase("idle");
     setSecondsLeft(PHOTO_TIME_LIMIT_SEC);
   };
 
-  // ChatGPT 採点用プロンプト（DET 110 を目指す人向けの丁寧な指示）
+  // ChatGPT 採点用プロンプト（DET 110 向け。?q= でURLに載せるため簡潔に）
   const buildGradingPrompt = (): string =>
-    `あなたは Duolingo English Test (DET) の採点官 兼 英語コーチです。
-これは「Write About the Photo」（写真を見て1分以内に英語で描写する）課題の、私の回答です。
-このあと写真を添付（または貼り付け）するので、写真の内容も必ず踏まえて採点してください。
+    `DETの「Write About the Photo」（写真を1分で英語描写する課題）の採点をお願いします。貼り付ける写真と私の回答を見て、日本語で次の順に答えてください。
 
-# 私の回答
-${answer.trim() || "(未入力)"}
+私の回答：「${answer.trim() || "(未入力)"}」
 
-# お願い（日本語で、この順番で答えてください）
-1. 推定スコアと講評：DETの観点（文法の正確さ／語彙の幅／写真描写の具体性と量／文の構成）で推定点とその理由を述べてください。「おそらく〇〇点です」だけで終わらせないでください。
-2. もっと良くなる言い換え：私が書いた文に即して「ここはこう書くともっと良い」という具体的な改善案を before → after の形で3〜5個。
-3. すぐ使える表現集：中学・高校で習うレベルの、一般的ですぐ自分でも使えるようになる単語・フレーズ・言い換えを5〜8個、英語＋日本語の意味つきでまとめてください（難しすぎる単語は避ける）。
-4. 次の一歩：次に意識すると伸びるポイントを1〜2行で。`;
+1. 推定スコアと理由（文法の正確さ／語彙／写真描写の具体性と量／構成の観点。「おそらく〇〇点」だけで終わらせない）
+2. before → after の言い換え改善を3〜5個（私の文に即して）
+3. 中学・高校レベルで一般的・すぐ使える単語や言い換えを5〜8個（英語＋日本語訳、難しすぎる語は避ける）
+4. 次に意識すると伸びるポイントを1〜2行
+※まだ写真が届いていなければ、写真を受け取ってから採点を始めてください。`;
 
-  const gradeWithChatGPT = async () => {
-    let copied = false;
+  // 写真を PNG にしてクリップボードへ。ユーザー操作中にwriteを呼ぶため Promise 形式で渡す。
+  const copyPhotoToClipboard = async (): Promise<boolean> => {
     try {
-      await navigator.clipboard.writeText(buildGradingPrompt());
-      copied = true;
+      const pngPromise = (async (): Promise<Blob> => {
+        const res = await fetch(data.image, { mode: "cors" });
+        const blob = await res.blob();
+        const bmp = await createImageBitmap(blob);
+        const canvas = document.createElement("canvas");
+        canvas.width = bmp.width;
+        canvas.height = bmp.height;
+        const ctx = canvas.getContext("2d");
+        if (!ctx) throw new Error("no ctx");
+        ctx.drawImage(bmp, 0, 0);
+        const png = await new Promise<Blob | null>((r) =>
+          canvas.toBlob(r, "image/png"),
+        );
+        if (!png) throw new Error("toBlob failed");
+        return png;
+      })();
+      await navigator.clipboard.write([
+        new ClipboardItem({ "image/png": pngPromise }),
+      ]);
+      return true;
     } catch {
-      copied = false;
+      return false;
     }
-    setPromptCopied(copied);
-    setGptHelp(true);
-    // 新規チャットを開く（?q= だと自動送信されてしまい、写真を添付する前に送られるため使わない）
-    window.open("https://chatgpt.com/", "_blank", "noopener,noreferrer");
   };
 
-  const copyPromptAgain = async () => {
-    try {
-      await navigator.clipboard.writeText(buildGradingPrompt());
-      setPromptCopied(true);
-    } catch {
-      setPromptCopied(false);
-    }
+  const gradeWithChatGPT = async () => {
+    setGptHelp(true);
+    // 写真をクリップボードへ自動コピー（ユーザー操作直後に実行）
+    const ok = await copyPhotoToClipboard();
+    setPhotoCopied(ok);
+    // プロンプトを入力欄に載せた状態で ChatGPT を開く
+    const url = `https://chatgpt.com/?q=${encodeURIComponent(buildGradingPrompt())}`;
+    window.open(url, "_blank", "noopener,noreferrer");
+  };
+
+  const recopyPhoto = async () => {
+    setPhotoCopied(await copyPhotoToClipboard());
   };
 
   return (
@@ -304,38 +320,39 @@ ${answer.trim() || "(未入力)"}
             {gptHelp ? (
               <div className="flex flex-col gap-2 rounded-xl border border-surface-border bg-surface-muted p-3 text-sm">
                 <div className="font-semibold text-ink">
-                  ChatGPT を開きました。次の手順で採点してもらえます👇
+                  ChatGPT を開きました。あとは写真を貼って送信するだけ👇
                 </div>
                 <ol className="flex list-decimal flex-col gap-1.5 pl-5 text-ink-soft">
                   <li>
-                    ChatGPT の入力欄をクリックして <b>⌘V（貼り付け）</b>
-                    {promptCopied ? (
-                      <>
-                        {" "}
-                        — 採点用プロンプトと<b>あなたの回答</b>はコピー済みです
-                      </>
-                    ) : (
-                      <>
-                        {" "}
-                        — まず下の「プロンプトをコピー」を押してください
-                      </>
-                    )}
+                    採点プロンプトは <b>入力欄に自動入力済み</b>
+                    です（自動で送信される場合もあります）
                   </li>
+                  {photoCopied === false ? (
+                    <li className="text-danger">
+                      写真の自動コピーに失敗しました。
+                      <b>上の写真を右クリック →「画像をコピー」</b>
+                      してから次へ進んでください
+                    </li>
+                  ) : (
+                    <li>
+                      入力欄で <b>⌘V（貼り付け）</b> → 写真が貼り付きます
+                      <span className="text-ink-faint">（写真はコピー済み）</span>
+                    </li>
+                  )}
                   <li>
-                    <b>上の写真を右クリック →「画像をコピー」</b> →
-                    ChatGPT の入力欄で <b>⌘V</b> して写真を添付
+                    <b>送信ボタンを押すだけ</b>
+                    。点数＋言い換え＋使える表現が返ってきます
                   </li>
-                  <li>そのまま送信すれば、点数＋言い換え＋使える表現が返ってきます</li>
                 </ol>
                 <button
                   type="button"
-                  onClick={copyPromptAgain}
+                  onClick={recopyPhoto}
                   className="self-start rounded-lg border border-surface-border bg-white px-3 py-1.5 text-xs font-medium text-ink-soft hover:bg-surface-muted"
                 >
-                  {promptCopied ? "✓ コピーしました（もう一度コピー）" : "プロンプトをコピー"}
+                  {photoCopied ? "✓ 写真をコピー済み（もう一度コピー）" : "写真をコピー"}
                 </button>
                 <p className="text-xs text-ink-faint">
-                  ※ ブラウザの仕様で写真の自動添付はできないため、写真だけ「コピー→貼り付け」が必要です。先にプロンプトを貼り付けてから写真をコピーしてください。
+                  ※ ブラウザの仕様で「写真の自動添付」まではできないため、写真の貼り付け（⌘V）だけはご自身で行う必要があります。
                 </p>
               </div>
             ) : null}
