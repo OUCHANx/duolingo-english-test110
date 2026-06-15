@@ -33,6 +33,8 @@ export function TodayPhotoCard() {
   const [answer, setAnswer] = useState("");
   const [showModel, setShowModel] = useState(false);
   const [saved, setSaved] = useState(false);
+  const [gptHelp, setGptHelp] = useState(false);
+  const [promptCopied, setPromptCopied] = useState(false);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const save = () => {
@@ -96,8 +98,48 @@ export function TodayPhotoCard() {
     setAnswer("");
     setShowModel(false);
     setSaved(false);
+    setGptHelp(false);
+    setPromptCopied(false);
     setPhase("idle");
     setSecondsLeft(PHOTO_TIME_LIMIT_SEC);
+  };
+
+  // ChatGPT 採点用プロンプト（DET 110 を目指す人向けの丁寧な指示）
+  const buildGradingPrompt = (): string =>
+    `あなたは Duolingo English Test (DET) の採点官 兼 英語コーチです。
+これは「Write About the Photo」（写真を見て1分以内に英語で描写する）課題の、私の回答です。
+このあと写真を添付（または貼り付け）するので、写真の内容も必ず踏まえて採点してください。
+
+# 私の回答
+${answer.trim() || "(未入力)"}
+
+# お願い（日本語で、この順番で答えてください）
+1. 推定スコアと講評：DETの観点（文法の正確さ／語彙の幅／写真描写の具体性と量／文の構成）で推定点とその理由を述べてください。「おそらく〇〇点です」だけで終わらせないでください。
+2. もっと良くなる言い換え：私が書いた文に即して「ここはこう書くともっと良い」という具体的な改善案を before → after の形で3〜5個。
+3. すぐ使える表現集：中学・高校で習うレベルの、一般的ですぐ自分でも使えるようになる単語・フレーズ・言い換えを5〜8個、英語＋日本語の意味つきでまとめてください（難しすぎる単語は避ける）。
+4. 次の一歩：次に意識すると伸びるポイントを1〜2行で。`;
+
+  const gradeWithChatGPT = async () => {
+    let copied = false;
+    try {
+      await navigator.clipboard.writeText(buildGradingPrompt());
+      copied = true;
+    } catch {
+      copied = false;
+    }
+    setPromptCopied(copied);
+    setGptHelp(true);
+    // 新規チャットを開く（?q= だと自動送信されてしまい、写真を添付する前に送られるため使わない）
+    window.open("https://chatgpt.com/", "_blank", "noopener,noreferrer");
+  };
+
+  const copyPromptAgain = async () => {
+    try {
+      await navigator.clipboard.writeText(buildGradingPrompt());
+      setPromptCopied(true);
+    } catch {
+      setPromptCopied(false);
+    }
   };
 
   return (
@@ -247,6 +289,55 @@ export function TodayPhotoCard() {
               <p className="text-center text-xs text-ink-faint">
                 下の一覧と復習で見返せます
               </p>
+            ) : null}
+
+            {/* ChatGPT で採点してもらう */}
+            <Button
+              fullWidth
+              variant="secondary"
+              onClick={gradeWithChatGPT}
+              className="!bg-[#10a37f] !text-white hover:!bg-[#0e8e6e]"
+            >
+              🤖 ChatGPT に採点してもらう
+            </Button>
+
+            {gptHelp ? (
+              <div className="flex flex-col gap-2 rounded-xl border border-surface-border bg-surface-muted p-3 text-sm">
+                <div className="font-semibold text-ink">
+                  ChatGPT を開きました。次の手順で採点してもらえます👇
+                </div>
+                <ol className="flex list-decimal flex-col gap-1.5 pl-5 text-ink-soft">
+                  <li>
+                    ChatGPT の入力欄をクリックして <b>⌘V（貼り付け）</b>
+                    {promptCopied ? (
+                      <>
+                        {" "}
+                        — 採点用プロンプトと<b>あなたの回答</b>はコピー済みです
+                      </>
+                    ) : (
+                      <>
+                        {" "}
+                        — まず下の「プロンプトをコピー」を押してください
+                      </>
+                    )}
+                  </li>
+                  <li>
+                    <b>上の写真を右クリック →「画像をコピー」</b> →
+                    ChatGPT の入力欄で <b>⌘V</b> して写真を添付
+                  </li>
+                  <li>そのまま送信すれば、点数＋言い換え＋使える表現が返ってきます</li>
+                </ol>
+                <button
+                  type="button"
+                  onClick={copyPromptAgain}
+                  className="self-start rounded-lg border border-surface-border bg-white px-3 py-1.5 text-xs font-medium text-ink-soft hover:bg-surface-muted"
+                >
+                  {promptCopied ? "✓ コピーしました（もう一度コピー）" : "プロンプトをコピー"}
+                </button>
+                <p className="text-xs text-ink-faint">
+                  ※ ブラウザの仕様で写真の自動添付はできないため、写真だけ「コピー→貼り付け」が必要です。先にプロンプトを貼り付けてから写真をコピーしてください。
+                </p>
+              </div>
             ) : null}
           </div>
         ) : null}
