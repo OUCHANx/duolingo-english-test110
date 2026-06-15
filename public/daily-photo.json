@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-15",
+  "image": "/daily-photo.jpg?v=2026-06-15",
+  "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
+  "theme": "夜の街角のベーカリーと満開の桜",
+  "modelAnswer": "This photo was taken on a city street at night. On the corner, there is a brightly lit bakery called Cinnabon, and its warm light spills out onto the sidewalk. In front of the shop, cherry blossom trees are in full bloom, so it is probably spring. A few people are walking along the street, and some bicycles are parked next to a metal railing. One person seems to be getting ready to ride a bike. The glowing shop, the dark sky, and the pale pink flowers together create a calm and slightly magical evening atmosphere.",
+  "modelAnswerJa": "この写真は夜の街角で撮られたものです。角には「Cinnabon」という明るく照らされたベーカリーがあり、その暖かい光が歩道にこぼれています。店の前では桜が満開なので、おそらく春だと分かります。数人が通りを歩いており、金属の柵のそばには自転車が何台か停めてあります。一人は自転車に乗ろうとしているように見えます。輝く店・暗い空・淡いピンクの花が合わさって、穏やかで少し幻想的な夜の雰囲気を作り出しています。",
+  "tips": [
+    { "term": "on the corner", "ja": "角に（場所を示す定番表現）" },
+    { "term": "brightly lit", "ja": "明るく照らされた" },
+    { "term": "in full bloom", "ja": "（花が）満開で" },
+    { "term": "walk along the street", "ja": "通りを歩く" },
+    { "term": "be parked", "ja": "（自転車・車が）停めてある" },
+    { "term": "it is probably spring", "ja": "おそらく春だ（推測の言い方）" },
+    { "term": "create a calm atmosphere", "ja": "穏やかな雰囲気を作り出す" }
+  ]
+}

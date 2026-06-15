@@ -6,11 +6,12 @@ import { Card, CardBody, SectionTitle } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { TextArea } from "@/components/ui/Field";
 import { Tag } from "@/components/ui/Tag";
+import { PHOTO_TIME_LIMIT_SEC } from "@/lib/photoScenes";
 import {
-  getTodayScene,
-  PHOTO_TIME_LIMIT_SEC,
-  WRITE_PHOTO_PROMPT,
-} from "@/lib/photoScenes";
+  fetchDailyPhoto,
+  getFreeDailyPhoto,
+  type DailyPhoto,
+} from "@/lib/dailyPhoto";
 import { todayISO } from "@/lib/det";
 
 type Phase = "idle" | "viewing" | "done";
@@ -27,7 +28,7 @@ function wordCount(s: string): number {
 
 export function TodayPhotoCard() {
   const { actions } = useData();
-  const [data] = useState(() => getTodayScene(todayISO()));
+  const [photo, setPhoto] = useState<DailyPhoto | null>(null);
   const [phase, setPhase] = useState<Phase>("idle");
   const [secondsLeft, setSecondsLeft] = useState(PHOTO_TIME_LIMIT_SEC);
   const [answer, setAnswer] = useState("");
@@ -38,10 +39,11 @@ export function TodayPhotoCard() {
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const save = () => {
+    if (!photo) return;
     actions.addWritingLog({
       date: todayISO(),
       detTaskType: "write_about_photo",
-      prompt: WRITE_PHOTO_PROMPT,
+      prompt: photo.prompt,
       draftText: answer.trim(),
       correctedVersion: null,
       grammarErrors: [],
@@ -50,20 +52,32 @@ export function TodayPhotoCard() {
       wordCount: wordCount(answer),
       durationMinutes: 1,
       selfScore: null,
-      note: data.scene.theme || null,
-      photoImage: data.image,
-      modelAnswer: data.scene.modelAnswer,
-      modelAnswerJa: data.scene.modelAnswerJa,
-      photoTips: data.scene.tips,
+      note: photo.theme || null,
+      photoImage: photo.image,
+      modelAnswer: photo.modelAnswer,
+      modelAnswerJa: photo.modelAnswerJa,
+      photoTips: photo.tips,
     });
     setSaved(true);
   };
 
+  // 今日のお題（写真・模範解答・Tips）を取得。無ければ無料写真にフォールバック。
+  useEffect(() => {
+    let alive = true;
+    fetchDailyPhoto().then((d) => {
+      if (alive) setPhoto(d ?? getFreeDailyPhoto(todayISO()));
+    });
+    return () => {
+      alive = false;
+    };
+  }, []);
+
   // 写真を先読みしておく（表示時に即出るように）
   useEffect(() => {
+    if (!photo?.image) return;
     const img = new Image();
-    img.src = data.image;
-  }, [data.image]);
+    img.src = photo.image;
+  }, [photo?.image]);
 
   // カウントダウン
   useEffect(() => {
@@ -118,9 +132,11 @@ export function TodayPhotoCard() {
 
   // 写真を PNG にしてクリップボードへ。ユーザー操作中にwriteを呼ぶため Promise 形式で渡す。
   const copyPhotoToClipboard = async (): Promise<boolean> => {
+    if (!photo?.image) return false;
+    const imageUrl = photo.image;
     try {
       const pngPromise = (async (): Promise<Blob> => {
-        const res = await fetch(data.image, { mode: "cors" });
+        const res = await fetch(imageUrl, { mode: "cors" });
         const blob = await res.blob();
         const bmp = await createImageBitmap(blob);
         const canvas = document.createElement("canvas");
@@ -158,6 +174,18 @@ export function TodayPhotoCard() {
     setPhotoCopied(await copyPhotoToClipboard());
   };
 
+  if (!photo || !photo.image) {
+    return (
+      <Card>
+        <CardBody className="flex flex-col gap-3">
+          <SectionTitle>📷 Write About the Photo（本番：1分）</SectionTitle>
+          <p className="text-sm text-ink-faint">今日のお題を読み込み中…</p>
+        </CardBody>
+      </Card>
+    );
+  }
+  const imageSrc = photo.image;
+
   return (
     <Card>
       <CardBody className="flex flex-col gap-3">
@@ -181,7 +209,7 @@ export function TodayPhotoCard() {
         {phase === "idle" ? (
           <>
             <p className="rounded-xl bg-brand-50 p-3 text-sm text-brand-700">
-              {WRITE_PHOTO_PROMPT}
+              {photo.prompt}
             </p>
             <p className="text-xs text-ink-soft">
               「写真を見る」を押すと写真が表示され、
@@ -208,7 +236,7 @@ export function TodayPhotoCard() {
             </div>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={data.image}
+              src={imageSrc}
               alt="写真"
               className="w-full rounded-xl border border-surface-border object-cover"
               style={{ maxHeight: 300 }}
@@ -236,7 +264,7 @@ export function TodayPhotoCard() {
             <div className="flex flex-col gap-1">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src={data.image}
+                src={imageSrc}
                 alt="写真"
                 className="w-full rounded-xl border border-surface-border object-cover"
                 style={{ maxHeight: 300 }}
@@ -261,30 +289,41 @@ export function TodayPhotoCard() {
               </Button>
             ) : (
               <div className="flex flex-col gap-3">
-                <div className="rounded-xl border border-accent-200 bg-accent-50 p-3">
-                  <div className="mb-1 text-xs font-semibold text-accent-700">
-                    ⭐ 模範解答（DET 110 レベル）
+                {photo.modelAnswer ? (
+                  <div className="rounded-xl border border-accent-200 bg-accent-50 p-3">
+                    <div className="mb-1 text-xs font-semibold text-accent-700">
+                      ⭐ 模範解答（DET 110 レベル）
+                    </div>
+                    <p className="text-sm leading-7 text-ink">
+                      {photo.modelAnswer}
+                    </p>
+                    {photo.modelAnswerJa ? (
+                      <div className="mt-2 border-t border-accent-200 pt-2 text-xs leading-6 text-ink-soft">
+                        {photo.modelAnswerJa}
+                      </div>
+                    ) : null}
                   </div>
-                  <p className="text-sm leading-7 text-ink">
-                    {data.scene.modelAnswer}
-                  </p>
-                  <div className="mt-2 border-t border-accent-200 pt-2 text-xs leading-6 text-ink-soft">
-                    {data.scene.modelAnswerJa}
+                ) : (
+                  <div className="rounded-xl border border-surface-border bg-surface-muted p-3 text-xs text-ink-soft">
+                    今日の模範解答は準備中です（次回の自動更新で表示されます）。まずは
+                    ChatGPT 採点を使ってみましょう。
                   </div>
-                </div>
-                <div className="rounded-xl border border-surface-border p-3">
-                  <div className="mb-2 text-xs font-semibold text-ink-soft">
-                    💡 使える表現 Tips
+                )}
+                {photo.tips.length ? (
+                  <div className="rounded-xl border border-surface-border p-3">
+                    <div className="mb-2 text-xs font-semibold text-ink-soft">
+                      💡 使える表現 Tips
+                    </div>
+                    <ul className="flex flex-col gap-1.5">
+                      {photo.tips.map((t, i) => (
+                        <li key={i} className="flex items-baseline gap-2 text-sm">
+                          <Tag tone="blue">{t.term}</Tag>
+                          <span className="text-ink-soft">{t.ja}</span>
+                        </li>
+                      ))}
+                    </ul>
                   </div>
-                  <ul className="flex flex-col gap-1.5">
-                    {data.scene.tips.map((t, i) => (
-                      <li key={i} className="flex items-baseline gap-2 text-sm">
-                        <Tag tone="blue">{t.term}</Tag>
-                        <span className="text-ink-soft">{t.ja}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
+                ) : null}
               </div>
             )}
 

@@ -1,23 +1,25 @@
 // =============================================================
 // 「今日のお題（Write About the Photo）」を public/daily-photo.json から読む。
-// Routine が画像生成して毎日更新する。無ければフォールバック表示。
+// Routine が毎日「新しい実写真を取得 → AIが画像を見て模範解答・Tipsを生成」して
+// このファイルと public/daily-photo.jpg を更新する。無ければフォールバック表示。
 // =============================================================
+export interface PhotoTip {
+  term: string;
+  ja: string;
+}
+
 export interface DailyPhoto {
   date: string | null;
   image: string | null; // public/ 配下のパス or URL
-  prompt: string; // 英語の指示
+  prompt: string; // 英語の設問
   theme: string | null; // 写真の内容（日本語メモ可）
+  modelAnswer: string | null; // 模範解答（英語・DET 110 レベル）
+  modelAnswerJa: string | null; // 模範解答の和訳
+  tips: PhotoTip[]; // 中高レベルの使える表現
 }
 
-// DET 向けの設問（日替わりでローテーション）
-const WRITING_PROMPTS = [
-  "Describe what you see in this photo in detail. Who or what is in it, where is it, and what is happening?",
-  "Describe the people in the photo and what they seem to be doing and feeling.",
-  "Describe the place in the photo and its atmosphere. What kind of mood does it create?",
-  "What is happening in this scene? Describe it and explain what might happen next.",
-  "Imagine you are in this photo. Describe what you can see, hear, and feel.",
-  "Describe this image, then give your opinion: do you like this kind of place or activity? Why?",
-];
+const DEFAULT_PROMPT =
+  "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.";
 
 function hashStr(s: string): number {
   let h = 0;
@@ -26,16 +28,32 @@ function hashStr(s: string): number {
 }
 
 /**
- * 無料の日替わり写真（Lorem Picsum）。日付シードなので毎日自動で変わり、
- * その日のうちは固定（＝0:00 JST に更新）。クレジット不要。
+ * フォールバック用の日替わり写真（Lorem Picsum）。Routine 未実行/取得失敗時のみ使用。
+ * 模範解答・Tips は付かない（画像をAIが見ていないため）。
  */
 export function getFreeDailyPhoto(today: string): DailyPhoto {
   return {
     date: today,
     image: `https://picsum.photos/seed/det-${today}/1000/750`,
-    prompt: WRITING_PROMPTS[hashStr(today) % WRITING_PROMPTS.length],
+    prompt: DEFAULT_PROMPT,
     theme: null,
+    modelAnswer: null,
+    modelAnswerJa: null,
+    tips: [],
   };
+}
+
+function parseTips(x: unknown): PhotoTip[] {
+  if (!Array.isArray(x)) return [];
+  return x
+    .filter(
+      (t): t is PhotoTip =>
+        typeof t === "object" &&
+        t !== null &&
+        typeof (t as Record<string, unknown>).term === "string" &&
+        typeof (t as Record<string, unknown>).ja === "string",
+    )
+    .map((t) => ({ term: t.term, ja: t.ja }));
 }
 
 export async function fetchDailyPhoto(): Promise<DailyPhoto | null> {
@@ -45,14 +63,18 @@ export async function fetchDailyPhoto(): Promise<DailyPhoto | null> {
     const d: unknown = await res.json();
     if (typeof d !== "object" || d === null) return null;
     const obj = d as Record<string, unknown>;
+    if (typeof obj.image !== "string" || !obj.image) return null;
     return {
       date: typeof obj.date === "string" ? obj.date : null,
-      image: typeof obj.image === "string" ? obj.image : null,
+      image: obj.image,
       prompt:
-        typeof obj.prompt === "string" && obj.prompt
-          ? obj.prompt
-          : "Describe what you see in the photo in detail. Who or what is in it, where is it, and what is happening?",
+        typeof obj.prompt === "string" && obj.prompt ? obj.prompt : DEFAULT_PROMPT,
       theme: typeof obj.theme === "string" ? obj.theme : null,
+      modelAnswer:
+        typeof obj.modelAnswer === "string" ? obj.modelAnswer : null,
+      modelAnswerJa:
+        typeof obj.modelAnswerJa === "string" ? obj.modelAnswerJa : null,
+      tips: parseTips(obj.tips),
     };
   } catch {
     return null;
