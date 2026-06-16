@@ -234,13 +234,14 @@ export function TodayPhotoCard() {
                 }}
               />
             </div>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={imageSrc}
-              alt="写真"
-              className="w-full rounded-xl border border-surface-border object-cover"
-              style={{ maxHeight: 300 }}
-            />
+            <div className="text-center">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={imageSrc}
+                alt="写真"
+                className="inline-block max-h-[340px] max-w-full rounded-xl border border-surface-border"
+              />
+            </div>
             <TextArea
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
@@ -262,13 +263,14 @@ export function TodayPhotoCard() {
           <div className="flex flex-col gap-3">
             {/* 答え合わせ用に写真を再表示（本番は時間終了で消えるが、振り返りでは見比べたい） */}
             <div className="flex flex-col gap-1">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={imageSrc}
-                alt="写真"
-                className="w-full rounded-xl border border-surface-border object-cover"
-                style={{ maxHeight: 300 }}
-              />
+              <div className="text-center">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={imageSrc}
+                  alt="写真"
+                  className="inline-block max-h-[340px] max-w-full rounded-xl border border-surface-border"
+                />
+              </div>
               <span className="text-xs text-ink-faint">
                 📷 答え合わせ用に写真を再表示しています
               </span>

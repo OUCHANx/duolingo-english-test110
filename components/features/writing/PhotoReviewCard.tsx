@@ -20,13 +20,14 @@ export function PhotoReviewCard({ log }: { log: WritingLog }) {
         </div>
 
         {log.photoImage ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={log.photoImage}
-            alt="写真"
-            className="w-full rounded-xl border border-surface-border object-cover"
-            style={{ maxHeight: 240 }}
-          />
+          <div className="text-center">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={log.photoImage}
+              alt="写真"
+              className="inline-block max-h-[300px] max-w-full rounded-xl border border-surface-border"
+            />
+          </div>
         ) : null}
 
         <div className="rounded-xl bg-surface-muted p-3">
