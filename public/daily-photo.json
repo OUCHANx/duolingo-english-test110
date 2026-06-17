@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-17",
-  "image": "/daily-photo.jpg?v=2026-06-17",
+  "date": "2026-06-18",
+  "image": "/daily-photo.jpg?v=2026-06-18",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "体育館の中でボール遊び（ドッジボール）をする男性たち",
-  "modelAnswer": "This photo shows some men playing a ball game inside a gym. The floor is made of light-colored wood, and the walls behind them are white. In the front, a man with a beard is wearing a red shirt and holding a black ball in his hand. He is bending down a little, and he looks ready to throw it. Behind him, another man in a white shirt is running, and on the right, a man in a gray shirt and black shorts is also holding a ball. A bright green ball is flying through the air. The mood feels active and full of energy.",
-  "modelAnswerJa": "この写真は、体育館の中でボール遊びをしている男性たちを写しています。床は明るい色の木でできていて、彼らの後ろの壁は白いです。手前では、ひげを生やした男性が赤いシャツを着て、黒いボールを手に持っています。彼は少しかがんでいて、今にも投げそうに見えます。彼の後ろでは、白いシャツを着た別の男性が走っていて、右側では、灰色のシャツと黒い短パンの男性もボールを持っています。明るい緑色のボールが空中を飛んでいます。雰囲気は活発で、元気いっぱいです。",
+  "theme": "街の通りで車と黄色いトラム（路面電車）が走っている都市の風景",
+  "modelAnswer": "This photo shows a city street on a cloudy day. In the middle of the road, a gray van is driving away from us. On the left side, some cars are parked next to the sidewalk, and one of them is a silver SUV with a spare tire on the back. On the right, a long yellow and blue tram is moving along the street. There are tall buildings, green trees, and old street lamps with flowers on both sides. A few people are walking on the sidewalk near the shops. The street looks busy, but the mood is still calm and quiet.",
+  "modelAnswerJa": "この写真は、くもりの日の街の通りを写しています。道路の真ん中では、灰色のワゴン車が私たちから遠ざかるように走っています。左側には、歩道のそばに何台かの車が駐車していて、そのうちの一台は後ろにスペアタイヤを付けた銀色のSUVです。右側では、長い黄色と青のトラム（路面電車）が通りを進んでいます。両側には、高い建物や緑の木、花が飾られた古い街灯があります。数人の人が店の近くの歩道を歩いています。通りはにぎやかですが、雰囲気はそれでも落ち着いて静かです。",
   "tips": [
-    { "term": "inside a gym", "ja": "体育館の中で" },
-    { "term": "a ball game", "ja": "球技・ボール遊び" },
-    { "term": "hold ... in his hand", "ja": "〜を手に持っている" },
-    { "term": "bend down", "ja": "かがむ・体をかがめる" },
-    { "term": "be ready to ...", "ja": "〜する準備ができている・今にも〜しそう" },
-    { "term": "through the air", "ja": "空中を（通って）" },
-    { "term": "full of energy", "ja": "元気いっぱいで・活気にあふれて" }
+    { "term": "a city street", "ja": "街の通り" },
+    { "term": "in the middle of the road", "ja": "道路の真ん中で" },
+    { "term": "drive away", "ja": "走り去る・遠ざかっていく" },
+    { "term": "be parked", "ja": "駐車してある" },
+    { "term": "on both sides", "ja": "両側に" },
+    { "term": "walk on the sidewalk", "ja": "歩道を歩く" },
+    { "term": "look busy", "ja": "にぎやかに見える" }
   ]
 }
