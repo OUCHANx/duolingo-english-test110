@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-16",
+  "generatedAt": "2026-06-17",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "sturdy", "isReal": true },
-          { "id": "w2", "text": "brindle", "isReal": false },
-          { "id": "w3", "text": "humid", "isReal": true },
-          { "id": "w4", "text": "frunple", "isReal": false },
-          { "id": "w5", "text": "graze", "isReal": true },
-          { "id": "w6", "text": "plonster", "isReal": false },
-          { "id": "w7", "text": "vacant", "isReal": true },
-          { "id": "w8", "text": "drabble", "isReal": false },
-          { "id": "w9", "text": "soothe", "isReal": true },
-          { "id": "w10", "text": "quemish", "isReal": false },
-          { "id": "w11", "text": "modest", "isReal": true },
-          { "id": "w12", "text": "tranquil", "isReal": true }
+          { "id": "w1", "text": "gentle", "isReal": true },
+          { "id": "w2", "text": "glimber", "isReal": false },
+          { "id": "w3", "text": "brisk", "isReal": true },
+          { "id": "w4", "text": "trapnel", "isReal": false },
+          { "id": "w5", "text": "hollow", "isReal": true },
+          { "id": "w6", "text": "nopely", "isReal": false },
+          { "id": "w7", "text": "fragile", "isReal": true },
+          { "id": "w8", "text": "frinch", "isReal": false },
+          { "id": "w9", "text": "weary", "isReal": true },
+          { "id": "w10", "text": "quabble", "isReal": false },
+          { "id": "w11", "text": "polish", "isReal": true },
+          { "id": "w12", "text": "drennt", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "negligible", "isReal": true },
-          { "id": "w2", "text": "stranic", "isReal": false },
-          { "id": "w3", "text": "intricate", "isReal": true },
-          { "id": "w4", "text": "obveric", "isReal": false },
-          { "id": "w5", "text": "candour", "isReal": true },
-          { "id": "w6", "text": "plenitose", "isReal": false },
-          { "id": "w7", "text": "redundant", "isReal": true },
-          { "id": "w8", "text": "marlent", "isReal": false },
-          { "id": "w9", "text": "scrupulous", "isReal": true },
-          { "id": "w10", "text": "fendric", "isReal": false },
-          { "id": "w11", "text": "buoyant", "isReal": true },
-          { "id": "w12", "text": "crambous", "isReal": false }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "gravolent", "isReal": false },
+          { "id": "w3", "text": "austere", "isReal": true },
+          { "id": "w4", "text": "sutrine", "isReal": false },
+          { "id": "w5", "text": "prudent", "isReal": true },
+          { "id": "w6", "text": "perclive", "isReal": false },
+          { "id": "w7", "text": "candid", "isReal": true },
+          { "id": "w8", "text": "ombrastic", "isReal": false },
+          { "id": "w9", "text": "resilient", "isReal": true },
+          { "id": "w10", "text": "fendulous", "isReal": false },
+          { "id": "w11", "text": "lucid", "isReal": true },
+          { "id": "w12", "text": "traxible", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Getting enough sleep helps the brain {{b1}} new memories and improves your {{b2}} during the day.",
+        "text": "Eating a balanced breakfast can {{b1}} your energy and help you {{b2}} better in morning classes.",
         "blanks": [
-          { "id": "b1", "full": "consolidate", "keepHead": 5 },
-          { "id": "b2", "full": "focus", "keepHead": 3 }
+          { "id": "b1", "full": "boost", "keepHead": 3 },
+          { "id": "b2", "full": "concentrate", "keepHead": 6 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Coral reefs {{b1}} thousands of marine species, yet warming oceans are putting them at {{b2}}.",
+        "text": "Modern apps can {{b1}} spoken words into another language almost {{b2}}, which makes travel easier.",
         "blanks": [
-          { "id": "b1", "full": "shelter", "keepHead": 4 },
-          { "id": "b2", "full": "risk", "keepHead": 2 }
+          { "id": "b1", "full": "translate", "keepHead": 5 },
+          { "id": "b2", "full": "instantly", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Wind farms can generate clean power, but their output {{b1}} with the weather and is hard to {{b2}}.",
+        "text": "When pressure builds beneath the surface, a volcano can {{b1}} suddenly, sending ash high into the {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "fluctuates", "keepHead": 5 },
-          { "id": "b2", "full": "predict", "keepHead": 4 }
+          { "id": "b1", "full": "erupt", "keepHead": 3 },
+          { "id": "b2", "full": "atmosphere", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "The telescope allowed astronomers to {{b1}} distant galaxies that had never been {{b2}} before.",
+        "text": "Archaeologists carefully {{b1}} ancient tools that had lain {{b2}} under layers of soil for centuries.",
         "blanks": [
-          { "id": "b1", "full": "observe", "keepHead": 4 },
-          { "id": "b2", "full": "detected", "keepHead": 4 }
+          { "id": "b1", "full": "excavate", "keepHead": 4 },
+          { "id": "b2", "full": "buried", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cs-1",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -157,39 +157,39 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Volunteers spent the weekend",
-            "after": "litter from the riverbank.",
-            "options": ["clearing", "cleared", "to clear", "clears"],
+            "before": "The chef showed the students how",
+            "after": "the dough until it became smooth.",
+            "options": ["to knead", "kneading", "knead", "kneaded"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "spend +時間+ -ing で「〜して時間を過ごす」。動名詞 clearing が正解。"
+            "explanation": "how to + 動詞の原形 で「〜の仕方」。how to knead が正解。"
           },
           {
             "id": "g2",
-            "before": "The new policy is expected to have a positive",
-            "after": "on local air quality.",
-            "options": ["impact", "affect", "result", "outcome"],
+            "before": "Adding a little salt can bring",
+            "after": "the natural flavor of the vegetables.",
+            "options": ["out", "up", "off", "over"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "have an impact on 〜 = 〜に影響を与える、という定型表現。"
+            "explanation": "bring out 〜 = 〜（味・良さ）を引き出す、という定型の句動詞。"
           },
           {
             "id": "g3",
-            "before": "We should switch off the lights",
-            "after": "save electricity at home.",
-            "options": ["in order to", "so that", "due to", "as well as"],
+            "before": "Leave the soup to simmer",
+            "after": "low heat for about twenty minutes.",
+            "options": ["over", "in", "by", "at"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "後ろが動詞の原形 save なので、目的を表す in order to が適切。"
+            "tag": "collocation",
+            "explanation": "over low heat = 弱火で、という料理でよく使う前置詞表現。"
           },
           {
             "id": "g4",
-            "before": "Recycling old phones helps companies",
-            "after": "valuable metals from them.",
-            "options": ["recover", "discover", "uncover", "cover"],
+            "before": "If you taste the sauce now, you",
+            "after": "decide whether it needs more pepper.",
+            "options": ["can", "could have", "must have", "had to"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "recover = 回収する・取り戻す。資源を「取り出す」意味で自然。"
+            "tag": "grammar",
+            "explanation": "条件節が現在形なので、結果は現在の可能性を表す can が自然。"
           }
         ]
       }
@@ -197,8 +197,8 @@
     {
       "id": "daily-cs-2",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -210,39 +210,39 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Remote work offers flexibility;",
-            "after": ", it can blur the line between job and home.",
-            "options": ["however", "therefore", "likewise", "thus"],
+            "before": "The experiment failed several times;",
+            "after": ", the team refused to give up.",
+            "options": ["nevertheless", "consequently", "moreover", "meanwhile"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "前後が対照的な内容なので、逆接の however（しかしながら）。"
+            "explanation": "前後が逆接の関係なので、nevertheless（それにもかかわらず）が適切。"
           },
           {
             "id": "g2",
-            "before": "Not only",
-            "after": "the budget approved, but the timeline was also shortened.",
-            "options": ["was", "it was", "had", "did"],
+            "before": "Rarely",
+            "after": "such a clear example of teamwork in a school project.",
+            "options": ["have I seen", "I have seen", "I saw", "did I saw"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Not only が文頭に出ると倒置。受動態 the budget was approved の was を主語の前に出す。"
+            "explanation": "否定的副詞 Rarely が文頭に出ると倒置。have I seen の語順になる。"
           },
           {
             "id": "g3",
-            "before": "Employees who take regular breaks tend to",
-            "after": "higher levels of productivity.",
-            "options": ["maintain", "contain", "retain", "sustain"],
+            "before": "The new findings could have a profound",
+            "after": "on how doctors treat the disease.",
+            "options": ["bearing", "meaning", "standing", "feeling"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "maintain high levels of 〜 = 高い水準を保つ、が最も自然な組み合わせ。"
+            "explanation": "have a bearing on 〜 = 〜に関係・影響を持つ、という固い言い回し。"
           },
           {
             "id": "g4",
-            "before": "The manager praised the team for meeting the deadline",
-            "after": "the heavy workload.",
-            "options": ["despite", "although", "however", "whereas"],
+            "before": "She explained the results clearly so",
+            "after": "even beginners could follow the argument.",
+            "options": ["that", "as", "for", "which"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "後ろが名詞句 the heavy workload なので、前置詞 despite（〜にもかかわらず）。"
+            "explanation": "so that + 主語 + 動詞 で「〜するように」。目的・結果を表す。"
           }
         ]
       }
@@ -250,8 +250,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -260,11 +260,11 @@
       "tags": ["reading-detail", "reading-gist", "inference"],
       "source": "daily",
       "payload": {
-        "title": "The Hidden Cost of Fast Fashion",
+        "title": "Bringing the Bees Back",
         "paragraphs": [
-          "Clothing has never been cheaper or more disposable. Many shoppers now buy garments they wear only a handful of times before throwing them away.",
-          "Producing these cheap clothes consumes enormous amounts of water and energy, and the textile industry has become one of the world's largest sources of pollution.",
-          "In response, a growing number of consumers are repairing, renting, or buying second-hand clothing, hoping to reduce waste without giving up style."
+          "Bees and other insects pollinate a large share of the crops we eat, yet their numbers have fallen sharply over the past few decades.",
+          "Scientists blame a mix of causes, including the loss of wild flowers, the heavy use of pesticides, and the spread of disease among hives.",
+          "To help, some cities are now planting flower-rich meadows beside roads and encouraging residents to keep small hives on rooftops."
         ],
         "questions": [
           {
@@ -272,48 +272,48 @@
             "id": "q1",
             "prompt": "この文章に最も適したタイトルを選んでください。",
             "options": [
-              "The Environmental Impact of Cheap Clothing",
-              "How to Sew Your Own Wardrobe",
-              "The History of the Cotton Trade",
-              "Why Bright Colours Are Popular"
+              "How Cities Are Helping Pollinators Recover",
+              "The Best Way to Sell Honey",
+              "Why Insects Are Dangerous to Crops",
+              "A History of City Parks"
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Making cheap clothes",
-            "after": "huge amounts of water and energy.",
-            "options": ["consumes", "conserves", "contains", "converts"],
+            "before": "Bees",
+            "after": "many of the crops that people depend on for food.",
+            "options": ["pollinate", "pollute", "populate", "polish"],
             "answerIdx": 0,
             "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "人々が無駄を減らそうとしている方法を述べている箇所を選んでください。",
+            "prompt": "ハチの減少の原因を述べている箇所を選んでください。",
             "spans": [
-              { "id": "s1", "text": "buy garments they wear only a handful of times before throwing them away" },
-              { "id": "s2", "text": "one of the world's largest sources of pollution" },
-              { "id": "s3", "text": "repairing, renting, or buying second-hand clothing" }
+              { "id": "s1", "text": "pollinate a large share of the crops we eat" },
+              { "id": "s2", "text": "the loss of wild flowers, the heavy use of pesticides, and the spread of disease" },
+              { "id": "s3", "text": "planting flower-rich meadows beside roads" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Dyeing fabric, for example, can pollute nearby rivers with chemicals.",
+            "sentence": "Rooftop hives, in particular, have become popular in crowded neighbourhoods.",
             "slots": ["after paragraph 1", "after paragraph 2", "after paragraph 3"],
-            "answerSlot": 1
+            "answerSlot": 2
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "本文の要約として最も適切なものを選んでください。",
             "options": [
-              "Fast fashion harms the environment, but some shoppers are changing their habits.",
-              "Cheap clothing has no effect on the planet whatsoever.",
-              "People have completely stopped buying new clothes."
+              "Bee numbers are falling, but cities are taking steps to support them.",
+              "Bees have completely disappeared from every city in the world.",
+              "Pesticides are the only thing that helps bees survive."
             ],
             "answerIdx": 0
           }
@@ -323,8 +323,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -333,11 +333,11 @@
       "tags": ["reading-detail", "reading-gist", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Rise of the Four-Day Week",
+        "title": "Learning a Language Later in Life",
         "paragraphs": [
-          "Several companies have begun testing a four-day working week, giving staff an extra day off without cutting their pay.",
-          "Early trials report that workers feel less stressed and that productivity often stays the same or even improves.",
-          "Critics, however, warn that the model may not suit every industry, especially those that must serve customers every day."
+          "Many adults believe they are simply too old to learn a new language, but research suggests otherwise.",
+          "While young children may pick up perfect pronunciation more easily, adults often learn grammar and vocabulary faster because they can connect new words to what they already know.",
+          "The key, experts say, is regular practice and the confidence to make mistakes without feeling embarrassed."
         ],
         "questions": [
           {
@@ -345,41 +345,41 @@
             "id": "q1",
             "prompt": "この文章の主な考えを選んでください。",
             "options": [
-              "The four-day week shows promise but may not fit every workplace.",
-              "Everyone should be forced to work seven days a week.",
-              "Working hours have no link to stress at all.",
-              "Companies should pay their staff far less money."
+              "Adults can learn languages well if they practise regularly.",
+              "Only children are able to learn a foreign language.",
+              "Grammar is impossible to learn after childhood.",
+              "Making mistakes always stops people from learning."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The shorter week gives employees an extra day off without",
-            "after": "their salary.",
-            "options": ["reducing", "raising", "earning", "spending"],
+            "before": "According to research, adults are not too",
+            "after": "to learn a new language.",
+            "options": ["old", "young", "busy", "tired"],
             "answerIdx": 0,
             "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "短い週の良い結果を述べている箇所を選んでください。",
+            "prompt": "子どもが大人より得意なことを述べている箇所を選んでください。",
             "spans": [
-              { "id": "s1", "text": "giving staff an extra day off without cutting their pay" },
-              { "id": "s2", "text": "workers feel less stressed and that productivity often stays the same or even improves" },
-              { "id": "s3", "text": "the model may not suit every industry" }
+              { "id": "s1", "text": "young children may pick up perfect pronunciation more easily" },
+              { "id": "s2", "text": "adults often learn grammar and vocabulary faster" },
+              { "id": "s3", "text": "the confidence to make mistakes without feeling embarrassed" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s1"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文の要約として最も適切なものを選んでください。",
             "options": [
-              "Trials of a four-day week look positive, though it may not work everywhere.",
-              "The four-day week has failed in every single company.",
-              "No company has ever tested a shorter working week."
+              "Adults can succeed at languages through steady practice and a willingness to make mistakes.",
+              "Adults should never try to study a language after the age of twenty.",
+              "Pronunciation is the only thing that matters in language learning."
             ],
             "answerIdx": 0
           }
@@ -391,13 +391,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind turning down the music a little while I study?",
+      "transcript": "Could you let me know what time the train leaves tomorrow morning?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -406,13 +406,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum is open from nine thirty until half past five on weekdays.",
+      "transcript": "The recipe needs about two hundred grams of flour and three large eggs.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -421,13 +421,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "If I had known about the meeting, I would have prepared a few notes.",
+      "transcript": "I wish I had brought an umbrella because it started to rain heavily.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -436,13 +436,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She picked up some fresh vegetables on her way home from work.",
+      "transcript": "He spent the whole afternoon painting the fence in the back garden.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -451,13 +451,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The committee gradually acknowledged the significance of the volunteers' contribution.",
+      "transcript": "The researchers thoroughly examined the unusual patterns hidden in the data.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -466,13 +466,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
-      "updatedAt": "2026-06-16T00:00:00.000Z",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please remember to charge your laptop before the presentation tomorrow.",
+      "transcript": "Don't forget to water the plants while I am away next week.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
