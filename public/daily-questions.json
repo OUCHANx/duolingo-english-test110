@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-17",
+  "generatedAt": "2026-06-18",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "gentle", "isReal": true },
-          { "id": "w2", "text": "glimber", "isReal": false },
-          { "id": "w3", "text": "brisk", "isReal": true },
-          { "id": "w4", "text": "trapnel", "isReal": false },
-          { "id": "w5", "text": "hollow", "isReal": true },
-          { "id": "w6", "text": "nopely", "isReal": false },
-          { "id": "w7", "text": "fragile", "isReal": true },
-          { "id": "w8", "text": "frinch", "isReal": false },
-          { "id": "w9", "text": "weary", "isReal": true },
-          { "id": "w10", "text": "quabble", "isReal": false },
-          { "id": "w11", "text": "polish", "isReal": true },
-          { "id": "w12", "text": "drennt", "isReal": false }
+          { "id": "w1", "text": "sturdy", "isReal": true },
+          { "id": "w2", "text": "blantic", "isReal": false },
+          { "id": "w3", "text": "vivid", "isReal": true },
+          { "id": "w4", "text": "crelon", "isReal": false },
+          { "id": "w5", "text": "humble", "isReal": true },
+          { "id": "w6", "text": "morlent", "isReal": false },
+          { "id": "w7", "text": "modest", "isReal": true },
+          { "id": "w8", "text": "frabble", "isReal": false },
+          { "id": "w9", "text": "tidy", "isReal": true },
+          { "id": "w10", "text": "grentle", "isReal": false },
+          { "id": "w11", "text": "rugged", "isReal": true },
+          { "id": "w12", "text": "plimber", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,203 +46,185 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "meticulous", "isReal": true },
-          { "id": "w2", "text": "gravolent", "isReal": false },
-          { "id": "w3", "text": "austere", "isReal": true },
-          { "id": "w4", "text": "sutrine", "isReal": false },
-          { "id": "w5", "text": "prudent", "isReal": true },
-          { "id": "w6", "text": "perclive", "isReal": false },
-          { "id": "w7", "text": "candid", "isReal": true },
-          { "id": "w8", "text": "ombrastic", "isReal": false },
-          { "id": "w9", "text": "resilient", "isReal": true },
-          { "id": "w10", "text": "fendulous", "isReal": false },
-          { "id": "w11", "text": "lucid", "isReal": true },
-          { "id": "w12", "text": "traxible", "isReal": false }
+          { "id": "w1", "text": "tangible", "isReal": true },
+          { "id": "w2", "text": "vossitude", "isReal": false },
+          { "id": "w3", "text": "resilient", "isReal": true },
+          { "id": "w4", "text": "abrintic", "isReal": false },
+          { "id": "w5", "text": "candid", "isReal": true },
+          { "id": "w6", "text": "morbicate", "isReal": false },
+          { "id": "w7", "text": "lucid", "isReal": true },
+          { "id": "w8", "text": "trennible", "isReal": false },
+          { "id": "w9", "text": "prudent", "isReal": true },
+          { "id": "w10", "text": "glavorous", "isReal": false },
+          { "id": "w11", "text": "intricate", "isReal": true },
+          { "id": "w12", "text": "scaffly", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
-      "prompt": "空所に入る語の残りを入力してください。",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Eating a balanced breakfast can {{b1}} your energy and help you {{b2}} better in morning classes.",
+        "text": "Many cities are now adding bike lanes to {{b1}} traffic and encourage people to travel in a cleaner way. Planners hope these changes will {{b2}} the air and make daily commutes far less stressful for everyone.",
         "blanks": [
-          { "id": "b1", "full": "boost", "keepHead": 3 },
-          { "id": "b2", "full": "concentrate", "keepHead": 6 }
+          { "id": "b1", "full": "reduce", "keepHead": 3 },
+          { "id": "b2", "full": "improve", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
-      "prompt": "空所に入る語の残りを入力してください。",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Modern apps can {{b1}} spoken words into another language almost {{b2}}, which makes travel easier.",
+        "text": "Getting enough sleep is one of the simplest ways to {{b1}} your memory. Studies show that the brain quietly {{b2}} new information during deep sleep, turning the day's lessons into lasting knowledge.",
         "blanks": [
-          { "id": "b1", "full": "translate", "keepHead": 5 },
-          { "id": "b2", "full": "instantly", "keepHead": 4 }
+          { "id": "b1", "full": "strengthen", "keepHead": 4 },
+          { "id": "b2", "full": "organizes", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
-      "prompt": "空所に入る語の残りを入力してください。",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "When pressure builds beneath the surface, a volcano can {{b1}} suddenly, sending ash high into the {{b2}}.",
+        "text": "The new software was designed to be {{b1}}, so even first-time users could finish a task without reading a manual. Early testers praised how {{b2}} the menus felt, rarely pausing to wonder where to click next.",
         "blanks": [
-          { "id": "b1", "full": "erupt", "keepHead": 3 },
-          { "id": "b2", "full": "atmosphere", "keepHead": 5 }
+          { "id": "b1", "full": "intuitive", "keepHead": 4 },
+          { "id": "b2", "full": "natural", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "read_and_complete",
-      "difficulty": "hard",
-      "cefr": "C1",
-      "prompt": "空所に入る語の残りを入力してください。",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Archaeologists carefully {{b1}} ancient tools that had lain {{b2}} under layers of soil for centuries.",
+        "text": "Remote teams often rely on clear writing to {{b1}} confusion across time zones. A short, well-structured message can {{b2}} hours of back-and-forth and keep a project moving smoothly.",
         "blanks": [
-          { "id": "b1", "full": "excavate", "keepHead": 4 },
-          { "id": "b2", "full": "buried", "keepHead": 3 }
+          { "id": "b1", "full": "avoid", "keepHead": 2 },
+          { "id": "b2", "full": "prevent", "keepHead": 3 }
         ]
       }
     },
     {
-      "id": "daily-cs-1",
+      "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "complete_the_sentences",
-      "difficulty": "medium",
-      "cefr": "B2",
-      "prompt": "文脈に合う語句を選んでください。",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation", "vocab"],
+      "tags": ["grammar", "collocation", "vocab", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The chef showed the students how",
-            "after": "the dough until it became smooth.",
-            "options": ["to knead", "kneading", "knead", "kneaded"],
+            "before": "The committee postponed the vote",
+            "after": "the new evidence could be reviewed carefully.",
+            "options": ["so that", "in case", "as if", "even though"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "how to + 動詞の原形 で「〜の仕方」。how to knead が正解。"
+            "explanation": "「〜できるように」と目的を表す接続詞。so that が空所後の could とも自然につながる。"
           },
           {
             "id": "g2",
-            "before": "Adding a little salt can bring",
-            "after": "the natural flavor of the vegetables.",
-            "options": ["out", "up", "off", "over"],
+            "before": "Her argument was convincing, but it relied",
+            "after": "a single, unverified study.",
+            "options": ["heavily on", "deeply in", "strongly at", "widely of"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "bring out 〜 = 〜（味・良さ）を引き出す、という定型の句動詞。"
+            "explanation": "rely heavily on 〜 で「〜に大きく頼る」。rely は前置詞 on をとる定型表現。"
           },
           {
             "id": "g3",
-            "before": "Leave the soup to simmer",
-            "after": "low heat for about twenty minutes.",
-            "options": ["over", "in", "by", "at"],
+            "before": "The results were surprising;",
+            "after": ", the team decided to repeat the experiment.",
+            "options": ["therefore", "meanwhile", "otherwise", "instead"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "over low heat = 弱火で、という料理でよく使う前置詞表現。"
-          },
-          {
-            "id": "g4",
-            "before": "If you taste the sauce now, you",
-            "after": "decide whether it needs more pepper.",
-            "options": ["can", "could have", "must have", "had to"],
-            "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "条件節が現在形なので、結果は現在の可能性を表す can が自然。"
+            "tag": "cohesion",
+            "explanation": "驚く結果→だから再実験する、という因果関係。therefore が前後の論理をつなぐ。"
           }
         ]
       }
     },
     {
-      "id": "daily-cs-2",
+      "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "complete_the_sentences",
-      "difficulty": "hard",
-      "cefr": "C1",
-      "prompt": "文脈に合う語句を選んでください。",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "cohesion", "collocation", "vocab"],
+      "tags": ["vocab", "grammar", "collocation"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The experiment failed several times;",
-            "after": ", the team refused to give up.",
-            "options": ["nevertheless", "consequently", "moreover", "meanwhile"],
+            "before": "After months of training, she finally",
+            "after": "her goal of running a marathon.",
+            "options": ["achieved", "arrived", "happened", "belonged"],
             "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "前後が逆接の関係なので、nevertheless（それにもかかわらず）が適切。"
+            "tag": "vocab",
+            "explanation": "achieve a goal 「目標を達成する」。他の語は goal を目的語にとれない。"
           },
           {
             "id": "g2",
-            "before": "Rarely",
-            "after": "such a clear example of teamwork in a school project.",
-            "options": ["have I seen", "I have seen", "I saw", "did I saw"],
+            "before": "The manager asked everyone to",
+            "after": "to the new schedule as quickly as possible.",
+            "options": ["adapt", "adopt", "admit", "advance"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "否定的副詞 Rarely が文頭に出ると倒置。have I seen の語順になる。"
+            "tag": "vocab",
+            "explanation": "adapt to 〜 「〜に順応する」。adopt は「採用する」で意味が異なる。"
           },
           {
             "id": "g3",
-            "before": "The new findings could have a profound",
-            "after": "on how doctors treat the disease.",
-            "options": ["bearing", "meaning", "standing", "feeling"],
-            "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "have a bearing on 〜 = 〜に関係・影響を持つ、という固い言い回し。"
-          },
-          {
-            "id": "g4",
-            "before": "She explained the results clearly so",
-            "after": "even beginners could follow the argument.",
-            "options": ["that", "as", "for", "which"],
+            "before": "Not until the lights went out",
+            "after": "how dark the countryside really was.",
+            "options": ["did we realize", "we realized", "we did realize", "realized we"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "so that + 主語 + 動詞 で「〜するように」。目的・結果を表す。"
+            "explanation": "否定語句 Not until が文頭にくると倒置が起き、did we realize の語順になる。"
           }
         ]
       }
@@ -250,70 +232,65 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-detail", "reading-gist", "inference"],
+      "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Bringing the Bees Back",
+        "title": "The Quiet Return of Night Trains",
         "paragraphs": [
-          "Bees and other insects pollinate a large share of the crops we eat, yet their numbers have fallen sharply over the past few decades.",
-          "Scientists blame a mix of causes, including the loss of wild flowers, the heavy use of pesticides, and the spread of disease among hives.",
-          "To help, some cities are now planting flower-rich meadows beside roads and encouraging residents to keep small hives on rooftops."
+          "For decades, overnight trains seemed destined to disappear. Cheap flights made it faster to cross a continent in a few hours, and many night services were quietly cancelled. By the early 2010s, only a handful of routes survived, kept alive more by nostalgia than by demand.",
+          "Recently, however, sleeper trains have begun a surprising comeback. As travelers grow more aware of the environmental cost of flying, a growing number choose to spend the night gliding between cities instead. New routes now connect distant capitals, and tickets often sell out weeks in advance. Governments, eager to cut emissions, have started funding services that private companies once abandoned.",
+          "Challenges remain. Running comfortable sleeper cars is expensive, and aging tracks can slow journeys to a crawl. Yet supporters argue that the appeal is not only about speed. A night train lets passengers fall asleep in one country and wake in another, saving the cost of a hotel and arriving rested. For many, that quiet, unhurried experience is exactly the point."
         ],
         "questions": [
           {
             "kind": "identifyIdea",
             "id": "q1",
-            "prompt": "この文章に最も適したタイトルを選んでください。",
+            "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "How Cities Are Helping Pollinators Recover",
-              "The Best Way to Sell Honey",
-              "Why Insects Are Dangerous to Crops",
-              "A History of City Parks"
+              "Night trains are returning, driven partly by environmental concerns despite real obstacles.",
+              "Cheap flights have permanently replaced overnight trains across the continent.",
+              "Governments refuse to fund any form of long-distance rail travel.",
+              "Sleeper trains are now faster than airplanes on every route."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Bees",
-            "after": "many of the crops that people depend on for food.",
-            "options": ["pollinate", "pollute", "populate", "polish"],
+            "before": "According to the passage, one reason travelers now prefer night trains is that they want to",
+            "after": "of flying.",
+            "options": ["reduce the environmental cost", "increase the speed", "avoid the comfort", "raise the ticket price"],
             "answerIdx": 0,
-            "tag": "vocab"
+            "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "ハチの減少の原因を述べている箇所を選んでください。",
+            "prompt": "夜行列車がかつて生き残っていた理由を最もよく表す語句を選んでください。",
             "spans": [
-              { "id": "s1", "text": "pollinate a large share of the crops we eat" },
-              { "id": "s2", "text": "the loss of wild flowers, the heavy use of pesticides, and the spread of disease" },
-              { "id": "s3", "text": "planting flower-rich meadows beside roads" }
+              { "id": "s1", "text": "cheap flights" },
+              { "id": "s2", "text": "more by nostalgia than by demand" },
+              { "id": "s3", "text": "tickets often sell out" },
+              { "id": "s4", "text": "aging tracks" }
             ],
             "answerSpanId": "s2"
           },
           {
-            "kind": "insertSentence",
-            "id": "q4",
-            "sentence": "Rooftop hives, in particular, have become popular in crowded neighbourhoods.",
-            "slots": ["after paragraph 1", "after paragraph 2", "after paragraph 3"],
-            "answerSlot": 2
-          },
-          {
             "kind": "summarize",
-            "id": "q5",
-            "prompt": "本文の要約として最も適切なものを選んでください。",
+            "id": "q4",
+            "prompt": "第3段落が伝えている主な点はどれですか。",
             "options": [
-              "Bee numbers are falling, but cities are taking steps to support them.",
-              "Bees have completely disappeared from every city in the world.",
-              "Pesticides are the only thing that helps bees survive."
+              "Despite high costs and slow tracks, night trains offer comfort and convenience that many value.",
+              "Sleeper cars are cheap to run and always arrive ahead of schedule.",
+              "Passengers dislike waking up in a different country.",
+              "Hotels are now cheaper than any train ticket."
             ],
             "answerIdx": 0
           }
@@ -323,65 +300,50 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-detail", "reading-gist", "cohesion"],
+      "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Learning a Language Later in Life",
+        "title": "Learning a Language After Forty",
         "paragraphs": [
-          "Many adults believe they are simply too old to learn a new language, but research suggests otherwise.",
-          "While young children may pick up perfect pronunciation more easily, adults often learn grammar and vocabulary faster because they can connect new words to what they already know.",
-          "The key, experts say, is regular practice and the confidence to make mistakes without feeling embarrassed."
+          "A common myth says that adults can never truly master a new language. Children, the story goes, soak up grammar effortlessly, while grown-ups struggle and give up. Recent research tells a more encouraging tale.",
+          "Older learners do face real hurdles: busy schedules and a fear of making mistakes in front of others. Yet adults also bring powerful advantages. They understand how grammar works, they can study strategically, and they know exactly why they want to learn. Motivation, it turns out, often matters more than age.",
+          "The most successful adult learners share one simple habit. Rather than waiting until they feel ready, they speak from the very first week, accepting that errors are part of progress. Small daily practice, they find, beats rare bursts of intense effort."
         ],
         "questions": [
           {
             "kind": "identifyIdea",
             "id": "q1",
-            "prompt": "この文章の主な考えを選んでください。",
+            "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Adults can learn languages well if they practise regularly.",
-              "Only children are able to learn a foreign language.",
-              "Grammar is impossible to learn after childhood.",
-              "Making mistakes always stops people from learning."
+              "Adults can succeed at language learning, especially with motivation and steady practice.",
+              "Only children are capable of learning a new language well.",
+              "Studying grammar is useless for adult learners.",
+              "Intense weekend study is the best method for everyone."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "According to research, adults are not too",
-            "after": "to learn a new language.",
-            "options": ["old", "young", "busy", "tired"],
+            "before": "The passage suggests that for adult learners, motivation often matters",
+            "after": "age.",
+            "options": ["more than", "less than", "the same as", "instead of"],
             "answerIdx": 0,
-            "tag": "vocab"
+            "tag": "reading-detail"
           },
           {
-            "kind": "highlight",
+            "kind": "insertSentence",
             "id": "q3",
-            "prompt": "子どもが大人より得意なことを述べている箇所を選んでください。",
-            "spans": [
-              { "id": "s1", "text": "young children may pick up perfect pronunciation more easily" },
-              { "id": "s2", "text": "adults often learn grammar and vocabulary faster" },
-              { "id": "s3", "text": "the confidence to make mistakes without feeling embarrassed" }
-            ],
-            "answerSpanId": "s1"
-          },
-          {
-            "kind": "summarize",
-            "id": "q4",
-            "prompt": "本文の要約として最も適切なものを選んでください。",
-            "options": [
-              "Adults can succeed at languages through steady practice and a willingness to make mistakes.",
-              "Adults should never try to study a language after the age of twenty.",
-              "Pronunciation is the only thing that matters in language learning."
-            ],
-            "answerIdx": 0
+            "sentence": "In other words, consistency wins over occasional marathons.",
+            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
+            "answerSlot": 2
           }
         ]
       }
@@ -391,13 +353,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Could you let me know what time the train leaves tomorrow morning?",
+      "transcript": "Please remember to back up your files before the system update tonight.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -406,13 +368,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The recipe needs about two hundred grams of flour and three large eggs.",
+      "transcript": "The museum offers free admission on the first Sunday of every month.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -421,13 +383,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "I wish I had brought an umbrella because it started to rain heavily.",
+      "transcript": "Although the proposal sounded promising, the board asked for more detailed figures.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -436,13 +398,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "He spent the whole afternoon painting the fence in the back garden.",
+      "transcript": "She caught the early train so she could avoid the morning crowds.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -451,13 +413,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The researchers thoroughly examined the unusual patterns hidden in the data.",
+      "transcript": "The researchers measured a slight but steady rise in ocean temperatures over the decade.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -466,15 +428,15 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-06-18T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Don't forget to water the plants while I am away next week.",
+      "transcript": "Could you let me know whether the meeting has been moved to Thursday?",
       "prompt": null,
-      "tags": ["listen-chunk"],
+      "tags": ["listen-funcword"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     }
