@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-16",
-  "image": "/daily-photo.jpg?v=2026-06-16",
+  "date": "2026-06-17",
+  "image": "/daily-photo.jpg?v=2026-06-17",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "古い建物の前での屋外コンサート（歌う人々と観客）",
-  "modelAnswer": "This photo shows an outdoor concert in front of a large old building. The building has many windows and a gray roof. On a stone stage under the roof, a few people are standing and singing into microphones. One woman wears a black top, and another woman wears a purple dress. Behind them, someone is sitting and playing a keyboard. There are big black speakers on both sides of the stage. In front of the stage, there is a green lawn, and some people in the audience are watching the show. It looks like a warm summer evening, and the mood feels fun and relaxed.",
-  "modelAnswerJa": "この写真は、大きな古い建物の前で行われている屋外コンサートを写しています。その建物にはたくさんの窓があり、灰色の屋根がついています。屋根の下の石づくりのステージの上では、数人が立ってマイクに向かって歌っています。一人の女性は黒いトップスを着て、もう一人の女性は紫色のドレスを着ています。彼らの後ろでは、誰かが座ってキーボードを弾いています。ステージの両側には大きな黒いスピーカーがあります。ステージの前には緑の芝生があり、観客の何人かがその演奏を見ています。暖かい夏の夕方のように見え、雰囲気は楽しくてリラックスした感じです。",
+  "theme": "体育館の中でボール遊び（ドッジボール）をする男性たち",
+  "modelAnswer": "This photo shows some men playing a ball game inside a gym. The floor is made of light-colored wood, and the walls behind them are white. In the front, a man with a beard is wearing a red shirt and holding a black ball in his hand. He is bending down a little, and he looks ready to throw it. Behind him, another man in a white shirt is running, and on the right, a man in a gray shirt and black shorts is also holding a ball. A bright green ball is flying through the air. The mood feels active and full of energy.",
+  "modelAnswerJa": "この写真は、体育館の中でボール遊びをしている男性たちを写しています。床は明るい色の木でできていて、彼らの後ろの壁は白いです。手前では、ひげを生やした男性が赤いシャツを着て、黒いボールを手に持っています。彼は少しかがんでいて、今にも投げそうに見えます。彼の後ろでは、白いシャツを着た別の男性が走っていて、右側では、灰色のシャツと黒い短パンの男性もボールを持っています。明るい緑色のボールが空中を飛んでいます。雰囲気は活発で、元気いっぱいです。",
   "tips": [
-    { "term": "in front of", "ja": "〜の前で（場所を示す表現）" },
-    { "term": "outdoor concert", "ja": "屋外コンサート" },
-    { "term": "sing into a microphone", "ja": "マイクに向かって歌う" },
-    { "term": "on both sides of", "ja": "〜の両側に" },
-    { "term": "It looks like ...", "ja": "〜のように見える（推測の言い方）" },
-    { "term": "the audience", "ja": "観客" },
-    { "term": "a warm summer evening", "ja": "暖かい夏の夕方" }
+    { "term": "inside a gym", "ja": "体育館の中で" },
+    { "term": "a ball game", "ja": "球技・ボール遊び" },
+    { "term": "hold ... in his hand", "ja": "〜を手に持っている" },
+    { "term": "bend down", "ja": "かがむ・体をかがめる" },
+    { "term": "be ready to ...", "ja": "〜する準備ができている・今にも〜しそう" },
+    { "term": "through the air", "ja": "空中を（通って）" },
+    { "term": "full of energy", "ja": "元気いっぱいで・活気にあふれて" }
   ]
 }
