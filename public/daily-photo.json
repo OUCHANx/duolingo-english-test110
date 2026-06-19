@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-18",
-  "image": "/daily-photo.jpg?v=2026-06-18",
+  "date": "2026-06-19",
+  "image": "/daily-photo.jpg?v=2026-06-19",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "街の通りで車と黄色いトラム（路面電車）が走っている都市の風景",
-  "modelAnswer": "This photo shows a city street on a cloudy day. In the middle of the road, a gray van is driving away from us. On the left side, some cars are parked next to the sidewalk, and one of them is a silver SUV with a spare tire on the back. On the right, a long yellow and blue tram is moving along the street. There are tall buildings, green trees, and old street lamps with flowers on both sides. A few people are walking on the sidewalk near the shops. The street looks busy, but the mood is still calm and quiet.",
-  "modelAnswerJa": "この写真は、くもりの日の街の通りを写しています。道路の真ん中では、灰色のワゴン車が私たちから遠ざかるように走っています。左側には、歩道のそばに何台かの車が駐車していて、そのうちの一台は後ろにスペアタイヤを付けた銀色のSUVです。右側では、長い黄色と青のトラム（路面電車）が通りを進んでいます。両側には、高い建物や緑の木、花が飾られた古い街灯があります。数人の人が店の近くの歩道を歩いています。通りはにぎやかですが、雰囲気はそれでも落ち着いて静かです。",
+  "theme": "屋外の市場（マーケット）で、エプロンと手袋をした若い男性が食べ物を売る屋台で働いている様子",
+  "modelAnswer": "This photo shows an outdoor market on a cloudy day. In the front, a young man is working at a food stall under a tent. He is wearing a pink shirt, a black apron, a black face mask, and blue gloves. He stands at a wooden table and seems to be wrapping some food, and there is a white plastic tray in front of him. On the table I can also see some sausages and a knife. Behind him, a woman with a mask and another man are working at a different stall. There are also a white van, some parked cars, and a big tree in the background. The market looks busy, but the mood feels calm and friendly.",
+  "modelAnswerJa": "この写真は、くもりの日の屋外の市場を写しています。手前では、若い男性がテントの下の食べ物の屋台で働いています。彼はピンクのシャツ、黒いエプロン、黒いマスク、青い手袋を身につけています。木のテーブルの前に立って、何かの食べ物を包んでいるように見え、目の前には白いプラスチックのトレイがあります。テーブルの上には、ソーセージとナイフも見えます。彼の後ろでは、マスクをした女性ともう一人の男性が別の屋台で働いています。背景には、白いワゴン車や駐車している車、大きな木もあります。市場はにぎやかに見えますが、雰囲気は落ち着いていて親しみやすい感じです。",
   "tips": [
-    { "term": "a city street", "ja": "街の通り" },
-    { "term": "in the middle of the road", "ja": "道路の真ん中で" },
-    { "term": "drive away", "ja": "走り去る・遠ざかっていく" },
-    { "term": "be parked", "ja": "駐車してある" },
-    { "term": "on both sides", "ja": "両側に" },
-    { "term": "walk on the sidewalk", "ja": "歩道を歩く" },
+    { "term": "an outdoor market", "ja": "屋外の市場・マーケット" },
+    { "term": "a food stall", "ja": "食べ物の屋台" },
+    { "term": "in the front", "ja": "手前に・前の方に" },
+    { "term": "wear gloves", "ja": "手袋をしている" },
+    { "term": "stand at a table", "ja": "テーブルの前に立つ" },
+    { "term": "in the background", "ja": "背景に・奥に" },
     { "term": "look busy", "ja": "にぎやかに見える" }
   ]
 }
