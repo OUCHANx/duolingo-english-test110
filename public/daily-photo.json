@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-19",
-  "image": "/daily-photo.jpg?v=2026-06-19",
+  "date": "2026-06-20",
+  "image": "/daily-photo.jpg?v=2026-06-20",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "屋外の市場（マーケット）で、エプロンと手袋をした若い男性が食べ物を売る屋台で働いている様子",
-  "modelAnswer": "This photo shows an outdoor market on a cloudy day. In the front, a young man is working at a food stall under a tent. He is wearing a pink shirt, a black apron, a black face mask, and blue gloves. He stands at a wooden table and seems to be wrapping some food, and there is a white plastic tray in front of him. On the table I can also see some sausages and a knife. Behind him, a woman with a mask and another man are working at a different stall. There are also a white van, some parked cars, and a big tree in the background. The market looks busy, but the mood feels calm and friendly.",
-  "modelAnswerJa": "この写真は、くもりの日の屋外の市場を写しています。手前では、若い男性がテントの下の食べ物の屋台で働いています。彼はピンクのシャツ、黒いエプロン、黒いマスク、青い手袋を身につけています。木のテーブルの前に立って、何かの食べ物を包んでいるように見え、目の前には白いプラスチックのトレイがあります。テーブルの上には、ソーセージとナイフも見えます。彼の後ろでは、マスクをした女性ともう一人の男性が別の屋台で働いています。背景には、白いワゴン車や駐車している車、大きな木もあります。市場はにぎやかに見えますが、雰囲気は落ち着いていて親しみやすい感じです。",
+  "theme": "夜の台所で、男女2人が開けた冷蔵庫の中をのぞき込んでいる様子",
+  "modelAnswer": "This photo shows two people standing in a kitchen in front of an open refrigerator. We can see them from behind. On the left, a woman with short brown hair is wearing a gray shirt. Next to her, a man in a bright red shirt is leaning forward and looking inside. The fridge light is on, and the shelves are full of food. I can see bottles of wine and oil, some jars, and many sauces and containers on the door. It looks like evening, and the kitchen is a little dark. The two people seem to be deciding what to eat together.",
+  "modelAnswerJa": "この写真は、開いた冷蔵庫の前に立っている2人を写しています。私たちは2人を後ろから見ています。左側では、短い茶色の髪の女性が灰色のシャツを着ています。その隣では、明るい赤いシャツを着た男性が前かがみになって中を見ています。冷蔵庫の明かりがついていて、棚は食べ物でいっぱいです。ワインや油のボトル、いくつかのびん、そしてドアにはたくさんのソースや容器が見えます。夜のようで、台所は少し暗いです。2人は一緒に何を食べるか決めているように見えます。",
   "tips": [
-    { "term": "an outdoor market", "ja": "屋外の市場・マーケット" },
-    { "term": "a food stall", "ja": "食べ物の屋台" },
-    { "term": "in the front", "ja": "手前に・前の方に" },
-    { "term": "wear gloves", "ja": "手袋をしている" },
-    { "term": "stand at a table", "ja": "テーブルの前に立つ" },
-    { "term": "in the background", "ja": "背景に・奥に" },
-    { "term": "look busy", "ja": "にぎやかに見える" }
+    { "term": "an open refrigerator", "ja": "開いた冷蔵庫" },
+    { "term": "from behind", "ja": "後ろから（見た）" },
+    { "term": "lean forward", "ja": "前かがみになる" },
+    { "term": "look inside", "ja": "中を見る・のぞき込む" },
+    { "term": "the shelves are full of", "ja": "棚が〜でいっぱいだ" },
+    { "term": "next to her", "ja": "彼女の隣に" },
+    { "term": "decide what to eat", "ja": "何を食べるか決める" }
   ]
 }
