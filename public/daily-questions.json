@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-18",
+  "generatedAt": "2026-06-19",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "sturdy", "isReal": true },
-          { "id": "w2", "text": "blantic", "isReal": false },
-          { "id": "w3", "text": "vivid", "isReal": true },
-          { "id": "w4", "text": "crelon", "isReal": false },
-          { "id": "w5", "text": "humble", "isReal": true },
-          { "id": "w6", "text": "morlent", "isReal": false },
-          { "id": "w7", "text": "modest", "isReal": true },
-          { "id": "w8", "text": "frabble", "isReal": false },
-          { "id": "w9", "text": "tidy", "isReal": true },
-          { "id": "w10", "text": "grentle", "isReal": false },
-          { "id": "w11", "text": "rugged", "isReal": true },
-          { "id": "w12", "text": "plimber", "isReal": false }
+          { "id": "w1", "text": "brittle", "isReal": true },
+          { "id": "w2", "text": "drimmel", "isReal": false },
+          { "id": "w3", "text": "swift", "isReal": true },
+          { "id": "w4", "text": "quabish", "isReal": false },
+          { "id": "w5", "text": "eager", "isReal": true },
+          { "id": "w6", "text": "frantle", "isReal": false },
+          { "id": "w7", "text": "narrow", "isReal": true },
+          { "id": "w8", "text": "snovick", "isReal": false },
+          { "id": "w9", "text": "clumsy", "isReal": true },
+          { "id": "w10", "text": "plemmid", "isReal": false },
+          { "id": "w11", "text": "hollow", "isReal": true },
+          { "id": "w12", "text": "gorbish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "tangible", "isReal": true },
-          { "id": "w2", "text": "vossitude", "isReal": false },
-          { "id": "w3", "text": "resilient", "isReal": true },
-          { "id": "w4", "text": "abrintic", "isReal": false },
-          { "id": "w5", "text": "candid", "isReal": true },
-          { "id": "w6", "text": "morbicate", "isReal": false },
-          { "id": "w7", "text": "lucid", "isReal": true },
-          { "id": "w8", "text": "trennible", "isReal": false },
-          { "id": "w9", "text": "prudent", "isReal": true },
-          { "id": "w10", "text": "glavorous", "isReal": false },
-          { "id": "w11", "text": "intricate", "isReal": true },
-          { "id": "w12", "text": "scaffly", "isReal": false }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "thracile", "isReal": false },
+          { "id": "w3", "text": "scarce", "isReal": true },
+          { "id": "w4", "text": "quementous", "isReal": false },
+          { "id": "w5", "text": "profound", "isReal": true },
+          { "id": "w6", "text": "brindical", "isReal": false },
+          { "id": "w7", "text": "elusive", "isReal": true },
+          { "id": "w8", "text": "flostery", "isReal": false },
+          { "id": "w9", "text": "robust", "isReal": true },
+          { "id": "w10", "text": "perannic", "isReal": false },
+          { "id": "w11", "text": "austere", "isReal": true },
+          { "id": "w12", "text": "gnavolent", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,58 +74,38 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Many cities are now adding bike lanes to {{b1}} traffic and encourage people to travel in a cleaner way. Planners hope these changes will {{b2}} the air and make daily commutes far less stressful for everyone.",
+        "text": "Across crowded cities, rooftop gardens are helping residents {{b1}} fresh vegetables while cooling the buildings below. Volunteers gather each weekend to {{b2}} the soil and share whatever the season provides.",
         "blanks": [
-          { "id": "b1", "full": "reduce", "keepHead": 3 },
-          { "id": "b2", "full": "improve", "keepHead": 3 }
+          { "id": "b1", "full": "grow", "keepHead": 2 },
+          { "id": "b2", "full": "enrich", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "read_and_complete",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Getting enough sleep is one of the simplest ways to {{b1}} your memory. Studies show that the brain quietly {{b2}} new information during deep sleep, turning the day's lessons into lasting knowledge.",
+        "text": "Marine biologists have discovered that some corals can {{b1}} to warmer water by partnering with tougher algae. This natural flexibility may help certain reefs {{b2}} the rising temperatures that threaten so many others.",
         "blanks": [
-          { "id": "b1", "full": "strengthen", "keepHead": 4 },
-          { "id": "b2", "full": "organizes", "keepHead": 4 }
+          { "id": "b1", "full": "adapt", "keepHead": 3 },
+          { "id": "b2", "full": "survive", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
-      "taskType": "read_and_complete",
-      "difficulty": "hard",
-      "cefr": "C1",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
-      "passage": null,
-      "tags": ["vocab", "spelling"],
-      "source": "daily",
-      "payload": {
-        "text": "The new software was designed to be {{b1}}, so even first-time users could finish a task without reading a manual. Early testers praised how {{b2}} the menus felt, rarely pausing to wonder where to click next.",
-        "blanks": [
-          { "id": "b1", "full": "intuitive", "keepHead": 4 },
-          { "id": "b2", "full": "natural", "keepHead": 3 }
-        ]
-      }
-    },
-    {
-      "id": "daily-rc-4",
-      "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,53 +114,73 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Remote teams often rely on clear writing to {{b1}} confusion across time zones. A short, well-structured message can {{b2}} hours of back-and-forth and keep a project moving smoothly.",
+        "text": "Learning to play an instrument as an adult can feel slow, but regular practice gradually {{b1}} both memory and patience. Many beginners are surprised by how quickly a few minutes a day can {{b2}} real progress.",
         "blanks": [
-          { "id": "b1", "full": "avoid", "keepHead": 2 },
-          { "id": "b2", "full": "prevent", "keepHead": 3 }
+          { "id": "b1", "full": "sharpens", "keepHead": 4 },
+          { "id": "b2", "full": "produce", "keepHead": 4 }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-4",
+      "userId": null,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "A few simple habits at home can sharply {{b1}} the amount of food we throw away each week. Planning meals in advance and storing leftovers properly help families {{b2}} money and protect the planet at the same time.",
+        "blanks": [
+          { "id": "b1", "full": "lower", "keepHead": 3 },
+          { "id": "b2", "full": "save", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation", "vocab", "cohesion"],
+      "tags": ["grammar", "collocation", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The committee postponed the vote",
-            "after": "the new evidence could be reviewed carefully.",
-            "options": ["so that", "in case", "as if", "even though"],
+            "before": "Scarcely had the speaker finished her talk",
+            "after": "the audience began to applaud loudly.",
+            "options": ["when", "than", "then", "that"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "「〜できるように」と目的を表す接続詞。so that が空所後の could とも自然につながる。"
+            "explanation": "Scarcely had ... when ... で「〜するやいなや」。文頭の否定語句により倒置が起き、相関するのは when。"
           },
           {
             "id": "g2",
-            "before": "Her argument was convincing, but it relied",
-            "after": "a single, unverified study.",
-            "options": ["heavily on", "deeply in", "strongly at", "widely of"],
+            "before": "The new findings cast serious doubt",
+            "after": "the original theory.",
+            "options": ["on", "in", "at", "for"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "rely heavily on 〜 で「〜に大きく頼る」。rely は前置詞 on をとる定型表現。"
+            "explanation": "cast doubt on 〜 で「〜に疑いを投げかける」。doubt と結びつく前置詞は on。"
           },
           {
             "id": "g3",
-            "before": "The results were surprising;",
-            "after": ", the team decided to repeat the experiment.",
-            "options": ["therefore", "meanwhile", "otherwise", "instead"],
+            "before": "The plan was ambitious;",
+            "after": ", the team lacked the funding to carry it out.",
+            "options": ["however", "therefore", "likewise", "meanwhile"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "驚く結果→だから再実験する、という因果関係。therefore が前後の論理をつなぐ。"
+            "explanation": "野心的な計画→だが資金不足、という逆接。前後が対立するので however が適切。"
           }
         ]
       }
@@ -188,43 +188,43 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["vocab", "grammar", "collocation"],
+      "tags": ["collocation", "grammar", "vocab"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "After months of training, she finally",
-            "after": "her goal of running a marathon.",
-            "options": ["achieved", "arrived", "happened", "belonged"],
+            "before": "The teacher encouraged her students to",
+            "after": "their mistakes rather than hide them.",
+            "options": ["learn from", "learn at", "learn by", "learn to"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "achieve a goal 「目標を達成する」。他の語は goal を目的語にとれない。"
+            "tag": "collocation",
+            "explanation": "learn from one's mistakes 「失敗から学ぶ」。前置詞は from が正しい。"
           },
           {
             "id": "g2",
-            "before": "The manager asked everyone to",
-            "after": "to the new schedule as quickly as possible.",
-            "options": ["adapt", "adopt", "admit", "advance"],
+            "before": "",
+            "after": "the heavy rain, the outdoor festival continued as planned.",
+            "options": ["Despite", "Although", "Because", "However"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "adapt to 〜 「〜に順応する」。adopt は「採用する」で意味が異なる。"
+            "tag": "grammar",
+            "explanation": "後ろが名詞句 the heavy rain なので前置詞 Despite が正しい。Although は節を導くので不可。"
           },
           {
             "id": "g3",
-            "before": "Not until the lights went out",
-            "after": "how dark the countryside really was.",
-            "options": ["did we realize", "we realized", "we did realize", "realized we"],
+            "before": "We will need to",
+            "after": "a decision before tomorrow's deadline.",
+            "options": ["make", "do", "take", "give"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "否定語句 Not until が文頭にくると倒置が起き、did we realize の語順になる。"
+            "tag": "collocation",
+            "explanation": "make a decision 「決断する」が定型表現。do/take/give は decision とは結びつかない。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Quiet Return of Night Trains",
+        "title": "The Surprising Minds of Octopuses",
         "paragraphs": [
-          "For decades, overnight trains seemed destined to disappear. Cheap flights made it faster to cross a continent in a few hours, and many night services were quietly cancelled. By the early 2010s, only a handful of routes survived, kept alive more by nostalgia than by demand.",
-          "Recently, however, sleeper trains have begun a surprising comeback. As travelers grow more aware of the environmental cost of flying, a growing number choose to spend the night gliding between cities instead. New routes now connect distant capitals, and tickets often sell out weeks in advance. Governments, eager to cut emissions, have started funding services that private companies once abandoned.",
-          "Challenges remain. Running comfortable sleeper cars is expensive, and aging tracks can slow journeys to a crawl. Yet supporters argue that the appeal is not only about speed. A night train lets passengers fall asleep in one country and wake in another, saving the cost of a hotel and arriving rested. For many, that quiet, unhurried experience is exactly the point."
+          "Octopuses look nothing like us, yet scientists increasingly describe them as remarkably intelligent. With eight arms, three hearts, and no bones, these soft creatures seem almost alien. Still, in laboratory tanks they solve puzzles, open jars, and even appear to recognize individual keepers.",
+          "What makes their intelligence so unusual is how it is organized. Unlike a human brain, much of an octopus's neural power is spread throughout its arms, allowing each limb to explore and react on its own. An octopus can taste with its skin and squeeze its entire body through a gap no wider than its eye. Some have even been seen carrying coconut shells to use later as shelter, a behavior that hints at planning.",
+          "Yet studying these animals is difficult. Octopuses are solitary and short-lived, rarely surviving more than a couple of years. Because they leave no traditions for the next generation to inherit, each octopus must learn the world almost entirely on its own. For researchers, that lonely brilliance is both a puzzle and a quiet reminder that intelligence can take many forms."
         ],
         "questions": [
           {
@@ -254,43 +254,43 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Night trains are returning, driven partly by environmental concerns despite real obstacles.",
-              "Cheap flights have permanently replaced overnight trains across the continent.",
-              "Governments refuse to fund any form of long-distance rail travel.",
-              "Sleeper trains are now faster than airplanes on every route."
+              "Octopuses show a strange but impressive intelligence that differs greatly from our own.",
+              "Octopuses are closely related to humans and think in exactly the same way.",
+              "Octopuses are unable to solve any problems in laboratory settings.",
+              "Octopuses live in large social groups and carefully teach their young."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "According to the passage, one reason travelers now prefer night trains is that they want to",
-            "after": "of flying.",
-            "options": ["reduce the environmental cost", "increase the speed", "avoid the comfort", "raise the ticket price"],
+            "before": "Unlike humans, an octopus keeps much of its thinking power",
+            "after": "its arms.",
+            "options": ["spread throughout", "hidden inside", "completely absent from", "far away from"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "夜行列車がかつて生き残っていた理由を最もよく表す語句を選んでください。",
+            "prompt": "オクトパスが将来のために計画している可能性を示す行動はどれですか。",
             "spans": [
-              { "id": "s1", "text": "cheap flights" },
-              { "id": "s2", "text": "more by nostalgia than by demand" },
-              { "id": "s3", "text": "tickets often sell out" },
-              { "id": "s4", "text": "aging tracks" }
+              { "id": "s1", "text": "open jars" },
+              { "id": "s2", "text": "taste with its skin" },
+              { "id": "s3", "text": "carrying coconut shells to use later" },
+              { "id": "s4", "text": "squeeze its entire body" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "第3段落が伝えている主な点はどれですか。",
             "options": [
-              "Despite high costs and slow tracks, night trains offer comfort and convenience that many value.",
-              "Sleeper cars are cheap to run and always arrive ahead of schedule.",
-              "Passengers dislike waking up in a different country.",
-              "Hotels are now cheaper than any train ticket."
+              "Because octopuses live alone and only briefly, each one must learn about the world on its own.",
+              "Octopuses pass detailed traditions down to their young over many generations.",
+              "Octopuses usually live for several decades in the wild.",
+              "Researchers find octopuses unusually easy to study."
             ],
             "answerIdx": 0
           }
@@ -300,8 +300,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -310,11 +310,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Learning a Language After Forty",
+        "title": "Testing the Four-Day Week",
         "paragraphs": [
-          "A common myth says that adults can never truly master a new language. Children, the story goes, soak up grammar effortlessly, while grown-ups struggle and give up. Recent research tells a more encouraging tale.",
-          "Older learners do face real hurdles: busy schedules and a fear of making mistakes in front of others. Yet adults also bring powerful advantages. They understand how grammar works, they can study strategically, and they know exactly why they want to learn. Motivation, it turns out, often matters more than age.",
-          "The most successful adult learners share one simple habit. Rather than waiting until they feel ready, they speak from the very first week, accepting that errors are part of progress. Small daily practice, they find, beats rare bursts of intense effort."
+          "Several companies around the world have begun experimenting with a shorter working week. Instead of the usual five days, employees work four, often for the same pay. Supporters believe that well-rested workers can do just as much in less time.",
+          "Early trials have produced encouraging results. In many cases, productivity stayed the same or even rose, while workers reported less stress and more time for family and hobbies. Some businesses also noticed that fewer people quit, saving the cost of hiring and training new staff.",
+          "Still, the idea does not suit everyone. Hospitals, shops, and factories often need staff present every day, and squeezing five days of work into four can leave some employees feeling rushed. Whether the four-day week becomes common may depend on the type of job rather than on enthusiasm alone."
         ],
         "questions": [
           {
@@ -322,26 +322,26 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Adults can succeed at language learning, especially with motivation and steady practice.",
-              "Only children are capable of learning a new language well.",
-              "Studying grammar is useless for adult learners.",
-              "Intense weekend study is the best method for everyone."
+              "The four-day week shows real promise but may not fit every kind of job.",
+              "The four-day week has already replaced the five-day week everywhere.",
+              "Shorter weeks always reduce how much work actually gets done.",
+              "Workers generally dislike having more free time."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The passage suggests that for adult learners, motivation often matters",
-            "after": "age.",
-            "options": ["more than", "less than", "the same as", "instead of"],
+            "before": "According to the passage, one benefit reported by workers was",
+            "after": "stress.",
+            "options": ["less", "more", "the same", "extra"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "insertSentence",
             "id": "q3",
-            "sentence": "In other words, consistency wins over occasional marathons.",
+            "sentence": "For these workplaces, someone must be on duty at all times.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 2
           }
@@ -353,13 +353,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please remember to back up your files before the system update tonight.",
+      "transcript": "I'd appreciate it if you could send the report by the end of the day.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -368,13 +368,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum offers free admission on the first Sunday of every month.",
+      "transcript": "The flight to Toronto leaves at a quarter past seven tomorrow morning.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -383,13 +383,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Although the proposal sounded promising, the board asked for more detailed figures.",
+      "transcript": "Had I known about the delay, I would have taken an earlier bus.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -398,13 +398,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She caught the early train so she could avoid the morning crowds.",
+      "transcript": "We decided to plant a few tomatoes on the balcony this spring.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -413,13 +413,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The researchers measured a slight but steady rise in ocean temperatures over the decade.",
+      "transcript": "The gentle breeze carried the scent of fresh bread through the quiet village.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -428,13 +428,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-18T00:00:00.000Z",
-      "updatedAt": "2026-06-18T00:00:00.000Z",
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Could you let me know whether the meeting has been moved to Thursday?",
+      "transcript": "Do you happen to know whether the library stays open on weekends?",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
