@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-20",
-  "image": "/daily-photo.jpg?v=2026-06-20",
+  "date": "2026-06-21",
+  "image": "/daily-photo.jpg?v=2026-06-21",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "夜の台所で、男女2人が開けた冷蔵庫の中をのぞき込んでいる様子",
-  "modelAnswer": "This photo shows two people standing in a kitchen in front of an open refrigerator. We can see them from behind. On the left, a woman with short brown hair is wearing a gray shirt. Next to her, a man in a bright red shirt is leaning forward and looking inside. The fridge light is on, and the shelves are full of food. I can see bottles of wine and oil, some jars, and many sauces and containers on the door. It looks like evening, and the kitchen is a little dark. The two people seem to be deciding what to eat together.",
-  "modelAnswerJa": "この写真は、開いた冷蔵庫の前に立っている2人を写しています。私たちは2人を後ろから見ています。左側では、短い茶色の髪の女性が灰色のシャツを着ています。その隣では、明るい赤いシャツを着た男性が前かがみになって中を見ています。冷蔵庫の明かりがついていて、棚は食べ物でいっぱいです。ワインや油のボトル、いくつかのびん、そしてドアにはたくさんのソースや容器が見えます。夜のようで、台所は少し暗いです。2人は一緒に何を食べるか決めているように見えます。",
+  "theme": "屋外のファーマーズマーケットの花屋台。手前にたくさんのひまわり、奥にカラフルな花束と人々",
+  "modelAnswer": "This photo shows a flower stall at an outdoor farmers' market. In the front, there are many bright yellow sunflowers. Behind them, I can see colorful bouquets of pink, purple, and orange flowers on a long table. On the left, a man in a cap and a gray shirt is standing next to wrapped flowers and a truck. On the right, another person in a green shirt is near a white van, where a table holds some wooden bowls. There is green grass and tall trees in the background. It is a sunny summer day, and the place feels fresh, busy, and cheerful.",
+  "modelAnswerJa": "この写真は、屋外のファーマーズマーケットにある花の屋台を写しています。手前には、明るい黄色のひまわりがたくさんあります。その奥には、長いテーブルの上にピンク・紫・オレンジのカラフルな花束が見えます。左側では、帽子をかぶり灰色のシャツを着た男性が、包まれた花とトラックのそばに立っています。右側では、緑のシャツを着た別の人が白いバンの近くにいて、そこのテーブルには木のボウルがいくつか置かれています。背景には緑の芝生と高い木があります。晴れた夏の日で、その場所はさわやかでにぎやかで、明るい雰囲気です。",
   "tips": [
-    { "term": "an open refrigerator", "ja": "開いた冷蔵庫" },
-    { "term": "from behind", "ja": "後ろから（見た）" },
-    { "term": "lean forward", "ja": "前かがみになる" },
-    { "term": "look inside", "ja": "中を見る・のぞき込む" },
-    { "term": "the shelves are full of", "ja": "棚が〜でいっぱいだ" },
-    { "term": "next to her", "ja": "彼女の隣に" },
-    { "term": "decide what to eat", "ja": "何を食べるか決める" }
+    { "term": "flower stall", "ja": "花の屋台・売り場" },
+    { "term": "farmers' market", "ja": "ファーマーズマーケット（産直市）" },
+    { "term": "in the front", "ja": "手前に" },
+    { "term": "behind them", "ja": "それらの後ろに" },
+    { "term": "bouquet", "ja": "花束" },
+    { "term": "next to", "ja": "〜の隣に" },
+    { "term": "in the background", "ja": "背景に" }
   ]
 }
