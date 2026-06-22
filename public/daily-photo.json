@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-21",
-  "image": "/daily-photo.jpg?v=2026-06-21",
-  "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "屋外のファーマーズマーケットの花屋台。手前にたくさんのひまわり、奥にカラフルな花束と人々",
-  "modelAnswer": "This photo shows a flower stall at an outdoor farmers' market. In the front, there are many bright yellow sunflowers. Behind them, I can see colorful bouquets of pink, purple, and orange flowers on a long table. On the left, a man in a cap and a gray shirt is standing next to wrapped flowers and a truck. On the right, another person in a green shirt is near a white van, where a table holds some wooden bowls. There is green grass and tall trees in the background. It is a sunny summer day, and the place feels fresh, busy, and cheerful.",
-  "modelAnswerJa": "この写真は、屋外のファーマーズマーケットにある花の屋台を写しています。手前には、明るい黄色のひまわりがたくさんあります。その奥には、長いテーブルの上にピンク・紫・オレンジのカラフルな花束が見えます。左側では、帽子をかぶり灰色のシャツを着た男性が、包まれた花とトラックのそばに立っています。右側では、緑のシャツを着た別の人が白いバンの近くにいて、そこのテーブルには木のボウルがいくつか置かれています。背景には緑の芝生と高い木があります。晴れた夏の日で、その場所はさわやかでにぎやかで、明るい雰囲気です。",
+  "date": "2026-06-22",
+  "image": "/daily-photo.jpg?v=2026-06-22",
+  "prompt": "Describe what you see in this photo in detail: where it is, what objects are there, and what kind of atmosphere it has.",
+  "theme": "木の壁にかけられた三段の木製の棚。やかん・ティーポット・コーヒーポット・ランプ・小瓶などが並ぶ、素朴で温かいキッチンか小さなカフェ",
+  "modelAnswer": "This photo shows three wooden shelves on a wooden wall, like in a cozy kitchen or a small cafe. On the shelves, there are many kettles, teapots, and coffee pots in different colors. I can see a shiny silver coffee pot, a yellow jug, a dark glass bottle, a blue teapot, and a white teapot with a blue pattern. There are also two small oil lamps and a few little jars of herbs. Below the shelves, a small white sign asks people to use the sockets only for charging phones. No people are in the photo, but the place looks warm, tidy, and very charming.",
+  "modelAnswerJa": "この写真は、木の壁にかけられた三段の木製の棚を写しています。居心地のよいキッチンか小さなカフェのようです。棚の上には、やかん・ティーポット・コーヒーポットが、さまざまな色でたくさん並んでいます。光るシルバーのコーヒーポット、黄色の水差し、黒いガラス瓶、青いティーポット、青い模様の白いティーポットが見えます。小さなオイルランプが二つと、ハーブの入った小瓶もいくつかあります。棚の下には、「コンセントは携帯電話の充電だけに使ってください」と書かれた小さな白い札があります。写真に人はいませんが、その場所は暖かく、きちんと片づいていて、とても趣のある雰囲気です。",
   "tips": [
-    { "term": "flower stall", "ja": "花の屋台・売り場" },
-    { "term": "farmers' market", "ja": "ファーマーズマーケット（産直市）" },
-    { "term": "in the front", "ja": "手前に" },
-    { "term": "behind them", "ja": "それらの後ろに" },
-    { "term": "bouquet", "ja": "花束" },
-    { "term": "next to", "ja": "〜の隣に" },
-    { "term": "in the background", "ja": "背景に" }
+    { "term": "wooden shelves", "ja": "木の棚" },
+    { "term": "in different colors", "ja": "さまざまな色の" },
+    { "term": "I can see", "ja": "〜が見える" },
+    { "term": "there are", "ja": "〜がある" },
+    { "term": "teapot", "ja": "ティーポット" },
+    { "term": "below the shelves", "ja": "棚の下に" },
+    { "term": "looks warm and tidy", "ja": "暖かくきちんとして見える" }
   ]
 }
