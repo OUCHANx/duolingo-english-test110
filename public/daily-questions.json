@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-21",
+  "generatedAt": "2026-06-22",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "gentle", "isReal": true },
-          { "id": "w2", "text": "brindle", "isReal": true },
-          { "id": "w3", "text": "flornap", "isReal": false },
-          { "id": "w4", "text": "modest", "isReal": true },
-          { "id": "w5", "text": "shemble", "isReal": false },
-          { "id": "w6", "text": "rugged", "isReal": true },
-          { "id": "w7", "text": "crandle", "isReal": false },
-          { "id": "w8", "text": "vacant", "isReal": true },
-          { "id": "w9", "text": "plummet", "isReal": true },
-          { "id": "w10", "text": "drelpish", "isReal": false },
-          { "id": "w11", "text": "thwip", "isReal": false },
-          { "id": "w12", "text": "graceful", "isReal": true }
+          { "id": "w1", "text": "vivid", "isReal": true },
+          { "id": "w2", "text": "plential", "isReal": false },
+          { "id": "w3", "text": "sturdy", "isReal": true },
+          { "id": "w4", "text": "gromble", "isReal": false },
+          { "id": "w5", "text": "candid", "isReal": true },
+          { "id": "w6", "text": "swernt", "isReal": false },
+          { "id": "w7", "text": "brisk", "isReal": true },
+          { "id": "w8", "text": "frellow", "isReal": false },
+          { "id": "w9", "text": "humble", "isReal": true },
+          { "id": "w10", "text": "quandle", "isReal": false },
+          { "id": "w11", "text": "fragile", "isReal": true },
+          { "id": "w12", "text": "snithe", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "meticulous", "isReal": true },
-          { "id": "w2", "text": "obsequent", "isReal": false },
-          { "id": "w3", "text": "resilient", "isReal": true },
-          { "id": "w4", "text": "garnacious", "isReal": false },
-          { "id": "w5", "text": "ambiguous", "isReal": true },
-          { "id": "w6", "text": "trenvolent", "isReal": false },
-          { "id": "w7", "text": "abundant", "isReal": true },
-          { "id": "w8", "text": "plicarious", "isReal": false },
-          { "id": "w9", "text": "coherent", "isReal": true },
-          { "id": "w10", "text": "sundrate", "isReal": false },
-          { "id": "w11", "text": "versatile", "isReal": true },
-          { "id": "w12", "text": "morquent", "isReal": false }
+          { "id": "w1", "text": "diligent", "isReal": true },
+          { "id": "w2", "text": "glomarate", "isReal": false },
+          { "id": "w3", "text": "eloquent", "isReal": true },
+          { "id": "w4", "text": "prentacious", "isReal": false },
+          { "id": "w5", "text": "intricate", "isReal": true },
+          { "id": "w6", "text": "borvent", "isReal": false },
+          { "id": "w7", "text": "tenacious", "isReal": true },
+          { "id": "w8", "text": "squanderic", "isReal": false },
+          { "id": "w9", "text": "pragmatic", "isReal": true },
+          { "id": "w10", "text": "threllic", "isReal": false },
+          { "id": "w11", "text": "lucid", "isReal": true },
+          { "id": "w12", "text": "vornacious", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Coral reefs cover only a tiny part of the ocean, yet they {{b1}} a remarkable share of all sea life. When the water grows too warm, the corals lose their colour and may slowly {{b2}} unless conditions improve.",
+        "text": "Many people check their phones late at night, not realising how much the bright screen can {{b1}} their sleep. Experts suggest a short, calm routine before bed to help the busy mind {{b2}} down.",
         "blanks": [
-          { "id": "b1", "full": "support", "keepHead": 3 },
-          { "id": "b2", "full": "starve", "keepHead": 3 }
+          { "id": "b1", "full": "disturb", "keepHead": 3 },
+          { "id": "b2", "full": "wind", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "A short walk after lunch may seem trivial, but it can noticeably {{b1}} the way the body handles sugar. Doctors increasingly {{b2}} that small, regular bursts of movement matter more than a single long session at the gym.",
+        "text": "Astronomers can now find planets around distant stars by measuring the tiny dip in light that occurs when a planet {{b1}} in front of its star. Each faint signal must be checked many times before scientists can {{b2}} that a new world truly exists.",
         "blanks": [
-          { "id": "b1", "full": "improve", "keepHead": 3 },
-          { "id": "b2", "full": "argue", "keepHead": 3 }
+          { "id": "b1", "full": "passes", "keepHead": 3 },
+          { "id": "b2", "full": "confirm", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Learning a musical instrument as an adult can feel slow, but steady practice gradually {{b1}} new connections in the brain. Many beginners give up too early, not realising how much they can {{b2}} in just a few months.",
+        "text": "A good soup does not need expensive ingredients; patience is what truly {{b1}} the flavour. If you let the vegetables cook slowly, their natural sweetness will gradually {{b2}} into the broth.",
         "blanks": [
-          { "id": "b1", "full": "builds", "keepHead": 3 },
-          { "id": "b2", "full": "achieve", "keepHead": 4 }
+          { "id": "b1", "full": "deepens", "keepHead": 3 },
+          { "id": "b2", "full": "seep", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "When teams work from different cities, clear writing becomes essential to {{b1}} confusion. A short, well-organised message can {{b2}} hours of unnecessary meetings and keep everyone moving in the same direction.",
+        "text": "Voice assistants have become surprisingly good at understanding everyday speech, yet they still {{b1}} with strong accents and noisy rooms. Engineers keep collecting new recordings so that the software can slowly {{b2}} from its mistakes.",
         "blanks": [
-          { "id": "b1", "full": "avoid", "keepHead": 3 },
-          { "id": "b2", "full": "replace", "keepHead": 4 }
+          { "id": "b1", "full": "struggle", "keepHead": 4 },
+          { "id": "b2", "full": "learn", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Rarely",
-            "after": "such a large flock of cranes settle so close to the city.",
-            "options": ["do we see", "we see", "we do see", "seeing"],
+            "before": "Not until the final chapter",
+            "after": "the true identity of the mysterious narrator.",
+            "options": ["does the author reveal", "the author reveals", "the author does reveal", "revealing"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "文頭の否定の副詞 Rarely により倒置が起こる。現在形の一般動詞では助動詞 do を主語の前に置き do we see となる。"
+            "explanation": "Not until が文頭に出ると倒置が起こる。現在形の一般動詞では助動詞 does を主語の前に置き does the author reveal となる。"
           },
           {
             "id": "g2",
-            "before": "The new policy is expected to",
-            "after": "a significant impact on small farms within a year.",
-            "options": ["have", "make", "take", "do"],
+            "before": "Policymakers are trying to",
+            "after": "a balance between economic growth and protecting the environment.",
+            "options": ["strike", "hit", "beat", "knock"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "have an impact on 〜 で「〜に影響を与える」。impact と結びつく動詞は have。"
+            "explanation": "strike a balance between A and B で「AとBの釣り合いを取る」。balance と結びつく動詞は strike。"
           },
           {
             "id": "g3",
-            "before": "The data were incomplete;",
-            "after": ", the researchers decided to repeat the whole experiment.",
-            "options": ["therefore", "however", "meanwhile", "instead"],
+            "before": "The experiment failed three times;",
+            "after": ", the team refused to give up.",
+            "options": ["nevertheless", "therefore", "for example", "as a result"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "データが不完全だった→だから実験をやり直した、という結果の流れ。結論を導く therefore が適切。"
+            "explanation": "三度失敗した→それでも諦めなかった、という逆接の流れ。前後が対立するので nevertheless が適切。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The volunteers worked hard to",
-            "after": "awareness of the river clean-up among local residents.",
-            "options": ["raise", "rise", "lift", "grow"],
+            "before": "The new manager quickly",
+            "after": "the trust of her team by listening carefully to everyone.",
+            "options": ["gained", "reached", "arrived", "caught"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "raise awareness で「意識を高める」。awareness と結びつく他動詞は raise。rise は自動詞で目的語を取れない。"
+            "explanation": "gain the trust of 〜 で「〜の信頼を得る」。trust と結びつく動詞は gain。"
           },
           {
             "id": "g2",
-            "before": "If the bridge",
-            "after": "repaired sooner, the accident might have been prevented.",
-            "options": ["had been", "was", "has been", "were"],
+            "before": "By the time we reached the hall, the meeting",
+            "after": "already, and the room was empty.",
+            "options": ["had ended", "ended", "has ended", "ends"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "後半が might have been prevented なので過去の事実に反する仮定。条件節は過去完了 had been を用いる。"
+            "explanation": "到着した過去の時点より前に終わっていたので、過去完了 had ended を用いる。"
           },
           {
             "id": "g3",
-            "before": "Her explanation was so",
-            "after": "that even complete beginners understood it at once.",
-            "options": ["clear", "vague", "complex", "dull"],
+            "before": "The instructions were so",
+            "after": "that nobody could tell which button to press first.",
+            "options": ["confusing", "obvious", "helpful", "simple"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "初心者がすぐ理解できた、という結果から、説明は「明快」だったと分かる。文意に合うのは clear。"
+            "explanation": "誰もどのボタンか分からなかった、という結果から、説明は「分かりにくい」と判断できる。文意に合うのは confusing。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Animals That Build for Free",
+        "title": "Lights in the Deep",
         "paragraphs": [
-          "For most of the last century, beavers were treated as a nuisance. Their dams flooded fields and blocked drains, and in many regions they were hunted until almost none remained. Rivers were straightened and lined with concrete so that water would rush away as quickly as possible.",
-          "Today that thinking is being quietly reversed. When beavers are allowed to return, the messy ponds and channels they create slow the flow of water, trap sediment, and keep moisture in the land during dry spells. The same dams that once seemed destructive now reduce flooding downstream and create rich habitats where fish, insects, and birds quickly multiply.",
-          "Reintroducing them is not without difficulty. A beaver does not read maps, and its dam may appear exactly where a farmer would rather it did not. Yet supporters point out that paying a team of engineers to manage water would cost far more than tolerating a few wet meadows. For a growing number of scientists, the cheapest river engineer is one that works for nothing more than a supply of wood."
+          "Sunlight fades quickly underwater. Below about a thousand metres, the ocean becomes a world of permanent darkness, colder and emptier than almost anywhere on land. For a long time, scientists assumed that so little could survive there that the deep sea was hardly worth studying.",
+          "In fact, the darkness is full of light. A surprising number of deep-sea animals make their own glow, a trick known as bioluminescence. Some use it to lure prey toward their jaws; others flash to confuse a predator or to signal a mate. In a place where the sun never reaches, a living spark can mean the difference between eating and being eaten.",
+          "Studying these creatures is far from easy. Bright submarine lamps frighten the animals away, and the pressure at such depths would crush an ordinary camera. Researchers have therefore built quiet vehicles with dim red lights, which most deep-sea species cannot see. Watching patiently in near-darkness, they are slowly learning that the deep ocean, once dismissed as a desert, is one of the liveliest places on Earth."
         ],
         "questions": [
           {
@@ -254,50 +254,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Once seen as pests, beavers are now valued for cheaply managing water and habitats.",
-              "Beavers should be hunted again because their dams always cause floods.",
-              "Concrete channels are the best way to control every river in the world.",
-              "Farmers and scientists fully agree that beavers cause no problems at all."
+              "The deep sea, once thought nearly lifeless, is full of animals that make their own light.",
+              "Sunlight reaches every part of the ocean, even far below the surface.",
+              "Deep-sea animals avoid light of any kind because it always harms them.",
+              "Scientists have decided the deep ocean is not worth exploring at all."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "During dry periods, the ponds made by beavers help the land keep its",
-            "after": "instead of losing it quickly.",
-            "options": ["moisture", "concrete", "sediment", "speed"],
+            "before": "Some deep-sea animals produce light in order to",
+            "after": "prey closer to their mouths.",
+            "options": ["lure", "push", "cool", "hide"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "ビーバーを戻すことの経済的な利点を示す語句はどれですか。",
+            "prompt": "深海の生物を観察することが難しい理由を示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "their dams flooded fields" },
-              { "id": "s2", "text": "would cost far more than tolerating a few wet meadows" },
-              { "id": "s3", "text": "a beaver does not read maps" },
-              { "id": "s4", "text": "rivers were straightened and lined with concrete" }
+              { "id": "s1", "text": "Sunlight fades quickly underwater" },
+              { "id": "s2", "text": "the pressure at such depths would crush an ordinary camera" },
+              { "id": "s3", "text": "a living spark can mean the difference between eating and being eaten" },
+              { "id": "s4", "text": "one of the liveliest places on Earth" }
             ],
             "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The goal was simple: get the rain to the sea before it could do any damage.",
+            "sentence": "To them, it looked like a cold, dark desert with nothing worth a closer look.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 0
           },
           {
             "kind": "summarize",
             "id": "q5",
-            "prompt": "筆者のビーバー再導入に対する見方として最も近いものはどれですか。",
+            "prompt": "研究者が深海の生物を観察する方法として本文に合うものはどれですか。",
             "options": [
-              "Broadly positive: the benefits are real, even if some practical conflicts remain.",
-              "Strongly opposed: beavers bring nothing but expensive destruction.",
-              "Completely neutral: the writer takes no side and offers no opinion.",
-              "Certain that beavers will soon disappear no matter what people do."
+              "They use dim red light, which most deep-sea animals cannot see, to watch without scaring them.",
+              "They shine the brightest possible lamps to force the animals to appear.",
+              "They have given up using vehicles and now dive by hand instead.",
+              "They study the deep sea only from photographs taken at the surface."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Tiny Forests in the City",
+        "title": "The Cafe Where Nothing Is Sold",
         "paragraphs": [
-          "On a small patch of land beside a busy road, a group of neighbours has planted hundreds of young trees, packed tightly together. The plot is no bigger than a tennis court, yet it has been given a grand name: a tiny forest. The idea, first developed in Japan, is now spreading to crowded cities around the world.",
-          "These tiny forests are designed to grow fast. Because the trees stand so close, they compete for light and shoot upward more quickly than trees planted far apart. Within a few years, the once-empty corner becomes a cool, green space that softens noise from traffic, offers shade on hot days, and gives birds and insects a place to live.",
-          "Residents say the benefits go beyond nature. Schoolchildren help with the planting and return to watch the forest change with the seasons. Neighbours who once barely spoke now meet to pull weeds and water seedlings together. A strip of land that nobody noticed has become a small source of pride for the whole street."
+          "In a community hall on the edge of town, a strange kind of cafe opens once a month. No one buys coffee or cake here. Instead, people arrive carrying broken toasters, torn jackets, and lamps that no longer light. They have come to a repair cafe, where volunteers help them fix the things they already own.",
+          "The idea is simple but powerful. Every year, households throw away mountains of items that could easily be mended. At the repair cafe, a retired electrician might bring a radio back to life, while a skilful sewer rescues a favourite coat. Visitors are encouraged to watch and learn, so that next time they can make the repair themselves.",
+          "The benefits reach beyond saving money and reducing waste. Strangers sit together at a workbench, sharing tools and stories, and a quiet street gains a new place to meet. For many who come, the mended object matters less than the feeling that their small skills are useful again."
         ],
         "questions": [
           {
@@ -329,31 +329,31 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Small, dense forests can quickly improve cities and bring neighbours together.",
-              "Cities should remove all trees to make room for wider roads.",
-              "Tiny forests take fifty years before they show any benefit at all.",
-              "Only farmers in the countryside can plant trees successfully."
+              "Repair cafes help people fix their belongings while cutting waste and bringing the community together.",
+              "Repair cafes are ordinary shops that sell cheap coffee and cake.",
+              "People should always throw broken items away instead of mending them.",
+              "Only trained engineers are allowed to enter a repair cafe."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The trees grow upward quickly because, standing close together, they must",
-            "after": "for light.",
-            "options": ["compete", "wait", "pay", "search slowly"],
+            "before": "At a repair cafe, volunteers help visitors",
+            "after": "their broken items instead of throwing them away.",
+            "options": ["mend", "sell", "buy", "hide"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "tiny forest が暑い日にもたらす利点を示す語句はどれですか。",
+            "prompt": "リペアカフェが環境に与える利点を示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "beside a busy road" },
-              { "id": "s2", "text": "offers shade on hot days" },
-              { "id": "s3", "text": "first developed in Japan" },
-              { "id": "s4", "text": "no bigger than a tennis court" }
+              { "id": "s1", "text": "carrying broken toasters, torn jackets, and lamps" },
+              { "id": "s2", "text": "saving money and reducing waste" },
+              { "id": "s3", "text": "sharing tools and stories" },
+              { "id": "s4", "text": "a retired electrician might bring a radio back to life" }
             ],
             "answerSpanId": "s2"
           },
@@ -362,10 +362,10 @@
             "id": "q4",
             "prompt": "第3段落が伝えている主な点はどれですか。",
             "options": [
-              "Besides helping nature, the project has brought local people closer together.",
-              "Schoolchildren are banned from visiting the tiny forest.",
-              "The neighbours argue constantly and refuse to work together.",
-              "The forest was removed because nobody cared about it."
+              "Besides cutting waste, the cafe gives people connection and a sense of being useful.",
+              "The cafe failed because no one wanted to repair anything.",
+              "Neighbours refuse to share their tools with one another.",
+              "The main purpose of the cafe is to make a large profit."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the updated schedule before the end of the day?",
+      "transcript": "Could you let me know as soon as the package arrives at the office?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves from platform seven at a quarter past eight.",
+      "transcript": "The museum opens at nine thirty and closes at half past five.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Had we known about the delay, we would have taken a different route.",
+      "transcript": "Were it not for the rain, we would have finished the whole project on time.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The volunteers planted dozens of young trees along the quiet riverbank.",
+      "transcript": "She spent the whole afternoon sorting old photographs into neat little boxes.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "A faint smell of fresh bread drifted through the narrow alley at dawn.",
+      "transcript": "The thick fog hid the distant hills until the early sun burned it away.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-21T00:00:00.000Z",
-      "updatedAt": "2026-06-21T00:00:00.000Z",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I am not sure whether we should wait for them or start without them.",
+      "transcript": "I cannot decide whether to take the bus or simply walk to the station.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
