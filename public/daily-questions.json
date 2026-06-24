@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-22",
+  "generatedAt": "2026-06-24",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "vivid", "isReal": true },
-          { "id": "w2", "text": "plential", "isReal": false },
-          { "id": "w3", "text": "sturdy", "isReal": true },
-          { "id": "w4", "text": "gromble", "isReal": false },
-          { "id": "w5", "text": "candid", "isReal": true },
-          { "id": "w6", "text": "swernt", "isReal": false },
-          { "id": "w7", "text": "brisk", "isReal": true },
-          { "id": "w8", "text": "frellow", "isReal": false },
-          { "id": "w9", "text": "humble", "isReal": true },
-          { "id": "w10", "text": "quandle", "isReal": false },
-          { "id": "w11", "text": "fragile", "isReal": true },
-          { "id": "w12", "text": "snithe", "isReal": false }
+          { "id": "w1", "text": "nimble", "isReal": true },
+          { "id": "w2", "text": "drancy", "isReal": false },
+          { "id": "w3", "text": "frugal", "isReal": true },
+          { "id": "w4", "text": "splonate", "isReal": false },
+          { "id": "w5", "text": "vibrant", "isReal": true },
+          { "id": "w6", "text": "grellid", "isReal": false },
+          { "id": "w7", "text": "mellow", "isReal": true },
+          { "id": "w8", "text": "tovish", "isReal": false },
+          { "id": "w9", "text": "rugged", "isReal": true },
+          { "id": "w10", "text": "blamise", "isReal": false },
+          { "id": "w11", "text": "drowsy", "isReal": true },
+          { "id": "w12", "text": "perltic", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "diligent", "isReal": true },
-          { "id": "w2", "text": "glomarate", "isReal": false },
-          { "id": "w3", "text": "eloquent", "isReal": true },
-          { "id": "w4", "text": "prentacious", "isReal": false },
-          { "id": "w5", "text": "intricate", "isReal": true },
-          { "id": "w6", "text": "borvent", "isReal": false },
-          { "id": "w7", "text": "tenacious", "isReal": true },
-          { "id": "w8", "text": "squanderic", "isReal": false },
-          { "id": "w9", "text": "pragmatic", "isReal": true },
-          { "id": "w10", "text": "threllic", "isReal": false },
-          { "id": "w11", "text": "lucid", "isReal": true },
-          { "id": "w12", "text": "vornacious", "isReal": false }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "glaventic", "isReal": false },
+          { "id": "w3", "text": "austere", "isReal": true },
+          { "id": "w4", "text": "mellurgic", "isReal": false },
+          { "id": "w5", "text": "prudent", "isReal": true },
+          { "id": "w6", "text": "frabicent", "isReal": false },
+          { "id": "w7", "text": "fervent", "isReal": true },
+          { "id": "w8", "text": "ostrenial", "isReal": false },
+          { "id": "w9", "text": "obscure", "isReal": true },
+          { "id": "w10", "text": "vindacrous", "isReal": false },
+          { "id": "w11", "text": "robust", "isReal": true },
+          { "id": "w12", "text": "sundrate", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Many people check their phones late at night, not realising how much the bright screen can {{b1}} their sleep. Experts suggest a short, calm routine before bed to help the busy mind {{b2}} down.",
+        "text": "Archaeologists rarely find whole objects; instead they patiently {{b1}} thousands of broken pieces from the soil. Each fragment is cleaned and labelled, and slowly a picture of an ancient town begins to {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "disturb", "keepHead": 3 },
-          { "id": "b2", "full": "wind", "keepHead": 2 }
+          { "id": "b1", "full": "recover", "keepHead": 3 },
+          { "id": "b2", "full": "emerge", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Astronomers can now find planets around distant stars by measuring the tiny dip in light that occurs when a planet {{b1}} in front of its star. Each faint signal must be checked many times before scientists can {{b2}} that a new world truly exists.",
+        "text": "Covering city rooftops with plants can noticeably {{b1}} the temperature of a building during hot summers. The layer of soil also {{b2}} rainwater that would otherwise flood the streets below.",
         "blanks": [
-          { "id": "b1", "full": "passes", "keepHead": 3 },
-          { "id": "b2", "full": "confirm", "keepHead": 3 }
+          { "id": "b1", "full": "reduce", "keepHead": 3 },
+          { "id": "b2", "full": "absorbs", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "A good soup does not need expensive ingredients; patience is what truly {{b1}} the flavour. If you let the vegetables cook slowly, their natural sweetness will gradually {{b2}} into the broth.",
+        "text": "While we sleep, the brain quietly {{b1}} the events of the day, deciding which memories are worth keeping. This is one reason a good night's rest can help students {{b2}} what they studied the evening before.",
         "blanks": [
-          { "id": "b1", "full": "deepens", "keepHead": 3 },
-          { "id": "b2", "full": "seep", "keepHead": 2 }
+          { "id": "b1", "full": "reviews", "keepHead": 3 },
+          { "id": "b2", "full": "retain", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Voice assistants have become surprisingly good at understanding everyday speech, yet they still {{b1}} with strong accents and noisy rooms. Engineers keep collecting new recordings so that the software can slowly {{b2}} from its mistakes.",
+        "text": "Old glass bottles are not simply thrown away; they are crushed, melted, and then {{b1}} into brand-new jars. Because glass can be used again and again, very little of it needs to {{b2}} in a landfill.",
         "blanks": [
-          { "id": "b1", "full": "struggle", "keepHead": 4 },
-          { "id": "b2", "full": "learn", "keepHead": 3 }
+          { "id": "b1", "full": "shaped", "keepHead": 3 },
+          { "id": "b2", "full": "remain", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Not until the final chapter",
-            "after": "the true identity of the mysterious narrator.",
-            "options": ["does the author reveal", "the author reveals", "the author does reveal", "revealing"],
+            "before": "Hardly had the train left the station",
+            "after": "the passengers began to search for their seats.",
+            "options": ["when", "than", "then", "that"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Not until が文頭に出ると倒置が起こる。現在形の一般動詞では助動詞 does を主語の前に置き does the author reveal となる。"
+            "explanation": "Hardly had ... when ... で「〜するやいなや…」。Hardly と相関するのは when。"
           },
           {
             "id": "g2",
-            "before": "Policymakers are trying to",
-            "after": "a balance between economic growth and protecting the environment.",
-            "options": ["strike", "hit", "beat", "knock"],
+            "before": "After weeks of research, the committee finally",
+            "after": "a conclusion about the cause of the problem.",
+            "options": ["drew", "made", "took", "pulled"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "strike a balance between A and B で「AとBの釣り合いを取る」。balance と結びつく動詞は strike。"
+            "explanation": "draw a conclusion で「結論を導き出す」。conclusion と結びつく動詞は draw。"
           },
           {
             "id": "g3",
-            "before": "The experiment failed three times;",
-            "after": ", the team refused to give up.",
-            "options": ["nevertheless", "therefore", "for example", "as a result"],
+            "before": "The road was completely blocked by snow;",
+            "after": ", we had to turn back and look for another route.",
+            "options": ["consequently", "however", "for instance", "meanwhile"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "三度失敗した→それでも諦めなかった、という逆接の流れ。前後が対立するので nevertheless が適切。"
+            "explanation": "道がふさがれた→だから引き返した、という因果関係。結果を表す consequently が適切。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The new manager quickly",
-            "after": "the trust of her team by listening carefully to everyone.",
-            "options": ["gained", "reached", "arrived", "caught"],
+            "before": "Students who",
+            "after": "close attention in class usually remember more.",
+            "options": ["pay", "give", "make", "do"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "gain the trust of 〜 で「〜の信頼を得る」。trust と結びつく動詞は gain。"
+            "explanation": "pay attention で「注意を払う」。attention と結びつく動詞は pay。"
           },
           {
             "id": "g2",
-            "before": "By the time we reached the hall, the meeting",
-            "after": "already, and the room was empty.",
-            "options": ["had ended", "ended", "has ended", "ends"],
+            "before": "If I",
+            "after": "more time yesterday, I would have visited the old castle.",
+            "options": ["had had", "had", "have had", "would have"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "到着した過去の時点より前に終わっていたので、過去完了 had ended を用いる。"
+            "explanation": "過去の事実に反する仮定（仮定法過去完了）。if 節は had + 過去分詞で had had となる。"
           },
           {
             "id": "g3",
-            "before": "The instructions were so",
-            "after": "that nobody could tell which button to press first.",
-            "options": ["confusing", "obvious", "helpful", "simple"],
+            "before": "The hotel staff were extremely",
+            "after": ", carrying our bags and answering every question with a smile.",
+            "options": ["helpful", "careless", "rude", "reluctant"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "誰もどのボタンか分からなかった、という結果から、説明は「分かりにくい」と判断できる。文意に合うのは confusing。"
+            "explanation": "荷物を運び、笑顔で質問に答えた→「親切な」。文意に合うのは helpful。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Lights in the Deep",
+        "title": "The Quiet Work of Bees",
         "paragraphs": [
-          "Sunlight fades quickly underwater. Below about a thousand metres, the ocean becomes a world of permanent darkness, colder and emptier than almost anywhere on land. For a long time, scientists assumed that so little could survive there that the deep sea was hardly worth studying.",
-          "In fact, the darkness is full of light. A surprising number of deep-sea animals make their own glow, a trick known as bioluminescence. Some use it to lure prey toward their jaws; others flash to confuse a predator or to signal a mate. In a place where the sun never reaches, a living spark can mean the difference between eating and being eaten.",
-          "Studying these creatures is far from easy. Bright submarine lamps frighten the animals away, and the pressure at such depths would crush an ordinary camera. Researchers have therefore built quiet vehicles with dim red lights, which most deep-sea species cannot see. Watching patiently in near-darkness, they are slowly learning that the deep ocean, once dismissed as a desert, is one of the liveliest places on Earth."
+          "When most people picture a bee, they think of honey. Yet the sweet substance in the jar is only a small part of what these insects do. As bees move from flower to flower in search of nectar, they carry grains of pollen on their hairy bodies, allowing plants to produce fruit and seeds.",
+          "This service, known as pollination, is worth far more than the honey itself. A large share of the crops we eat — apples, almonds, cucumbers, and many others — depend on insects to reproduce. Without their daily journeys between blossoms, supermarket shelves would look surprisingly bare.",
+          "In recent years, however, bee numbers have fallen in many regions. Scientists point to a mix of causes: vanishing wildflowers, certain pesticides, and diseases that spread quickly through crowded hives. Some cities have responded by planting flower-rich gardens and banning the most harmful chemicals, hoping that small local efforts will add up to a real difference."
         ],
         "questions": [
           {
@@ -254,50 +254,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "The deep sea, once thought nearly lifeless, is full of animals that make their own light.",
-              "Sunlight reaches every part of the ocean, even far below the surface.",
-              "Deep-sea animals avoid light of any kind because it always harms them.",
-              "Scientists have decided the deep ocean is not worth exploring at all."
+              "Bees matter most because of pollination, which many of our crops depend on, and their decline is now a serious concern.",
+              "Bees are useful only because they make large amounts of honey for people to eat.",
+              "Bees have no real effect on the fruit and vegetables that humans grow.",
+              "Scientists agree that bee numbers are rising quickly all over the world."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Some deep-sea animals produce light in order to",
-            "after": "prey closer to their mouths.",
-            "options": ["lure", "push", "cool", "hide"],
+            "before": "As bees look for nectar, they move pollen between flowers and help plants",
+            "after": "fruit and seeds.",
+            "options": ["produce", "destroy", "hide", "sell"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "深海の生物を観察することが難しい理由を示す語句はどれですか。",
+            "prompt": "ミツバチの数が減っている原因を示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "Sunlight fades quickly underwater" },
-              { "id": "s2", "text": "the pressure at such depths would crush an ordinary camera" },
-              { "id": "s3", "text": "a living spark can mean the difference between eating and being eaten" },
-              { "id": "s4", "text": "one of the liveliest places on Earth" }
+              { "id": "s1", "text": "they carry grains of pollen on their hairy bodies" },
+              { "id": "s2", "text": "worth far more than the honey itself" },
+              { "id": "s3", "text": "vanishing wildflowers, certain pesticides, and diseases" },
+              { "id": "s4", "text": "planting flower-rich gardens" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "To them, it looked like a cold, dark desert with nothing worth a closer look.",
+            "sentence": "In other words, these small creatures help put a great deal of our food on the table.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 0
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
-            "prompt": "研究者が深海の生物を観察する方法として本文に合うものはどれですか。",
+            "prompt": "第3段落で述べられている内容として最も適切なものはどれですか。",
             "options": [
-              "They use dim red light, which most deep-sea animals cannot see, to watch without scaring them.",
-              "They shine the brightest possible lamps to force the animals to appear.",
-              "They have given up using vehicles and now dive by hand instead.",
-              "They study the deep sea only from photographs taken at the surface."
+              "Bee numbers have dropped, and some cities are now planting flowers and limiting harmful chemicals to help.",
+              "Bee numbers have grown so much that cities are trying to remove them.",
+              "Scientists have found no possible reason for the change in bee numbers.",
+              "Cities have decided that protecting bees is impossible and have given up."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Cafe Where Nothing Is Sold",
+        "title": "A Room Full of Free Books",
         "paragraphs": [
-          "In a community hall on the edge of town, a strange kind of cafe opens once a month. No one buys coffee or cake here. Instead, people arrive carrying broken toasters, torn jackets, and lamps that no longer light. They have come to a repair cafe, where volunteers help them fix the things they already own.",
-          "The idea is simple but powerful. Every year, households throw away mountains of items that could easily be mended. At the repair cafe, a retired electrician might bring a radio back to life, while a skilful sewer rescues a favourite coat. Visitors are encouraged to watch and learn, so that next time they can make the repair themselves.",
-          "The benefits reach beyond saving money and reducing waste. Strangers sit together at a workbench, sharing tools and stories, and a quiet street gains a new place to meet. For many who come, the mended object matters less than the feeling that their small skills are useful again."
+          "The first public libraries were a quiet revolution. For centuries, books had been costly objects, owned mainly by the rich or kept behind the locked doors of universities. The idea that any ordinary person could walk in, borrow a book, and read it for free seemed almost shocking.",
+          "Supporters argued that free access to books would help everyone, not just scholars. A factory worker could study at night, a child could discover faraway places, and a curious mind could follow an interest without paying a penny. Knowledge, they believed, should belong to the whole community.",
+          "Today libraries offer far more than printed pages. Many lend films, host language classes, and provide computers for people who have none at home. Yet their original purpose has not changed: to make learning open to all, regardless of how much money a person has."
         ],
         "questions": [
           {
@@ -329,43 +329,43 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Repair cafes help people fix their belongings while cutting waste and bringing the community together.",
-              "Repair cafes are ordinary shops that sell cheap coffee and cake.",
-              "People should always throw broken items away instead of mending them.",
-              "Only trained engineers are allowed to enter a repair cafe."
+              "Public libraries were created to make books and learning free for everyone, and they still serve that goal today.",
+              "Public libraries were built only for wealthy people and university scholars.",
+              "Public libraries have stopped lending books and now sell them instead.",
+              "Public libraries charge a high fee for every book a person borrows."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "At a repair cafe, volunteers help visitors",
-            "after": "their broken items instead of throwing them away.",
-            "options": ["mend", "sell", "buy", "hide"],
+            "before": "Before public libraries existed, books were expensive and were owned mainly by",
+            "after": "or kept inside universities.",
+            "options": ["the rich", "children", "farmers", "strangers"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "リペアカフェが環境に与える利点を示す語句はどれですか。",
+            "prompt": "現代の図書館が本以外に提供しているものを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "carrying broken toasters, torn jackets, and lamps" },
-              { "id": "s2", "text": "saving money and reducing waste" },
-              { "id": "s3", "text": "sharing tools and stories" },
-              { "id": "s4", "text": "a retired electrician might bring a radio back to life" }
+              { "id": "s1", "text": "books had been costly objects" },
+              { "id": "s2", "text": "a factory worker could study at night" },
+              { "id": "s3", "text": "lend films, host language classes, and provide computers" },
+              { "id": "s4", "text": "owned mainly by the rich" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "summarize",
             "id": "q4",
-            "prompt": "第3段落が伝えている主な点はどれですか。",
+            "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Besides cutting waste, the cafe gives people connection and a sense of being useful.",
-              "The cafe failed because no one wanted to repair anything.",
-              "Neighbours refuse to share their tools with one another.",
-              "The main purpose of the cafe is to make a large profit."
+              "From the start until now, libraries have tried to make learning available to everyone for free.",
+              "Libraries have always been private places for the wealthy only.",
+              "Libraries are no longer useful because everyone already owns books.",
+              "Libraries were created mainly to make money from their readers."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Could you let me know as soon as the package arrives at the office?",
+      "transcript": "Would you mind sending me the report before you leave the office today?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum opens at nine thirty and closes at half past five.",
+      "transcript": "The train to the airport leaves at a quarter past seven from platform four.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Were it not for the rain, we would have finished the whole project on time.",
+      "transcript": "Had I known about the traffic, I would have taken the earlier train instead.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She spent the whole afternoon sorting old photographs into neat little boxes.",
+      "transcript": "We spent the entire weekend painting the fence and tidying up the garden.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The thick fog hid the distant hills until the early sun burned it away.",
+      "transcript": "The thin sheet of ice cracked loudly beneath the children's heavy boots.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-22T00:00:00.000Z",
-      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "createdAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-06-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I cannot decide whether to take the bus or simply walk to the station.",
+      "transcript": "I am not sure whether the shop is open on Sundays or only on weekdays.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",

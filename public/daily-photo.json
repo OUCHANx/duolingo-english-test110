@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-22",
-  "image": "/daily-photo.jpg?v=2026-06-22",
-  "prompt": "Describe what you see in this photo in detail: where it is, what objects are there, and what kind of atmosphere it has.",
-  "theme": "木の壁にかけられた三段の木製の棚。やかん・ティーポット・コーヒーポット・ランプ・小瓶などが並ぶ、素朴で温かいキッチンか小さなカフェ",
-  "modelAnswer": "This photo shows three wooden shelves on a wooden wall, like in a cozy kitchen or a small cafe. On the shelves, there are many kettles, teapots, and coffee pots in different colors. I can see a shiny silver coffee pot, a yellow jug, a dark glass bottle, a blue teapot, and a white teapot with a blue pattern. There are also two small oil lamps and a few little jars of herbs. Below the shelves, a small white sign asks people to use the sockets only for charging phones. No people are in the photo, but the place looks warm, tidy, and very charming.",
-  "modelAnswerJa": "この写真は、木の壁にかけられた三段の木製の棚を写しています。居心地のよいキッチンか小さなカフェのようです。棚の上には、やかん・ティーポット・コーヒーポットが、さまざまな色でたくさん並んでいます。光るシルバーのコーヒーポット、黄色の水差し、黒いガラス瓶、青いティーポット、青い模様の白いティーポットが見えます。小さなオイルランプが二つと、ハーブの入った小瓶もいくつかあります。棚の下には、「コンセントは携帯電話の充電だけに使ってください」と書かれた小さな白い札があります。写真に人はいませんが、その場所は暖かく、きちんと片づいていて、とても趣のある雰囲気です。",
+  "date": "2026-06-24",
+  "image": "/daily-photo.jpg?v=2026-06-24",
+  "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
+  "theme": "活気のある魚市場。氷の上に並ぶ大きな生のサーモン、看板を持つ若い店員、カモフラ柄の上着の男性、カニ脚やガラスケースの魚介",
+  "modelAnswer": "This photo shows a busy fish market, maybe in a big city. In the middle, there is a large pile of fresh fish lying on white ice. A young man with a beard stands behind the counter and holds a white sign that says \"Fresh Wild Alaskan King Salmon.\" On the left, another man in a camouflage jacket and a cap is working at the counter. Around them, I can see crab legs, glass cases full of seafood, and many small signs with prices. Warm lamps hang from the ceiling, and the whole place looks lively, fresh, and full of energy.",
+  "modelAnswerJa": "この写真は、たぶん大きな街にある、にぎやかな魚市場を写しています。真ん中には、白い氷の上に大きな生の魚がたくさん積まれています。ひげを生やした若い男性がカウンターの後ろに立ち、「新鮮な天然アラスカ産キングサーモン」と書かれた白い看板を持っています。左側では、カモフラージュ柄の上着と帽子をかぶったもう一人の男性がカウンターで働いています。その周りには、カニの脚や、魚介でいっぱいのガラスケース、値段が書かれたたくさんの小さな札が見えます。天井からは暖かい色の電球がぶら下がっていて、市場全体がとても活気があり、新鮮で、エネルギーに満ちて見えます。",
   "tips": [
-    { "term": "wooden shelves", "ja": "木の棚" },
-    { "term": "in different colors", "ja": "さまざまな色の" },
+    { "term": "fish market", "ja": "魚市場" },
+    { "term": "a pile of", "ja": "〜の山、たくさん積まれた〜" },
+    { "term": "fresh fish", "ja": "新鮮な魚" },
+    { "term": "behind the counter", "ja": "カウンターの後ろで" },
+    { "term": "hold a sign", "ja": "看板を持つ" },
     { "term": "I can see", "ja": "〜が見える" },
-    { "term": "there are", "ja": "〜がある" },
-    { "term": "teapot", "ja": "ティーポット" },
-    { "term": "below the shelves", "ja": "棚の下に" },
-    { "term": "looks warm and tidy", "ja": "暖かくきちんとして見える" }
+    { "term": "looks lively", "ja": "活気があるように見える" }
   ]
 }
