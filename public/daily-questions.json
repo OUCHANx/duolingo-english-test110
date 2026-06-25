@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-24",
+  "generatedAt": "2026-06-26",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "nimble", "isReal": true },
-          { "id": "w2", "text": "drancy", "isReal": false },
-          { "id": "w3", "text": "frugal", "isReal": true },
-          { "id": "w4", "text": "splonate", "isReal": false },
-          { "id": "w5", "text": "vibrant", "isReal": true },
-          { "id": "w6", "text": "grellid", "isReal": false },
-          { "id": "w7", "text": "mellow", "isReal": true },
-          { "id": "w8", "text": "tovish", "isReal": false },
-          { "id": "w9", "text": "rugged", "isReal": true },
-          { "id": "w10", "text": "blamise", "isReal": false },
-          { "id": "w11", "text": "drowsy", "isReal": true },
-          { "id": "w12", "text": "perltic", "isReal": false }
+          { "id": "w1", "text": "candid", "isReal": true },
+          { "id": "w2", "text": "prilken", "isReal": false },
+          { "id": "w3", "text": "brisk", "isReal": true },
+          { "id": "w4", "text": "snomable", "isReal": false },
+          { "id": "w5", "text": "sturdy", "isReal": true },
+          { "id": "w6", "text": "grentwist", "isReal": false },
+          { "id": "w7", "text": "vivid", "isReal": true },
+          { "id": "w8", "text": "plundisk", "isReal": false },
+          { "id": "w9", "text": "quaint", "isReal": true },
+          { "id": "w10", "text": "trellow", "isReal": false },
+          { "id": "w11", "text": "weary", "isReal": true },
+          { "id": "w12", "text": "brankle", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "meticulous", "isReal": true },
-          { "id": "w2", "text": "glaventic", "isReal": false },
-          { "id": "w3", "text": "austere", "isReal": true },
-          { "id": "w4", "text": "mellurgic", "isReal": false },
-          { "id": "w5", "text": "prudent", "isReal": true },
-          { "id": "w6", "text": "frabicent", "isReal": false },
-          { "id": "w7", "text": "fervent", "isReal": true },
-          { "id": "w8", "text": "ostrenial", "isReal": false },
-          { "id": "w9", "text": "obscure", "isReal": true },
-          { "id": "w10", "text": "vindacrous", "isReal": false },
-          { "id": "w11", "text": "robust", "isReal": true },
-          { "id": "w12", "text": "sundrate", "isReal": false }
+          { "id": "w1", "text": "tenacious", "isReal": true },
+          { "id": "w2", "text": "cendrall", "isReal": false },
+          { "id": "w3", "text": "lucid", "isReal": true },
+          { "id": "w4", "text": "morbasive", "isReal": false },
+          { "id": "w5", "text": "brusque", "isReal": true },
+          { "id": "w6", "text": "quandel", "isReal": false },
+          { "id": "w7", "text": "opaque", "isReal": true },
+          { "id": "w8", "text": "trantible", "isReal": false },
+          { "id": "w9", "text": "languid", "isReal": true },
+          { "id": "w10", "text": "fendrick", "isReal": false },
+          { "id": "w11", "text": "candour", "isReal": true },
+          { "id": "w12", "text": "splonurge", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Archaeologists rarely find whole objects; instead they patiently {{b1}} thousands of broken pieces from the soil. Each fragment is cleaned and labelled, and slowly a picture of an ancient town begins to {{b2}}.",
+        "text": "On steep hillsides, farmers carefully {{b1}} ripe coffee cherries by hand, choosing only the reddest ones. The beans inside are dried in the sun before they are {{b2}} and shipped to cafes around the world.",
         "blanks": [
-          { "id": "b1", "full": "recover", "keepHead": 3 },
-          { "id": "b2", "full": "emerge", "keepHead": 3 }
+          { "id": "b1", "full": "pick", "keepHead": 2 },
+          { "id": "b2", "full": "roasted", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Covering city rooftops with plants can noticeably {{b1}} the temperature of a building during hot summers. The layer of soil also {{b2}} rainwater that would otherwise flood the streets below.",
+        "text": "The gentle pull of the moon's gravity quietly {{b1}} the oceans, creating the daily rise and fall we call tides. Coastal animals have learned to {{b2}} their lives to this steady rhythm of water.",
         "blanks": [
-          { "id": "b1", "full": "reduce", "keepHead": 3 },
-          { "id": "b2", "full": "absorbs", "keepHead": 3 }
+          { "id": "b1", "full": "stretches", "keepHead": 4 },
+          { "id": "b2", "full": "adjust", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "While we sleep, the brain quietly {{b1}} the events of the day, deciding which memories are worth keeping. This is one reason a good night's rest can help students {{b2}} what they studied the evening before.",
+        "text": "Deep beneath a volcano, melted rock slowly {{b1}} until the pressure becomes too great to hold. When it finally escapes, hot lava can {{b2}} for miles across the surrounding land.",
         "blanks": [
-          { "id": "b1", "full": "reviews", "keepHead": 3 },
-          { "id": "b2", "full": "retain", "keepHead": 3 }
+          { "id": "b1", "full": "builds", "keepHead": 3 },
+          { "id": "b2", "full": "spread", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Old glass bottles are not simply thrown away; they are crushed, melted, and then {{b1}} into brand-new jars. Because glass can be used again and again, very little of it needs to {{b2}} in a landfill.",
+        "text": "When a language is no longer taught to children, it can quietly {{b1}} within a single generation. Researchers now race to {{b2}} these rare voices by recording their stories before they disappear.",
         "blanks": [
-          { "id": "b1", "full": "shaped", "keepHead": 3 },
-          { "id": "b2", "full": "remain", "keepHead": 3 }
+          { "id": "b1", "full": "vanish", "keepHead": 3 },
+          { "id": "b2", "full": "preserve", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Hardly had the train left the station",
-            "after": "the passengers began to search for their seats.",
-            "options": ["when", "than", "then", "that"],
+            "before": "Not only",
+            "after": "the new bridge reduce traffic, but it also made the journey far safer.",
+            "options": ["did", "does", "had", "was"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Hardly had ... when ... で「〜するやいなや…」。Hardly と相関するのは when。"
+            "explanation": "Not only が文頭に出ると倒置になる。動詞は過去なので did + 原形(reduce)。"
           },
           {
             "id": "g2",
-            "before": "After weeks of research, the committee finally",
-            "after": "a conclusion about the cause of the problem.",
-            "options": ["drew", "made", "took", "pulled"],
+            "before": "Her careless reply",
+            "after": "serious doubts about whether she had read the report at all.",
+            "options": ["raised", "lifted", "grew", "climbed"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "draw a conclusion で「結論を導き出す」。conclusion と結びつく動詞は draw。"
+            "explanation": "raise doubts で「疑念を抱かせる」。doubts と結びつく動詞は raise。"
           },
           {
             "id": "g3",
-            "before": "The road was completely blocked by snow;",
-            "after": ", we had to turn back and look for another route.",
-            "options": ["consequently", "however", "for instance", "meanwhile"],
+            "before": "The experiment failed several times;",
+            "after": ", the team refused to give up and tried a new method.",
+            "options": ["nevertheless", "therefore", "for example", "in short"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "道がふさがれた→だから引き返した、という因果関係。結果を表す consequently が適切。"
+            "explanation": "失敗した→それでも諦めなかった、という逆接。nevertheless が適切。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Students who",
-            "after": "close attention in class usually remember more.",
-            "options": ["pay", "give", "make", "do"],
+            "before": "You should",
+            "after": "a doctor if the pain does not go away in a few days.",
+            "options": ["see", "look", "watch", "stare"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "pay attention で「注意を払う」。attention と結びつく動詞は pay。"
+            "explanation": "see a doctor で「医者に診てもらう」。doctor と結びつく動詞は see。"
           },
           {
             "id": "g2",
-            "before": "If I",
-            "after": "more time yesterday, I would have visited the old castle.",
-            "options": ["had had", "had", "have had", "would have"],
+            "before": "By the time we reached the theatre, the play",
+            "after": "already begun.",
+            "options": ["had", "has", "was", "is"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "過去の事実に反する仮定（仮定法過去完了）。if 節は had + 過去分詞で had had となる。"
+            "explanation": "過去のある時点(到着した時)より前のこと→過去完了 had begun。"
           },
           {
             "id": "g3",
-            "before": "The hotel staff were extremely",
-            "after": ", carrying our bags and answering every question with a smile.",
-            "options": ["helpful", "careless", "rude", "reluctant"],
+            "before": "The instructions were so",
+            "after": "that nobody could understand what to do next.",
+            "options": ["confusing", "clear", "simple", "obvious"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "荷物を運び、笑顔で質問に答えた→「親切な」。文意に合うのは helpful。"
+            "explanation": "誰も理解できなかった→「紛らわしい」。文意に合うのは confusing。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Quiet Work of Bees",
+        "title": "The Cities Beneath the Waves",
         "paragraphs": [
-          "When most people picture a bee, they think of honey. Yet the sweet substance in the jar is only a small part of what these insects do. As bees move from flower to flower in search of nectar, they carry grains of pollen on their hairy bodies, allowing plants to produce fruit and seeds.",
-          "This service, known as pollination, is worth far more than the honey itself. A large share of the crops we eat — apples, almonds, cucumbers, and many others — depend on insects to reproduce. Without their daily journeys between blossoms, supermarket shelves would look surprisingly bare.",
-          "In recent years, however, bee numbers have fallen in many regions. Scientists point to a mix of causes: vanishing wildflowers, certain pesticides, and diseases that spread quickly through crowded hives. Some cities have responded by planting flower-rich gardens and banning the most harmful chemicals, hoping that small local efforts will add up to a real difference."
+          "From the surface, a coral reef can look like a field of colourful rock. In truth, it is alive. Each tiny coral animal builds a hard cup of limestone around itself, and over thousands of years these cups join together into vast structures that shelter about a quarter of all sea creatures.",
+          "The bright colours that draw divers come from microscopic plants living inside the coral. These plants make food from sunlight and share it with their hosts, while the coral gives them a safe place to grow. It is a partnership so close that neither side can thrive well alone.",
+          "When the sea grows too warm, however, the coral pushes out its tiny partners and turns a ghostly white. If the heat passes quickly, the plants may return; if it lingers, the reef slowly starves. Scientists now watch ocean temperatures closely, knowing that a few extra degrees can decide the fate of these underwater cities."
         ],
         "questions": [
           {
@@ -254,38 +254,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Bees matter most because of pollination, which many of our crops depend on, and their decline is now a serious concern.",
-              "Bees are useful only because they make large amounts of honey for people to eat.",
-              "Bees have no real effect on the fruit and vegetables that humans grow.",
-              "Scientists agree that bee numbers are rising quickly all over the world."
+              "A coral reef is a living, cooperative system that is full of life but easily harmed when the sea becomes too warm.",
+              "A coral reef is simply a field of colourful rock with no living creatures inside it.",
+              "Coral reefs grow faster and stronger whenever the surrounding water becomes warmer.",
+              "The plants inside coral harm the reef and should be removed to keep it healthy."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "As bees look for nectar, they move pollen between flowers and help plants",
-            "after": "fruit and seeds.",
-            "options": ["produce", "destroy", "hide", "sell"],
+            "before": "The plants inside the coral use sunlight to make food, which they then",
+            "after": "with the coral that shelters them.",
+            "options": ["share", "hide", "sell", "waste"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "ミツバチの数が減っている原因を示す語句はどれですか。",
+            "prompt": "海水温が高くなりすぎたときに起こることを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "they carry grains of pollen on their hairy bodies" },
-              { "id": "s2", "text": "worth far more than the honey itself" },
-              { "id": "s3", "text": "vanishing wildflowers, certain pesticides, and diseases" },
-              { "id": "s4", "text": "planting flower-rich gardens" }
+              { "id": "s1", "text": "these cups join together into vast structures" },
+              { "id": "s2", "text": "make food from sunlight and share it with their hosts" },
+              { "id": "s3", "text": "the coral pushes out its tiny partners and turns a ghostly white" },
+              { "id": "s4", "text": "Scientists now watch ocean temperatures closely" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "In other words, these small creatures help put a great deal of our food on the table.",
+            "sentence": "In this way, the animal and the plant depend on each other for their very survival.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -294,10 +294,10 @@
             "id": "q5",
             "prompt": "第3段落で述べられている内容として最も適切なものはどれですか。",
             "options": [
-              "Bee numbers have dropped, and some cities are now planting flowers and limiting harmful chemicals to help.",
-              "Bee numbers have grown so much that cities are trying to remove them.",
-              "Scientists have found no possible reason for the change in bee numbers.",
-              "Cities have decided that protecting bees is impossible and have given up."
+              "Warm water can force coral to lose its colour, and if the heat lasts, the reef may slowly die.",
+              "Warm water makes coral grow new colours and helps the reef become much larger.",
+              "Coral never reacts in any way to changes in the temperature of the sea.",
+              "Scientists have decided that ocean temperature has no effect on coral reefs."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "A Room Full of Free Books",
+        "title": "From Bitter Bean to Sweet Treat",
         "paragraphs": [
-          "The first public libraries were a quiet revolution. For centuries, books had been costly objects, owned mainly by the rich or kept behind the locked doors of universities. The idea that any ordinary person could walk in, borrow a book, and read it for free seemed almost shocking.",
-          "Supporters argued that free access to books would help everyone, not just scholars. A factory worker could study at night, a child could discover faraway places, and a curious mind could follow an interest without paying a penny. Knowledge, they believed, should belong to the whole community.",
-          "Today libraries offer far more than printed pages. Many lend films, host language classes, and provide computers for people who have none at home. Yet their original purpose has not changed: to make learning open to all, regardless of how much money a person has."
+          "Long before chocolate filled shop windows, it was a bitter drink. In ancient Central America, people roasted cacao beans, ground them into a paste, and mixed them with water and spices. The result was sharp and frothy, nothing like the sweet bars we know today.",
+          "When the drink finally reached Europe, cooks began adding sugar to soften its bitter taste. For a long time it remained a luxury, sipped only by the wealthy in grand houses. Making it by hand was slow work, so very few people could afford to enjoy it often.",
+          "Everything changed when machines arrived. New factories could grind the beans, add milk and sugar, and pour the mixture into moulds quickly and cheaply. Chocolate that had once been a treat for kings was suddenly within reach of ordinary families, and it has stayed popular ever since."
         ],
         "questions": [
           {
@@ -329,31 +329,31 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Public libraries were created to make books and learning free for everyone, and they still serve that goal today.",
-              "Public libraries were built only for wealthy people and university scholars.",
-              "Public libraries have stopped lending books and now sell them instead.",
-              "Public libraries charge a high fee for every book a person borrows."
+              "Chocolate began as a bitter drink and slowly became the sweet, affordable treat that almost anyone can enjoy today.",
+              "Chocolate has always been a cheap, sweet bar that everyone could easily buy.",
+              "Chocolate was first invented in modern European factories only a few years ago.",
+              "Chocolate is still a bitter drink that only very wealthy people are able to enjoy."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Before public libraries existed, books were expensive and were owned mainly by",
-            "after": "or kept inside universities.",
-            "options": ["the rich", "children", "farmers", "strangers"],
+            "before": "In ancient Central America, the cacao drink tasted bitter because no",
+            "after": "had been added to it.",
+            "options": ["sugar", "water", "spice", "paste"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "現代の図書館が本以外に提供しているものを示す語句はどれですか。",
+            "prompt": "チョコレートが安く大量に作れるようになった理由を示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "books had been costly objects" },
-              { "id": "s2", "text": "a factory worker could study at night" },
-              { "id": "s3", "text": "lend films, host language classes, and provide computers" },
-              { "id": "s4", "text": "owned mainly by the rich" }
+              { "id": "s1", "text": "people roasted cacao beans, ground them into a paste" },
+              { "id": "s2", "text": "sipped only by the wealthy in grand houses" },
+              { "id": "s3", "text": "New factories could grind the beans, add milk and sugar, and pour the mixture into moulds quickly and cheaply" },
+              { "id": "s4", "text": "The result was sharp and frothy" }
             ],
             "answerSpanId": "s3"
           },
@@ -362,10 +362,10 @@
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "From the start until now, libraries have tried to make learning available to everyone for free.",
-              "Libraries have always been private places for the wealthy only.",
-              "Libraries are no longer useful because everyone already owns books.",
-              "Libraries were created mainly to make money from their readers."
+              "Over time, chocolate changed from a costly bitter drink into a sweet treat that ordinary people can afford.",
+              "Chocolate has become far more expensive and harder to find than ever before.",
+              "Chocolate was always sweet and was never made or served as a drink.",
+              "Only machines in ancient times were ever able to make chocolate."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the report before you leave the office today?",
+      "transcript": "Could you let me know as soon as the package arrives at the front desk?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train to the airport leaves at a quarter past seven from platform four.",
+      "transcript": "The museum opens at nine thirty and the last tickets are sold at half past four.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Had I known about the traffic, I would have taken the earlier train instead.",
+      "transcript": "Were it not for the rain, we would have finished painting the entire house today.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "We spent the entire weekend painting the fence and tidying up the garden.",
+      "transcript": "She promised to call me back the moment she got out of the meeting.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The thin sheet of ice cracked loudly beneath the children's heavy boots.",
+      "transcript": "The clever thief slipped through the narrow gap without making a single sound.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-24T00:00:00.000Z",
-      "updatedAt": "2026-06-24T00:00:00.000Z",
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I am not sure whether the shop is open on Sundays or only on weekdays.",
+      "transcript": "I can't decide whether to take the bus or simply walk to the station.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
