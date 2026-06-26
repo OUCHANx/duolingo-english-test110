@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-26",
-  "image": "/daily-photo.jpg?v=2026-06-26",
+  "date": "2026-06-27",
+  "image": "/daily-photo.jpg?v=2026-06-27",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "にぎやかなベーカリー兼カフェ「Tiong Bahru Bakery」。歩道の長いカウンターで丸い椅子に座り、食事やコーヒーを楽しむ大勢の人々。白黒写真。",
-  "modelAnswer": "This black-and-white photo shows a busy bakery and cafe called \"Tiong Bahru Bakery.\" Many people are sitting on round wooden stools at a long counter on the sidewalk outside the shop. They are eating bread and drinking coffee while they talk to each other. Behind them, there are big glass windows, and you can see more food and people inside. One woman near the window is drinking from a cup, and a man in a white shirt sits next to her. It is a warm, friendly place, and everyone looks relaxed and happy to be there together.",
-  "modelAnswerJa": "この白黒写真は、「Tiong Bahru Bakery」という名前のにぎやかなベーカリー兼カフェを写しています。たくさんの人が、店の外の歩道にある長いカウンターで、丸い木の椅子に座っています。彼らはおしゃべりをしながら、パンを食べたりコーヒーを飲んだりしています。後ろには大きなガラスの窓があり、中にもっと多くの食べ物や人が見えます。窓のそばの一人の女性はカップから飲み物を飲んでいて、その隣には白いシャツを着た男性が座っています。そこは温かくて親しみやすい場所で、みんなくつろいで、一緒にいられて楽しそうに見えます。",
+  "theme": "屋外イベントでのバイクのスタントショー。緑色の小型バイクに乗った3人の若いライダーがヘルメットをかぶり、技を見せている。後ろの柵の向こうには大勢の観客とテントが見える。",
+  "modelAnswer": "This photo shows an exciting motorbike show at an outdoor event. Three young riders are sitting on small green dirt bikes on a grassy field. They are all wearing helmets and dark suits to stay safe. The rider in the middle is standing up on his bike and reaching out to touch the others, like a team trick. Behind them, a big crowd of people stands behind a metal fence and watches closely. There are white tents and a large building in the background, so it looks like a fair or a sports day. The sky is bright, and the whole place feels busy, fun, and full of energy.",
+  "modelAnswerJa": "この写真は、屋外のイベントで行われているわくわくするバイクショーを写しています。3人の若いライダーが、芝生の上で緑色の小さなオフロードバイクに乗っています。彼らはみんな、安全のためにヘルメットと黒っぽいスーツを身につけています。真ん中のライダーはバイクの上に立ち上がり、まるでチームの技のように、ほかの二人に手を伸ばして触れています。後ろでは、大勢の人々が金属の柵の向こうに立ち、じっと見ています。背景には白いテントや大きな建物があるので、お祭りかスポーツの日のように見えます。空は明るく、その場所全体がにぎやかで、楽しく、活気に満ちている感じがします。",
   "tips": [
-    { "term": "bakery", "ja": "パン屋、ベーカリー" },
-    { "term": "sit on a stool", "ja": "丸椅子に座る" },
-    { "term": "at a counter", "ja": "カウンターで" },
-    { "term": "on the sidewalk", "ja": "歩道で" },
-    { "term": "drink coffee", "ja": "コーヒーを飲む" },
-    { "term": "talk to each other", "ja": "お互いに話す" },
-    { "term": "look relaxed", "ja": "くつろいで見える" }
+    { "term": "outdoor event", "ja": "屋外のイベント" },
+    { "term": "wear a helmet", "ja": "ヘルメットをかぶる" },
+    { "term": "ride a bike", "ja": "バイクに乗る" },
+    { "term": "stand up", "ja": "立ち上がる" },
+    { "term": "a crowd of people", "ja": "大勢の人々" },
+    { "term": "in the background", "ja": "背景に" },
+    { "term": "full of energy", "ja": "活気に満ちて" }
   ]
 }
