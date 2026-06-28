@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-27",
+  "generatedAt": "2026-06-28",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "fragile", "isReal": true },
-          { "id": "w2", "text": "drempic", "isReal": false },
-          { "id": "w3", "text": "nimble", "isReal": true },
-          { "id": "w4", "text": "flornest", "isReal": false },
-          { "id": "w5", "text": "humble", "isReal": true },
-          { "id": "w6", "text": "skavrid", "isReal": false },
-          { "id": "w7", "text": "lofty", "isReal": true },
-          { "id": "w8", "text": "thrundle", "isReal": false },
-          { "id": "w9", "text": "earnest", "isReal": true },
-          { "id": "w10", "text": "blentor", "isReal": false },
-          { "id": "w11", "text": "rugged", "isReal": true },
-          { "id": "w12", "text": "quemark", "isReal": false }
+          { "id": "w1", "text": "vivid", "isReal": true },
+          { "id": "w2", "text": "blantor", "isReal": false },
+          { "id": "w3", "text": "graceful", "isReal": true },
+          { "id": "w4", "text": "trompish", "isReal": false },
+          { "id": "w5", "text": "weary", "isReal": true },
+          { "id": "w6", "text": "glemount", "isReal": false },
+          { "id": "w7", "text": "sturdy", "isReal": true },
+          { "id": "w8", "text": "cranvel", "isReal": false },
+          { "id": "w9", "text": "tidy", "isReal": true },
+          { "id": "w10", "text": "spondle", "isReal": false },
+          { "id": "w11", "text": "loyal", "isReal": true },
+          { "id": "w12", "text": "frquasive", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "prudent", "isReal": true },
-          { "id": "w2", "text": "vascondel", "isReal": false },
-          { "id": "w3", "text": "fervent", "isReal": true },
-          { "id": "w4", "text": "morasque", "isReal": false },
-          { "id": "w5", "text": "astute", "isReal": true },
-          { "id": "w6", "text": "crindleck", "isReal": false },
-          { "id": "w7", "text": "candid", "isReal": true },
-          { "id": "w8", "text": "plendoric", "isReal": false },
-          { "id": "w9", "text": "frugal", "isReal": true },
-          { "id": "w10", "text": "trindaceous", "isReal": false },
-          { "id": "w11", "text": "robust", "isReal": true },
-          { "id": "w12", "text": "gornwhistle", "isReal": false }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "garnolent", "isReal": false },
+          { "id": "w3", "text": "tenacious", "isReal": true },
+          { "id": "w4", "text": "vembrical", "isReal": false },
+          { "id": "w5", "text": "lucid", "isReal": true },
+          { "id": "w6", "text": "phrandic", "isReal": false },
+          { "id": "w7", "text": "buoyant", "isReal": true },
+          { "id": "w8", "text": "stelorous", "isReal": false },
+          { "id": "w9", "text": "eloquent", "isReal": true },
+          { "id": "w10", "text": "drancible", "isReal": false },
+          { "id": "w11", "text": "resilient", "isReal": true },
+          { "id": "w12", "text": "quimbral", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "While we sleep, the brain quietly {{b1}} the events of the day, deciding which memories to keep and which to let go. Without enough rest, it becomes far harder to {{b2}} new information the next morning.",
+        "text": "An octopus can change the colour of its skin in less than a second, {{b1}} almost perfectly into the rocks and sand around it. This clever trick helps it to {{b2}} hungry predators that patrol the sea floor.",
         "blanks": [
-          { "id": "b1", "full": "sorts", "keepHead": 3 },
-          { "id": "b2", "full": "absorb", "keepHead": 3 }
+          { "id": "b1", "full": "blending", "keepHead": 4 },
+          { "id": "b2", "full": "escape", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "A single honeybee may visit hundreds of flowers a day, {{b1}} pollen on its furry legs as it goes. This quiet work helps countless plants to {{b2}} fruit, feeding both wild animals and human farmers alike.",
+        "text": "Deep beneath the ocean, hidden volcanoes slowly {{b1}} layers of rock onto the sea floor, building mountains that may one day rise above the waves. Over millions of years, these eruptions can {{b2}} entirely new islands where life eventually takes hold.",
         "blanks": [
-          { "id": "b1", "full": "gathering", "keepHead": 4 },
-          { "id": "b2", "full": "produce", "keepHead": 3 }
+          { "id": "b1", "full": "deposit", "keepHead": 3 },
+          { "id": "b2", "full": "create", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Old smartphones often sit forgotten in drawers, yet they {{b1}} small amounts of valuable metals like gold and copper. Special recycling plants can carefully {{b2}} these materials and use them to build new devices.",
+        "text": "When a new employee joins a team, a friendly welcome can {{b1}} a lasting impression and ease early nerves. Managers who take the time to {{b2}} clear goals often see people settle in far more quickly.",
         "blanks": [
-          { "id": "b1", "full": "contain", "keepHead": 3 },
-          { "id": "b2", "full": "recover", "keepHead": 4 }
+          { "id": "b1", "full": "leave", "keepHead": 2 },
+          { "id": "b2", "full": "explain", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Regular exercise does more than strengthen the body; it also {{b1}} the mind by easing stress and lifting mood. Even a short daily walk can noticeably {{b2}} how clearly we think and focus.",
+        "text": "Drinking enough water throughout the day helps the body {{b1}} a steady temperature, even during hard exercise. When we forget to drink, we may soon feel tired and find it hard to {{b2}} on simple tasks.",
         "blanks": [
-          { "id": "b1", "full": "benefits", "keepHead": 4 },
-          { "id": "b2", "full": "improve", "keepHead": 3 }
+          { "id": "b1", "full": "maintain", "keepHead": 4 },
+          { "id": "b2", "full": "concentrate", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Rarely",
-            "after": "such a sudden change in the climate of an entire region within just a few decades.",
-            "options": ["have scientists seen", "scientists have seen", "scientists saw", "did scientists seen"],
+            "before": "Not until the final results were published",
+            "after": "the full scale of the discovery.",
+            "options": ["did the team realise", "the team realised", "the team did realise", "realised the team"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Rarely が文頭に出ると倒置になり、助動詞が主語の前に来る。現在完了なので have scientists seen が正しい。"
+            "explanation": "Not until ... が文頭に出ると倒置になり、助動詞 did が主語の前に来る。did the team realise が正しい。"
           },
           {
             "id": "g2",
-            "before": "The new policy is expected to",
-            "after": "a significant difference to the lives of low-income families.",
-            "options": ["make", "do", "give", "take"],
+            "before": "The researchers were careful to",
+            "after": "attention to even the smallest details in their data.",
+            "options": ["pay", "make", "give", "do"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "make a difference で「違いを生む・影響を与える」。difference と結びつく動詞は make。"
+            "explanation": "pay attention to で「～に注意を払う」。attention と結びつく動詞は pay。"
           },
           {
             "id": "g3",
-            "before": "The data looked promising at first;",
-            "after": ", a closer review revealed several serious errors.",
-            "options": ["however", "therefore", "likewise", "meanwhile"],
+            "before": "The first experiment failed completely;",
+            "after": ", the second one produced surprisingly clear results.",
+            "options": ["nevertheless", "therefore", "for example", "in addition"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "有望に見えた→しかし誤りが判明、という逆接。however が適切。"
+            "explanation": "失敗→それでも次は成功、という逆接・対比。nevertheless が適切。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Before the interview, she spent an hour",
-            "after": "research on the company and its products.",
-            "options": ["doing", "making", "taking", "giving"],
+            "before": "After months of training, the runner finally managed to",
+            "after": "her personal record by almost a minute.",
+            "options": ["break", "destroy", "crack", "cut"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "do research で「調査をする」。research と結びつく動詞は do。"
+            "explanation": "break a record で「記録を破る」。record と結びつく動詞は break。"
           },
           {
             "id": "g2",
-            "before": "If I",
-            "after": "more carefully, I would not have missed the final train.",
-            "options": ["had planned", "have planned", "planned", "would plan"],
+            "before": "By the time the guests arrived, we",
+            "after": "the whole house and prepared a warm meal.",
+            "options": ["had cleaned", "have cleaned", "cleaned", "were cleaning"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "過去の事実に反する仮定→仮定法過去完了 If I had planned ... I would not have missed。"
+            "explanation": "客が着いた時点より前に終えていた動作→過去完了 had cleaned。"
           },
           {
             "id": "g3",
-            "before": "The manager gave clear and",
-            "after": "instructions, so the whole team knew exactly what to do.",
-            "options": ["precise", "vague", "doubtful", "random"],
+            "before": "The instructions were so",
+            "after": "that nobody in the class could understand what to do.",
+            "options": ["confusing", "obvious", "helpful", "simple"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "全員が正確に理解できた→「正確な」。文意に合うのは precise。"
+            "explanation": "誰も理解できなかった→「分かりにくい・混乱させる」。文意に合うのは confusing。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Hidden Work of Sleep",
+        "title": "The Clever Mind of the Octopus",
         "paragraphs": [
-          "For a long time, sleep was treated as little more than wasted time, an empty pause between the busy hours of waking life. Yet research over the past few decades has shown the opposite. While the body lies still, the brain remains remarkably active, carrying out tasks that simply cannot be done while we are awake.",
-          "One of these tasks is sorting through memories. During the night, the brain replays parts of the day, strengthening the connections that matter and quietly fading those that do not. This is why students who sleep well after studying often remember far more than those who stay up late trying to force the facts into their heads.",
-          "Sleep also acts as a kind of cleaning service. As we rest, the brain flushes away waste products that build up during the day. When we miss this nightly clean, the effects soon show: our mood darkens, our attention wanders, and even simple decisions begin to feel strangely difficult."
+          "Of all the creatures in the sea, few are as surprising as the octopus. With a soft, boneless body and eight curling arms, it looks nothing like the animals we usually call intelligent. Yet scientists who study it have come to see it as one of the cleverest creatures in the ocean, capable of solving problems that would puzzle many a larger animal.",
+          "Much of its talent lies in those eight arms. Each arm is lined with hundreds of sensitive suckers that can taste as well as touch, and a large share of the animal's nerve cells are spread through the arms rather than packed inside its head. In a sense, an octopus does not simply think with its brain; it also thinks, in part, with its limbs, which can explore and react almost on their own.",
+          "This unusual body gives the octopus remarkable skills. In laboratory tanks, individuals have learned to open screw-top jars to reach the food inside, and some have slipped out of their tanks at night to raid a neighbour's supper before returning unseen. Such behaviour hints at curiosity and memory, qualities we rarely expect to find in an animal so distant from ourselves on the tree of life."
         ],
         "questions": [
           {
@@ -254,38 +254,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Far from being wasted time, sleep is an active period in which the brain sorts memories and clears away waste.",
-              "Sleep is simply an empty pause that has no real effect on how the brain works.",
-              "People who sleep less than others always remember information much better.",
-              "The brain completely shuts down and does nothing at all while we are asleep."
+              "Despite its strange body, the octopus is a remarkably intelligent animal that can learn and solve problems.",
+              "The octopus is a simple creature whose behaviour shows no sign of memory or curiosity.",
+              "Octopuses are dangerous animals that scientists are afraid to keep in laboratory tanks.",
+              "The intelligence of the octopus comes entirely from its brain and not from its arms."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Students who sleep well after studying tend to remember more because the brain",
-            "after": "the important connections during the night.",
-            "options": ["strengthens", "deletes", "ignores", "hides"],
+            "before": "The octopus is unusual because many of its nerve cells are found in its arms rather than",
+            "after": "inside its head.",
+            "options": ["packed", "missing", "frozen", "hidden"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "睡眠が脳の「掃除」の役割を果たすことを示す語句はどれですか。",
+            "prompt": "オクトパスが賢い行動をとった具体例を示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the brain remains remarkably active" },
-              { "id": "s2", "text": "the brain replays parts of the day" },
-              { "id": "s3", "text": "the brain flushes away waste products that build up during the day" },
-              { "id": "s4", "text": "our mood darkens, our attention wanders" }
+              { "id": "s1", "text": "a soft, boneless body and eight curling arms" },
+              { "id": "s2", "text": "hundreds of sensitive suckers that can taste as well as touch" },
+              { "id": "s3", "text": "learned to open screw-top jars to reach the food inside" },
+              { "id": "s4", "text": "an animal so distant from ourselves on the tree of life" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "In other words, a good night's rest can do more for learning than an extra hour of late-night study.",
+            "sentence": "In other words, its intelligence seems to be spread throughout its body rather than gathered in one place.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -294,10 +294,10 @@
             "id": "q5",
             "prompt": "第3段落で述べられている内容として最も適切なものはどれですか。",
             "options": [
-              "During sleep the brain removes waste, and missing this rest soon harms mood, attention, and decisions.",
-              "Sleep adds waste to the brain, which is why we feel refreshed in the morning.",
-              "Missing sleep has no effect on mood or on the ability to make simple decisions.",
-              "The brain cleans itself only while we are awake and busy during the day."
+              "In experiments, octopuses have opened jars and even escaped their tanks, showing curiosity and memory.",
+              "Octopuses in laboratories refuse to eat and never try to leave their tanks.",
+              "Scientists have found that octopuses cannot remember anything for more than a few seconds.",
+              "Octopuses build their own tanks at night and share food with their neighbours."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Tiny Workers of the Garden",
+        "title": "How Tea Travelled the World",
         "paragraphs": [
-          "When we picture a bee, we often think only of its sting or its honey. Yet the real importance of bees lies in something far quieter. As they fly from flower to flower in search of food, they carry tiny grains of pollen on their bodies, helping plants to make seeds and fruit.",
-          "This service, known as pollination, is worth far more than the honey bees produce. A large share of the fruits and vegetables we eat depends on insects to spread their pollen. Without these visits, many crops would yield little, and our meals would become much smaller and far less colourful.",
-          "In recent years, however, bee numbers have fallen in many parts of the world. Disease, the loss of wild flowers, and the heavy use of chemicals on farms have all played a part. Some cities have begun to respond by planting flowers along roads and on rooftops, giving these small but vital workers a place to feed once more."
+          "Today tea is one of the most popular drinks on the planet, yet its story began thousands of years ago in the hills of southern China. According to an old legend, a few wild leaves once drifted into a pot of boiling water, giving off such a pleasant smell that people decided to drink the result. Whether or not the tale is true, tea soon became part of daily life across the region.",
+          "For many centuries, the secret of growing and preparing tea stayed within China. Merchants carried dried leaves along busy trade routes, and the drink slowly reached neighbouring lands, where it took on new customs and flavours. In some places it was served plain and hot; in others, people added milk, spices, or sugar to suit their own taste.",
+          "When European traders arrived by sea, tea began its longest journey of all. Ships carried heavy chests of leaves across the oceans, and the drink became fashionable in distant cities far from where it grew. In time, tea was no longer the product of a single country but a shared pleasure enjoyed in countless forms around the world."
         ],
         "questions": [
           {
@@ -329,31 +329,31 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Bees matter most because they pollinate the crops we eat, yet their numbers are falling and need our help.",
-              "Bees are important only because of the honey and the sting that they give us.",
-              "The number of bees in the world has grown quickly and there is nothing to worry about.",
-              "Cities have decided that planting flowers does nothing to help bees survive."
+              "Tea began in China and gradually spread around the world, taking on new customs along the way.",
+              "Tea was invented in Europe and later carried by ships to China for the first time.",
+              "Tea has always been served in exactly the same way in every country.",
+              "Tea was never traded between countries and stayed only in southern China."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Bees help plants make seeds and fruit by carrying tiny grains of",
-            "after": "from one flower to another.",
-            "options": ["pollen", "honey", "water", "sugar"],
+            "before": "For many centuries, the knowledge of how to grow and prepare tea",
+            "after": "within China alone.",
+            "options": ["stayed", "vanished", "arrived", "spread"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "ハチの数が減っている原因を示す語句はどれですか。",
+            "prompt": "国によって茶の楽しみ方が違ったことを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "they carry tiny grains of pollen on their bodies" },
-              { "id": "s2", "text": "this service, known as pollination, is worth far more than the honey" },
-              { "id": "s3", "text": "Disease, the loss of wild flowers, and the heavy use of chemicals on farms" },
-              { "id": "s4", "text": "planting flowers along roads and on rooftops" }
+              { "id": "s1", "text": "a few wild leaves once drifted into a pot of boiling water" },
+              { "id": "s2", "text": "Merchants carried dried leaves along busy trade routes" },
+              { "id": "s3", "text": "people added milk, spices, or sugar to suit their own taste" },
+              { "id": "s4", "text": "Ships carried heavy chests of leaves across the oceans" }
             ],
             "answerSpanId": "s3"
           },
@@ -362,10 +362,10 @@
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Bees quietly support our food supply through pollination, but they are in decline and cities are starting to help.",
-              "Bees are mainly a danger to people and should be removed from gardens and farms.",
-              "Honey is the only reason that bees are useful to humans in any way.",
-              "Bee numbers are rising everywhere, so no action is needed to protect them."
+              "From its beginnings in China, tea spread through trade and sea travel to become a shared drink enjoyed worldwide.",
+              "Tea remained a secret known only to a few merchants and was never enjoyed outside China.",
+              "European ships destroyed the tea trade and stopped the drink from spreading any further.",
+              "Tea became popular only because every country prepared it in exactly one fixed way."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the updated schedule before you leave the office today?",
+      "transcript": "Could you let me know as soon as the report is ready for review?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves at a quarter to seven, so we should arrive by six forty.",
+      "transcript": "The museum opens at half past nine and closes around five thirty.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Had I known about the storm, I would never have planned the trip for this weekend.",
+      "transcript": "Were it not for the heavy rain, we would have finished the garden by now.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "He kept checking his phone as though he were waiting for important news.",
+      "transcript": "She spoke as if she had already heard the news from someone else.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The fresh bread crackled softly as she sliced through its golden crust.",
+      "transcript": "The thick fog drifted slowly through the valley before the morning sun broke through.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-27T00:00:00.000Z",
-      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I'm not sure whether we should wait for them or start the meeting without them.",
+      "transcript": "I can't decide whether to take the early flight or wait until the afternoon.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
