@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-27",
-  "image": "/daily-photo.jpg?v=2026-06-27",
+  "date": "2026-06-28",
+  "image": "/daily-photo.jpg?v=2026-06-28",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "屋外イベントでのバイクのスタントショー。緑色の小型バイクに乗った3人の若いライダーがヘルメットをかぶり、技を見せている。後ろの柵の向こうには大勢の観客とテントが見える。",
-  "modelAnswer": "This photo shows an exciting motorbike show at an outdoor event. Three young riders are sitting on small green dirt bikes on a grassy field. They are all wearing helmets and dark suits to stay safe. The rider in the middle is standing up on his bike and reaching out to touch the others, like a team trick. Behind them, a big crowd of people stands behind a metal fence and watches closely. There are white tents and a large building in the background, so it looks like a fair or a sports day. The sky is bright, and the whole place feels busy, fun, and full of energy.",
-  "modelAnswerJa": "この写真は、屋外のイベントで行われているわくわくするバイクショーを写しています。3人の若いライダーが、芝生の上で緑色の小さなオフロードバイクに乗っています。彼らはみんな、安全のためにヘルメットと黒っぽいスーツを身につけています。真ん中のライダーはバイクの上に立ち上がり、まるでチームの技のように、ほかの二人に手を伸ばして触れています。後ろでは、大勢の人々が金属の柵の向こうに立ち、じっと見ています。背景には白いテントや大きな建物があるので、お祭りかスポーツの日のように見えます。空は明るく、その場所全体がにぎやかで、楽しく、活気に満ちている感じがします。",
+  "theme": "晴れた日の屋外マーケット。駐車場に白や青のテントの屋台が並び、人々が買い物をしている。後ろにはレンガの建物と緑の木々が見える。",
+  "modelAnswer": "This photo shows a busy outdoor market on a sunny day. Many white and blue tents stand in a row across a large parking lot, and each tent is a small stall selling different things. Some people are walking between the stalls, while others stop to look at the goods on the tables. On the right, a few young women are browsing at a stall, and a seller is waiting to help them. Behind the market, there is an old brick building and tall green trees under a clear blue sky. The whole place looks lively and relaxed, and it feels like a nice place to spend a weekend morning.",
+  "modelAnswerJa": "この写真は、晴れた日のにぎやかな屋外マーケットを写しています。白や青のテントが広い駐車場に一列に並んでいて、それぞれのテントがいろいろな物を売る小さな屋台になっています。屋台の間を歩いている人もいれば、立ち止まってテーブルの上の商品を見ている人もいます。右側では、数人の若い女性が屋台で商品を見ていて、店員が手伝おうと待っています。マーケットの後ろには、古いレンガの建物と背の高い緑の木々が、澄んだ青空の下に見えます。全体としてにぎやかでのんびりした雰囲気で、週末の午前中を過ごすのにちょうどよい場所のように感じられます。",
   "tips": [
-    { "term": "outdoor event", "ja": "屋外のイベント" },
-    { "term": "wear a helmet", "ja": "ヘルメットをかぶる" },
-    { "term": "ride a bike", "ja": "バイクに乗る" },
-    { "term": "stand up", "ja": "立ち上がる" },
-    { "term": "a crowd of people", "ja": "大勢の人々" },
-    { "term": "in the background", "ja": "背景に" },
-    { "term": "full of energy", "ja": "活気に満ちて" }
+    { "term": "outdoor market", "ja": "屋外マーケット" },
+    { "term": "stall", "ja": "屋台・売り場" },
+    { "term": "in a row", "ja": "一列に" },
+    { "term": "look at the goods", "ja": "商品を見る" },
+    { "term": "walk between", "ja": "～の間を歩く" },
+    { "term": "lively and relaxed", "ja": "にぎやかでのんびりした" },
+    { "term": "under a clear blue sky", "ja": "澄んだ青空の下で" }
   ]
 }
