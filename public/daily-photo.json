@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-28",
-  "image": "/daily-photo.jpg?v=2026-06-28",
+  "date": "2026-06-29",
+  "image": "/daily-photo.jpg?v=2026-06-29",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "晴れた日の屋外マーケット。駐車場に白や青のテントの屋台が並び、人々が買い物をしている。後ろにはレンガの建物と緑の木々が見える。",
-  "modelAnswer": "This photo shows a busy outdoor market on a sunny day. Many white and blue tents stand in a row across a large parking lot, and each tent is a small stall selling different things. Some people are walking between the stalls, while others stop to look at the goods on the tables. On the right, a few young women are browsing at a stall, and a seller is waiting to help them. Behind the market, there is an old brick building and tall green trees under a clear blue sky. The whole place looks lively and relaxed, and it feels like a nice place to spend a weekend morning.",
-  "modelAnswerJa": "この写真は、晴れた日のにぎやかな屋外マーケットを写しています。白や青のテントが広い駐車場に一列に並んでいて、それぞれのテントがいろいろな物を売る小さな屋台になっています。屋台の間を歩いている人もいれば、立ち止まってテーブルの上の商品を見ている人もいます。右側では、数人の若い女性が屋台で商品を見ていて、店員が手伝おうと待っています。マーケットの後ろには、古いレンガの建物と背の高い緑の木々が、澄んだ青空の下に見えます。全体としてにぎやかでのんびりした雰囲気で、週末の午前中を過ごすのにちょうどよい場所のように感じられます。",
+  "theme": "曇り空の街の広場。手前の石畳を数人が歩き、奥にはガラスと石でできた大きな近代的な建物（図書館のような建物）。道路にはバスや白いバンが見える。白黒写真。",
+  "modelAnswer": "This is a black-and-white photo of a wide, open square in a city. In the front, the ground is covered with large flat stones, and a few people are walking across it. A woman in a long coat and a man are walking together, while others move in different directions. Behind them stands a huge modern building made of glass and stone, which looks like a library or an office. On the road in front of it, there are some buses, a white van, and a few cars. The sky is grey and cloudy, and the whole scene feels calm and quiet.",
+  "modelAnswerJa": "これは街の広い広場を写した白黒の写真です。手前では、地面が大きく平らな石でおおわれていて、数人がそこを横切って歩いています。長いコートを着た女性と男性が一緒に歩いていて、ほかの人たちはそれぞれ別の方向へ進んでいます。彼らの後ろには、ガラスと石でできた大きくて近代的な建物が立っていて、図書館かオフィスのように見えます。その前の道路には、何台かのバスと白いバン、そして数台の車が見えます。空は灰色で曇っていて、全体として静かで落ち着いた雰囲気が感じられます。",
   "tips": [
-    { "term": "outdoor market", "ja": "屋外マーケット" },
-    { "term": "stall", "ja": "屋台・売り場" },
-    { "term": "in a row", "ja": "一列に" },
-    { "term": "look at the goods", "ja": "商品を見る" },
-    { "term": "walk between", "ja": "～の間を歩く" },
-    { "term": "lively and relaxed", "ja": "にぎやかでのんびりした" },
-    { "term": "under a clear blue sky", "ja": "澄んだ青空の下で" }
+    { "term": "open square", "ja": "広い広場" },
+    { "term": "walk across", "ja": "～を横切って歩く" },
+    { "term": "made of glass and stone", "ja": "ガラスと石でできた" },
+    { "term": "modern building", "ja": "近代的な建物" },
+    { "term": "in the front", "ja": "手前に・前のほうに" },
+    { "term": "grey and cloudy", "ja": "灰色で曇った" },
+    { "term": "calm and quiet", "ja": "静かで落ち着いた" }
   ]
 }
