@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-29",
+  "generatedAt": "2026-07-01",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "gentle", "isReal": true },
-          { "id": "w2", "text": "flornby", "isReal": false },
-          { "id": "w3", "text": "curious", "isReal": true },
-          { "id": "w4", "text": "wradent", "isReal": false },
-          { "id": "w5", "text": "modest", "isReal": true },
-          { "id": "w6", "text": "plunder", "isReal": false },
-          { "id": "w7", "text": "fragile", "isReal": true },
-          { "id": "w8", "text": "skemmer", "isReal": false },
-          { "id": "w9", "text": "honest", "isReal": true },
-          { "id": "w10", "text": "brindly", "isReal": false },
-          { "id": "w11", "text": "patient", "isReal": true },
-          { "id": "w12", "text": "trellow", "isReal": false }
+          { "id": "w1", "text": "harvest", "isReal": true },
+          { "id": "w2", "text": "plimber", "isReal": false },
+          { "id": "w3", "text": "shallow", "isReal": true },
+          { "id": "w4", "text": "grantle", "isReal": false },
+          { "id": "w5", "text": "measure", "isReal": true },
+          { "id": "w6", "text": "quondle", "isReal": false },
+          { "id": "w7", "text": "sturdy", "isReal": true },
+          { "id": "w8", "text": "fremick", "isReal": false },
+          { "id": "w9", "text": "polite", "isReal": true },
+          { "id": "w10", "text": "blantom", "isReal": false },
+          { "id": "w11", "text": "vivid", "isReal": true },
+          { "id": "w12", "text": "craddish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "prudent", "isReal": true },
-          { "id": "w2", "text": "volractic", "isReal": false },
-          { "id": "w3", "text": "candid", "isReal": true },
-          { "id": "w4", "text": "menstical", "isReal": false },
-          { "id": "w5", "text": "versatile", "isReal": true },
-          { "id": "w6", "text": "grundling", "isReal": false },
-          { "id": "w7", "text": "diligent", "isReal": true },
-          { "id": "w8", "text": "craythorn", "isReal": false },
-          { "id": "w9", "text": "coherent", "isReal": true },
-          { "id": "w10", "text": "flantible", "isReal": false },
-          { "id": "w11", "text": "astute", "isReal": true },
-          { "id": "w12", "text": "pornical", "isReal": false }
+          { "id": "w1", "text": "resilient", "isReal": true },
+          { "id": "w2", "text": "torvance", "isReal": false },
+          { "id": "w3", "text": "meticulous", "isReal": true },
+          { "id": "w4", "text": "blentory", "isReal": false },
+          { "id": "w5", "text": "ambiguous", "isReal": true },
+          { "id": "w6", "text": "screthin", "isReal": false },
+          { "id": "w7", "text": "tentative", "isReal": true },
+          { "id": "w8", "text": "grastical", "isReal": false },
+          { "id": "w9", "text": "profound", "isReal": true },
+          { "id": "w10", "text": "quirbent", "isReal": false },
+          { "id": "w11", "text": "eloquent", "isReal": true },
+          { "id": "w12", "text": "molfered", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Many cities are now building wide cycling lanes to {{b1}} drivers to leave their cars at home. Planners hope that quieter, cleaner streets will gradually {{b2}} the air that millions of people breathe every day.",
+        "text": "Getting enough sleep does far more than help us feel rested; it allows the brain to {{b1}} the things we learned during the day. Researchers now believe that a single late night can noticeably {{b2}} our ability to focus the next morning.",
         "blanks": [
-          { "id": "b1", "full": "encourage", "keepHead": 4 },
-          { "id": "b2", "full": "improve", "keepHead": 3 }
+          { "id": "b1", "full": "organize", "keepHead": 4 },
+          { "id": "b2", "full": "weaken", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "As artificial intelligence spreads into daily life, companies are under growing pressure to {{b1}} how their systems reach important decisions. Without clear rules, critics warn, such tools could quietly {{b2}} the very biases they were meant to remove.",
+        "text": "As glaciers retreat, scientists rush to {{b1}} the ancient air trapped inside the ice before it disappears forever. These frozen bubbles {{b2}} a detailed record of the climate stretching back thousands of years.",
         "blanks": [
-          { "id": "b1", "full": "explain", "keepHead": 3 },
-          { "id": "b2", "full": "reinforce", "keepHead": 4 }
+          { "id": "b1", "full": "examine", "keepHead": 3 },
+          { "id": "b2", "full": "preserve", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Reading a little every night is one of the simplest ways to {{b1}} a wide vocabulary over time. Students who keep a notebook of new words often find it easier to {{b2}} them during a real conversation.",
+        "text": "Local museums often struggle to {{b1}} younger visitors who spend most of their free time online. To stay relevant, many have started to {{b2}} interactive displays that let people touch and explore the exhibits.",
         "blanks": [
-          { "id": "b1", "full": "build", "keepHead": 3 },
-          { "id": "b2", "full": "recall", "keepHead": 3 }
+          { "id": "b1", "full": "attract", "keepHead": 3 },
+          { "id": "b2", "full": "introduce", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "A short walk after lunch can help you {{b1}} the afternoon without feeling sleepy at your desk. Many doctors say that small habits like this {{b2}} far more to our health than we usually expect.",
+        "text": "Learning to cook simple meals at home can help students {{b1}} money that would otherwise be spent on takeaway food. Over a year, these small savings can {{b2}} into a surprisingly large amount.",
         "blanks": [
-          { "id": "b1", "full": "survive", "keepHead": 3 },
-          { "id": "b2", "full": "contribute", "keepHead": 5 }
+          { "id": "b1", "full": "save", "keepHead": 2 },
+          { "id": "b2", "full": "accumulate", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Rarely",
-            "after": "such a sudden change in the weather so early in the season.",
-            "options": ["have we seen", "we have seen", "we saw", "did we saw"],
+            "before": "Not only",
+            "after": "the new bridge shorten the journey, but it also reduced traffic in the old town.",
+            "options": ["did", "does", "it did", "had"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Rarely が文頭に出ると倒置になり、助動詞 have が主語の前に来る。have we seen が正しい。"
+            "explanation": "Not only が文頭に出ると倒置になり、助動詞が主語の前に来る。過去の事実なので did が正しい。"
           },
           {
             "id": "g2",
-            "before": "The new policy is expected to have a lasting",
-            "after": "on how families use energy at home.",
-            "options": ["impact", "affect", "result", "outcome"],
+            "before": "The scientists were careful to",
+            "after": "a clear distinction between what they had proven and what they only suspected.",
+            "options": ["draw", "make", "take", "give"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "have an impact on で「～に影響を与える」。lasting と結びつき、前置詞 on を取るのは impact。"
+            "explanation": "draw a distinction で「区別をつける」。between と結びつき、clear と組み合わせて最も自然なのは draw。"
           },
           {
             "id": "g3",
-            "before": "The plan sounded perfect on paper;",
-            "after": ", it proved almost impossible to carry out.",
-            "options": ["in practice", "as a result", "for instance", "above all"],
+            "before": "The experiment was expensive and slow;",
+            "after": ", the results were too important to ignore.",
+            "options": ["nevertheless", "therefore", "similarly", "meanwhile"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "理論上は完璧→「実際には」難しかった、という対比。in practice が適切。"
+            "explanation": "高価で遅い→それでも結果は重要、という逆接。nevertheless（それにもかかわらず）が適切。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The volunteers worked hard to",
-            "after": "awareness of how plastic harms the ocean.",
-            "options": ["raise", "rise", "grow", "lift"],
+            "before": "The company decided to",
+            "after": "a new policy that lets employees work from home twice a week.",
+            "options": ["introduce", "produce", "reduce", "deduce"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "raise awareness で「意識を高める」。awareness と結びつく動詞は raise。"
+            "tag": "vocab",
+            "explanation": "新しい方針を「導入する」。文意に合う動詞は introduce。"
           },
           {
             "id": "g2",
-            "before": "If the team",
-            "after": "harder last month, they might have won the contract.",
-            "options": ["had worked", "worked", "has worked", "would work"],
+            "before": "By the time the guests arrived, the host",
+            "after": "the table and lit the candles.",
+            "options": ["had already set", "already set", "has already set", "was already setting"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "過去の事実に反する仮定（仮定法過去完了）。条件節は had worked。"
+            "explanation": "ゲストが着いた時点より前に完了していた動作なので過去完了 had already set。"
           },
           {
             "id": "g3",
-            "before": "Her explanation was so",
-            "after": "that even beginners understood the idea at once.",
-            "options": ["clear", "vague", "dull", "complex"],
+            "before": "Regular exercise can greatly",
+            "after": "the risk of many common illnesses.",
+            "options": ["reduce", "lower down", "shorten", "descend"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "初心者でもすぐ理解できた→「明快な」。文意に合うのは clear。"
+            "tag": "collocation",
+            "explanation": "reduce the risk で「リスクを下げる」。risk と結びつく自然な動詞は reduce。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Secret Language of Honeybees",
+        "title": "The Long Journey of a Cup of Tea",
         "paragraphs": [
-          "A single honeybee may seem like a small and simple creature, but inside the hive it belongs to one of the most organised societies in nature. Thousands of bees must share information about where to find food, and they do this without words, maps, or any of the tools that people rely on. Instead, they have developed a remarkable form of communication that scientists are still working to fully understand.",
-          "When a bee discovers a rich patch of flowers, it returns to the hive and performs what researchers call a waggle dance. By moving in a figure-eight pattern and shaking its body, the bee tells the others both the direction of the food and how far away it lies. The angle of the dance points the way relative to the sun, while the length of the waggling run signals the distance. In this way, a few seconds of movement can carry directions that would take a person a paragraph to describe.",
-          "What makes this behaviour so striking is that it is partly learned. Young bees that watch experienced dancers make fewer mistakes once they begin to forage themselves, and they pass on what they have absorbed to the next generation. A skill once thought to be pure instinct now appears to depend, at least in part, on careful observation and practice."
+          "Few drinks have travelled as far, or changed as many societies, as tea. According to legend, it was discovered in China thousands of years ago when a few leaves drifted into a pot of boiling water. Whatever the truth of that story, tea gradually spread along trade routes until it reached almost every corner of the world, carried by merchants, monks, and sailors who valued both its taste and its gentle lift.",
+          "As tea moved from place to place, each culture made it its own. In Japan it became the heart of a slow, careful ceremony designed to calm the mind. In Britain it turned into an afternoon ritual, complete with milk, sugar, and small cakes. In Morocco it is poured from a height into tiny glasses and served sweet with fresh mint. The same simple leaf, in other words, took on a completely different meaning depending on where it landed.",
+          "What is easy to forget is how much history a single cup contains. The demand for tea shaped trade agreements, encouraged the building of fast ships, and even helped spark political protests. Today most of us drink it without a second thought, yet each ordinary cup still carries the quiet weight of centuries of exchange between distant peoples."
         ],
         "questions": [
           {
@@ -254,50 +254,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Honeybees share detailed information about food through a learned dance, revealing a surprisingly complex form of communication.",
-              "Honeybees rely on simple instinct alone and cannot tell one another where food is located.",
-              "Honeybees use spoken sounds and small maps to guide each other to flowers.",
-              "Honeybees are dangerous insects that scientists prefer to avoid studying closely."
+              "Tea spread around the world and took on different meanings in each culture while carrying a long and influential history.",
+              "Tea was invented in Britain and has never been popular anywhere else in the world.",
+              "Tea is a modern drink with no connection to trade, history, or tradition.",
+              "Tea tastes exactly the same and is prepared in exactly the same way in every country."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "During the waggle dance, the angle of the movement shows direction, while the length of the run",
-            "after": "how far the food lies.",
-            "options": ["signals", "hides", "shortens", "ignores"],
+            "before": "In Morocco, tea is poured from a height into small glasses and served sweet with fresh",
+            "after": ", showing a local style all its own.",
+            "options": ["mint", "milk", "lemon", "cream"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "ミツバチの行動が一部「学習」によることを示す語句はどれですか。",
+            "prompt": "お茶が歴史や社会に大きな影響を与えたことを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "one of the most organised societies in nature" },
-              { "id": "s2", "text": "moving in a figure-eight pattern and shaking its body" },
-              { "id": "s3", "text": "Young bees that watch experienced dancers make fewer mistakes" },
-              { "id": "s4", "text": "directions that would take a person a paragraph to describe" }
+              { "id": "s1", "text": "a few leaves drifted into a pot of boiling water" },
+              { "id": "s2", "text": "poured from a height into tiny glasses" },
+              { "id": "s3", "text": "The demand for tea shaped trade agreements, encouraged the building of fast ships" },
+              { "id": "s4", "text": "we drink it without a second thought" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "In other words, the dance is a kind of map written entirely with the body.",
+            "sentence": "In each new home, the drink was reshaped to fit local tastes and customs.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
-            "prompt": "第3段落で述べられている内容として最も適切なものはどれですか。",
+            "prompt": "第3段落で筆者が最も伝えたいことはどれですか。",
             "options": [
-              "Young bees improve by watching skilled dancers, suggesting the dance is partly learned rather than pure instinct.",
-              "Bees are born knowing the dance perfectly and never need to watch others at all.",
-              "Older bees refuse to teach younger ones and keep the dance a secret.",
-              "Scientists have proven that the waggle dance carries no useful information."
+              "A simple cup of tea carries a long history of trade and exchange that people rarely stop to notice.",
+              "Tea has had no real effect on trade, technology, or politics at any point in history.",
+              "People today think carefully about the history of tea every time they drink it.",
+              "The building of fast ships had nothing to do with the demand for tea."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Gardens on the Rooftops",
+        "title": "Why Cities Are Turning Off the Lights",
         "paragraphs": [
-          "In many crowded cities, the most surprising green spaces are no longer found at street level but high above it, on the flat roofs of offices, schools, and apartment blocks. As open land grows scarce and rents climb, people have begun to look upward for the room to grow plants, and ordinary rooftops are slowly turning into small gardens and even working farms.",
-          "These gardens do far more than look pleasant. A layer of soil and leaves keeps the building below cooler in summer, which lowers the cost of running air conditioners. The plants also soak up rainwater that would otherwise rush into crowded drains, and they offer bees and birds a rare place to rest in the middle of the concrete city.",
-          "For the people who tend them, the benefits are just as real. Office workers come up during their breaks to water vegetables and share the harvest, and neighbours who once barely spoke now meet among the pots and beds. What began as a clever use of empty space has quietly become a way of bringing communities together."
+          "For most of human history, the night sky was filled with thousands of stars. Today, however, many people who live in large cities can see only a handful. The reason is light pollution: the glow of streetlamps, offices, and billboards that never switch off spreads into the sky and hides the stars behind a dull orange haze.",
+          "This constant brightness does more than spoil the view. Birds that migrate at night can lose their way when they are drawn toward bright buildings, and newly hatched sea turtles, which normally follow moonlight to the ocean, sometimes crawl the wrong way toward the city instead. Even human sleep can suffer, because our bodies rely on darkness to know when it is time to rest.",
+          "Aware of these problems, a growing number of towns are taking simple steps to fight back. Some switch off decorative lighting after midnight, while others fit lamps with shields that point the light downward, where it is actually needed. These small changes cost little, save energy, and slowly give both people and wildlife a darker, healthier night."
         ],
         "questions": [
           {
@@ -329,31 +329,31 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Rooftop gardens make crowded cities greener and bring practical and social benefits to the people nearby.",
-              "Rooftop gardens are too expensive and difficult to build, so cities have given up on them.",
-              "Rooftop gardens are useful only for growing flowers and have no effect on buildings.",
-              "Rooftop gardens force people to move out of city centres into the countryside."
+              "Light pollution harms wildlife and people, and some towns are taking simple steps to reduce it.",
+              "City lights are completely harmless and there is no reason to change anything.",
+              "The night sky has always looked the same everywhere and will never change.",
+              "Turning off lights is far too expensive for any town to consider."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "A layer of soil and leaves keeps the building below",
-            "after": "in summer, which lowers cooling costs.",
-            "options": ["cooler", "warmer", "darker", "emptier"],
+            "before": "Newly hatched sea turtles normally follow the",
+            "after": "to reach the ocean, but bright city lights can send them the wrong way.",
+            "options": ["moonlight", "wind", "waves", "sound"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "屋上庭園が人と人との結びつきを生むことを示す語句はどれですか。",
+            "prompt": "町が光害を減らすために行っている具体的な工夫を示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the flat roofs of offices, schools, and apartment blocks" },
-              { "id": "s2", "text": "soak up rainwater that would otherwise rush into crowded drains" },
-              { "id": "s3", "text": "neighbours who once barely spoke now meet among the pots and beds" },
-              { "id": "s4", "text": "a rare place to rest in the middle of the concrete city" }
+              { "id": "s1", "text": "the night sky was filled with thousands of stars" },
+              { "id": "s2", "text": "hides the stars behind a dull orange haze" },
+              { "id": "s3", "text": "fit lamps with shields that point the light downward" },
+              { "id": "s4", "text": "our bodies rely on darkness to know when it is time to rest" }
             ],
             "answerSpanId": "s3"
           },
@@ -362,10 +362,10 @@
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Rooftop gardens use unused space to cool buildings, help wildlife, and bring neighbours together.",
-              "Rooftop gardens are mainly a fashion that offers no real benefit to cities or people.",
-              "Rooftop gardens harm buildings and should be removed as quickly as possible.",
-              "Rooftop gardens can only be built in the countryside where land is cheap."
+              "Too much artificial light hides the stars and harms living things, but small, cheap changes can help.",
+              "Light pollution is a myth invented to stop cities from using electricity.",
+              "Only sea turtles are affected by bright lights, and people are completely safe.",
+              "The only way to solve light pollution is to remove all lights from every city."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the updated schedule before the meeting starts?",
+      "transcript": "Could you let me know as soon as the results are ready?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The next train to the airport leaves from platform four at a quarter past seven.",
+      "transcript": "The museum opens at nine thirty and closes at half past five on weekdays.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Had I known about the delay, I would have taken an earlier bus into town.",
+      "transcript": "Were it not for her quick thinking, the whole project might have collapsed.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "He acts as though he understands the problem, but he keeps asking the same question.",
+      "transcript": "She spoke as if she had already read the entire report from start to finish.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The smooth, shallow stream wound quietly through the shaded woods near the bridge.",
+      "transcript": "Three thick branches cracked sharply beneath the fresh weight of the melting snow.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-06-29T00:00:00.000Z",
-      "updatedAt": "2026-06-29T00:00:00.000Z",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I'm not sure whether we should book the hotel now or wait for a better price.",
+      "transcript": "I can't decide whether to take the earlier flight or leave a little later.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
