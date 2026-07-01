@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-29",
-  "image": "/daily-photo.jpg?v=2026-06-29",
+  "date": "2026-07-01",
+  "image": "/daily-photo.jpg?v=2026-07-01",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "曇り空の街の広場。手前の石畳を数人が歩き、奥にはガラスと石でできた大きな近代的な建物（図書館のような建物）。道路にはバスや白いバンが見える。白黒写真。",
-  "modelAnswer": "This is a black-and-white photo of a wide, open square in a city. In the front, the ground is covered with large flat stones, and a few people are walking across it. A woman in a long coat and a man are walking together, while others move in different directions. Behind them stands a huge modern building made of glass and stone, which looks like a library or an office. On the road in front of it, there are some buses, a white van, and a few cars. The sky is grey and cloudy, and the whole scene feels calm and quiet.",
-  "modelAnswerJa": "これは街の広い広場を写した白黒の写真です。手前では、地面が大きく平らな石でおおわれていて、数人がそこを横切って歩いています。長いコートを着た女性と男性が一緒に歩いていて、ほかの人たちはそれぞれ別の方向へ進んでいます。彼らの後ろには、ガラスと石でできた大きくて近代的な建物が立っていて、図書館かオフィスのように見えます。その前の道路には、何台かのバスと白いバン、そして数台の車が見えます。空は灰色で曇っていて、全体として静かで落ち着いた雰囲気が感じられます。",
+  "theme": "野菜と果物がたくさん並んだ市場の屋台。手前にキャベツ、ニンジン、赤いビーツ、ピーマン、トマト、リンゴなど。右側に青い上着と黒い手袋の客がお札を出して支払い、左側では売り手が手を伸ばしている。寒そうで人々は厚着。",
+  "modelAnswer": "This is a photo of a busy vegetable market. In the front, there are many kinds of fresh vegetables and fruits on the stall. I can see green cabbages, orange carrots, dark red beetroots, red peppers, tomatoes, garlic, and a lot of apples. On the right side, a person in a blue winter jacket and black gloves is holding some money to pay for the food. On the left, the seller is reaching out to take the money and hand over a plastic bag. It looks cold outside, so people are wearing warm clothes. The market feels lively and full of color.",
+  "modelAnswerJa": "これは活気のある野菜市場の写真です。手前の屋台には、たくさんの種類の新鮮な野菜や果物が並んでいます。緑のキャベツ、オレンジ色のニンジン、濃い赤色のビーツ、赤ピーマン、トマト、ニンニク、そしてたくさんのリンゴが見えます。右側では、青い冬用の上着に黒い手袋をした人が、食べ物の代金を払うためにお札を持っています。左側では、売り手が手を伸ばしてお金を受け取り、ビニール袋を手渡そうとしています。外は寒そうで、人々は暖かい服を着ています。市場はにぎやかで、色とりどりの雰囲気です。",
   "tips": [
-    { "term": "open square", "ja": "広い広場" },
-    { "term": "walk across", "ja": "～を横切って歩く" },
-    { "term": "made of glass and stone", "ja": "ガラスと石でできた" },
-    { "term": "modern building", "ja": "近代的な建物" },
+    { "term": "vegetable market", "ja": "野菜の市場" },
     { "term": "in the front", "ja": "手前に・前のほうに" },
-    { "term": "grey and cloudy", "ja": "灰色で曇った" },
-    { "term": "calm and quiet", "ja": "静かで落ち着いた" }
+    { "term": "fresh vegetables and fruits", "ja": "新鮮な野菜と果物" },
+    { "term": "pay for", "ja": "～の代金を払う" },
+    { "term": "reach out", "ja": "手を伸ばす" },
+    { "term": "hand over", "ja": "～を手渡す" },
+    { "term": "full of color", "ja": "色とりどりの" }
   ]
 }
