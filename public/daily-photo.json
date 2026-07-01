@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-01",
-  "image": "/daily-photo.jpg?v=2026-07-01",
+  "date": "2026-07-02",
+  "image": "/daily-photo.jpg?v=2026-07-02",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "野菜と果物がたくさん並んだ市場の屋台。手前にキャベツ、ニンジン、赤いビーツ、ピーマン、トマト、リンゴなど。右側に青い上着と黒い手袋の客がお札を出して支払い、左側では売り手が手を伸ばしている。寒そうで人々は厚着。",
-  "modelAnswer": "This is a photo of a busy vegetable market. In the front, there are many kinds of fresh vegetables and fruits on the stall. I can see green cabbages, orange carrots, dark red beetroots, red peppers, tomatoes, garlic, and a lot of apples. On the right side, a person in a blue winter jacket and black gloves is holding some money to pay for the food. On the left, the seller is reaching out to take the money and hand over a plastic bag. It looks cold outside, so people are wearing warm clothes. The market feels lively and full of color.",
-  "modelAnswerJa": "これは活気のある野菜市場の写真です。手前の屋台には、たくさんの種類の新鮮な野菜や果物が並んでいます。緑のキャベツ、オレンジ色のニンジン、濃い赤色のビーツ、赤ピーマン、トマト、ニンニク、そしてたくさんのリンゴが見えます。右側では、青い冬用の上着に黒い手袋をした人が、食べ物の代金を払うためにお札を持っています。左側では、売り手が手を伸ばしてお金を受け取り、ビニール袋を手渡そうとしています。外は寒そうで、人々は暖かい服を着ています。市場はにぎやかで、色とりどりの雰囲気です。",
+  "theme": "カフェのテーブルに置かれた2つの赤いコーヒーカップ。手前は泡のあるカプチーノで、金属のトレーにスプーンと小さなお菓子。奥にもう1つの赤いカップ。向かいに薄いグレーの服を着た人（ぼやけている）。左に青い水のボトル。落ち着いた雰囲気。",
+  "modelAnswer": "This is a photo taken inside a cafe. On the wooden table, there are two red cups of coffee. The coffee in front is a cappuccino with soft, light brown foam on top, and the cup sits on a metal tray with a spoon and a small snack. Behind it, there is another red cup of coffee on a second tray. A person in a light grey sweater is sitting across the table, but the background is blurry, so I cannot see the face clearly. On the left, there is a blue water bottle. The cafe feels warm, quiet, and relaxing.",
+  "modelAnswerJa": "これはカフェの中で撮られた写真です。木のテーブルの上に、赤いコーヒーカップが2つあります。手前のコーヒーは、上にやわらかくて薄茶色の泡がのったカプチーノで、カップは金属のトレーの上にあり、スプーンと小さなお菓子も置かれています。その奥には、別のトレーにもう1つの赤いコーヒーカップがあります。テーブルの向かい側には薄いグレーのセーターを着た人が座っていますが、背景はぼやけているので顔ははっきり見えません。左側には青い水のボトルがあります。このカフェは、暖かくて静かで、くつろげる雰囲気です。",
   "tips": [
-    { "term": "vegetable market", "ja": "野菜の市場" },
-    { "term": "in the front", "ja": "手前に・前のほうに" },
-    { "term": "fresh vegetables and fruits", "ja": "新鮮な野菜と果物" },
-    { "term": "pay for", "ja": "～の代金を払う" },
-    { "term": "reach out", "ja": "手を伸ばす" },
-    { "term": "hand over", "ja": "～を手渡す" },
-    { "term": "full of color", "ja": "色とりどりの" }
+    { "term": "inside a cafe", "ja": "カフェの中で" },
+    { "term": "a cup of coffee", "ja": "一杯のコーヒー" },
+    { "term": "on top", "ja": "上に・てっぺんに" },
+    { "term": "sit on", "ja": "～の上に置かれている" },
+    { "term": "across the table", "ja": "テーブルの向かい側に" },
+    { "term": "blurry", "ja": "ぼやけている" },
+    { "term": "warm and relaxing", "ja": "暖かくてくつろげる" }
   ]
 }
