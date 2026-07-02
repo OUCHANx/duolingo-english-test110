@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-02",
-  "image": "/daily-photo.jpg?v=2026-07-02",
-  "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "カフェのテーブルに置かれた2つの赤いコーヒーカップ。手前は泡のあるカプチーノで、金属のトレーにスプーンと小さなお菓子。奥にもう1つの赤いカップ。向かいに薄いグレーの服を着た人（ぼやけている）。左に青い水のボトル。落ち着いた雰囲気。",
-  "modelAnswer": "This is a photo taken inside a cafe. On the wooden table, there are two red cups of coffee. The coffee in front is a cappuccino with soft, light brown foam on top, and the cup sits on a metal tray with a spoon and a small snack. Behind it, there is another red cup of coffee on a second tray. A person in a light grey sweater is sitting across the table, but the background is blurry, so I cannot see the face clearly. On the left, there is a blue water bottle. The cafe feels warm, quiet, and relaxing.",
-  "modelAnswerJa": "これはカフェの中で撮られた写真です。木のテーブルの上に、赤いコーヒーカップが2つあります。手前のコーヒーは、上にやわらかくて薄茶色の泡がのったカプチーノで、カップは金属のトレーの上にあり、スプーンと小さなお菓子も置かれています。その奥には、別のトレーにもう1つの赤いコーヒーカップがあります。テーブルの向かい側には薄いグレーのセーターを着た人が座っていますが、背景はぼやけているので顔ははっきり見えません。左側には青い水のボトルがあります。このカフェは、暖かくて静かで、くつろげる雰囲気です。",
+  "date": "2026-07-03",
+  "image": "/daily-photo.jpg?v=2026-07-03",
+  "prompt": "Describe what you see in this photo in detail: where it is, what animal is there, what it is doing, and what kind of atmosphere it has.",
+  "theme": "公園の芝生の上に立つ一羽の黒い鳥（カラス）。太い黒いくちばしを持ち、横を向いている。背景はぼやけていて、緑の草と木、そして白っぽいベンチのようなものが見える。晴れた静かな雰囲気。",
+  "modelAnswer": "This is a photo taken outside in a park. In the middle of the picture, there is one black bird standing on the green grass. It looks like a crow. The bird has shiny black feathers and a thick black beak, and it is turning its head to one side, as if it is watching something. The sun is shining on the grass, so we can see many bright green blades around the bird. The background is blurry, but I can see some trees and what looks like a white bench. There are no people near the bird. The place feels quiet, peaceful, and full of fresh air.",
+  "modelAnswerJa": "これは公園の外で撮られた写真です。写真の真ん中に、緑の芝生の上に立っている黒い鳥が一羽います。カラスのように見えます。その鳥は光沢のある黒い羽と太い黒いくちばしを持ち、何かを見ているかのように頭を横に向けています。太陽が芝生を照らしているので、鳥の周りには明るい緑の草の葉がたくさん見えます。背景はぼやけていますが、木々と、白いベンチのように見えるものが見えます。鳥の近くに人はいません。その場所は静かで、平和で、新鮮な空気に満ちた雰囲気です。",
   "tips": [
-    { "term": "inside a cafe", "ja": "カフェの中で" },
-    { "term": "a cup of coffee", "ja": "一杯のコーヒー" },
-    { "term": "on top", "ja": "上に・てっぺんに" },
-    { "term": "sit on", "ja": "～の上に置かれている" },
-    { "term": "across the table", "ja": "テーブルの向かい側に" },
-    { "term": "blurry", "ja": "ぼやけている" },
-    { "term": "warm and relaxing", "ja": "暖かくてくつろげる" }
+    { "term": "in a park", "ja": "公園で" },
+    { "term": "on the grass", "ja": "芝生の上に" },
+    { "term": "a black bird", "ja": "黒い鳥" },
+    { "term": "stand", "ja": "立っている" },
+    { "term": "turn its head", "ja": "頭を向ける" },
+    { "term": "the background is blurry", "ja": "背景がぼやけている" },
+    { "term": "quiet and peaceful", "ja": "静かで平和な" }
   ]
 }
