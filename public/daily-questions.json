@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-02",
+  "generatedAt": "2026-07-03",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "fragile", "isReal": true },
-          { "id": "w2", "text": "dremmal", "isReal": false },
-          { "id": "w3", "text": "gleam", "isReal": true },
-          { "id": "w4", "text": "flornish", "isReal": false },
-          { "id": "w5", "text": "wander", "isReal": true },
-          { "id": "w6", "text": "sprattle", "isReal": false },
-          { "id": "w7", "text": "brisk", "isReal": true },
-          { "id": "w8", "text": "quimber", "isReal": false },
-          { "id": "w9", "text": "clumsy", "isReal": true },
-          { "id": "w10", "text": "blentish", "isReal": false },
-          { "id": "w11", "text": "tidy", "isReal": true },
-          { "id": "w12", "text": "trandle", "isReal": false }
+          { "id": "w1", "text": "harvest", "isReal": true },
+          { "id": "w2", "text": "plonket", "isReal": false },
+          { "id": "w3", "text": "meadow", "isReal": true },
+          { "id": "w4", "text": "grimble", "isReal": false },
+          { "id": "w5", "text": "sturdy", "isReal": true },
+          { "id": "w6", "text": "tellage", "isReal": false },
+          { "id": "w7", "text": "graze", "isReal": true },
+          { "id": "w8", "text": "wollick", "isReal": false },
+          { "id": "w9", "text": "shallow", "isReal": true },
+          { "id": "w10", "text": "brindal", "isReal": false },
+          { "id": "w11", "text": "gentle", "isReal": true },
+          { "id": "w12", "text": "cropnet", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "candid", "isReal": true },
-          { "id": "w2", "text": "quandric", "isReal": false },
-          { "id": "w3", "text": "prudent", "isReal": true },
-          { "id": "w4", "text": "blithmore", "isReal": false },
-          { "id": "w5", "text": "austere", "isReal": true },
-          { "id": "w6", "text": "cretulous", "isReal": false },
-          { "id": "w7", "text": "lucid", "isReal": true },
-          { "id": "w8", "text": "dofinate", "isReal": false },
-          { "id": "w9", "text": "versatile", "isReal": true },
-          { "id": "w10", "text": "sperantic", "isReal": false },
-          { "id": "w11", "text": "robust", "isReal": true },
-          { "id": "w12", "text": "morvish", "isReal": false }
+          { "id": "w1", "text": "resilient", "isReal": true },
+          { "id": "w2", "text": "flambent", "isReal": false },
+          { "id": "w3", "text": "meticulous", "isReal": true },
+          { "id": "w4", "text": "orovial", "isReal": false },
+          { "id": "w5", "text": "coherent", "isReal": true },
+          { "id": "w6", "text": "distranet", "isReal": false },
+          { "id": "w7", "text": "tangible", "isReal": true },
+          { "id": "w8", "text": "prendal", "isReal": false },
+          { "id": "w9", "text": "abundant", "isReal": true },
+          { "id": "w10", "text": "vesperant", "isReal": false },
+          { "id": "w11", "text": "scarce", "isReal": true },
+          { "id": "w12", "text": "galtrom", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Modern voice assistants can now {{b1}} spoken commands almost instantly, yet they still {{b2}} to understand people with strong regional accents.",
+        "text": "Bees play a vital role in farming because they {{b1}} pollen from one flower to another. Without them, many of the crops we depend on would fail to {{b2}} enough fruit.",
         "blanks": [
-          { "id": "b1", "full": "process", "keepHead": 4 },
-          { "id": "b2", "full": "struggle", "keepHead": 4 }
+          { "id": "b1", "full": "transfer", "keepHead": 4 },
+          { "id": "b2", "full": "produce", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Astronomers hope the new telescope will {{b1}} faint galaxies whose light has travelled for billions of years. Such distant objects could {{b2}} valuable clues about how the earliest stars were born.",
+        "text": "The museum recently began to {{b1}} its oldest paintings using gentle chemicals and careful hands. Experts warn that a single mistake could permanently {{b2}} a work that has survived for centuries.",
         "blanks": [
-          { "id": "b1", "full": "reveal", "keepHead": 3 },
-          { "id": "b2", "full": "provide", "keepHead": 4 }
+          { "id": "b1", "full": "restore", "keepHead": 4 },
+          { "id": "b2", "full": "damage", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Doctors often {{b1}} their patients to drink more water and to move around during the day. Even a short walk after lunch can {{b2}} both mood and concentration.",
+        "text": "Learning a musical instrument can {{b1}} the way children think and concentrate. Studies show that regular practice helps them {{b2}} their memory and stay patient.",
         "blanks": [
-          { "id": "b1", "full": "encourage", "keepHead": 5 },
-          { "id": "b2", "full": "improve", "keepHead": 4 }
+          { "id": "b1", "full": "influence", "keepHead": 5 },
+          { "id": "b2", "full": "strengthen", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Many coastal towns are planting trees along the shore to {{b1}} the land from powerful waves. These green barriers also {{b2}} shelter for birds and other small animals.",
+        "text": "As cities grow, planners must {{b1}} how to move thousands of people without adding more cars. Well-designed bus and bike routes can greatly {{b2}} the daily traffic on busy streets.",
         "blanks": [
-          { "id": "b1", "full": "protect", "keepHead": 4 },
-          { "id": "b2", "full": "create", "keepHead": 3 }
+          { "id": "b1", "full": "consider", "keepHead": 4 },
+          { "id": "b2", "full": "reduce", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Had the team",
-            "after": "the warning signs earlier, the software crash could easily have been avoided.",
-            "options": ["recognized", "recognize", "recognizing", "been recognized"],
+            "before": "The scientists collected far more data than they could analyse,",
+            "after": "they decided to focus only on the most recent samples.",
+            "options": ["so", "yet", "unless", "whereas"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "Had + 主語 + 過去分詞 は if 節の代用の倒置（仮定法過去完了）。過去分詞 recognized が正しい。"
+            "tag": "cohesion",
+            "explanation": "「データが多すぎる → だから絞る」という因果関係。結果を導く so が適切。"
           },
           {
             "id": "g2",
-            "before": "The final report",
-            "after": "light on a problem that the company had long chosen to ignore.",
-            "options": ["shed", "threw", "put", "gave"],
+            "before": "Not until the final page",
+            "after": "the true identity of the mysterious narrator.",
+            "options": ["did the author reveal", "the author revealed", "the author did reveal", "revealed the author"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "shed light on で「～を明らかにする」。light on と結びつく自然な動詞は shed。"
+            "tag": "grammar",
+            "explanation": "否定の副詞句 Not until ... が文頭に出ると倒置が起こる。助動詞 did + 主語 + 原形の語順が正しい。"
           },
           {
             "id": "g3",
-            "before": "The plan looked flawless on paper;",
-            "after": ", it turned out to be almost impossible to carry out.",
-            "options": ["in practice", "in theory", "as a result", "for instance"],
+            "before": "Her argument was convincing, and it",
+            "after": "serious doubt on the results everyone had trusted for years.",
+            "options": ["cast", "made", "gave", "set"],
             "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "紙の上では完璧→実際には難しい、という対比。in practice「実際には」が適切。"
+            "tag": "collocation",
+            "explanation": "cast doubt on で「～に疑いを投げかける」。doubt と結びつく動詞は cast。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The teacher asked us to",
-            "after": "our own examples instead of copying them from the textbook.",
-            "options": ["come up with", "put up with", "get away with", "look up to"],
+            "before": "The new manager promised to",
+            "after": "the problems that staff had complained about for months.",
+            "options": ["deal with", "put up", "carry on", "give in"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "come up with で「（考えや例を）思いつく」。文意に合う句動詞はこれ。"
+            "explanation": "deal with で「（問題）に対処する」。文意に合う句動詞はこれ。"
           },
           {
             "id": "g2",
-            "before": "If I",
-            "after": "more time yesterday, I would have finished the whole book.",
-            "options": ["had had", "had", "have had", "would have"],
+            "before": "The bridge is strong enough",
+            "after": "the weight of several heavy trucks at once.",
+            "options": ["to support", "supporting", "support", "supported"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "過去の事実に反する仮定（仮定法過去完了）。if 節は had had が正しい。"
+            "explanation": "enough + to 不定詞で「～するのに十分な」。to support が正しい。"
           },
           {
             "id": "g3",
-            "before": "With steady practice, most learners can",
-            "after": "real progress within just a few months.",
-            "options": ["make", "do", "take", "get"],
+            "before": "Regular exercise can help you",
+            "after": "a healthy weight and lower your stress levels.",
+            "options": ["maintain", "hold", "keep on", "save"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "make progress で「進歩する」。progress と結びつく動詞は make。"
+            "explanation": "maintain a healthy weight で「健康的な体重を保つ」。weight と自然に結びつくのは maintain。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Secret Lives of Octopuses",
+        "title": "The Hidden Network Beneath the Forest",
         "paragraphs": [
-          "Octopuses may be among the strangest intelligent animals on Earth. Unlike us, they carry most of their neurons not in a central brain but spread throughout their eight arms, so that each arm can taste, touch, and even make small decisions on its own. A hungry octopus does not need to wait for orders from a single command centre; one arm can explore a crack in the rocks while the animal's attention is somewhere else entirely.",
-          "This unusual body has produced some remarkable talents. In laboratories, octopuses have learned to open jars, solve simple puzzles, and recognise individual human faces. Some have been seen collecting empty coconut shells and carrying them across the sea floor to build a shelter later, a kind of planning once thought to belong only to birds and mammals. They can also change the colour and texture of their skin in an instant, vanishing against a rock or flashing a warning to a rival.",
-          "Yet all this cleverness comes with a strange limit. Octopuses live only a year or two, and most die soon after breeding. Because parents never meet their young, almost none of this hard-won knowledge is passed on to the next generation. Every octopus, in a sense, must discover the world from the very beginning, which makes their achievements all the more surprising."
+          "When we walk through a forest, we tend to see the trees as separate individuals, each one quietly competing with its neighbours for light and water. Beneath our feet, however, lies a very different story. The soil is threaded with tiny fungal filaments that connect the roots of one tree to those of another, forming a vast underground web. Scientists sometimes call this system the wood wide web, because it links hundreds of trees into a single living network.",
+          "Through these fungal threads, trees can actually share resources. A tall tree whose leaves reach the sunlight may send sugars down to a smaller, shaded seedling that cannot yet make enough food of its own. When one tree is attacked by insects, chemical signals can travel along the network and warn its neighbours, giving them time to raise their own defences. In this way, a forest behaves less like a crowd of strangers and more like a community that depends on cooperation.",
+          "This discovery has changed how many biologists think about competition in nature. For a long time, the natural world was described mainly as a struggle in which only the strongest survive. The forest network suggests that survival can also depend on giving as well as taking. Of course, the fungi are not acting out of kindness; they receive sugars from the trees in return. Yet the result is a partnership in which both sides gain, reminding us that cooperation, not just competition, has shaped life on Earth."
         ],
         "questions": [
           {
@@ -254,38 +254,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Octopuses are unusually intelligent animals whose strange body and very short lives make their abilities especially remarkable.",
-              "Octopuses are simple creatures with no ability to learn or solve any kind of problem.",
-              "Octopuses keep all of their neurons in one large central brain, just as humans do.",
-              "Octopuses live for many decades and carefully teach their skills to their young."
+              "Trees are linked by an underground fungal network that lets them share resources and warnings, showing that cooperation, not only competition, shapes nature.",
+              "Trees in a forest never interact in any way and each one survives completely on its own.",
+              "Fungi in the soil are harmful parasites that slowly destroy every tree they touch.",
+              "Scientists have proven that competition plays no role at all in how forests grow."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Some octopuses have been seen collecting empty",
-            "after": "shells and carrying them across the sea floor to build a shelter later.",
-            "options": ["coconut", "oyster", "snail", "crab"],
+            "before": "A tall tree may send",
+            "after": "down through the network to a smaller seedling growing in the shade.",
+            "options": ["sugars", "insects", "leaves", "stones"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "タコの神経が体全体に分散していることを示す語句はどれですか。",
+            "prompt": "木々がお互いに危険を知らせ合うことを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "they carry most of their neurons not in a central brain but spread throughout their eight arms" },
-              { "id": "s2", "text": "recognise individual human faces" },
-              { "id": "s3", "text": "change the colour and texture of their skin in an instant" },
-              { "id": "s4", "text": "most die soon after breeding" }
+              { "id": "s1", "text": "each one quietly competing with its neighbours for light and water" },
+              { "id": "s2", "text": "chemical signals can travel along the network and warn its neighbours" },
+              { "id": "s3", "text": "the fungi are not acting out of kindness" },
+              { "id": "s4", "text": "the natural world was described mainly as a struggle" }
             ],
-            "answerSpanId": "s1"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "This means that much of what one octopus learns simply disappears when it dies.",
+            "sentence": "In other words, both the trees and the fungi benefit from the exchange.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 2
           },
@@ -294,10 +294,10 @@
             "id": "q5",
             "prompt": "第3段落で筆者が最も伝えたいことはどれですか。",
             "options": [
-              "Because octopuses live such short lives and never raise their young, their hard-won knowledge is not passed on, making their skills even more impressive.",
-              "Octopuses live for a very long time and share everything they learn with their offspring.",
-              "Octopuses are born already knowing everything they will ever need to survive.",
-              "The short life of an octopus has no effect on how it learns about the world."
+              "The forest network suggests that survival can depend on cooperation and giving, not only on competition, though the fungi still gain sugars in return.",
+              "The discovery proves that trees act purely out of kindness and expect nothing in return.",
+              "Biologists now believe that only the strongest trees can ever survive in a forest.",
+              "The fungal network has no effect on how scientists understand life in nature."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Four-Day Week Experiment",
+        "title": "The Return of Night Trains",
         "paragraphs": [
-          "For more than a century, the five-day working week has felt almost like a law of nature. Recently, though, a number of companies around the world have begun to ask a simple question: what would happen if people worked only four days but were paid exactly the same? Several large trials, especially in Britain and Iceland, have tried to find an honest answer.",
-          "The early results have surprised many managers. In most of the companies that took part, the amount of work completed stayed the same or even rose slightly. Employees said they felt less tired and more focused, and fewer of them called in sick. With an extra day off each week, many found more time for family, exercise, and rest, and they returned to work with fresh energy.",
-          "Of course, a shorter week does not suit every business. Hospitals, shops, and factories that must stay open cannot simply close for an extra day. Still, supporters argue that the experiment challenges an old belief, namely that longer hours always mean better results, and that for many kinds of work the quality of the effort may matter far more than the number of hours spent at a desk."
+          "A few decades ago, night trains were slowly disappearing across Europe. Cheap flights made it faster and often cheaper to cross the continent by air, and many railway companies quietly closed their sleeper services. For a while, it seemed that travelling overnight in a moving bed would become nothing more than a romantic memory from old films.",
+          "Recently, however, the night train has begun to make a surprising comeback. As more travellers worry about the pollution caused by flying, sleeping on a train has started to look attractive again. New routes now connect cities that are hundreds of kilometres apart, allowing passengers to fall asleep in one country and wake up in another. Instead of wasting an evening at an airport, travellers can enjoy dinner, sleep through the night, and arrive rested in the very centre of a city.",
+          "The revival is not without its problems. Running comfortable sleeper carriages is expensive, and tickets are not always cheaper than a plane seat. Even so, supporters believe that night trains offer something that flights cannot: a slower, calmer way to travel that is gentler on the planet. For many passengers, the chance to watch the countryside slide past the window before drifting off to sleep is reason enough to choose the train."
         ],
         "questions": [
           {
@@ -329,43 +329,43 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Trials of a four-day week suggest that people can stay productive and healthier, though the idea does not fit every kind of job.",
-              "The four-day week has failed everywhere it has been tried and should never be considered again.",
-              "Every business in the world has already switched to a four-day week with no problems at all.",
-              "Working longer hours has been proven to always produce much better results."
+              "Night trains are returning because they offer a calmer, greener way to travel, even though they can be costly to run.",
+              "Night trains have completely disappeared and will never be used again anywhere in Europe.",
+              "Flying is now banned in every European country because of pollution.",
+              "Night trains are always far cheaper and faster than any possible flight."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "In most companies that took part, the amount of work completed stayed the same or even",
-            "after": "slightly during the trial.",
-            "options": ["rose", "fell", "stopped", "vanished"],
+            "before": "New routes now let passengers fall asleep in one country and",
+            "after": "in another the next morning.",
+            "options": ["wake up", "stay awake", "get lost", "turn back"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "4日制がすべての仕事に向くわけではないことを示す語句はどれですか。",
+            "prompt": "なぜ夜行列車がかつて姿を消していったのかを説明している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the five-day working week has felt almost like a law of nature" },
-              { "id": "s2", "text": "Employees said they felt less tired and more focused" },
-              { "id": "s3", "text": "Hospitals, shops, and factories that must stay open cannot simply close for an extra day" },
-              { "id": "s4", "text": "they returned to work with fresh energy" }
+              { "id": "s1", "text": "Cheap flights made it faster and often cheaper to cross the continent by air" },
+              { "id": "s2", "text": "sleeping on a train has started to look attractive again" },
+              { "id": "s3", "text": "travellers can enjoy dinner, sleep through the night, and arrive rested" },
+              { "id": "s4", "text": "a slower, calmer way to travel that is gentler on the planet" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s1"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Shorter working weeks can keep output steady and workers healthier, but they cannot be applied to every job.",
-              "The number of hours at a desk is the only thing that decides how good someone's work is.",
-              "No company has ever tried working fewer than five days a week.",
-              "A four-day week is only possible in hospitals and factories."
+              "Concern about pollution is bringing night trains back as a relaxing, eco-friendly alternative to flying, despite their high running costs.",
+              "Night trains vanished forever because no one ever enjoyed travelling on them.",
+              "Air travel produces no pollution, so there is no reason to choose the train.",
+              "Sleeper trains are now the cheapest form of transport in every situation."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the file before the end of the day?",
+      "transcript": "Could you let me know as soon as the package arrives at the front desk?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves from platform four at a quarter past seven tomorrow morning.",
+      "transcript": "The museum opens at half past nine and closes around six in the evening.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Had I known about the delay, I would have taken an earlier bus.",
+      "transcript": "Rarely have I seen a performance that moved the whole audience so deeply.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "It looks as though the meeting will have to be put off until next week.",
+      "transcript": "I was going to call you, but I completely forgot how late it already was.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The sixth thin ship slipped smoothly through the misty morning fog.",
+      "transcript": "Three cheerful children chased the sheep through the fresh green fields.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I'm not sure whether we should wait here or head straight to the station.",
+      "transcript": "Let's meet outside the library once you have finished handing in your report.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
