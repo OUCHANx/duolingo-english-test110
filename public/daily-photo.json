@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-03",
-  "image": "/daily-photo.jpg?v=2026-07-03",
-  "prompt": "Describe what you see in this photo in detail: where it is, what animal is there, what it is doing, and what kind of atmosphere it has.",
-  "theme": "公園の芝生の上に立つ一羽の黒い鳥（カラス）。太い黒いくちばしを持ち、横を向いている。背景はぼやけていて、緑の草と木、そして白っぽいベンチのようなものが見える。晴れた静かな雰囲気。",
-  "modelAnswer": "This is a photo taken outside in a park. In the middle of the picture, there is one black bird standing on the green grass. It looks like a crow. The bird has shiny black feathers and a thick black beak, and it is turning its head to one side, as if it is watching something. The sun is shining on the grass, so we can see many bright green blades around the bird. The background is blurry, but I can see some trees and what looks like a white bench. There are no people near the bird. The place feels quiet, peaceful, and full of fresh air.",
-  "modelAnswerJa": "これは公園の外で撮られた写真です。写真の真ん中に、緑の芝生の上に立っている黒い鳥が一羽います。カラスのように見えます。その鳥は光沢のある黒い羽と太い黒いくちばしを持ち、何かを見ているかのように頭を横に向けています。太陽が芝生を照らしているので、鳥の周りには明るい緑の草の葉がたくさん見えます。背景はぼやけていますが、木々と、白いベンチのように見えるものが見えます。鳥の近くに人はいません。その場所は静かで、平和で、新鮮な空気に満ちた雰囲気です。",
+  "date": "2026-07-05",
+  "image": "/daily-photo.jpg?v=2026-07-05",
+  "prompt": "Describe what you see in this photo in detail: where it is, who is there, what they are doing, and what kind of atmosphere it has.",
+  "theme": "台所（料理教室のような場所）で2人が一緒に料理している。左の男性は黒いエプロンを着て腕にタトゥーがあり、トングを持っている。右の女性は青いシャツの袖をまくって食べ物をひっくり返している。コンロの上にはお肉や野菜が入った銀色のフライパンがいくつもあり、湯気が立っている。にぎやかで温かい雰囲気。",
+  "modelAnswer": "This photo is taken in a busy kitchen, and it looks like a cooking class. Two people are standing in front of a stove and cooking together. The man on the left is wearing a black apron and has tattoos on his arms. He is holding a pair of tongs in his hand. The woman on the right is wearing a blue shirt with her sleeves rolled up, and she is turning the food with tongs too. On the stove there are several silver pans full of meat and vegetables, and I can see steam rising from them. The kitchen feels warm, active, and full of good smells.",
+  "modelAnswerJa": "この写真はにぎやかな台所で撮られていて、料理教室のように見えます。2人がコンロの前に立って一緒に料理をしています。左の男性は黒いエプロンを着ていて、腕にタトゥーがあります。彼は手にトングを持っています。右の女性は青いシャツの袖をまくっていて、彼女もトングで食べ物をひっくり返しています。コンロの上にはお肉や野菜がたくさん入った銀色のフライパンがいくつもあり、そこから湯気が立っているのが見えます。その台所は温かく、活気があって、いいにおいでいっぱいの雰囲気です。",
   "tips": [
-    { "term": "in a park", "ja": "公園で" },
-    { "term": "on the grass", "ja": "芝生の上に" },
-    { "term": "a black bird", "ja": "黒い鳥" },
-    { "term": "stand", "ja": "立っている" },
-    { "term": "turn its head", "ja": "頭を向ける" },
-    { "term": "the background is blurry", "ja": "背景がぼやけている" },
-    { "term": "quiet and peaceful", "ja": "静かで平和な" }
+    { "term": "in a kitchen", "ja": "台所で" },
+    { "term": "cook together", "ja": "一緒に料理する" },
+    { "term": "wear an apron", "ja": "エプロンを着ている" },
+    { "term": "a pair of tongs", "ja": "トング（一組の）" },
+    { "term": "in front of the stove", "ja": "コンロの前で" },
+    { "term": "steam is rising", "ja": "湯気が立っている" },
+    { "term": "roll up one's sleeves", "ja": "袖をまくる" }
   ]
 }
