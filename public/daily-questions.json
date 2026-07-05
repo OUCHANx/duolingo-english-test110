@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-03",
+  "generatedAt": "2026-07-05",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "harvest", "isReal": true },
-          { "id": "w2", "text": "plonket", "isReal": false },
-          { "id": "w3", "text": "meadow", "isReal": true },
-          { "id": "w4", "text": "grimble", "isReal": false },
-          { "id": "w5", "text": "sturdy", "isReal": true },
-          { "id": "w6", "text": "tellage", "isReal": false },
-          { "id": "w7", "text": "graze", "isReal": true },
-          { "id": "w8", "text": "wollick", "isReal": false },
-          { "id": "w9", "text": "shallow", "isReal": true },
-          { "id": "w10", "text": "brindal", "isReal": false },
-          { "id": "w11", "text": "gentle", "isReal": true },
-          { "id": "w12", "text": "cropnet", "isReal": false }
+          { "id": "w1", "text": "voyage", "isReal": true },
+          { "id": "w2", "text": "drammel", "isReal": false },
+          { "id": "w3", "text": "compass", "isReal": true },
+          { "id": "w4", "text": "sworfen", "isReal": false },
+          { "id": "w5", "text": "harbour", "isReal": true },
+          { "id": "w6", "text": "plentic", "isReal": false },
+          { "id": "w7", "text": "current", "isReal": true },
+          { "id": "w8", "text": "brunnel", "isReal": false },
+          { "id": "w9", "text": "anchor", "isReal": true },
+          { "id": "w10", "text": "sworly", "isReal": false },
+          { "id": "w11", "text": "shore", "isReal": true },
+          { "id": "w12", "text": "grelmap", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "resilient", "isReal": true },
-          { "id": "w2", "text": "flambent", "isReal": false },
-          { "id": "w3", "text": "meticulous", "isReal": true },
-          { "id": "w4", "text": "orovial", "isReal": false },
-          { "id": "w5", "text": "coherent", "isReal": true },
-          { "id": "w6", "text": "distranet", "isReal": false },
-          { "id": "w7", "text": "tangible", "isReal": true },
-          { "id": "w8", "text": "prendal", "isReal": false },
-          { "id": "w9", "text": "abundant", "isReal": true },
-          { "id": "w10", "text": "vesperant", "isReal": false },
-          { "id": "w11", "text": "scarce", "isReal": true },
-          { "id": "w12", "text": "galtrom", "isReal": false }
+          { "id": "w1", "text": "profound", "isReal": true },
+          { "id": "w2", "text": "quandril", "isReal": false },
+          { "id": "w3", "text": "elaborate", "isReal": true },
+          { "id": "w4", "text": "morphent", "isReal": false },
+          { "id": "w5", "text": "prudent", "isReal": true },
+          { "id": "w6", "text": "travelic", "isReal": false },
+          { "id": "w7", "text": "versatile", "isReal": true },
+          { "id": "w8", "text": "sublance", "isReal": false },
+          { "id": "w9", "text": "notorious", "isReal": true },
+          { "id": "w10", "text": "cremnant", "isReal": false },
+          { "id": "w11", "text": "eloquent", "isReal": true },
+          { "id": "w12", "text": "floristic", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Bees play a vital role in farming because they {{b1}} pollen from one flower to another. Without them, many of the crops we depend on would fail to {{b2}} enough fruit.",
+        "text": "Getting enough sleep does far more than make us feel rested. During the night, the brain quietly {{b1}} the things we learned during the day, moving important memories into long-term storage. People who sleep too little often struggle to {{b2}} on simple tasks the next morning.",
         "blanks": [
-          { "id": "b1", "full": "transfer", "keepHead": 4 },
-          { "id": "b2", "full": "produce", "keepHead": 4 }
+          { "id": "b1", "full": "organises", "keepHead": 5 },
+          { "id": "b2", "full": "concentrate", "keepHead": 6 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "The museum recently began to {{b1}} its oldest paintings using gentle chemicals and careful hands. Experts warn that a single mistake could permanently {{b2}} a work that has survived for centuries.",
+        "text": "Coral reefs support a quarter of all ocean species, yet rising sea temperatures are pushing them toward {{b1}}. When the water grows too warm, the corals expel the tiny algae that feed them and slowly turn a ghostly white, a process scientists call {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "restore", "keepHead": 4 },
-          { "id": "b2", "full": "damage", "keepHead": 3 }
+          { "id": "b1", "full": "collapse", "keepHead": 4 },
+          { "id": "b2", "full": "bleaching", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Learning a musical instrument can {{b1}} the way children think and concentrate. Studies show that regular practice helps them {{b2}} their memory and stay patient.",
+        "text": "Working from home has changed the way many companies {{b1}}. Instead of gathering in one office, teams now meet online and share files in seconds. Yet managers still worry about how to {{b2}} trust when colleagues rarely see one another in person.",
         "blanks": [
-          { "id": "b1", "full": "influence", "keepHead": 5 },
-          { "id": "b2", "full": "strengthen", "keepHead": 5 }
+          { "id": "b1", "full": "operate", "keepHead": 4 },
+          { "id": "b2", "full": "maintain", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "As cities grow, planners must {{b1}} how to move thousands of people without adding more cars. Well-designed bus and bike routes can greatly {{b2}} the daily traffic on busy streets.",
+        "text": "Growing vegetables on city rooftops is becoming a popular way to {{b1}} fresh food closer to where people live. These small gardens also help to cool buildings in summer and {{b2}} rainwater that would otherwise flood the streets below.",
         "blanks": [
-          { "id": "b1", "full": "consider", "keepHead": 4 },
-          { "id": "b2", "full": "reduce", "keepHead": 3 }
+          { "id": "b1", "full": "supply", "keepHead": 3 },
+          { "id": "b2", "full": "absorb", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The scientists collected far more data than they could analyse,",
-            "after": "they decided to focus only on the most recent samples.",
-            "options": ["so", "yet", "unless", "whereas"],
+            "before": "The company had invested heavily in the new factory;",
+            "after": ", demand for the product collapsed within a year.",
+            "options": ["nevertheless", "therefore", "moreover", "meanwhile"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「データが多すぎる → だから絞る」という因果関係。結果を導く so が適切。"
+            "explanation": "「多額を投資した → にもかかわらず需要が急減した」という逆接。逆接を示す nevertheless が適切。"
           },
           {
             "id": "g2",
-            "before": "Not until the final page",
-            "after": "the true identity of the mysterious narrator.",
-            "options": ["did the author reveal", "the author revealed", "the author did reveal", "revealed the author"],
+            "before": "Had the engineers checked the sensor earlier,",
+            "after": "the entire delay.",
+            "options": ["they could have avoided", "they can avoid", "they will avoid", "they avoid"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "否定の副詞句 Not until ... が文頭に出ると倒置が起こる。助動詞 did + 主語 + 原形の語順が正しい。"
+            "explanation": "Had + 主語 ... は仮定法過去完了の倒置。帰結節は would/could have + 過去分詞。could have avoided が正しい。"
           },
           {
             "id": "g3",
-            "before": "Her argument was convincing, and it",
-            "after": "serious doubt on the results everyone had trusted for years.",
-            "options": ["cast", "made", "gave", "set"],
+            "before": "The findings finally",
+            "after": "light on a question that had puzzled researchers for decades.",
+            "options": ["shed", "put", "gave", "took"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "cast doubt on で「～に疑いを投げかける」。doubt と結びつく動詞は cast。"
+            "explanation": "shed light on で「～を解明する・明らかにする」。light と結びつく動詞は shed。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The new manager promised to",
-            "after": "the problems that staff had complained about for months.",
-            "options": ["deal with", "put up", "carry on", "give in"],
+            "before": "The volunteers decided to",
+            "after": "the beach clean-up until the storm had passed.",
+            "options": ["put off", "put on", "take off", "look up"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "deal with で「（問題）に対処する」。文意に合う句動詞はこれ。"
+            "explanation": "put off で「～を延期する」。嵐が過ぎるまで延期する文意に合う句動詞。"
           },
           {
             "id": "g2",
-            "before": "The bridge is strong enough",
-            "after": "the weight of several heavy trucks at once.",
-            "options": ["to support", "supporting", "support", "supported"],
+            "before": "This is the first time I",
+            "after": "a meal entirely on my own, and I feel proud of it.",
+            "options": ["have cooked", "cooked", "am cooking", "was cooking"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "enough + to 不定詞で「～するのに十分な」。to support が正しい。"
+            "explanation": "It is the first time (that) 主語 have + 過去分詞 の形。現在完了 have cooked が正しい。"
           },
           {
             "id": "g3",
-            "before": "Regular exercise can help you",
-            "after": "a healthy weight and lower your stress levels.",
-            "options": ["maintain", "hold", "keep on", "save"],
+            "before": "The teacher asked the students to",
+            "after": "attention to the small details in the diagram.",
+            "options": ["pay", "make", "give", "do"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "maintain a healthy weight で「健康的な体重を保つ」。weight と自然に結びつくのは maintain。"
+            "explanation": "pay attention to で「～に注意を払う」。attention と結びつく動詞は pay。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Hidden Network Beneath the Forest",
+        "title": "The Slow Journey of a Cup of Coffee",
         "paragraphs": [
-          "When we walk through a forest, we tend to see the trees as separate individuals, each one quietly competing with its neighbours for light and water. Beneath our feet, however, lies a very different story. The soil is threaded with tiny fungal filaments that connect the roots of one tree to those of another, forming a vast underground web. Scientists sometimes call this system the wood wide web, because it links hundreds of trees into a single living network.",
-          "Through these fungal threads, trees can actually share resources. A tall tree whose leaves reach the sunlight may send sugars down to a smaller, shaded seedling that cannot yet make enough food of its own. When one tree is attacked by insects, chemical signals can travel along the network and warn its neighbours, giving them time to raise their own defences. In this way, a forest behaves less like a crowd of strangers and more like a community that depends on cooperation.",
-          "This discovery has changed how many biologists think about competition in nature. For a long time, the natural world was described mainly as a struggle in which only the strongest survive. The forest network suggests that survival can also depend on giving as well as taking. Of course, the fungi are not acting out of kindness; they receive sugars from the trees in return. Yet the result is a partnership in which both sides gain, reminding us that cooperation, not just competition, has shaped life on Earth."
+          "Few people pause to think about how far a cup of coffee has travelled before it reaches their table. The story often begins on a small farm high in the mountains of Central America or East Africa, where the climate is cool and the soil is rich. There, ripe red coffee cherries are picked by hand, one by one, because a single branch may hold fruit at very different stages of ripeness. Machines cannot yet match the careful eye of an experienced picker.",
+          "Once the cherries are gathered, the beans hidden inside must be removed, dried, and sorted, a process that can take several weeks. Only then are the green beans shipped across oceans to distant roasting houses, where intense heat finally unlocks the rich aromas we recognise. A journey that started with a farmer bending over a bush can pass through a dozen pairs of hands before the coffee is poured into a paper cup on a busy street.",
+          "Understanding this long chain can change the way we drink. When we know that our morning coffee depends on the labour of growers who often earn very little, a cheap cup no longer seems quite so simple. A growing number of buyers now look for beans that are traded fairly, hoping that the farmers at the very start of the journey receive a reward that matches the value of their work."
         ],
         "questions": [
           {
@@ -254,50 +254,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Trees are linked by an underground fungal network that lets them share resources and warnings, showing that cooperation, not only competition, shapes nature.",
-              "Trees in a forest never interact in any way and each one survives completely on its own.",
-              "Fungi in the soil are harmful parasites that slowly destroy every tree they touch.",
-              "Scientists have proven that competition plays no role at all in how forests grow."
+              "A cup of coffee passes through a long, labour-intensive journey, and knowing this can make us value the farmers behind it.",
+              "Coffee is now grown and packaged entirely by machines, so no human labour is involved.",
+              "Coffee cherries are always green and are best picked before they ripen.",
+              "Roasting has no effect on the smell or taste of coffee beans."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "A tall tree may send",
-            "after": "down through the network to a smaller seedling growing in the shade.",
-            "options": ["sugars", "insects", "leaves", "stones"],
+            "before": "Ripe coffee cherries are picked",
+            "after": "because one branch can hold fruit at different stages of ripeness.",
+            "options": ["by hand", "by machine", "in winter", "overnight"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "木々がお互いに危険を知らせ合うことを示す語句はどれですか。",
+            "prompt": "コーヒーが多くの人の手を経ることを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "each one quietly competing with its neighbours for light and water" },
-              { "id": "s2", "text": "chemical signals can travel along the network and warn its neighbours" },
-              { "id": "s3", "text": "the fungi are not acting out of kindness" },
-              { "id": "s4", "text": "the natural world was described mainly as a struggle" }
+              { "id": "s1", "text": "the climate is cool and the soil is rich" },
+              { "id": "s2", "text": "intense heat finally unlocks the rich aromas we recognise" },
+              { "id": "s3", "text": "can pass through a dozen pairs of hands before the coffee is poured" },
+              { "id": "s4", "text": "a cheap cup no longer seems quite so simple" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "In other words, both the trees and the fungi benefit from the exchange.",
+            "sentence": "This is one reason why the harvest still relies so heavily on human workers.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 2
+            "answerSlot": 0
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "第3段落で筆者が最も伝えたいことはどれですか。",
             "options": [
-              "The forest network suggests that survival can depend on cooperation and giving, not only on competition, though the fungi still gain sugars in return.",
-              "The discovery proves that trees act purely out of kindness and expect nothing in return.",
-              "Biologists now believe that only the strongest trees can ever survive in a forest.",
-              "The fungal network has no effect on how scientists understand life in nature."
+              "Knowing how hard growers work, and how little they often earn, is leading more buyers to seek fairly traded coffee.",
+              "Coffee should always be as cheap as possible, whatever the cost to farmers.",
+              "Farmers at the start of the journey are the only people who ever touch the beans.",
+              "Fair trade has made no difference to how people think about coffee."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Return of Night Trains",
+        "title": "Why We Forget, and Why That Helps",
         "paragraphs": [
-          "A few decades ago, night trains were slowly disappearing across Europe. Cheap flights made it faster and often cheaper to cross the continent by air, and many railway companies quietly closed their sleeper services. For a while, it seemed that travelling overnight in a moving bed would become nothing more than a romantic memory from old films.",
-          "Recently, however, the night train has begun to make a surprising comeback. As more travellers worry about the pollution caused by flying, sleeping on a train has started to look attractive again. New routes now connect cities that are hundreds of kilometres apart, allowing passengers to fall asleep in one country and wake up in another. Instead of wasting an evening at an airport, travellers can enjoy dinner, sleep through the night, and arrive rested in the very centre of a city.",
-          "The revival is not without its problems. Running comfortable sleeper carriages is expensive, and tickets are not always cheaper than a plane seat. Even so, supporters believe that night trains offer something that flights cannot: a slower, calmer way to travel that is gentler on the planet. For many passengers, the chance to watch the countryside slide past the window before drifting off to sleep is reason enough to choose the train."
+          "Most of us think of forgetting as a failure of the brain, an annoying flaw that makes us lose keys and miss appointments. For a long time, scientists shared this view and studied memory mainly by asking how we manage to hold on to information. In recent years, however, researchers have begun to argue that forgetting is not simply a breakdown. Instead, it may be a useful skill that the brain has developed on purpose.",
+          "The reason is that we are flooded with new information every single day. If we remembered every face, number, and conversation with equal strength, our minds would soon become crowded and slow. By letting go of details that no longer matter, the brain keeps the memories that are truly useful easy to reach. In this sense, a good memory may depend just as much on skilful forgetting as on careful storing.",
+          "This idea offers some comfort to anyone frustrated by a poor memory. Forgetting a stranger's name or an old phone number does not mean the brain is failing; it may simply be doing its job of clearing away clutter. What matters, the researchers suggest, is not remembering everything, but keeping the right things within reach when we truly need them."
         ],
         "questions": [
           {
@@ -329,43 +329,43 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Night trains are returning because they offer a calmer, greener way to travel, even though they can be costly to run.",
-              "Night trains have completely disappeared and will never be used again anywhere in Europe.",
-              "Flying is now banned in every European country because of pollution.",
-              "Night trains are always far cheaper and faster than any possible flight."
+              "Forgetting may be a useful skill that clears away unneeded details so that important memories stay easy to reach.",
+              "Forgetting is always a sign that the brain is seriously damaged.",
+              "The brain is able to store every experience with perfect and equal strength.",
+              "Scientists have proven that memory has no purpose at all."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "New routes now let passengers fall asleep in one country and",
-            "after": "in another the next morning.",
-            "options": ["wake up", "stay awake", "get lost", "turn back"],
+            "before": "By letting go of details that no longer matter, the brain keeps useful memories",
+            "after": "when we need them.",
+            "options": ["easy to reach", "hard to find", "completely hidden", "forever lost"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "なぜ夜行列車がかつて姿を消していったのかを説明している語句はどれですか。",
+            "prompt": "なぜすべてを覚えていると困るのかを説明している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "Cheap flights made it faster and often cheaper to cross the continent by air" },
-              { "id": "s2", "text": "sleeping on a train has started to look attractive again" },
-              { "id": "s3", "text": "travellers can enjoy dinner, sleep through the night, and arrive rested" },
-              { "id": "s4", "text": "a slower, calmer way to travel that is gentler on the planet" }
+              { "id": "s1", "text": "an annoying flaw that makes us lose keys and miss appointments" },
+              { "id": "s2", "text": "our minds would soon become crowded and slow" },
+              { "id": "s3", "text": "forgetting is not simply a breakdown" },
+              { "id": "s4", "text": "keeping the right things within reach when we truly need them" }
             ],
-            "answerSpanId": "s1"
+            "answerSpanId": "s2"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Concern about pollution is bringing night trains back as a relaxing, eco-friendly alternative to flying, despite their high running costs.",
-              "Night trains vanished forever because no one ever enjoyed travelling on them.",
-              "Air travel produces no pollution, so there is no reason to choose the train.",
-              "Sleeper trains are now the cheapest form of transport in every situation."
+              "Rather than a failure, forgetting may be the brain's way of removing clutter so the memories that matter stay useful.",
+              "People with poor memories should worry that their brains are broken.",
+              "The brain should try to store absolutely every detail it ever meets.",
+              "Remembering and forgetting have nothing to do with each other."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Could you let me know as soon as the package arrives at the front desk?",
+      "transcript": "Would you mind sending me the updated schedule before you leave the office today?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum opens at half past nine and closes around six in the evening.",
+      "transcript": "The train leaves at a quarter to eight, so we should get there by seven thirty.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Rarely have I seen a performance that moved the whole audience so deeply.",
+      "transcript": "Little did we know that the small decision would change the entire course of the project.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I was going to call you, but I completely forgot how late it already was.",
+      "transcript": "I would have joined you for lunch if I had known you were in town.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Three cheerful children chased the sheep through the fresh green fields.",
+      "transcript": "The brave brown bear brushed past the bushes beside the bright blue river.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-03T00:00:00.000Z",
-      "updatedAt": "2026-07-03T00:00:00.000Z",
+      "createdAt": "2026-07-05T00:00:00.000Z",
+      "updatedAt": "2026-07-05T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Let's meet outside the library once you have finished handing in your report.",
+      "transcript": "Please remember to turn off the lights and lock the door when you leave.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
