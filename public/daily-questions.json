@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-08",
+  "generatedAt": "2026-07-09",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "galaxy", "isReal": true },
-          { "id": "w2", "text": "stellom", "isReal": false },
-          { "id": "w3", "text": "comet", "isReal": true },
-          { "id": "w4", "text": "orbition", "isReal": false },
-          { "id": "w5", "text": "eclipse", "isReal": true },
-          { "id": "w6", "text": "cratel", "isReal": false },
-          { "id": "w7", "text": "meteor", "isReal": true },
-          { "id": "w8", "text": "lunarth", "isReal": false },
-          { "id": "w9", "text": "gravity", "isReal": true },
-          { "id": "w10", "text": "solary", "isReal": false },
-          { "id": "w11", "text": "telescope", "isReal": true },
-          { "id": "w12", "text": "nebulon", "isReal": false }
+          { "id": "w1", "text": "simmer", "isReal": true },
+          { "id": "w2", "text": "bakory", "isReal": false },
+          { "id": "w3", "text": "whisk", "isReal": true },
+          { "id": "w4", "text": "choppen", "isReal": false },
+          { "id": "w5", "text": "seasoning", "isReal": true },
+          { "id": "w6", "text": "flavure", "isReal": false },
+          { "id": "w7", "text": "blender", "isReal": true },
+          { "id": "w8", "text": "roastel", "isReal": false },
+          { "id": "w9", "text": "recipe", "isReal": true },
+          { "id": "w10", "text": "kneadle", "isReal": false },
+          { "id": "w11", "text": "aroma", "isReal": true },
+          { "id": "w12", "text": "garnesh", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "profound", "isReal": true },
-          { "id": "w2", "text": "wistful", "isReal": true },
-          { "id": "w3", "text": "glarious", "isReal": false },
-          { "id": "w4", "text": "empathy", "isReal": true },
-          { "id": "w5", "text": "frivolent", "isReal": false },
-          { "id": "w6", "text": "serene", "isReal": true },
-          { "id": "w7", "text": "modicent", "isReal": false },
-          { "id": "w8", "text": "nostalgia", "isReal": true },
-          { "id": "w9", "text": "brittle", "isReal": true },
-          { "id": "w10", "text": "plausit", "isReal": false },
-          { "id": "w11", "text": "torpize", "isReal": false },
-          { "id": "w12", "text": "elated", "isReal": true }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "fervalent", "isReal": false },
+          { "id": "w3", "text": "resilient", "isReal": true },
+          { "id": "w4", "text": "obscurine", "isReal": false },
+          { "id": "w5", "text": "austere", "isReal": true },
+          { "id": "w6", "text": "ponderal", "isReal": false },
+          { "id": "w7", "text": "luminous", "isReal": true },
+          { "id": "w8", "text": "sagacive", "isReal": false },
+          { "id": "w9", "text": "candid", "isReal": true },
+          { "id": "w10", "text": "vernacle", "isReal": false },
+          { "id": "w11", "text": "tangible", "isReal": true },
+          { "id": "w12", "text": "lucident", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Coral reefs are home to a quarter of all marine species, yet they cover only a tiny part of the ocean floor. When the water grows too warm, the coral loses the tiny algae that feed it and slowly turns white. Scientists are racing to {{b1}} which reefs are most at risk so that they can {{b2}} the healthiest areas before the damage spreads.",
+        "text": "Wind farms have spread quickly along coasts and open plains, where strong, steady breezes can be turned into electricity. Because the wind does not always blow, engineers must find better ways to {{b1}} the energy so that homes still have power on calm days. Many countries now see this clean technology as a key way to {{b2}} their use of coal and gas.",
         "blanks": [
-          { "id": "b1", "full": "identify", "keepHead": 4 },
-          { "id": "b2", "full": "protect", "keepHead": 4 }
+          { "id": "b1", "full": "store", "keepHead": 3 },
+          { "id": "b2", "full": "reduce", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Sleep is far more active than it looks. While we rest, the brain sorts through the day's events and decides which memories to {{b1}} and which to let fade. Researchers now believe that a poor night's sleep can seriously {{b2}} our ability to concentrate and to make sound decisions the following day.",
+        "text": "A good museum does far more than display old objects behind glass. The best ones invite visitors to {{b1}} the past, using light, sound, and story to bring distant lives closer. When history is presented in this way, facts that once seemed dull can suddenly {{b2}} a fresh and very human meaning.",
         "blanks": [
-          { "id": "b1", "full": "strengthen", "keepHead": 5 },
-          { "id": "b2", "full": "impair", "keepHead": 3 }
+          { "id": "b1", "full": "explore", "keepHead": 4 },
+          { "id": "b2", "full": "acquire", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Working from home has changed the daily routine of millions of people. Without a long journey to the office, many workers feel they can {{b1}} their time more freely and spend more of it with their families. Yet managers worry that teams who rarely meet in person may slowly lose the sense of trust that helps a company {{b2}}.",
+        "text": "Honey bees are far more important than their small size suggests. As they move from flower to flower in search of food, they {{b1}} pollen and allow countless plants to produce fruit and seeds. If bee numbers keep falling, farmers may find it hard to {{b2}} enough crops to feed a growing world.",
         "blanks": [
-          { "id": "b1", "full": "organize", "keepHead": 4 },
-          { "id": "b2", "full": "thrive", "keepHead": 3 }
+          { "id": "b1", "full": "spread", "keepHead": 3 },
+          { "id": "b2", "full": "grow", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Coffee began as a wild plant in the hills of Ethiopia before it spread across the world. Traders carried the beans along busy routes, and cafes soon became lively places where people would {{b1}} news and ideas. Today the drink remains a daily ritual for many, a small pause that helps them {{b2}} before the work ahead.",
+        "text": "More and more cities are giving space back to the bicycle. By building safe, protected lanes, planners hope to {{b1}} people to leave their cars at home for short trips. Cleaner air and quieter streets are just some of the benefits that a cycling culture can {{b2}} to a busy modern city.",
         "blanks": [
-          { "id": "b1", "full": "exchange", "keepHead": 4 },
-          { "id": "b2", "full": "focus", "keepHead": 3 }
+          { "id": "b1", "full": "encourage", "keepHead": 4 },
+          { "id": "b2", "full": "bring", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The scheme sounded promising on paper;",
-            "after": ", it proved almost impossible to run in practice.",
-            "options": ["in reality", "as a result", "for instance", "in addition"],
+            "before": "The new policy was introduced with great confidence;",
+            "after": ", few of the promised improvements ever appeared.",
+            "options": ["nevertheless", "therefore", "for example", "in short"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「紙の上では有望 → 実際には運用困難」という対比。理想と現実を対比する in reality が適切。"
+            "explanation": "「自信を持って導入された → しかし改善はほとんど現れなかった」という逆接。期待と結果の対比を示す nevertheless（それにもかかわらず）が適切。"
           },
           {
             "id": "g2",
-            "before": "Rarely",
-            "after": "such a large crowd gather in the square before the announcement.",
-            "options": ["had the police seen", "the police had seen", "the police saw", "saw the police"],
+            "before": "Not until the final results were published",
+            "after": "the true scale of the error.",
+            "options": ["did the team realize", "the team realized", "the team did realize", "realized the team"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "否定的副詞 Rarely が文頭に出ると倒置が起こる。過去完了なので had + 主語 + 過去分詞の語順、had the police seen が正しい。"
+            "explanation": "否定的な副詞句 Not until が文頭に出ると倒置が起こり、do/does/did + 主語 + 動詞原形の語順になる。よって did the team realize が正しい。"
           },
           {
             "id": "g3",
-            "before": "The sudden storm",
-            "after": "serious doubt on whether the festival could go ahead.",
-            "options": ["raised", "lifted", "brought", "took"],
+            "before": "The report",
+            "after": "light on a problem that had been ignored for years.",
+            "options": ["shed", "made", "gave", "put"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "raise doubt で「疑い・不安を生じさせる」。doubt と自然に結びつく動詞は raise。"
+            "explanation": "shed light on ~ で「～を明らかにする・解明する」という定番のコロケーション。light と結びつく動詞は shed。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The company decided to",
-            "after": "the launch until the software had been fully tested.",
-            "options": ["put off", "put up", "put on", "put out"],
+            "before": "We had to",
+            "after": "the meeting because too many people were sick.",
+            "options": ["call off", "call on", "call up", "call in"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "put off で「延期する」。テストが終わるまで発売を遅らせる文意に合う句動詞。"
+            "explanation": "call off で「（予定を）中止する」。多くの人が病気で会議を中止する文意に合う句動詞。"
           },
           {
             "id": "g2",
-            "before": "She spoke to the audience as if she",
-            "after": "them for many years.",
-            "options": ["had known", "knows", "has known", "knew"],
+            "before": "The teacher suggested that every student",
+            "after": "a short summary before the next class.",
+            "options": ["write", "writes", "wrote", "has written"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "as if + 過去完了で、過去の事実に反する仮定を表す。「長年知っていたかのように」なので had known。"
+            "explanation": "suggest that の後は仮定法現在で動詞原形を使う。主語が単数でも write（原形）が正しい。"
           },
           {
             "id": "g3",
-            "before": "The volunteers worked hard to",
-            "after": "money for the new children's hospital.",
-            "options": ["raise", "rise", "lift", "grow"],
+            "before": "Regular exercise can help you",
+            "after": "stress after a long day.",
+            "options": ["relieve", "repair", "remove", "refuse"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "raise money で「お金を集める・募る」。fund-raising の定番コロケーション。"
+            "explanation": "relieve stress で「ストレスを和らげる」。stress と自然に結びつく動詞は relieve。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Surprising Mind of the Octopus",
+        "title": "The Hidden Network Beneath the Forest",
         "paragraphs": [
-          "For a long time, intelligence was thought to belong mainly to animals with large brains and long lives, such as apes, dolphins, and crows. The octopus, a soft creature that usually lives only a year or two, seemed an unlikely candidate. Yet in aquariums around the world, keepers began to notice that these animals were doing things no simple instinct could explain.",
-          "Octopuses have been seen opening jars to reach the food inside, escaping through the smallest gaps in their tanks, and even recognising individual people who visited them each day. What makes their intelligence so strange is that much of it does not sit in a central brain at all. Two-thirds of their nerve cells are spread through their eight arms, so that each arm can taste, touch, and partly decide what to do on its own.",
-          "Studying such a different kind of mind forces scientists to rethink what intelligence really is. The octopus reminds us that clever behaviour did not evolve just once, along a single path leading to human beings. Instead it has appeared more than once, in bodies utterly unlike our own, shaped by lives we can barely imagine."
+          "Walk into an old forest and it is easy to see the trees as separate individuals, each one quietly competing with its neighbours for light and water. For most of history, that is exactly how scientists described them. In recent decades, however, researchers digging into the soil have uncovered a far stranger and more cooperative picture.",
+          "Beneath the ground, the roots of many trees are linked by fine threads of fungus that stretch for miles. Through this living network, trees can pass sugar, water, and even chemical warnings from one to another. A tall, healthy tree may quietly feed a young seedling growing in its shade, while a tree under attack by insects can send signals that prepare its neighbours to defend themselves.",
+          "Some scientists warn that we should be careful not to imagine the forest as one big, friendly family. Trees still compete, and the fungi that connect them are taking payment in sugar for their services. Even so, the discovery has changed how we picture a forest: not as a crowd of strangers, but as a community bound together by threads we are only beginning to understand."
         ],
         "questions": [
           {
@@ -254,38 +254,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "The octopus shows that intelligence can evolve in very different forms, not only in animals like us.",
-              "Octopuses are the most intelligent animals on Earth.",
-              "Only animals with large brains and long lives can be intelligent.",
-              "Aquarium keepers are wrong to think octopuses can solve problems."
+              "Trees are connected underground and can share resources and signals, so a forest works partly as a community.",
+              "Trees never compete with one another and always act as a single family.",
+              "The fungus in the soil is the only living thing that matters in a forest.",
+              "Scientists have fully explained everything about how forests work."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Because two-thirds of their nerve cells lie in their arms, each arm can",
-            "after": "and partly decide what to do on its own.",
-            "options": ["taste and touch", "read and write", "sleep for hours", "grow much longer"],
+            "before": "Through the underground network, a tall, healthy tree may quietly",
+            "after": "a young seedling growing in its shade.",
+            "options": ["feed", "cut down", "photograph", "replace"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "オクトパスの知能が「一度きりではなく」進化したことを述べている語句はどれですか。",
+            "prompt": "森を「一つの仲のよい家族」と単純に考えないよう注意している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "a soft creature that usually lives only a year or two" },
-              { "id": "s2", "text": "opening jars to reach the food inside" },
-              { "id": "s3", "text": "clever behaviour did not evolve just once, along a single path" },
-              { "id": "s4", "text": "keepers began to notice that these animals were doing things" }
+              { "id": "s1", "text": "the roots of many trees are linked by fine threads of fungus" },
+              { "id": "s2", "text": "we should be careful not to imagine the forest as one big, friendly family" },
+              { "id": "s3", "text": "trees can pass sugar, water, and even chemical warnings" },
+              { "id": "s4", "text": "Walk into an old forest and it is easy to see the trees as separate individuals" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "These abilities are impressive enough on their own.",
+            "sentence": "This exchange, however, is not always as generous as it sounds.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -294,10 +294,10 @@
             "id": "q5",
             "prompt": "筆者が最後の段落で最も伝えたいことはどれですか。",
             "options": [
-              "Intelligence can arise more than once and in bodies very different from ours.",
-              "Human beings are the only truly intelligent creatures.",
-              "Octopuses should be kept in larger tanks in every aquarium.",
-              "Scientists have already fully explained how the octopus thinks."
+              "A forest is best seen as a connected community, even though its trees still compete with one another.",
+              "Trees should be moved closer together so that they can share more sugar.",
+              "The discovery proves that forests have no competition of any kind.",
+              "Fungi are harmful and should be removed from forest soil."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Quiet Power of Walking",
+        "title": "The Comeback of the Night Train",
         "paragraphs": [
-          "Many great thinkers have said that their best ideas came to them not at a desk but on a walk. Writers, scientists, and inventors have all described how a slow stroll seemed to loosen their thoughts and let new connections form. For a long time this sounded like a charming habit rather than a serious claim, but recent studies suggest there may be real truth in it.",
-          "When we walk, more blood and oxygen reach the brain, and the gentle, steady movement seems to put the mind into a relaxed but alert state. In one experiment, people were asked to think of creative uses for everyday objects. Those who walked, whether outdoors or simply on a treadmill indoors, came up with far more original ideas than those who stayed seated. The act of moving, not the scenery, appeared to make the difference.",
-          "None of this means we should abandon our desks completely. Careful, focused work still matters, and some tasks demand that we sit and concentrate. But when a problem feels stuck and the mind refuses to move, the oldest advice may also be the best: stand up, step outside, and let your feet do some of the thinking."
+          "Not long ago, the night train seemed to belong to the past. Cheap flights had made it faster and often cheaper to fly across a continent, and many old sleeper services were quietly shut down. For a while it looked as though falling asleep in one city and waking up in another was a memory that would soon disappear.",
+          "Today, though, night trains are slowly returning to Europe. Growing concern about the pollution caused by flying has led many travellers to look for greener ways to move around. A night on the train means one less hotel to pay for, and passengers arrive rested in the heart of a city rather than at an airport far outside it. Several countries have begun to invest in new sleeper carriages and to reopen routes that were closed years ago.",
+          "Night trains are not perfect. Tickets can be more expensive than a budget flight, and a journey that takes two hours by plane may take twelve by rail. Yet for a growing number of people, the slower pace is part of the appeal. The night train offers something a plane cannot: the quiet pleasure of watching the world roll past your window as you travel gently towards sleep."
         ],
         "questions": [
           {
@@ -329,43 +329,43 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Walking can help the mind think more creatively and may help when a problem feels stuck.",
-              "Sitting at a desk is always better than walking for good ideas.",
-              "Only famous thinkers can benefit from going for a walk.",
-              "Beautiful scenery is the only reason walking helps our thinking."
+              "Night trains are becoming popular again, partly because they are greener and more comfortable than flying.",
+              "Night trains have completely disappeared and will never return.",
+              "Flying is always the best way to travel across a continent.",
+              "Night trains are cheaper than every other kind of travel."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "In the experiment, the people who walked came up with",
-            "after": "than those who stayed seated.",
-            "options": ["far more original ideas", "far fewer ideas", "exactly the same ideas", "no ideas at all"],
+            "before": "One reason night trains are returning is that many travellers now worry about the",
+            "after": "caused by flying.",
+            "options": ["pollution", "comfort", "speed", "silence"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "アイデアを生んだのは景色ではなく「動くこと」だと述べている語句はどれですか。",
+            "prompt": "夜行列車が飛行機にはない魅力を持つと述べている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "more blood and oxygen reach the brain" },
-              { "id": "s2", "text": "The act of moving, not the scenery, appeared to make the difference" },
-              { "id": "s3", "text": "Careful, focused work still matters" },
-              { "id": "s4", "text": "their best ideas came to them not at a desk but on a walk" }
+              { "id": "s1", "text": "Cheap flights had made it faster and often cheaper to fly across a continent" },
+              { "id": "s2", "text": "Tickets can be more expensive than a budget flight" },
+              { "id": "s3", "text": "the quiet pleasure of watching the world roll past your window" },
+              { "id": "s4", "text": "many old sleeper services were quietly shut down" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Walking is not a replacement for focused work, but it can free the mind when thinking feels stuck.",
-              "People should stop sitting at desks and only walk all day.",
-              "Creative ideas come only from beautiful outdoor scenery.",
-              "There is no real evidence that walking affects the mind."
+              "Although night trains have some drawbacks, they are making a comeback as a greener and more relaxing way to travel.",
+              "Night trains are faster and cheaper than planes in every case.",
+              "People should stop travelling by train because it wastes time.",
+              "Airports are always located in the centre of the city."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the report before you leave the office today?",
+      "transcript": "Could you let me know as soon as the package arrives at the front desk?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves from platform seven at a quarter to eleven every morning.",
+      "transcript": "The museum opens at nine thirty and the last tickets are sold at four fifteen.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Had we known about the delay earlier, we would have taken a different route.",
+      "transcript": "Not only did she finish the project early, but she also helped her colleagues.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She has been studying abroad since the beginning of last September.",
+      "transcript": "I would rather walk to the station than wait for the next bus in the rain.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The big black bug bit the bare back of the brave boy by the barn.",
+      "transcript": "She sells fresh shells by the shore while the sheep sleep nearby.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-08T00:00:00.000Z",
-      "updatedAt": "2026-07-08T00:00:00.000Z",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-07-09T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please remember to turn off the lights when you leave the meeting room.",
+      "transcript": "Don't forget to back up your files before you update the software tonight.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
