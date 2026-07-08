@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-08",
-  "image": "/daily-photo.jpg?v=2026-07-08",
+  "date": "2026-07-09",
+  "image": "/daily-photo.jpg?v=2026-07-09",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what they are doing, and what kind of atmosphere it has.",
-  "theme": "ヨーロッパ（イタリアらしい）の屋外の街の市場。大きな白いパラソルの下にたくさんの人が集まって買い物をしている。手前にはトマト・ナス・かぼちゃなど新鮮な野菜の箱が並ぶ。緑のジャケットを着た年配の男性が真ん中でカメラの方を見ている。奥には緑の鎧戸のついた古い建物とイタリアの国旗が見える。混んでいて活気のある雰囲気。",
-  "modelAnswer": "This photo shows a busy outdoor market on a city street. Many people are walking around and doing their shopping under big white umbrellas. In the front, there are lots of wooden crates full of fresh vegetables, such as tomatoes, eggplants, pumpkins, and green leaves. An older man in a green jacket is standing in the middle and looking at the camera, while other people talk or look at the food. Behind them, I can see old buildings with green shutters and two Italian flags. The whole place feels crowded, lively, and full of energy on a bright day.",
-  "modelAnswerJa": "この写真は、街の通りにあるにぎやかな屋外の市場を写しています。大きな白いパラソルの下で、たくさんの人が歩き回りながら買い物をしています。手前には、トマト・ナス・かぼちゃ・葉物野菜など、新鮮な野菜がいっぱいに入った木の箱がたくさん並んでいます。緑のジャケットを着た年配の男性が真ん中に立ってカメラの方を見ていて、その周りでは人々が話したり食べ物を見たりしています。彼らの奥には、緑の鎧戸のついた古い建物と2枚のイタリアの国旗が見えます。全体が、明るい日ざしの中で混み合っていて、活気とにぎわいに満ちた雰囲気です。",
+  "theme": "図書館か教室での子ども向けの活動。子どもたちが床に座り、歌か手遊びに合わせて手を挙げたり手をたたいたりしている。中央の花柄のワンピースの女の子が手をたたいて上を見上げ、首から赤いひもの黄色いバスの名札を下げている。左の男の子も手を挙げている。奥では大人たちが見守っている。明るくにぎやかで元気な雰囲気。",
+  "modelAnswer": "This photo was taken in a bright classroom or a library room for children. A group of young kids are sitting on the floor, and they all look busy with the same activity. In the middle, a girl in a flowery dress is clapping her hands and looking up with a happy face. A boy on the left is raising his hands too. Many of the children wear a red string with a small yellow bus around their neck. Behind them, some adults are quietly watching the kids. The whole room feels cheerful, lively, and full of energy as everyone joins in together.",
+  "modelAnswerJa": "この写真は、子ども向けの明るい教室か図書館の部屋で撮られたものです。小さな子どもたちが床に座っていて、みんな同じ活動に夢中になっているように見えます。真ん中では、花柄のワンピースを着た女の子がうれしそうな顔で上を見上げながら手をたたいています。左側の男の子も手を挙げています。多くの子どもが、首に赤いひものついた小さな黄色いバスをぶら下げています。彼らの後ろでは、大人たちが静かに子どもたちを見守っています。部屋全体が、みんなが一緒に参加していて、明るくにぎやかで元気いっぱいの雰囲気です。",
   "tips": [
-    { "term": "outdoor market", "ja": "屋外の市場" },
-    { "term": "do one's shopping", "ja": "買い物をする" },
-    { "term": "walk around", "ja": "歩き回る" },
-    { "term": "fresh vegetables", "ja": "新鮮な野菜" },
-    { "term": "crates full of ~", "ja": "～でいっぱいの箱・かご" },
-    { "term": "under the umbrellas", "ja": "パラソル（傘）の下で" },
-    { "term": "crowded and lively", "ja": "混んでいてにぎやかな" }
+    { "term": "sit on the floor", "ja": "床に座る" },
+    { "term": "a group of ~", "ja": "～の一団、～のグループ" },
+    { "term": "raise one's hands", "ja": "手を挙げる" },
+    { "term": "clap one's hands", "ja": "手をたたく" },
+    { "term": "look happy", "ja": "うれしそうに見える" },
+    { "term": "join in", "ja": "参加する、加わる" },
+    { "term": "cheerful and lively", "ja": "明るくてにぎやかな" }
   ]
 }
