@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-05",
-  "image": "/daily-photo.jpg?v=2026-07-05",
+  "date": "2026-07-08",
+  "image": "/daily-photo.jpg?v=2026-07-08",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what they are doing, and what kind of atmosphere it has.",
-  "theme": "台所（料理教室のような場所）で2人が一緒に料理している。左の男性は黒いエプロンを着て腕にタトゥーがあり、トングを持っている。右の女性は青いシャツの袖をまくって食べ物をひっくり返している。コンロの上にはお肉や野菜が入った銀色のフライパンがいくつもあり、湯気が立っている。にぎやかで温かい雰囲気。",
-  "modelAnswer": "This photo is taken in a busy kitchen, and it looks like a cooking class. Two people are standing in front of a stove and cooking together. The man on the left is wearing a black apron and has tattoos on his arms. He is holding a pair of tongs in his hand. The woman on the right is wearing a blue shirt with her sleeves rolled up, and she is turning the food with tongs too. On the stove there are several silver pans full of meat and vegetables, and I can see steam rising from them. The kitchen feels warm, active, and full of good smells.",
-  "modelAnswerJa": "この写真はにぎやかな台所で撮られていて、料理教室のように見えます。2人がコンロの前に立って一緒に料理をしています。左の男性は黒いエプロンを着ていて、腕にタトゥーがあります。彼は手にトングを持っています。右の女性は青いシャツの袖をまくっていて、彼女もトングで食べ物をひっくり返しています。コンロの上にはお肉や野菜がたくさん入った銀色のフライパンがいくつもあり、そこから湯気が立っているのが見えます。その台所は温かく、活気があって、いいにおいでいっぱいの雰囲気です。",
+  "theme": "ヨーロッパ（イタリアらしい）の屋外の街の市場。大きな白いパラソルの下にたくさんの人が集まって買い物をしている。手前にはトマト・ナス・かぼちゃなど新鮮な野菜の箱が並ぶ。緑のジャケットを着た年配の男性が真ん中でカメラの方を見ている。奥には緑の鎧戸のついた古い建物とイタリアの国旗が見える。混んでいて活気のある雰囲気。",
+  "modelAnswer": "This photo shows a busy outdoor market on a city street. Many people are walking around and doing their shopping under big white umbrellas. In the front, there are lots of wooden crates full of fresh vegetables, such as tomatoes, eggplants, pumpkins, and green leaves. An older man in a green jacket is standing in the middle and looking at the camera, while other people talk or look at the food. Behind them, I can see old buildings with green shutters and two Italian flags. The whole place feels crowded, lively, and full of energy on a bright day.",
+  "modelAnswerJa": "この写真は、街の通りにあるにぎやかな屋外の市場を写しています。大きな白いパラソルの下で、たくさんの人が歩き回りながら買い物をしています。手前には、トマト・ナス・かぼちゃ・葉物野菜など、新鮮な野菜がいっぱいに入った木の箱がたくさん並んでいます。緑のジャケットを着た年配の男性が真ん中に立ってカメラの方を見ていて、その周りでは人々が話したり食べ物を見たりしています。彼らの奥には、緑の鎧戸のついた古い建物と2枚のイタリアの国旗が見えます。全体が、明るい日ざしの中で混み合っていて、活気とにぎわいに満ちた雰囲気です。",
   "tips": [
-    { "term": "in a kitchen", "ja": "台所で" },
-    { "term": "cook together", "ja": "一緒に料理する" },
-    { "term": "wear an apron", "ja": "エプロンを着ている" },
-    { "term": "a pair of tongs", "ja": "トング（一組の）" },
-    { "term": "in front of the stove", "ja": "コンロの前で" },
-    { "term": "steam is rising", "ja": "湯気が立っている" },
-    { "term": "roll up one's sleeves", "ja": "袖をまくる" }
+    { "term": "outdoor market", "ja": "屋外の市場" },
+    { "term": "do one's shopping", "ja": "買い物をする" },
+    { "term": "walk around", "ja": "歩き回る" },
+    { "term": "fresh vegetables", "ja": "新鮮な野菜" },
+    { "term": "crates full of ~", "ja": "～でいっぱいの箱・かご" },
+    { "term": "under the umbrellas", "ja": "パラソル（傘）の下で" },
+    { "term": "crowded and lively", "ja": "混んでいてにぎやかな" }
   ]
 }
