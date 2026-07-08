@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-05",
+  "generatedAt": "2026-07-08",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "voyage", "isReal": true },
-          { "id": "w2", "text": "drammel", "isReal": false },
-          { "id": "w3", "text": "compass", "isReal": true },
-          { "id": "w4", "text": "sworfen", "isReal": false },
-          { "id": "w5", "text": "harbour", "isReal": true },
-          { "id": "w6", "text": "plentic", "isReal": false },
-          { "id": "w7", "text": "current", "isReal": true },
-          { "id": "w8", "text": "brunnel", "isReal": false },
-          { "id": "w9", "text": "anchor", "isReal": true },
-          { "id": "w10", "text": "sworly", "isReal": false },
-          { "id": "w11", "text": "shore", "isReal": true },
-          { "id": "w12", "text": "grelmap", "isReal": false }
+          { "id": "w1", "text": "galaxy", "isReal": true },
+          { "id": "w2", "text": "stellom", "isReal": false },
+          { "id": "w3", "text": "comet", "isReal": true },
+          { "id": "w4", "text": "orbition", "isReal": false },
+          { "id": "w5", "text": "eclipse", "isReal": true },
+          { "id": "w6", "text": "cratel", "isReal": false },
+          { "id": "w7", "text": "meteor", "isReal": true },
+          { "id": "w8", "text": "lunarth", "isReal": false },
+          { "id": "w9", "text": "gravity", "isReal": true },
+          { "id": "w10", "text": "solary", "isReal": false },
+          { "id": "w11", "text": "telescope", "isReal": true },
+          { "id": "w12", "text": "nebulon", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -47,25 +47,25 @@
         "timeLimitSec": 70,
         "words": [
           { "id": "w1", "text": "profound", "isReal": true },
-          { "id": "w2", "text": "quandril", "isReal": false },
-          { "id": "w3", "text": "elaborate", "isReal": true },
-          { "id": "w4", "text": "morphent", "isReal": false },
-          { "id": "w5", "text": "prudent", "isReal": true },
-          { "id": "w6", "text": "travelic", "isReal": false },
-          { "id": "w7", "text": "versatile", "isReal": true },
-          { "id": "w8", "text": "sublance", "isReal": false },
-          { "id": "w9", "text": "notorious", "isReal": true },
-          { "id": "w10", "text": "cremnant", "isReal": false },
-          { "id": "w11", "text": "eloquent", "isReal": true },
-          { "id": "w12", "text": "floristic", "isReal": false }
+          { "id": "w2", "text": "wistful", "isReal": true },
+          { "id": "w3", "text": "glarious", "isReal": false },
+          { "id": "w4", "text": "empathy", "isReal": true },
+          { "id": "w5", "text": "frivolent", "isReal": false },
+          { "id": "w6", "text": "serene", "isReal": true },
+          { "id": "w7", "text": "modicent", "isReal": false },
+          { "id": "w8", "text": "nostalgia", "isReal": true },
+          { "id": "w9", "text": "brittle", "isReal": true },
+          { "id": "w10", "text": "plausit", "isReal": false },
+          { "id": "w11", "text": "torpize", "isReal": false },
+          { "id": "w12", "text": "elated", "isReal": true }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Getting enough sleep does far more than make us feel rested. During the night, the brain quietly {{b1}} the things we learned during the day, moving important memories into long-term storage. People who sleep too little often struggle to {{b2}} on simple tasks the next morning.",
+        "text": "Coral reefs are home to a quarter of all marine species, yet they cover only a tiny part of the ocean floor. When the water grows too warm, the coral loses the tiny algae that feed it and slowly turns white. Scientists are racing to {{b1}} which reefs are most at risk so that they can {{b2}} the healthiest areas before the damage spreads.",
         "blanks": [
-          { "id": "b1", "full": "organises", "keepHead": 5 },
-          { "id": "b2", "full": "concentrate", "keepHead": 6 }
+          { "id": "b1", "full": "identify", "keepHead": 4 },
+          { "id": "b2", "full": "protect", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Coral reefs support a quarter of all ocean species, yet rising sea temperatures are pushing them toward {{b1}}. When the water grows too warm, the corals expel the tiny algae that feed them and slowly turn a ghostly white, a process scientists call {{b2}}.",
+        "text": "Sleep is far more active than it looks. While we rest, the brain sorts through the day's events and decides which memories to {{b1}} and which to let fade. Researchers now believe that a poor night's sleep can seriously {{b2}} our ability to concentrate and to make sound decisions the following day.",
         "blanks": [
-          { "id": "b1", "full": "collapse", "keepHead": 4 },
-          { "id": "b2", "full": "bleaching", "keepHead": 5 }
+          { "id": "b1", "full": "strengthen", "keepHead": 5 },
+          { "id": "b2", "full": "impair", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Working from home has changed the way many companies {{b1}}. Instead of gathering in one office, teams now meet online and share files in seconds. Yet managers still worry about how to {{b2}} trust when colleagues rarely see one another in person.",
+        "text": "Working from home has changed the daily routine of millions of people. Without a long journey to the office, many workers feel they can {{b1}} their time more freely and spend more of it with their families. Yet managers worry that teams who rarely meet in person may slowly lose the sense of trust that helps a company {{b2}}.",
         "blanks": [
-          { "id": "b1", "full": "operate", "keepHead": 4 },
-          { "id": "b2", "full": "maintain", "keepHead": 4 }
+          { "id": "b1", "full": "organize", "keepHead": 4 },
+          { "id": "b2", "full": "thrive", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Growing vegetables on city rooftops is becoming a popular way to {{b1}} fresh food closer to where people live. These small gardens also help to cool buildings in summer and {{b2}} rainwater that would otherwise flood the streets below.",
+        "text": "Coffee began as a wild plant in the hills of Ethiopia before it spread across the world. Traders carried the beans along busy routes, and cafes soon became lively places where people would {{b1}} news and ideas. Today the drink remains a daily ritual for many, a small pause that helps them {{b2}} before the work ahead.",
         "blanks": [
-          { "id": "b1", "full": "supply", "keepHead": 3 },
-          { "id": "b2", "full": "absorb", "keepHead": 3 }
+          { "id": "b1", "full": "exchange", "keepHead": 4 },
+          { "id": "b2", "full": "focus", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The company had invested heavily in the new factory;",
-            "after": ", demand for the product collapsed within a year.",
-            "options": ["nevertheless", "therefore", "moreover", "meanwhile"],
+            "before": "The scheme sounded promising on paper;",
+            "after": ", it proved almost impossible to run in practice.",
+            "options": ["in reality", "as a result", "for instance", "in addition"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「多額を投資した → にもかかわらず需要が急減した」という逆接。逆接を示す nevertheless が適切。"
+            "explanation": "「紙の上では有望 → 実際には運用困難」という対比。理想と現実を対比する in reality が適切。"
           },
           {
             "id": "g2",
-            "before": "Had the engineers checked the sensor earlier,",
-            "after": "the entire delay.",
-            "options": ["they could have avoided", "they can avoid", "they will avoid", "they avoid"],
+            "before": "Rarely",
+            "after": "such a large crowd gather in the square before the announcement.",
+            "options": ["had the police seen", "the police had seen", "the police saw", "saw the police"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Had + 主語 ... は仮定法過去完了の倒置。帰結節は would/could have + 過去分詞。could have avoided が正しい。"
+            "explanation": "否定的副詞 Rarely が文頭に出ると倒置が起こる。過去完了なので had + 主語 + 過去分詞の語順、had the police seen が正しい。"
           },
           {
             "id": "g3",
-            "before": "The findings finally",
-            "after": "light on a question that had puzzled researchers for decades.",
-            "options": ["shed", "put", "gave", "took"],
+            "before": "The sudden storm",
+            "after": "serious doubt on whether the festival could go ahead.",
+            "options": ["raised", "lifted", "brought", "took"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "shed light on で「～を解明する・明らかにする」。light と結びつく動詞は shed。"
+            "explanation": "raise doubt で「疑い・不安を生じさせる」。doubt と自然に結びつく動詞は raise。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The volunteers decided to",
-            "after": "the beach clean-up until the storm had passed.",
-            "options": ["put off", "put on", "take off", "look up"],
+            "before": "The company decided to",
+            "after": "the launch until the software had been fully tested.",
+            "options": ["put off", "put up", "put on", "put out"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "put off で「～を延期する」。嵐が過ぎるまで延期する文意に合う句動詞。"
+            "explanation": "put off で「延期する」。テストが終わるまで発売を遅らせる文意に合う句動詞。"
           },
           {
             "id": "g2",
-            "before": "This is the first time I",
-            "after": "a meal entirely on my own, and I feel proud of it.",
-            "options": ["have cooked", "cooked", "am cooking", "was cooking"],
+            "before": "She spoke to the audience as if she",
+            "after": "them for many years.",
+            "options": ["had known", "knows", "has known", "knew"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "It is the first time (that) 主語 have + 過去分詞 の形。現在完了 have cooked が正しい。"
+            "explanation": "as if + 過去完了で、過去の事実に反する仮定を表す。「長年知っていたかのように」なので had known。"
           },
           {
             "id": "g3",
-            "before": "The teacher asked the students to",
-            "after": "attention to the small details in the diagram.",
-            "options": ["pay", "make", "give", "do"],
+            "before": "The volunteers worked hard to",
+            "after": "money for the new children's hospital.",
+            "options": ["raise", "rise", "lift", "grow"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "pay attention to で「～に注意を払う」。attention と結びつく動詞は pay。"
+            "explanation": "raise money で「お金を集める・募る」。fund-raising の定番コロケーション。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Slow Journey of a Cup of Coffee",
+        "title": "The Surprising Mind of the Octopus",
         "paragraphs": [
-          "Few people pause to think about how far a cup of coffee has travelled before it reaches their table. The story often begins on a small farm high in the mountains of Central America or East Africa, where the climate is cool and the soil is rich. There, ripe red coffee cherries are picked by hand, one by one, because a single branch may hold fruit at very different stages of ripeness. Machines cannot yet match the careful eye of an experienced picker.",
-          "Once the cherries are gathered, the beans hidden inside must be removed, dried, and sorted, a process that can take several weeks. Only then are the green beans shipped across oceans to distant roasting houses, where intense heat finally unlocks the rich aromas we recognise. A journey that started with a farmer bending over a bush can pass through a dozen pairs of hands before the coffee is poured into a paper cup on a busy street.",
-          "Understanding this long chain can change the way we drink. When we know that our morning coffee depends on the labour of growers who often earn very little, a cheap cup no longer seems quite so simple. A growing number of buyers now look for beans that are traded fairly, hoping that the farmers at the very start of the journey receive a reward that matches the value of their work."
+          "For a long time, intelligence was thought to belong mainly to animals with large brains and long lives, such as apes, dolphins, and crows. The octopus, a soft creature that usually lives only a year or two, seemed an unlikely candidate. Yet in aquariums around the world, keepers began to notice that these animals were doing things no simple instinct could explain.",
+          "Octopuses have been seen opening jars to reach the food inside, escaping through the smallest gaps in their tanks, and even recognising individual people who visited them each day. What makes their intelligence so strange is that much of it does not sit in a central brain at all. Two-thirds of their nerve cells are spread through their eight arms, so that each arm can taste, touch, and partly decide what to do on its own.",
+          "Studying such a different kind of mind forces scientists to rethink what intelligence really is. The octopus reminds us that clever behaviour did not evolve just once, along a single path leading to human beings. Instead it has appeared more than once, in bodies utterly unlike our own, shaped by lives we can barely imagine."
         ],
         "questions": [
           {
@@ -254,50 +254,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "A cup of coffee passes through a long, labour-intensive journey, and knowing this can make us value the farmers behind it.",
-              "Coffee is now grown and packaged entirely by machines, so no human labour is involved.",
-              "Coffee cherries are always green and are best picked before they ripen.",
-              "Roasting has no effect on the smell or taste of coffee beans."
+              "The octopus shows that intelligence can evolve in very different forms, not only in animals like us.",
+              "Octopuses are the most intelligent animals on Earth.",
+              "Only animals with large brains and long lives can be intelligent.",
+              "Aquarium keepers are wrong to think octopuses can solve problems."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Ripe coffee cherries are picked",
-            "after": "because one branch can hold fruit at different stages of ripeness.",
-            "options": ["by hand", "by machine", "in winter", "overnight"],
+            "before": "Because two-thirds of their nerve cells lie in their arms, each arm can",
+            "after": "and partly decide what to do on its own.",
+            "options": ["taste and touch", "read and write", "sleep for hours", "grow much longer"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "コーヒーが多くの人の手を経ることを示す語句はどれですか。",
+            "prompt": "オクトパスの知能が「一度きりではなく」進化したことを述べている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the climate is cool and the soil is rich" },
-              { "id": "s2", "text": "intense heat finally unlocks the rich aromas we recognise" },
-              { "id": "s3", "text": "can pass through a dozen pairs of hands before the coffee is poured" },
-              { "id": "s4", "text": "a cheap cup no longer seems quite so simple" }
+              { "id": "s1", "text": "a soft creature that usually lives only a year or two" },
+              { "id": "s2", "text": "opening jars to reach the food inside" },
+              { "id": "s3", "text": "clever behaviour did not evolve just once, along a single path" },
+              { "id": "s4", "text": "keepers began to notice that these animals were doing things" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "This is one reason why the harvest still relies so heavily on human workers.",
+            "sentence": "These abilities are impressive enough on their own.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 0
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
-            "prompt": "第3段落で筆者が最も伝えたいことはどれですか。",
+            "prompt": "筆者が最後の段落で最も伝えたいことはどれですか。",
             "options": [
-              "Knowing how hard growers work, and how little they often earn, is leading more buyers to seek fairly traded coffee.",
-              "Coffee should always be as cheap as possible, whatever the cost to farmers.",
-              "Farmers at the start of the journey are the only people who ever touch the beans.",
-              "Fair trade has made no difference to how people think about coffee."
+              "Intelligence can arise more than once and in bodies very different from ours.",
+              "Human beings are the only truly intelligent creatures.",
+              "Octopuses should be kept in larger tanks in every aquarium.",
+              "Scientists have already fully explained how the octopus thinks."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Why We Forget, and Why That Helps",
+        "title": "The Quiet Power of Walking",
         "paragraphs": [
-          "Most of us think of forgetting as a failure of the brain, an annoying flaw that makes us lose keys and miss appointments. For a long time, scientists shared this view and studied memory mainly by asking how we manage to hold on to information. In recent years, however, researchers have begun to argue that forgetting is not simply a breakdown. Instead, it may be a useful skill that the brain has developed on purpose.",
-          "The reason is that we are flooded with new information every single day. If we remembered every face, number, and conversation with equal strength, our minds would soon become crowded and slow. By letting go of details that no longer matter, the brain keeps the memories that are truly useful easy to reach. In this sense, a good memory may depend just as much on skilful forgetting as on careful storing.",
-          "This idea offers some comfort to anyone frustrated by a poor memory. Forgetting a stranger's name or an old phone number does not mean the brain is failing; it may simply be doing its job of clearing away clutter. What matters, the researchers suggest, is not remembering everything, but keeping the right things within reach when we truly need them."
+          "Many great thinkers have said that their best ideas came to them not at a desk but on a walk. Writers, scientists, and inventors have all described how a slow stroll seemed to loosen their thoughts and let new connections form. For a long time this sounded like a charming habit rather than a serious claim, but recent studies suggest there may be real truth in it.",
+          "When we walk, more blood and oxygen reach the brain, and the gentle, steady movement seems to put the mind into a relaxed but alert state. In one experiment, people were asked to think of creative uses for everyday objects. Those who walked, whether outdoors or simply on a treadmill indoors, came up with far more original ideas than those who stayed seated. The act of moving, not the scenery, appeared to make the difference.",
+          "None of this means we should abandon our desks completely. Careful, focused work still matters, and some tasks demand that we sit and concentrate. But when a problem feels stuck and the mind refuses to move, the oldest advice may also be the best: stand up, step outside, and let your feet do some of the thinking."
         ],
         "questions": [
           {
@@ -329,31 +329,31 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Forgetting may be a useful skill that clears away unneeded details so that important memories stay easy to reach.",
-              "Forgetting is always a sign that the brain is seriously damaged.",
-              "The brain is able to store every experience with perfect and equal strength.",
-              "Scientists have proven that memory has no purpose at all."
+              "Walking can help the mind think more creatively and may help when a problem feels stuck.",
+              "Sitting at a desk is always better than walking for good ideas.",
+              "Only famous thinkers can benefit from going for a walk.",
+              "Beautiful scenery is the only reason walking helps our thinking."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "By letting go of details that no longer matter, the brain keeps useful memories",
-            "after": "when we need them.",
-            "options": ["easy to reach", "hard to find", "completely hidden", "forever lost"],
+            "before": "In the experiment, the people who walked came up with",
+            "after": "than those who stayed seated.",
+            "options": ["far more original ideas", "far fewer ideas", "exactly the same ideas", "no ideas at all"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "なぜすべてを覚えていると困るのかを説明している語句はどれですか。",
+            "prompt": "アイデアを生んだのは景色ではなく「動くこと」だと述べている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "an annoying flaw that makes us lose keys and miss appointments" },
-              { "id": "s2", "text": "our minds would soon become crowded and slow" },
-              { "id": "s3", "text": "forgetting is not simply a breakdown" },
-              { "id": "s4", "text": "keeping the right things within reach when we truly need them" }
+              { "id": "s1", "text": "more blood and oxygen reach the brain" },
+              { "id": "s2", "text": "The act of moving, not the scenery, appeared to make the difference" },
+              { "id": "s3", "text": "Careful, focused work still matters" },
+              { "id": "s4", "text": "their best ideas came to them not at a desk but on a walk" }
             ],
             "answerSpanId": "s2"
           },
@@ -362,10 +362,10 @@
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Rather than a failure, forgetting may be the brain's way of removing clutter so the memories that matter stay useful.",
-              "People with poor memories should worry that their brains are broken.",
-              "The brain should try to store absolutely every detail it ever meets.",
-              "Remembering and forgetting have nothing to do with each other."
+              "Walking is not a replacement for focused work, but it can free the mind when thinking feels stuck.",
+              "People should stop sitting at desks and only walk all day.",
+              "Creative ideas come only from beautiful outdoor scenery.",
+              "There is no real evidence that walking affects the mind."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the updated schedule before you leave the office today?",
+      "transcript": "Would you mind sending me the report before you leave the office today?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves at a quarter to eight, so we should get there by seven thirty.",
+      "transcript": "The train leaves from platform seven at a quarter to eleven every morning.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Little did we know that the small decision would change the entire course of the project.",
+      "transcript": "Had we known about the delay earlier, we would have taken a different route.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I would have joined you for lunch if I had known you were in town.",
+      "transcript": "She has been studying abroad since the beginning of last September.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The brave brown bear brushed past the bushes beside the bright blue river.",
+      "transcript": "The big black bug bit the bare back of the brave boy by the barn.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-05T00:00:00.000Z",
-      "updatedAt": "2026-07-05T00:00:00.000Z",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "updatedAt": "2026-07-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please remember to turn off the lights and lock the door when you leave.",
+      "transcript": "Please remember to turn off the lights when you leave the meeting room.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
