@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-09",
+  "generatedAt": "2026-07-10",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "simmer", "isReal": true },
-          { "id": "w2", "text": "bakory", "isReal": false },
-          { "id": "w3", "text": "whisk", "isReal": true },
-          { "id": "w4", "text": "choppen", "isReal": false },
-          { "id": "w5", "text": "seasoning", "isReal": true },
-          { "id": "w6", "text": "flavure", "isReal": false },
-          { "id": "w7", "text": "blender", "isReal": true },
-          { "id": "w8", "text": "roastel", "isReal": false },
-          { "id": "w9", "text": "recipe", "isReal": true },
-          { "id": "w10", "text": "kneadle", "isReal": false },
-          { "id": "w11", "text": "aroma", "isReal": true },
-          { "id": "w12", "text": "garnesh", "isReal": false }
+          { "id": "w1", "text": "voyage", "isReal": true },
+          { "id": "w2", "text": "harbline", "isReal": false },
+          { "id": "w3", "text": "compass", "isReal": true },
+          { "id": "w4", "text": "sailure", "isReal": false },
+          { "id": "w5", "text": "anchor", "isReal": true },
+          { "id": "w6", "text": "tidely", "isReal": false },
+          { "id": "w7", "text": "current", "isReal": true },
+          { "id": "w8", "text": "wavent", "isReal": false },
+          { "id": "w9", "text": "shore", "isReal": true },
+          { "id": "w10", "text": "coastal", "isReal": true },
+          { "id": "w11", "text": "driftal", "isReal": false },
+          { "id": "w12", "text": "lighthouse", "isReal": true }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "meticulous", "isReal": true },
-          { "id": "w2", "text": "fervalent", "isReal": false },
-          { "id": "w3", "text": "resilient", "isReal": true },
-          { "id": "w4", "text": "obscurine", "isReal": false },
-          { "id": "w5", "text": "austere", "isReal": true },
-          { "id": "w6", "text": "ponderal", "isReal": false },
-          { "id": "w7", "text": "luminous", "isReal": true },
-          { "id": "w8", "text": "sagacive", "isReal": false },
-          { "id": "w9", "text": "candid", "isReal": true },
-          { "id": "w10", "text": "vernacle", "isReal": false },
-          { "id": "w11", "text": "tangible", "isReal": true },
-          { "id": "w12", "text": "lucident", "isReal": false }
+          { "id": "w1", "text": "profound", "isReal": true },
+          { "id": "w2", "text": "elusory", "isReal": false },
+          { "id": "w3", "text": "coherent", "isReal": true },
+          { "id": "w4", "text": "brittanic", "isReal": false },
+          { "id": "w5", "text": "eloquent", "isReal": true },
+          { "id": "w6", "text": "pervasine", "isReal": false },
+          { "id": "w7", "text": "prudent", "isReal": true },
+          { "id": "w8", "text": "quandive", "isReal": false },
+          { "id": "w9", "text": "versatile", "isReal": true },
+          { "id": "w10", "text": "abundant", "isReal": true },
+          { "id": "w11", "text": "sporadic", "isReal": true },
+          { "id": "w12", "text": "florentate", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Wind farms have spread quickly along coasts and open plains, where strong, steady breezes can be turned into electricity. Because the wind does not always blow, engineers must find better ways to {{b1}} the energy so that homes still have power on calm days. Many countries now see this clean technology as a key way to {{b2}} their use of coal and gas.",
+        "text": "Getting enough deep sleep is one of the simplest ways to protect your health. While we rest, the brain quietly {{b1}} the memories we formed during the day and clears away waste that builds up in its cells. People who sleep too little often struggle to {{b2}} on simple tasks and feel far more stressed than they need to.",
         "blanks": [
-          { "id": "b1", "full": "store", "keepHead": 3 },
-          { "id": "b2", "full": "reduce", "keepHead": 3 }
+          { "id": "b1", "full": "sorts", "keepHead": 3 },
+          { "id": "b2", "full": "focus", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,18 +94,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "A good museum does far more than display old objects behind glass. The best ones invite visitors to {{b1}} the past, using light, sound, and story to bring distant lives closer. When history is presented in this way, facts that once seemed dull can suddenly {{b2}} a fresh and very human meaning.",
+        "text": "Deep beneath the waves lies a world that remains almost entirely unexplored. Because sunlight cannot {{b1}} the darkest depths, scientists rely on robots and powerful lights to study creatures that have never seen the surface. Each dive tends to {{b2}} new species, reminding us how little of our own planet we truly understand.",
         "blanks": [
-          { "id": "b1", "full": "explore", "keepHead": 4 },
-          { "id": "b2", "full": "acquire", "keepHead": 4 }
+          { "id": "b1", "full": "penetrate", "keepHead": 4 },
+          { "id": "b2", "full": "reveal", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -114,18 +114,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Honey bees are far more important than their small size suggests. As they move from flower to flower in search of food, they {{b1}} pollen and allow countless plants to produce fruit and seeds. If bee numbers keep falling, farmers may find it hard to {{b2}} enough crops to feed a growing world.",
+        "text": "Volunteering can change a community in ways that money alone cannot. When neighbours give their time to clean a park or {{b1}} an elderly person with the shopping, they build trust that lasts long after the task is done. Small acts of kindness often {{b2}} others to join in, and slowly a stronger, friendlier place begins to grow.",
         "blanks": [
-          { "id": "b1", "full": "spread", "keepHead": 3 },
-          { "id": "b2", "full": "grow", "keepHead": 2 }
+          { "id": "b1", "full": "assist", "keepHead": 3 },
+          { "id": "b2", "full": "inspire", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -134,18 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "More and more cities are giving space back to the bicycle. By building safe, protected lanes, planners hope to {{b1}} people to leave their cars at home for short trips. Cleaner air and quieter streets are just some of the benefits that a cycling culture can {{b2}} to a busy modern city.",
+        "text": "The coffee in your morning cup travels a surprisingly long way before it reaches you. Farmers in warm, hilly regions carefully {{b1}} the ripe red cherries by hand, often high on steep slopes. After the beans are dried and roasted, their rich flavour depends heavily on how the plants were {{b2}} throughout the growing season.",
         "blanks": [
-          { "id": "b1", "full": "encourage", "keepHead": 4 },
-          { "id": "b2", "full": "bring", "keepHead": 3 }
+          { "id": "b1", "full": "harvest", "keepHead": 4 },
+          { "id": "b2", "full": "treated", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The new policy was introduced with great confidence;",
-            "after": ", few of the promised improvements ever appeared.",
-            "options": ["nevertheless", "therefore", "for example", "in short"],
+            "before": "The results were far from certain;",
+            "after": ", the team decided to publish them and let others test the claims.",
+            "options": ["even so", "as a result", "for instance", "in particular"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「自信を持って導入された → しかし改善はほとんど現れなかった」という逆接。期待と結果の対比を示す nevertheless（それにもかかわらず）が適切。"
+            "explanation": "「結果は確実とは言えなかった → それでも公表した」という譲歩の関係。even so（それでもなお）が前後の逆接をつなぐ。as a result は因果で不自然。"
           },
           {
             "id": "g2",
-            "before": "Not until the final results were published",
-            "after": "the true scale of the error.",
-            "options": ["did the team realize", "the team realized", "the team did realize", "realized the team"],
+            "before": "Had the warning been issued earlier,",
+            "after": "the damage from the storm.",
+            "options": ["they could have reduced", "they can reduce", "they will reduce", "they reduce"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "否定的な副詞句 Not until が文頭に出ると倒置が起こり、do/does/did + 主語 + 動詞原形の語順になる。よって did the team realize が正しい。"
+            "explanation": "Had + 主語 + 過去分詞 は仮定法過去完了の倒置形（＝If the warning had been issued earlier）。帰結節は would/could have + 過去分詞。よって could have reduced が正しい。"
           },
           {
             "id": "g3",
-            "before": "The report",
-            "after": "light on a problem that had been ignored for years.",
-            "options": ["shed", "made", "gave", "put"],
+            "before": "Scientists have finally managed to",
+            "after": "a link between air quality and sleep.",
+            "options": ["establish", "build", "arrange", "settle"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "shed light on ~ で「～を明らかにする・解明する」という定番のコロケーション。light と結びつく動詞は shed。"
+            "explanation": "establish a link で「関連を明らかにする・立証する」という定番のコロケーション。link と自然に結びつく動詞は establish。"
           }
         ]
       }
@@ -188,8 +188,8 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
@@ -201,30 +201,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "We had to",
-            "after": "the meeting because too many people were sick.",
-            "options": ["call off", "call on", "call up", "call in"],
+            "before": "It took her months to",
+            "after": "the habit of checking her phone first thing every morning.",
+            "options": ["break", "cut", "lose", "drop"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "call off で「（予定を）中止する」。多くの人が病気で会議を中止する文意に合う句動詞。"
+            "tag": "collocation",
+            "explanation": "break a habit で「習慣をやめる・断つ」という定番の表現。habit と結びつく動詞は break。"
           },
           {
             "id": "g2",
-            "before": "The teacher suggested that every student",
-            "after": "a short summary before the next class.",
-            "options": ["write", "writes", "wrote", "has written"],
+            "before": "If I",
+            "after": "more time yesterday, I would have finished the report.",
+            "options": ["had had", "have had", "had", "would have"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "suggest that の後は仮定法現在で動詞原形を使う。主語が単数でも write（原形）が正しい。"
+            "explanation": "過去の事実に反する仮定（仮定法過去完了）なので if節は had + 過去分詞。have の過去分詞は had なので had had が正しい。"
           },
           {
             "id": "g3",
-            "before": "Regular exercise can help you",
-            "after": "stress after a long day.",
-            "options": ["relieve", "repair", "remove", "refuse"],
+            "before": "The manager asked everyone to",
+            "after": "attention to the new safety rules.",
+            "options": ["pay", "give", "make", "take"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "relieve stress で「ストレスを和らげる」。stress と自然に結びつく動詞は relieve。"
+            "explanation": "pay attention to ~ で「～に注意を払う」。attention と結びつく動詞は pay。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Hidden Network Beneath the Forest",
+        "title": "The Quiet Power of Small Habits",
         "paragraphs": [
-          "Walk into an old forest and it is easy to see the trees as separate individuals, each one quietly competing with its neighbours for light and water. For most of history, that is exactly how scientists described them. In recent decades, however, researchers digging into the soil have uncovered a far stranger and more cooperative picture.",
-          "Beneath the ground, the roots of many trees are linked by fine threads of fungus that stretch for miles. Through this living network, trees can pass sugar, water, and even chemical warnings from one to another. A tall, healthy tree may quietly feed a young seedling growing in its shade, while a tree under attack by insects can send signals that prepare its neighbours to defend themselves.",
-          "Some scientists warn that we should be careful not to imagine the forest as one big, friendly family. Trees still compete, and the fungi that connect them are taking payment in sugar for their services. Even so, the discovery has changed how we picture a forest: not as a crowd of strangers, but as a community bound together by threads we are only beginning to understand."
+          "When people decide to change their lives, they often dream of dramatic action: a strict new diet, an hour of exercise every dawn, a promise to read a book a week. Such grand plans feel exciting for a few days, yet most of them collapse within a month. The reason is not weak character. It is that huge changes demand huge effort, and effort is exactly the thing that runs out first.",
+          "Researchers who study behaviour suggest a gentler path. Instead of trying to remake themselves overnight, people do far better by attaching a tiny new action to something they already do. Reading a single page after brushing your teeth, or doing two push-ups before your morning coffee, feels almost too small to matter. Precisely because it is so small, it is easy to repeat, and repetition is where real change hides.",
+          "Over months, these tiny actions grow quietly, like interest building in a bank account. One page becomes a chapter; two push-ups become twenty. The habit no longer relies on willpower, because it has become part of who you are. The lesson is not that ambition is wrong, but that lasting change is usually built from steps so small they are almost invisible."
         ],
         "questions": [
           {
@@ -254,38 +254,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Trees are connected underground and can share resources and signals, so a forest works partly as a community.",
-              "Trees never compete with one another and always act as a single family.",
-              "The fungus in the soil is the only living thing that matters in a forest.",
-              "Scientists have fully explained everything about how forests work."
+              "Lasting change usually comes from tiny, repeatable habits rather than sudden, dramatic effort.",
+              "People should always set the most ambitious goals they possibly can.",
+              "Willpower is the only thing that decides whether a habit survives.",
+              "Exercise and reading are the only habits worth building."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Through the underground network, a tall, healthy tree may quietly",
-            "after": "a young seedling growing in its shade.",
-            "options": ["feed", "cut down", "photograph", "replace"],
+            "before": "According to the writer, grand plans often fail because huge changes demand huge",
+            "after": ", which runs out quickly.",
+            "options": ["effort", "money", "space", "talent"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "森を「一つの仲のよい家族」と単純に考えないよう注意している語句はどれですか。",
+            "prompt": "小さな習慣が時間とともに成長する様子をたとえている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the roots of many trees are linked by fine threads of fungus" },
-              { "id": "s2", "text": "we should be careful not to imagine the forest as one big, friendly family" },
-              { "id": "s3", "text": "trees can pass sugar, water, and even chemical warnings" },
-              { "id": "s4", "text": "Walk into an old forest and it is easy to see the trees as separate individuals" }
+              { "id": "s1", "text": "a strict new diet, an hour of exercise every dawn" },
+              { "id": "s2", "text": "most of them collapse within a month" },
+              { "id": "s3", "text": "these tiny actions grow quietly, like interest building in a bank account" },
+              { "id": "s4", "text": "effort is exactly the thing that runs out first" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "This exchange, however, is not always as generous as it sounds.",
+            "sentence": "The trick, they argue, is to make the first step so easy that failing to do it feels harder than doing it.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -294,10 +294,10 @@
             "id": "q5",
             "prompt": "筆者が最後の段落で最も伝えたいことはどれですか。",
             "options": [
-              "A forest is best seen as a connected community, even though its trees still compete with one another.",
-              "Trees should be moved closer together so that they can share more sugar.",
-              "The discovery proves that forests have no competition of any kind.",
-              "Fungi are harmful and should be removed from forest soil."
+              "Real, lasting change is built from steps so small they are almost invisible, until the habit becomes part of who you are.",
+              "Ambition is always a mistake and should be avoided completely.",
+              "Habits can only be formed by using strong willpower every single day.",
+              "Saving money in a bank is the best way to change your behaviour."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Comeback of the Night Train",
+        "title": "The City That Turned Off Its Lights",
         "paragraphs": [
-          "Not long ago, the night train seemed to belong to the past. Cheap flights had made it faster and often cheaper to fly across a continent, and many old sleeper services were quietly shut down. For a while it looked as though falling asleep in one city and waking up in another was a memory that would soon disappear.",
-          "Today, though, night trains are slowly returning to Europe. Growing concern about the pollution caused by flying has led many travellers to look for greener ways to move around. A night on the train means one less hotel to pay for, and passengers arrive rested in the heart of a city rather than at an airport far outside it. Several countries have begun to invest in new sleeper carriages and to reopen routes that were closed years ago.",
-          "Night trains are not perfect. Tickets can be more expensive than a budget flight, and a journey that takes two hours by plane may take twelve by rail. Yet for a growing number of people, the slower pace is part of the appeal. The night train offers something a plane cannot: the quiet pleasure of watching the world roll past your window as you travel gently towards sleep."
+          "For most of human history, the night sky was a familiar sight. People could look up almost anywhere and see thousands of stars, along with the pale band of the Milky Way. Today, however, the glow of streetlights, offices, and advertising signs has washed much of that view away. In many large cities, a child may grow up able to count the visible stars on two hands.",
+          "This constant brightness, known as light pollution, does more than hide the stars. Bright nights confuse birds that travel by the moon, keep insects circling uselessly around lamps, and disturb the sleep of people living nearby. Wasted light also means wasted energy, as electricity pours upward into an empty sky instead of lighting the streets below.",
+          "Some towns have decided to fight back. By using warmer, dimmer lamps that point downward, and by switching off unnecessary lights late at night, they have cut their energy bills and brought a little darkness back. In a few places, residents have gathered in parks to watch the stars reappear, rediscovering a view their grandparents once took for granted."
         ],
         "questions": [
           {
@@ -329,43 +329,43 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Night trains are becoming popular again, partly because they are greener and more comfortable than flying.",
-              "Night trains have completely disappeared and will never return.",
-              "Flying is always the best way to travel across a continent.",
-              "Night trains are cheaper than every other kind of travel."
+              "Light pollution hides the stars and causes other harm, but careful changes can bring the night sky back.",
+              "City lights have no effect on animals or on people's sleep.",
+              "The Milky Way has completely disappeared from the sky forever.",
+              "Turning off streetlights always makes cities more dangerous."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "One reason night trains are returning is that many travellers now worry about the",
-            "after": "caused by flying.",
-            "options": ["pollution", "comfort", "speed", "silence"],
+            "before": "The writer says that bright nights can confuse birds that travel by the",
+            "after": ".",
+            "options": ["moon", "wind", "rain", "sea"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "夜行列車が飛行機にはない魅力を持つと述べている語句はどれですか。",
+            "prompt": "光害を減らすために町が実際に取った行動を述べている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "Cheap flights had made it faster and often cheaper to fly across a continent" },
-              { "id": "s2", "text": "Tickets can be more expensive than a budget flight" },
-              { "id": "s3", "text": "the quiet pleasure of watching the world roll past your window" },
-              { "id": "s4", "text": "many old sleeper services were quietly shut down" }
+              { "id": "s1", "text": "a child may grow up able to count the visible stars on two hands" },
+              { "id": "s2", "text": "using warmer, dimmer lamps that point downward" },
+              { "id": "s3", "text": "the glow of streetlights, offices, and advertising signs has washed much of that view away" },
+              { "id": "s4", "text": "keep insects circling uselessly around lamps" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Although night trains have some drawbacks, they are making a comeback as a greener and more relaxing way to travel.",
-              "Night trains are faster and cheaper than planes in every case.",
-              "People should stop travelling by train because it wastes time.",
-              "Airports are always located in the centre of the city."
+              "Light pollution harms wildlife, sleep, and energy use, yet simple steps can restore darker, starrier nights.",
+              "Cities should make their lights as bright as possible at all times.",
+              "Only scientists are able to see the stars at night.",
+              "There is nothing anyone can do about light pollution."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Could you let me know as soon as the package arrives at the front desk?",
+      "transcript": "Would you mind turning down the music while I finish this phone call?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum opens at nine thirty and the last tickets are sold at four fifteen.",
+      "transcript": "The train leaves platform seven at eight forty and arrives at half past ten.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Not only did she finish the project early, but she also helped her colleagues.",
+      "transcript": "Rarely have I seen a project completed so smoothly and so far ahead of schedule.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I would rather walk to the station than wait for the next bus in the rain.",
+      "transcript": "You should have told me you were coming so I could have saved you a seat.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She sells fresh shells by the shore while the sheep sleep nearby.",
+      "transcript": "The thin thread threaded through three thick things without tearing at all.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-09T00:00:00.000Z",
-      "updatedAt": "2026-07-09T00:00:00.000Z",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "updatedAt": "2026-07-10T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Don't forget to back up your files before you update the software tonight.",
+      "transcript": "Please remember to switch off the lights before you lock up the office.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
