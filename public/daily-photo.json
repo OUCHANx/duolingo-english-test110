@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-10",
-  "image": "/daily-photo.jpg?v=2026-07-10",
+  "date": "2026-07-14",
+  "image": "/daily-photo.jpg?v=2026-07-14",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what they are doing, and what kind of atmosphere it has.",
-  "theme": "屋内の体育館でのスポーツの場面。赤いシャツの男性が緑色のボールを片手で高く投げ（打ち）、床には緑のボールがいくつも転がっている。奥にはバスケットのゴール、左には青いシャツの女性がスマホで撮影、壁沿いにロッカーと三脚のカメラ。木の床に色のラインが引かれた明るく活動的な雰囲気。",
-  "modelAnswer": "This photo was taken inside a bright gym or sports hall. A man in a red shirt and dark shorts is standing in the middle of the wooden floor, throwing a small green ball high into the air with one hand. Several other green balls are lying on the floor around him, so it looks like a game or a training session. On the left, a woman in a blue shirt is filming him with her phone. Behind them you can see a basketball hoop, a row of lockers, and a camera on a tripod. The floor has many colored lines for different sports. The whole place feels active, sporty, and full of energy.",
-  "modelAnswerJa": "この写真は、明るい体育館かスポーツホールの中で撮られたものです。赤いシャツと濃い色の短パンをはいた男性が木の床の真ん中に立ち、片手で小さな緑色のボールを高く空中に投げています。彼の周りの床には緑色のボールがいくつも転がっているので、試合か練習をしているように見えます。左側では、青いシャツの女性がスマホで彼を撮影しています。後ろにはバスケットのゴール、ロッカーの列、そして三脚に載ったカメラが見えます。床にはいろいろなスポーツ用の色のついたラインがたくさん引かれています。全体として、活動的でスポーティーで、元気いっぱいの雰囲気です。",
+  "theme": "屋外のファーマーズマーグット（青空市場）。白いテントの下、テーブルを囲んで3人がいる。左は格子柄シャツとハンチング帽の男性、中央はスケール（はかり）で野菜を量る人、右は白髪でメガネの男性が緑の葉物野菜を手に持つ。テーブルには茶色い布と木箱に入った紫や白の野菜、手前には紫のアーティチョークの木箱と黄色いコンテナ。奥には駐車した車や木々、ほかのテント。全員マスク姿で、穏やかで親しみやすい雰囲気。",
+  "modelAnswer": "This photo shows a busy outdoor farmers market on a cloudy day. Under a large white tent, three people are standing around a table full of fresh vegetables. On the left, a man in a checked shirt and a flat cap is looking at the food. In the middle, another person is weighing vegetables on a scale, and on the right, a man with grey hair is holding a bunch of green leaves. In front of the table there are wooden boxes of purple vegetables and a bright yellow crate. Behind them you can see parked cars and trees. Everyone is wearing a mask, and the market feels calm and friendly.",
+  "modelAnswerJa": "この写真は、曇りの日の賑やかな屋外のファーマーズマーケット（青空市場）を写しています。大きな白いテントの下で、3人が新鮮な野菜でいっぱいのテーブルを囲んで立っています。左側では、格子柄のシャツとハンチング帽をかぶった男性が食べ物を見ています。真ん中では、もう一人がはかりで野菜の重さを量っていて、右側では白髪の男性が緑の葉物野菜を手に持っています。テーブルの手前には、紫色の野菜が入った木箱と、明るい黄色のコンテナがあります。後ろには、駐車した車や木々が見えます。全員がマスクをつけていて、市場は穏やかで親しみやすい雰囲気です。",
   "tips": [
-    { "term": "inside a gym", "ja": "体育館の中で" },
-    { "term": "throw a ball", "ja": "ボールを投げる" },
-    { "term": "in the middle of ~", "ja": "～の真ん中で" },
-    { "term": "film someone with a phone", "ja": "スマホで人を撮影する" },
-    { "term": "lie on the floor", "ja": "床に転がっている、横たわっている" },
-    { "term": "full of energy", "ja": "元気いっぱいで" },
-    { "term": "active and sporty", "ja": "活動的でスポーティーな" }
+    { "term": "an outdoor market", "ja": "屋外の市場、青空市場" },
+    { "term": "under a tent", "ja": "テントの下で" },
+    { "term": "stand around a table", "ja": "テーブルを囲んで立つ" },
+    { "term": "fresh vegetables", "ja": "新鮮な野菜" },
+    { "term": "on the left / in the middle / on the right", "ja": "左に／真ん中に／右に" },
+    { "term": "wear a mask", "ja": "マスクをつける" },
+    { "term": "feel calm and friendly", "ja": "穏やかで親しみやすい雰囲気がする" }
   ]
 }
