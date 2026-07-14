@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-10",
+  "generatedAt": "2026-07-14",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "voyage", "isReal": true },
-          { "id": "w2", "text": "harbline", "isReal": false },
-          { "id": "w3", "text": "compass", "isReal": true },
-          { "id": "w4", "text": "sailure", "isReal": false },
-          { "id": "w5", "text": "anchor", "isReal": true },
-          { "id": "w6", "text": "tidely", "isReal": false },
-          { "id": "w7", "text": "current", "isReal": true },
-          { "id": "w8", "text": "wavent", "isReal": false },
-          { "id": "w9", "text": "shore", "isReal": true },
-          { "id": "w10", "text": "coastal", "isReal": true },
-          { "id": "w11", "text": "driftal", "isReal": false },
-          { "id": "w12", "text": "lighthouse", "isReal": true }
+          { "id": "w1", "text": "simmer", "isReal": true },
+          { "id": "w2", "text": "choppel", "isReal": false },
+          { "id": "w3", "text": "whisk", "isReal": true },
+          { "id": "w4", "text": "bakement", "isReal": false },
+          { "id": "w5", "text": "knead", "isReal": true },
+          { "id": "w6", "text": "slicion", "isReal": false },
+          { "id": "w7", "text": "roast", "isReal": true },
+          { "id": "w8", "text": "peelage", "isReal": false },
+          { "id": "w9", "text": "grate", "isReal": true },
+          { "id": "w10", "text": "stovic", "isReal": false },
+          { "id": "w11", "text": "blend", "isReal": true },
+          { "id": "w12", "text": "fryand", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "profound", "isReal": true },
-          { "id": "w2", "text": "elusory", "isReal": false },
-          { "id": "w3", "text": "coherent", "isReal": true },
-          { "id": "w4", "text": "brittanic", "isReal": false },
-          { "id": "w5", "text": "eloquent", "isReal": true },
-          { "id": "w6", "text": "pervasine", "isReal": false },
-          { "id": "w7", "text": "prudent", "isReal": true },
-          { "id": "w8", "text": "quandive", "isReal": false },
-          { "id": "w9", "text": "versatile", "isReal": true },
-          { "id": "w10", "text": "abundant", "isReal": true },
-          { "id": "w11", "text": "sporadic", "isReal": true },
-          { "id": "w12", "text": "florentate", "isReal": false }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "feromous", "isReal": false },
+          { "id": "w3", "text": "tangible", "isReal": true },
+          { "id": "w4", "text": "plausity", "isReal": false },
+          { "id": "w5", "text": "resilient", "isReal": true },
+          { "id": "w6", "text": "vividance", "isReal": false },
+          { "id": "w7", "text": "ambiguous", "isReal": true },
+          { "id": "w8", "text": "solemnal", "isReal": false },
+          { "id": "w9", "text": "candid", "isReal": true },
+          { "id": "w10", "text": "cranitude", "isReal": false },
+          { "id": "w11", "text": "tentative", "isReal": true },
+          { "id": "w12", "text": "obscurial", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,18 +74,58 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Getting enough deep sleep is one of the simplest ways to protect your health. While we rest, the brain quietly {{b1}} the memories we formed during the day and clears away waste that builds up in its cells. People who sleep too little often struggle to {{b2}} on simple tasks and feel far more stressed than they need to.",
+        "text": "Bees do far more for us than make honey. As they move from flower to flower in search of food, they {{b1}} pollen that allows plants to produce fruit and seeds. Without these busy insects, many of the crops we {{b2}} on every day would quickly disappear from our plates.",
         "blanks": [
-          { "id": "b1", "full": "sorts", "keepHead": 3 },
-          { "id": "b2", "full": "focus", "keepHead": 3 }
+          { "id": "b1", "full": "spread", "keepHead": 3 },
+          { "id": "b2", "full": "depend", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "Working from home has changed daily life for millions of people. Without a long journey to the office, many workers can {{b1}} more time to their families and hobbies. Yet the same freedom can blur the line between work and rest, making it hard to fully {{b2}} at the end of the day.",
+        "blanks": [
+          { "id": "b1", "full": "devote", "keepHead": 3 },
+          { "id": "b2", "full": "relax", "keepHead": 3 }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-3",
+      "userId": null,
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
+      "taskType": "read_and_complete",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "passage": null,
+      "tags": ["vocab", "spelling"],
+      "source": "daily",
+      "payload": {
+        "text": "A good museum does more than store old objects behind glass. Through careful lighting and clear labels, it helps visitors {{b1}} the stories behind each painting or tool. When history is presented in this way, even a rainy afternoon indoors can {{b2}} into a journey through time.",
+        "blanks": [
+          { "id": "b1", "full": "grasp", "keepHead": 3 },
+          { "id": "b2", "full": "turn", "keepHead": 2 }
+        ]
+      }
+    },
+    {
+      "id": "daily-rc-4",
+      "userId": null,
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -94,58 +134,18 @@
       "tags": ["vocab", "spelling"],
       "source": "daily",
       "payload": {
-        "text": "Deep beneath the waves lies a world that remains almost entirely unexplored. Because sunlight cannot {{b1}} the darkest depths, scientists rely on robots and powerful lights to study creatures that have never seen the surface. Each dive tends to {{b2}} new species, reminding us how little of our own planet we truly understand.",
+        "text": "Regular exercise strengthens far more than the muscles you can see. Each time your heart beats faster, it {{b1}} fresh blood and oxygen around the body, keeping the brain sharp as well. People who stay active also tend to {{b2}} better at night and wake up feeling genuinely refreshed.",
         "blanks": [
-          { "id": "b1", "full": "penetrate", "keepHead": 4 },
-          { "id": "b2", "full": "reveal", "keepHead": 3 }
-        ]
-      }
-    },
-    {
-      "id": "daily-rc-3",
-      "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
-      "taskType": "read_and_complete",
-      "difficulty": "medium",
-      "cefr": "B2",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
-      "passage": null,
-      "tags": ["vocab", "spelling"],
-      "source": "daily",
-      "payload": {
-        "text": "Volunteering can change a community in ways that money alone cannot. When neighbours give their time to clean a park or {{b1}} an elderly person with the shopping, they build trust that lasts long after the task is done. Small acts of kindness often {{b2}} others to join in, and slowly a stronger, friendlier place begins to grow.",
-        "blanks": [
-          { "id": "b1", "full": "assist", "keepHead": 3 },
-          { "id": "b2", "full": "inspire", "keepHead": 3 }
-        ]
-      }
-    },
-    {
-      "id": "daily-rc-4",
-      "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
-      "taskType": "read_and_complete",
-      "difficulty": "medium",
-      "cefr": "B2",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
-      "passage": null,
-      "tags": ["vocab", "spelling"],
-      "source": "daily",
-      "payload": {
-        "text": "The coffee in your morning cup travels a surprisingly long way before it reaches you. Farmers in warm, hilly regions carefully {{b1}} the ripe red cherries by hand, often high on steep slopes. After the beans are dried and roasted, their rich flavour depends heavily on how the plants were {{b2}} throughout the growing season.",
-        "blanks": [
-          { "id": "b1", "full": "harvest", "keepHead": 4 },
-          { "id": "b2", "full": "treated", "keepHead": 4 }
+          { "id": "b1", "full": "pumps", "keepHead": 3 },
+          { "id": "b2", "full": "sleep", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -157,30 +157,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The results were far from certain;",
-            "after": ", the team decided to publish them and let others test the claims.",
-            "options": ["even so", "as a result", "for instance", "in particular"],
+            "before": "The experiment failed three times;",
+            "after": ", the researchers refused to abandon their idea.",
+            "options": ["nevertheless", "therefore", "for example", "in short"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「結果は確実とは言えなかった → それでも公表した」という譲歩の関係。even so（それでもなお）が前後の逆接をつなぐ。as a result は因果で不自然。"
+            "explanation": "「三度失敗した → それでもあきらめなかった」という逆接。nevertheless（それにもかかわらず）が前後の対立をつなぐ。therefore は因果で不自然。"
           },
           {
             "id": "g2",
-            "before": "Had the warning been issued earlier,",
-            "after": "the damage from the storm.",
-            "options": ["they could have reduced", "they can reduce", "they will reduce", "they reduce"],
+            "before": "Not until she read the final page",
+            "after": "how the whole story fit together.",
+            "options": ["did she realize", "she realized", "she did realize", "realized she"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Had + 主語 + 過去分詞 は仮定法過去完了の倒置形（＝If the warning had been issued earlier）。帰結節は would/could have + 過去分詞。よって could have reduced が正しい。"
+            "explanation": "否定語句 Not until ... が文頭に出ると倒置が起き、主節は疑問文の語順（did + 主語 + 動詞の原形）になる。よって did she realize が正しい。"
           },
           {
             "id": "g3",
-            "before": "Scientists have finally managed to",
-            "after": "a link between air quality and sleep.",
-            "options": ["establish", "build", "arrange", "settle"],
+            "before": "The new findings cast serious",
+            "after": "on the theory that everyone had accepted for years.",
+            "options": ["doubt", "question", "worry", "fear"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "establish a link で「関連を明らかにする・立証する」という定番のコロケーション。link と自然に結びつく動詞は establish。"
+            "explanation": "cast doubt on ~ で「～に疑いを投げかける」という定番のコロケーション。cast と自然に結びつく名詞は doubt。"
           }
         ]
       }
@@ -188,43 +188,43 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["vocab", "grammar", "collocation"],
+      "tags": ["grammar", "collocation", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "It took her months to",
-            "after": "the habit of checking her phone first thing every morning.",
-            "options": ["break", "cut", "lose", "drop"],
+            "before": "You should only",
+            "after": "a decision after you have considered every option carefully.",
+            "options": ["make", "do", "take", "give"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "break a habit で「習慣をやめる・断つ」という定番の表現。habit と結びつく動詞は break。"
+            "explanation": "make a decision で「決定を下す」という定番の表現。decision と結びつく動詞は make。"
           },
           {
             "id": "g2",
-            "before": "If I",
-            "after": "more time yesterday, I would have finished the report.",
-            "options": ["had had", "have had", "had", "would have"],
+            "before": "The old stone bridge",
+            "after": "here since 1920 and still carries heavy traffic every day.",
+            "options": ["has stood", "stood", "is standing", "stands"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "過去の事実に反する仮定（仮定法過去完了）なので if節は had + 過去分詞。have の過去分詞は had なので had had が正しい。"
+            "explanation": "since 1920（過去のある時点から現在まで）が続く継続の意味なので現在完了 has stood が正しい。過去形 stood では現在までの継続を表せない。"
           },
           {
             "id": "g3",
-            "before": "The manager asked everyone to",
-            "after": "attention to the new safety rules.",
-            "options": ["pay", "give", "make", "take"],
+            "before": "She was completely exhausted;",
+            "after": ", she still offered to help us carry the boxes upstairs.",
+            "options": ["nonetheless", "because", "so", "meanwhile"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "pay attention to ~ で「～に注意を払う」。attention と結びつく動詞は pay。"
+            "tag": "cohesion",
+            "explanation": "「疲れ果てていた → それでも手伝うと申し出た」という譲歩・逆接。nonetheless（それでもなお）が適切。because や so は因果関係で不自然。"
           }
         ]
       }
@@ -232,8 +232,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -242,11 +242,11 @@
       "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Quiet Power of Small Habits",
+        "title": "The Return of the Wolves",
         "paragraphs": [
-          "When people decide to change their lives, they often dream of dramatic action: a strict new diet, an hour of exercise every dawn, a promise to read a book a week. Such grand plans feel exciting for a few days, yet most of them collapse within a month. The reason is not weak character. It is that huge changes demand huge effort, and effort is exactly the thing that runs out first.",
-          "Researchers who study behaviour suggest a gentler path. Instead of trying to remake themselves overnight, people do far better by attaching a tiny new action to something they already do. Reading a single page after brushing your teeth, or doing two push-ups before your morning coffee, feels almost too small to matter. Precisely because it is so small, it is easy to repeat, and repetition is where real change hides.",
-          "Over months, these tiny actions grow quietly, like interest building in a bank account. One page becomes a chapter; two push-ups become twenty. The habit no longer relies on willpower, because it has become part of who you are. The lesson is not that ambition is wrong, but that lasting change is usually built from steps so small they are almost invisible."
+          "When the last wolves were killed in Yellowstone National Park in the 1920s, few people mourned them. To the farmers and hunters of the time, the animals were simply dangerous pests. For decades the park seemed calmer without them. Yet beneath the surface something was quietly going wrong: with no predators left to fear, the deer multiplied and grazed the young trees along the rivers down to bare stubble.",
+          "In 1995, scientists made a bold decision and brought a small number of wolves back. The results surprised almost everyone. As the deer learned to avoid the open valleys where they could easily be caught, the willows and aspens they had once stripped began to grow tall again. Birds returned to the fresh branches, beavers built dams in the recovering streams, and those dams created quiet ponds for fish and frogs.",
+          "Most remarkable of all, the rivers themselves changed. With strong new roots holding the banks in place, the water ran clearer and followed steadier paths. A single species, returned to its old home, had reshaped an entire landscape. The story of the wolves reminds us that in nature the pieces are connected in ways we are only beginning to understand."
         ],
         "questions": [
           {
@@ -254,50 +254,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Lasting change usually comes from tiny, repeatable habits rather than sudden, dramatic effort.",
-              "People should always set the most ambitious goals they possibly can.",
-              "Willpower is the only thing that decides whether a habit survives.",
-              "Exercise and reading are the only habits worth building."
+              "Bringing back a single predator can transform an entire ecosystem in unexpected ways.",
+              "Wolves are dangerous pests that should be kept out of national parks.",
+              "Deer are the most important animals in Yellowstone National Park.",
+              "Rivers change their paths only because of rainfall and weather."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "According to the writer, grand plans often fail because huge changes demand huge",
-            "after": ", which runs out quickly.",
-            "options": ["effort", "money", "space", "talent"],
+            "before": "After the wolves were removed, the deer multiplied because they had no predators left to",
+            "after": ".",
+            "options": ["fear", "feed", "follow", "find"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "小さな習慣が時間とともに成長する様子をたとえている語句はどれですか。",
+            "prompt": "オオカミが戻った後に川そのものがどう変化したかを述べている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "a strict new diet, an hour of exercise every dawn" },
-              { "id": "s2", "text": "most of them collapse within a month" },
-              { "id": "s3", "text": "these tiny actions grow quietly, like interest building in a bank account" },
-              { "id": "s4", "text": "effort is exactly the thing that runs out first" }
+              { "id": "s1", "text": "the deer multiplied and grazed the young trees along the rivers down to bare stubble" },
+              { "id": "s2", "text": "the willows and aspens they had once stripped began to grow tall again" },
+              { "id": "s3", "text": "the water ran clearer and followed steadier paths" },
+              { "id": "s4", "text": "few people mourned them" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The trick, they argue, is to make the first step so easy that failing to do it feels harder than doing it.",
+            "sentence": "Ecologists call this chain of connected effects a trophic cascade.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
-            "prompt": "筆者が最後の段落で最も伝えたいことはどれですか。",
+            "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Real, lasting change is built from steps so small they are almost invisible, until the habit becomes part of who you are.",
-              "Ambition is always a mistake and should be avoided completely.",
-              "Habits can only be formed by using strong willpower every single day.",
-              "Saving money in a bank is the best way to change your behaviour."
+              "One returning species reshaped an entire park, showing how deeply connected the natural world is.",
+              "Killing predators is the best way to keep a national park safe and calm.",
+              "The wolves of Yellowstone had no real effect on the plants or rivers.",
+              "Scientists should never move animals from one place to another."
             ],
             "answerIdx": 0
           }
@@ -307,8 +307,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
@@ -317,11 +317,11 @@
       "tags": ["reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The City That Turned Off Its Lights",
+        "title": "The Farms on the Rooftops",
         "paragraphs": [
-          "For most of human history, the night sky was a familiar sight. People could look up almost anywhere and see thousands of stars, along with the pale band of the Milky Way. Today, however, the glow of streetlights, offices, and advertising signs has washed much of that view away. In many large cities, a child may grow up able to count the visible stars on two hands.",
-          "This constant brightness, known as light pollution, does more than hide the stars. Bright nights confuse birds that travel by the moon, keep insects circling uselessly around lamps, and disturb the sleep of people living nearby. Wasted light also means wasted energy, as electricity pours upward into an empty sky instead of lighting the streets below.",
-          "Some towns have decided to fight back. By using warmer, dimmer lamps that point downward, and by switching off unnecessary lights late at night, they have cut their energy bills and brought a little darkness back. In a few places, residents have gathered in parks to watch the stars reappear, rediscovering a view their grandparents once took for granted."
+          "High above the noise and traffic of many modern cities, a quiet change is taking place on the roofs of buildings. Where there was once nothing but grey concrete and old pipes, people are now growing vegetables, herbs, and even small fruit trees. These rooftop gardens turn wasted space into something useful and green.",
+          "The benefits reach far beyond fresh food. Plants on a roof soak up rain that would otherwise flood the streets below, and they help cool the building in summer, cutting the need for air conditioning. For the people who tend them, the gardens also offer a rare chance to slow down, dig in the soil, and get to know their neighbours.",
+          "Of course, rooftop farming is not always easy. The wind can be fierce, water must be carried up high, and not every roof is strong enough to hold the heavy weight of wet soil. Even so, as cities grow more and more crowded, many people believe that the empty spaces above our heads may become some of the most valuable land of all."
         ],
         "questions": [
           {
@@ -329,43 +329,43 @@
             "id": "q1",
             "prompt": "本文が最も伝えたいことはどれですか。",
             "options": [
-              "Light pollution hides the stars and causes other harm, but careful changes can bring the night sky back.",
-              "City lights have no effect on animals or on people's sleep.",
-              "The Milky Way has completely disappeared from the sky forever.",
-              "Turning off streetlights always makes cities more dangerous."
+              "Rooftop gardens turn unused city space into a source of food and other benefits.",
+              "Cities should remove all plants from the tops of their buildings.",
+              "Growing food is only possible on farms far outside the city.",
+              "Air conditioning is the best way to cool a building in summer."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The writer says that bright nights can confuse birds that travel by the",
-            "after": ".",
-            "options": ["moon", "wind", "rain", "sea"],
+            "before": "The writer says that plants on a roof soak up rain that would otherwise",
+            "after": "the streets below.",
+            "options": ["flood", "clean", "cross", "cool"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "光害を減らすために町が実際に取った行動を述べている語句はどれですか。",
+            "prompt": "屋上農園の難しさ（デメリット）を述べている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "a child may grow up able to count the visible stars on two hands" },
-              { "id": "s2", "text": "using warmer, dimmer lamps that point downward" },
-              { "id": "s3", "text": "the glow of streetlights, offices, and advertising signs has washed much of that view away" },
-              { "id": "s4", "text": "keep insects circling uselessly around lamps" }
+              { "id": "s1", "text": "people are now growing vegetables, herbs, and even small fruit trees" },
+              { "id": "s2", "text": "the gardens also offer a rare chance to slow down" },
+              { "id": "s3", "text": "The wind can be fierce, water must be carried up high" },
+              { "id": "s4", "text": "they help cool the building in summer" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "summarize",
             "id": "q4",
             "prompt": "本文全体の要点はどれですか。",
             "options": [
-              "Light pollution harms wildlife, sleep, and energy use, yet simple steps can restore darker, starrier nights.",
-              "Cities should make their lights as bright as possible at all times.",
-              "Only scientists are able to see the stars at night.",
-              "There is nothing anyone can do about light pollution."
+              "Although rooftop farming has real challenges, it makes crowded cities greener and more useful.",
+              "Rooftop farming is so difficult that no one should ever attempt it.",
+              "The only reason to build a rooftop garden is to grow fruit trees.",
+              "Cities with tall buildings can never find space to grow any plants."
             ],
             "answerIdx": 0
           }
@@ -377,13 +377,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind turning down the music while I finish this phone call?",
+      "transcript": "Could you let me know as soon as the package arrives at the front desk?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -392,13 +392,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves platform seven at eight forty and arrives at half past ten.",
+      "transcript": "The meeting was moved from nine fifteen on Monday to two thirty on Thursday.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -407,13 +407,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Rarely have I seen a project completed so smoothly and so far ahead of schedule.",
+      "transcript": "Not only did she pass the exam, but she also earned the highest score in her class.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -422,13 +422,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "You should have told me you were coming so I could have saved you a seat.",
+      "transcript": "If I had known about the traffic, I would have left the house much earlier.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -437,13 +437,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The thin thread threaded through three thick things without tearing at all.",
+      "transcript": "She sells fresh shellfish by the seashore on sunny summer mornings.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -452,13 +452,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-10T00:00:00.000Z",
-      "updatedAt": "2026-07-10T00:00:00.000Z",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "updatedAt": "2026-07-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please remember to switch off the lights before you lock up the office.",
+      "transcript": "Don't forget to back up your files before you update the software tonight.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
