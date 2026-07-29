@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-29",
+  "generatedAt": "2026-07-30",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "voyage", "isReal": true },
-          { "id": "w2", "text": "nemplish", "isReal": false },
-          { "id": "w3", "text": "anchor", "isReal": true },
-          { "id": "w4", "text": "tarvid", "isReal": false },
-          { "id": "w5", "text": "drift", "isReal": true },
-          { "id": "w6", "text": "clundent", "isReal": false },
-          { "id": "w7", "text": "harbor", "isReal": true },
-          { "id": "w8", "text": "framold", "isReal": false },
-          { "id": "w9", "text": "breeze", "isReal": true },
-          { "id": "w10", "text": "grondish", "isReal": false },
-          { "id": "w11", "text": "cliff", "isReal": true },
-          { "id": "w12", "text": "spelture", "isReal": false }
+          { "id": "w1", "text": "simmer", "isReal": true },
+          { "id": "w2", "text": "quorble", "isReal": false },
+          { "id": "w3", "text": "utensil", "isReal": true },
+          { "id": "w4", "text": "drantic", "isReal": false },
+          { "id": "w5", "text": "knead", "isReal": true },
+          { "id": "w6", "text": "sturbal", "isReal": false },
+          { "id": "w7", "text": "recipe", "isReal": true },
+          { "id": "w8", "text": "gralish", "isReal": false },
+          { "id": "w9", "text": "blend", "isReal": true },
+          { "id": "w10", "text": "morpent", "isReal": false },
+          { "id": "w11", "text": "flavor", "isReal": true },
+          { "id": "w12", "text": "prundle", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,141 +46,140 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "recover", "isReal": true },
-          { "id": "w2", "text": "healtion", "isReal": false },
-          { "id": "w3", "text": "remedy", "isReal": true },
-          { "id": "w4", "text": "medisome", "isReal": false },
-          { "id": "w5", "text": "fatigue", "isReal": true },
-          { "id": "w6", "text": "restlence", "isReal": false },
-          { "id": "w7", "text": "posture", "isReal": true },
-          { "id": "w8", "text": "vitanic", "isReal": false },
-          { "id": "w9", "text": "nutrient", "isReal": true },
-          { "id": "w10", "text": "curament", "isReal": false },
-          { "id": "w11", "text": "immune", "isReal": true },
-          { "id": "w12", "text": "dosality", "isReal": false }
+          { "id": "w1", "text": "device", "isReal": true },
+          { "id": "w2", "text": "crendal", "isReal": false },
+          { "id": "w3", "text": "upgrade", "isReal": true },
+          { "id": "w4", "text": "blimtic", "isReal": false },
+          { "id": "w5", "text": "storage", "isReal": true },
+          { "id": "w6", "text": "snorvel", "isReal": false },
+          { "id": "w7", "text": "wireless", "isReal": true },
+          { "id": "w8", "text": "quadrish", "isReal": false },
+          { "id": "w9", "text": "glitch", "isReal": true },
+          { "id": "w10", "text": "feltron", "isReal": false },
+          { "id": "w11", "text": "network", "isReal": true },
+          { "id": "w12", "text": "mavony", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["vocab", "spelling"],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Scientists once assumed that sleep was simply a time when the body {{b1}} down and did nothing useful. Modern research tells a different story: while we rest, the brain quietly {{b2}} through the events of the day, keeping what matters and letting the rest fade away.",
+        "text": "On the flat roofs of several city hospitals, gardens have quietly {{b1}} empty space into something useful. Vegetables grown a few metres above the kitchen cut the {{b2}} that food must travel, and staff who spend an hour weeding often feel calmer at the end of a long {{b3}}. The leafy roofs also cool the rooms below, which {{b4}} the cost of air conditioning in summer.",
         "blanks": [
-          { "id": "b1", "full": "shut", "keepHead": 2 },
-          { "id": "b2", "full": "sorts", "keepHead": 3 }
+          { "id": "b1", "full": "turned", "keepHead": 3 },
+          { "id": "b2", "full": "distance", "keepHead": 4 },
+          { "id": "b3", "full": "shift", "keepHead": 3 },
+          { "id": "b4", "full": "lowers", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["vocab", "spelling"],
+      "tags": ["spelling", "grammar"],
       "source": "daily",
       "payload": {
-        "text": "Across Europe, night trains are making a quiet {{b1}} after decades of decline. Travellers who once flew short distances now choose to sleep on board instead, waking in the centre of the next city and {{b2}} the long queues that airports demand.",
+        "text": "Students who take notes by hand tend to remember more than those who type, and the {{b1}} may be speed. A keyboard is quick enough to copy a lecture word for word, so the brain never has to {{b2}} what matters. Writing slowly forces a choice, and that choice leaves a stronger {{b3}} in memory. Typing is not useless, but it seems to work best when the notes are {{b4}} by hand later.",
         "blanks": [
-          { "id": "b1", "full": "comeback", "keepHead": 4 },
-          { "id": "b2", "full": "avoiding", "keepHead": 4 }
+          { "id": "b1", "full": "reason", "keepHead": 3 },
+          { "id": "b2", "full": "decide", "keepHead": 3 },
+          { "id": "b3", "full": "trace", "keepHead": 3 },
+          { "id": "b4", "full": "rewritten", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["vocab", "spelling"],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Beneath a busy shopping street, archaeologists have {{b1}} the stone foundations of a market that traded here two thousand years ago. Worn coins, broken pots, and even a child's clay toy {{b2}} that ordinary life went on much as it does above them today.",
+        "text": "Long before a volcano erupts, the mountain usually gives {{b1}}. Instruments buried on its slopes pick up tiny earthquakes, and satellites measure how the ground {{b2}} by a few centimetres as magma rises. No single signal is proof on its own, so scientists wait for several of them to {{b3}} at once. When the pattern is clear enough, officials can order an {{b4}} of the nearest villages days ahead of the first ash.",
         "blanks": [
-          { "id": "b1", "full": "uncovered", "keepHead": 4 },
-          { "id": "b2", "full": "suggest", "keepHead": 3 }
+          { "id": "b1", "full": "warning", "keepHead": 4 },
+          { "id": "b2", "full": "swells", "keepHead": 3 },
+          { "id": "b3", "full": "appear", "keepHead": 3 },
+          { "id": "b4", "full": "evacuation", "keepHead": 5 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "read_and_complete",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["vocab", "spelling"],
+      "tags": ["spelling", "collocation"],
       "source": "daily",
       "payload": {
-        "text": "Most plastic is still cheaper to produce than to collect and clean, which is why so little of it is ever {{b1}} into something new. Chemists are now testing materials that break down safely in soil, hoping to {{b2}} the mountain of waste that grows a little higher every year.",
+        "text": "Several companies that shortened the working week to four days expected output to {{b1}}. Instead, most reported the same results or slightly better ones, partly because long meetings were cut and partly because staff took fewer days of sick {{b2}}. Managers admit that the change is not simple: every task has to be planned more {{b3}}, and shifts that depend on customers being served every day are much harder to {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "turned", "keepHead": 3 },
-          { "id": "b2", "full": "shrink", "keepHead": 3 }
+          { "id": "b1", "full": "fall", "keepHead": 2 },
+          { "id": "b2", "full": "leave", "keepHead": 3 },
+          { "id": "b3", "full": "carefully", "keepHead": 4 },
+          { "id": "b4", "full": "cover", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation", "cohesion"],
+      "tags": ["cohesion", "collocation"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The city spent millions on the new stadium;",
-            "after": ", the number of weekend visitors has barely changed.",
-            "options": ["however", "moreover", "as a result", "in other words"],
+            "before": "Rain had been falling for three days,",
+            "after": "the organisers moved the main stage indoors.",
+            "options": ["so", "therefore", "because", "although"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「大金を使った → それでも来場者はほとんど増えていない」という逆接。however（しかし）が前後の対立をつなぐ。as a result だと因果になり意味が逆。"
+            "explanation": "前半が理由、後半が結果なので順接。カンマだけで2つの節をつなげられるのは接続詞の so。therefore は副詞なのでセミコロンやピリオドが必要、because や although では因果・逆接の向きが合わない。"
           },
           {
             "id": "g2",
-            "before": "Rarely",
-            "after": "such a detailed map of the ocean floor.",
-            "options": ["have scientists produced", "scientists have produced", "scientists produced have", "did scientists produced"],
-            "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "Rarely など否定的な副詞が文頭に出ると倒置が起き、〈助動詞＋主語＋動詞〉の語順になる。現在完了なので have scientists produced が正しい。"
-          },
-          {
-            "id": "g3",
-            "before": "Her latest report has drawn widespread",
-            "after": "from experts who had long ignored the subject.",
-            "options": ["attention", "notice", "sight", "view"],
+            "before": "The new labelling rules apply to all imported foods,",
+            "after": "of whether they are sold fresh or frozen.",
+            "options": ["regardless", "apart", "instead", "in spite"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "draw attention (from ~) で「（～の）注目を集める」という定番のコロケーション。draw sight / draw view とは言わない。"
+            "explanation": "regardless of whether ~ で「~かどうかに関わらず」。apart from / instead of / in spite of は形か意味が合わず、whether 節をこの位置で受けられない。"
           }
         ]
       }
@@ -188,43 +187,34 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "cohesion", "collocation"],
+      "tags": ["grammar", "collocation"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The committee insisted that every member",
-            "after": "present at the final vote.",
-            "options": ["be", "is", "was", "will be"],
+            "before": "Had the engineers",
+            "after": "the crack a week earlier, the bridge could have stayed open.",
+            "options": ["noticed", "notice", "been noticed", "noticing"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "insist / demand / require などに続く that 節では仮定法現在（動詞の原形）を使う。主語が every member でも be のまま。"
+            "explanation": "if を省略した倒置の仮定法過去完了「Had + 主語 + 過去分詞」。engineers は crack を「見つける」側なので受動の been noticed は不可。"
           },
           {
             "id": "g2",
-            "before": "Few people take the warning seriously,",
-            "after": "the evidence has been available for years.",
-            "options": ["even though", "as if", "so that", "in case"],
-            "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "「証拠は何年も前からある → なのに真剣に受け止めない」という譲歩。even though（～にもかかわらず）が自然。so that は目的で文意が通らない。"
-          },
-          {
-            "id": "g3",
-            "before": "After months of difficult talks, the two companies finally reached a",
-            "after": "that satisfied neither side completely.",
-            "options": ["compromise", "comparison", "commitment", "competition"],
+            "before": "Her explanation was clear, but it failed to",
+            "after": "for the missing data in the second table.",
+            "options": ["account", "explain", "justify", "respond"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "reach a compromise で「妥協点に達する」。後半の「どちらの側も完全には満足しなかった」が compromise を裏づけている。"
+            "explanation": "account for ~ で「~の説明がつく、~を説明する」。explain と justify は for を伴わず目的語を直接取り、respond for という形はない。"
           }
         ]
       }
@@ -232,21 +222,21 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-detail", "reading-gist", "inference", "cohesion"],
+      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Night Shift of the Brain",
+        "title": "Fixing Things Again",
         "paragraphs": [
-          "For most of the twentieth century, sleep was treated as an empty space between the useful hours of the day. Doctors described it as a kind of switching off, and ambitious students were praised for getting by on four or five hours. The advice sounded sensible enough: if the brain does nothing while we sleep, then sleeping less should simply buy us more time.",
-          "Recording equipment changed that picture completely. Far from switching off, the sleeping brain turns out to be strikingly busy. During the deeper stages of the night it replays the electrical patterns of the day at high speed, moving fragile new memories from temporary storage into more permanent networks. At the same time, fluid washes through the tissue and carries away the waste proteins that build up during waking hours.",
-          "This is why a lost night costs more than it appears to. Volunteers kept awake for a single night remember far less of what they studied the day before, and they are noticeably worse at judging their own performance. The tired brain, in other words, loses the very tool it would need to notice how tired it is. Sleep is not the price we pay for the day; it is part of the work the day requires."
+          "On the first Saturday of every month, a hall in the north of the city fills with broken things. People arrive carrying lamps that no longer light, radios that hiss, and jackets with torn linings. Waiting for them are volunteers with screwdrivers, sewing machines and, above all, patience. Nothing is sold and nothing is thrown away; the only rule is that owners must sit beside their own object while it is repaired.",
+          "The idea began in Amsterdam in 2009 and has since spread to more than two thousand towns. Part of its appeal is financial, but the volunteers insist that saving money is not the main point. Most modern goods are designed to be replaced rather than opened, and glued cases and unlabelled parts make repair look impossible. A café shows, in an hour or two, that it often is not.",
+          "Measured in kilograms, the effect is modest: a busy session might save a few hundred items from landfill, a fraction of what one city discards in a day. Its organisers argue that the real product is confidence. Someone who has watched a kettle come apart on a table is slower to believe that a broken thing is finished, and that habit follows them home."
         ],
         "questions": [
           {
@@ -254,38 +244,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Sleep is an active process that the brain needs in order to store memories and clear away waste.",
-              "Students who sleep only four hours a night usually get the best results.",
-              "Recording equipment is the most important invention in modern medicine.",
-              "The brain switches off completely as soon as a person falls asleep."
+              "Repair cafés mend household goods for free and, more importantly, show people that repair is possible.",
+              "Repair cafés have replaced most electrical shops in European cities.",
+              "Volunteers in Amsterdam buy and sell second-hand lamps and radios at a small profit.",
+              "Modern goods are built to last far longer than the products people bought fifty years ago."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "During the deeper stages of the night, the brain replays the day's patterns and moves fragile new memories into more",
-            "after": "networks.",
-            "options": ["permanent", "crowded", "distant", "expensive"],
+            "before": "Because most modern goods are designed to be replaced rather than opened, repair can look",
+            "after": "until someone demonstrates otherwise.",
+            "options": ["impossible", "expensive", "fashionable", "urgent"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "睡眠を奪われた人が自分の状態を正しく判断できなくなることを述べている語句はどれですか。",
+            "prompt": "修理カフェが防げるごみの量は多くないと認めている語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "ambitious students were praised for getting by on four or five hours" },
-              { "id": "s2", "text": "fluid washes through the tissue and carries away the waste proteins" },
-              { "id": "s3", "text": "they are noticeably worse at judging their own performance" },
-              { "id": "s4", "text": "sleep was treated as an empty space between the useful hours of the day" }
+              { "id": "s1", "text": "the only rule is that owners must sit beside their own object" },
+              { "id": "s2", "text": "a busy session might save a few hundred items from landfill" },
+              { "id": "s3", "text": "began in Amsterdam in 2009 and has since spread" },
+              { "id": "s4", "text": "volunteers with screwdrivers, sewing machines and, above all, patience" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Once researchers could watch the brain hour by hour, that comfortable assumption fell apart.",
+            "sentence": "By the end of the afternoon, perhaps two thirds of those objects will work again.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 0
           },
@@ -294,10 +284,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Sleep is not wasted time but essential work, and cutting it short quietly damages memory and judgement.",
-              "Anyone who wants to achieve more should train themselves to sleep as little as possible.",
-              "Waste proteins in the brain are the only real reason that people feel tired.",
-              "Twentieth-century doctors understood sleep better than researchers do today."
+              "The value of a repair café lies less in the waste it prevents than in the confidence it gives ordinary people.",
+              "Repair cafés will soon solve the problem of household waste in large cities.",
+              "People should refuse to buy any electrical goods that come in glued cases.",
+              "Volunteers clearly enjoy repairing the objects more than their owners do."
             ],
             "answerIdx": 0
           }
@@ -307,21 +297,21 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-detail", "reading-gist", "inference"],
+      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Box That Changed the World",
+        "title": "The Wolves Came Back",
         "paragraphs": [
-          "Before the 1950s, loading a ship was slow and dangerous work. Barrels, sacks and wooden crates of every shape were carried aboard one by one by teams of dock workers, and a single vessel could sit in port for a week or more. Shipping cost so much that a factory rarely sold its goods far beyond its own region.",
-          "The solution was almost absurdly simple: a plain steel box of a fixed size that could be lifted straight from a truck onto a ship without anyone touching what was inside. Ports resisted at first, since the boxes demanded expensive new cranes and far fewer workers, and long strikes followed. Yet once a few harbours had rebuilt themselves, the others had little choice but to follow.",
-          "The consequences reached well beyond the docks. As the cost of moving goods collapsed, factories could be built wherever labour was cheapest rather than wherever customers happened to live, and shops filled with products assembled from parts made on three continents. A box with no moving parts and no clever technology inside it had quietly rearranged the map of world trade."
+          "When the last wolf in the region was shot in 1893, farmers celebrated. A century later, without anyone releasing them, wolves walked back across the border. They had followed river valleys and quiet motorway verges from populations further east, and the first proof was not a photograph but a line of prints in spring mud.",
+          "Ecologists welcomed the return, and not only for the sake of the animal itself. Deer numbers had grown so high that young trees were eaten before they could reach the height of a person, and the forest was slowly ageing without replacing itself. Where wolves now hunt, deer move more often and graze in shorter bursts, and thin lines of new saplings have appeared along the streams.",
+          "For the farmers whose sheep are killed, none of this is comforting. Compensation schemes pay for animals that are found, but not for the ones that simply vanish, and not for the work of bringing a flock in every night. The debate is therefore less about biology than about who carries the cost of a shared decision, and that is a harder problem to solve than any fence."
         ],
         "questions": [
           {
@@ -329,50 +319,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "A simple standard steel box made shipping so cheap that it reshaped global trade.",
-              "Dock workers in the 1950s were paid better than factory workers.",
-              "Modern cranes are the most advanced machines ever built for ports.",
-              "Ships should carry barrels and sacks rather than containers."
+              "Wolves have returned to the region by themselves, bringing benefits to the forest but costs that fall mainly on farmers.",
+              "Scientists released wolves into the region in order to control the deer population.",
+              "Deer have almost disappeared from the forest since the wolves came back.",
+              "Farmers have accepted the return of the wolves now that compensation is paid in full."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Ports resisted the new boxes at first because the change demanded costly cranes and",
-            "after": "workers than before.",
-            "options": ["far fewer", "far more", "much older", "slightly better"],
+            "before": "Because deer were eating the young trees before they could grow tall, the forest was ageing without",
+            "after": "itself.",
+            "options": ["replacing", "protecting", "measuring", "warming"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "コンテナの登場が工場の立地の決め方を変えたことを述べている語句はどれですか。",
+            "prompt": "オオカミが人の手で放されたのではないことを示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "a single vessel could sit in port for a week or more" },
-              { "id": "s2", "text": "factories could be built wherever labour was cheapest rather than wherever customers happened to live" },
-              { "id": "s3", "text": "a plain steel box of a fixed size" },
-              { "id": "s4", "text": "long strikes followed" }
+              { "id": "s1", "text": "without anyone releasing them, wolves walked back across the border" },
+              { "id": "s2", "text": "Compensation schemes pay for animals that are found" },
+              { "id": "s3", "text": "thin lines of new saplings have appeared along the streams" },
+              { "id": "s4", "text": "deer move more often and graze in shorter bursts" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s1"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Not everyone welcomed the new method, however.",
+            "sentence": "Foresters had been warning about that missing generation of trees for years.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 0
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
-            "prompt": "本文全体の要点はどれですか。",
+            "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Despite early resistance, a simple container cut shipping costs so far that it changed where the world's goods are made.",
-              "The container was rejected everywhere and never came into common use.",
-              "Trade grew mainly because dock workers agreed to work longer hours.",
-              "Complicated technology is always needed before an industry can change."
+              "The wolves' return has helped the forest recover, but the burden of living with them is not shared equally.",
+              "Stronger fences are the only practical answer to conflicts between wolves and farmers.",
+              "The region's forests were in much better health before the wolves returned.",
+              "Compensation payments have made the argument about wolves disappear."
             ],
             "answerIdx": 0
           }
@@ -384,13 +374,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The bus to the airport leaves from platform seven at four forty-five.",
+      "transcript": "The training session starts at nine fifteen and lasts about two and a half hours.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -399,13 +389,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "I would have called you earlier, but my phone had run out of battery.",
+      "transcript": "There was nothing else we could have done about it at the time.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -414,13 +404,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please make sure the windows are closed before you leave the building.",
+      "transcript": "Would you mind sending me the address before you leave the office?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -429,13 +419,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "I thought the third path through the woods was worth trying after all.",
+      "transcript": "The thick fog made it hard to see the narrow path along the cliff.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -444,13 +434,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She thought about the offer for a while and then decided to take the job.",
+      "transcript": "He said he would rather walk home than wait another twenty minutes for the bus.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -459,15 +449,15 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Nearly ninety percent of the students said they preferred the shorter course.",
+      "transcript": "Most of the people who signed up for the class had never studied it before.",
       "prompt": null,
-      "tags": ["listen-numeral"],
+      "tags": ["listen-funcword"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     }
