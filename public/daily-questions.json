@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30",
+  "generatedAt": "2026-08-01",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "simmer", "isReal": true },
-          { "id": "w2", "text": "quorble", "isReal": false },
-          { "id": "w3", "text": "utensil", "isReal": true },
-          { "id": "w4", "text": "drantic", "isReal": false },
-          { "id": "w5", "text": "knead", "isReal": true },
-          { "id": "w6", "text": "sturbal", "isReal": false },
-          { "id": "w7", "text": "recipe", "isReal": true },
-          { "id": "w8", "text": "gralish", "isReal": false },
-          { "id": "w9", "text": "blend", "isReal": true },
-          { "id": "w10", "text": "morpent", "isReal": false },
-          { "id": "w11", "text": "flavor", "isReal": true },
-          { "id": "w12", "text": "prundle", "isReal": false }
+          { "id": "w1", "text": "eclipse", "isReal": true },
+          { "id": "w2", "text": "quandel", "isReal": false },
+          { "id": "w3", "text": "horizon", "isReal": true },
+          { "id": "w4", "text": "florast", "isReal": false },
+          { "id": "w5", "text": "drizzle", "isReal": true },
+          { "id": "w6", "text": "brimmet", "isReal": false },
+          { "id": "w7", "text": "forecast", "isReal": true },
+          { "id": "w8", "text": "thelvin", "isReal": false },
+          { "id": "w9", "text": "telescope", "isReal": true },
+          { "id": "w10", "text": "surpane", "isReal": false },
+          { "id": "w11", "text": "humid", "isReal": true },
+          { "id": "w12", "text": "crandle", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "device", "isReal": true },
-          { "id": "w2", "text": "crendal", "isReal": false },
-          { "id": "w3", "text": "upgrade", "isReal": true },
-          { "id": "w4", "text": "blimtic", "isReal": false },
-          { "id": "w5", "text": "storage", "isReal": true },
-          { "id": "w6", "text": "snorvel", "isReal": false },
-          { "id": "w7", "text": "wireless", "isReal": true },
-          { "id": "w8", "text": "quadrish", "isReal": false },
-          { "id": "w9", "text": "glitch", "isReal": true },
-          { "id": "w10", "text": "feltron", "isReal": false },
-          { "id": "w11", "text": "network", "isReal": true },
-          { "id": "w12", "text": "mavony", "isReal": false }
+          { "id": "w1", "text": "deadline", "isReal": true },
+          { "id": "w2", "text": "meltrig", "isReal": false },
+          { "id": "w3", "text": "colleague", "isReal": true },
+          { "id": "w4", "text": "obtance", "isReal": false },
+          { "id": "w5", "text": "invoice", "isReal": true },
+          { "id": "w6", "text": "vurnish", "isReal": false },
+          { "id": "w7", "text": "agenda", "isReal": true },
+          { "id": "w8", "text": "clandet", "isReal": false },
+          { "id": "w9", "text": "budget", "isReal": true },
+          { "id": "w10", "text": "protule", "isReal": false },
+          { "id": "w11", "text": "promote", "isReal": true },
+          { "id": "w12", "text": "dascent", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,42 +74,42 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "On the flat roofs of several city hospitals, gardens have quietly {{b1}} empty space into something useful. Vegetables grown a few metres above the kitchen cut the {{b2}} that food must travel, and staff who spend an hour weeding often feel calmer at the end of a long {{b3}}. The leafy roofs also cool the rooms below, which {{b4}} the cost of air conditioning in summer.",
+        "text": "City planners once treated noise as an unavoidable {{b1}} of growth. Recent studies, however, link constant traffic sound to poor sleep and higher blood {{b2}}, so several councils now measure decibels as carefully as they measure air quality. Quieter road surfaces and thicker glass in new flats can {{b3}} the problem, but the cheapest answer is often simply to slow the traffic {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "turned", "keepHead": 3 },
-          { "id": "b2", "full": "distance", "keepHead": 4 },
-          { "id": "b3", "full": "shift", "keepHead": 3 },
-          { "id": "b4", "full": "lowers", "keepHead": 3 }
+          { "id": "b1", "full": "cost", "keepHead": 2 },
+          { "id": "b2", "full": "pressure", "keepHead": 4 },
+          { "id": "b3", "full": "reduce", "keepHead": 3 },
+          { "id": "b4", "full": "down", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["spelling", "grammar"],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Students who take notes by hand tend to remember more than those who type, and the {{b1}} may be speed. A keyboard is quick enough to copy a lecture word for word, so the brain never has to {{b2}} what matters. Writing slowly forces a choice, and that choice leaves a stronger {{b3}} in memory. Typing is not useless, but it seems to work best when the notes are {{b4}} by hand later.",
+        "text": "Adults who begin a new language often worry that they have started too {{b1}}. Research on classroom learners suggests that progress depends less on age than on how regularly they {{b2}} the language and how willing they are to make mistakes in front of others. Short daily sessions beat long weekend ones, and speaking from the first week builds {{b3}} far faster than silent study, even while the grammar is still {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "reason", "keepHead": 3 },
-          { "id": "b2", "full": "decide", "keepHead": 3 },
-          { "id": "b3", "full": "trace", "keepHead": 3 },
-          { "id": "b4", "full": "rewritten", "keepHead": 4 }
+          { "id": "b1", "full": "late", "keepHead": 2 },
+          { "id": "b2", "full": "practice", "keepHead": 4 },
+          { "id": "b3", "full": "confidence", "keepHead": 5 },
+          { "id": "b4", "full": "shaky", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -118,68 +118,68 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Long before a volcano erupts, the mountain usually gives {{b1}}. Instruments buried on its slopes pick up tiny earthquakes, and satellites measure how the ground {{b2}} by a few centimetres as magma rises. No single signal is proof on its own, so scientists wait for several of them to {{b3}} at once. When the pattern is clear enough, officials can order an {{b4}} of the nearest villages days ahead of the first ash.",
+        "text": "For decades the drawings sat in wooden drawers, seen only by the few researchers who could {{b1}} the museum in person. A three-year project has now photographed every sheet at high {{b2}} and put the images online, where anyone can zoom in on a single pencil line. Curators admit that a screen cannot {{b3}} the texture of old paper, yet requests to see the originals have actually {{b4}} since the archive opened.",
         "blanks": [
-          { "id": "b1", "full": "warning", "keepHead": 4 },
-          { "id": "b2", "full": "swells", "keepHead": 3 },
-          { "id": "b3", "full": "appear", "keepHead": 3 },
-          { "id": "b4", "full": "evacuation", "keepHead": 5 }
+          { "id": "b1", "full": "visit", "keepHead": 3 },
+          { "id": "b2", "full": "resolution", "keepHead": 5 },
+          { "id": "b3", "full": "capture", "keepHead": 4 },
+          { "id": "b4", "full": "risen", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "read_and_complete",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["spelling", "collocation"],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Several companies that shortened the working week to four days expected output to {{b1}}. Instead, most reported the same results or slightly better ones, partly because long meetings were cut and partly because staff took fewer days of sick {{b2}}. Managers admit that the change is not simple: every task has to be planned more {{b3}}, and shifts that depend on customers being served every day are much harder to {{b4}}.",
+        "text": "When the city painted a protected cycle lane along its busiest {{b1}}, shopkeepers protested that losing the parking spaces would ruin them. Two years later, counts show that the number of riders has more than {{b2}}, while takings at the same shops are slightly up. People who arrive by bike buy less each time but return so often that their monthly {{b3}} is higher than that of drivers, and the street now feels {{b4}} to walk along.",
         "blanks": [
-          { "id": "b1", "full": "fall", "keepHead": 2 },
-          { "id": "b2", "full": "leave", "keepHead": 3 },
-          { "id": "b3", "full": "carefully", "keepHead": 4 },
-          { "id": "b4", "full": "cover", "keepHead": 3 }
+          { "id": "b1", "full": "avenue", "keepHead": 3 },
+          { "id": "b2", "full": "doubled", "keepHead": 3 },
+          { "id": "b3", "full": "total", "keepHead": 3 },
+          { "id": "b4", "full": "safer", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["cohesion", "collocation"],
+      "tags": ["cohesion", "grammar"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "Rain had been falling for three days,",
-            "after": "the organisers moved the main stage indoors.",
-            "options": ["so", "therefore", "because", "although"],
+            "before": "The first results were surprising,",
+            "after": "they were not published until two other teams had repeated the experiment.",
+            "options": ["which is why", "because", "in spite of", "so as"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "前半が理由、後半が結果なので順接。カンマだけで2つの節をつなげられるのは接続詞の so。therefore は副詞なのでセミコロンやピリオドが必要、because や although では因果・逆接の向きが合わない。"
+            "explanation": "前半（意外な結果）が理由で、後半（すぐに発表しなかったこと）が結果。前の文全体を受けて「だからこそ～」とつなげられるのは which is why。because では因果の向きが逆になり、in spite of は名詞句を、so as は to 不定詞を必要とする。"
           },
           {
             "id": "g2",
-            "before": "The new labelling rules apply to all imported foods,",
-            "after": "of whether they are sold fresh or frozen.",
-            "options": ["regardless", "apart", "instead", "in spite"],
+            "before": "Few of the volunteers had any medical training,",
+            "after": "did they expect to work such long hours.",
+            "options": ["nor", "also", "besides", "so"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "regardless of whether ~ で「~かどうかに関わらず」。apart from / instead of / in spite of は形か意味が合わず、whether 節をこの位置で受けられない。"
+            "tag": "grammar",
+            "explanation": "否定的な内容に続けて「～もまた…ない」と言うときの倒置は nor did they ~。also や besides は副詞なので倒置を作れず、so did they では肯定の同意になり意味が逆になる。"
           }
         ]
       }
@@ -187,34 +187,34 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "complete_the_sentences",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation"],
+      "tags": ["collocation", "vocab"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "Had the engineers",
-            "after": "the crack a week earlier, the bridge could have stayed open.",
-            "options": ["noticed", "notice", "been noticed", "noticing"],
+            "before": "The new policy is expected to have a lasting",
+            "after": "on how research money is shared between universities.",
+            "options": ["impact", "affect", "effort", "result"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "if を省略した倒置の仮定法過去完了「Had + 主語 + 過去分詞」。engineers は crack を「見つける」側なので受動の been noticed は不可。"
+            "tag": "collocation",
+            "explanation": "have a lasting impact on ~ で「~に長く続く影響を与える」という決まった言い方。affect は動詞なので名詞の位置に入らず、effort は「努力」で意味が合わない。result は on ではなく of / in を取る。"
           },
           {
             "id": "g2",
-            "before": "Her explanation was clear, but it failed to",
-            "after": "for the missing data in the second table.",
-            "options": ["account", "explain", "justify", "respond"],
+            "before": "She turned down the offer",
+            "after": "the grounds that the deadline was completely unrealistic.",
+            "options": ["on", "in", "by", "for"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "account for ~ で「~の説明がつく、~を説明する」。explain と justify は for を伴わず目的語を直接取り、respond for という形はない。"
+            "explanation": "on the grounds that ~ で「~という理由で」という固定表現。in / by / for ではこの成句にならず、that 節を理由として受けられない。"
           }
         ]
       }
@@ -222,8 +222,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -232,11 +232,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Fixing Things Again",
+        "title": "Reading the Rings",
         "paragraphs": [
-          "On the first Saturday of every month, a hall in the north of the city fills with broken things. People arrive carrying lamps that no longer light, radios that hiss, and jackets with torn linings. Waiting for them are volunteers with screwdrivers, sewing machines and, above all, patience. Nothing is sold and nothing is thrown away; the only rule is that owners must sit beside their own object while it is repaired.",
-          "The idea began in Amsterdam in 2009 and has since spread to more than two thousand towns. Part of its appeal is financial, but the volunteers insist that saving money is not the main point. Most modern goods are designed to be replaced rather than opened, and glued cases and unlabelled parts make repair look impossible. A café shows, in an hour or two, that it often is not.",
-          "Measured in kilograms, the effect is modest: a busy session might save a few hundred items from landfill, a fraction of what one city discards in a day. Its organisers argue that the real product is confidence. Someone who has watched a kettle come apart on a table is slower to believe that a broken thing is finished, and that habit follows them home."
+          "A core of wood no wider than a pencil can be drilled from a living pine without harming it. Under a lens the sample shows a row of pale and dark bands, one pair for every year the tree has lived. Wide bands mark seasons of rain and warmth; narrow ones record drought, cold, or the shadow of a taller neighbour. Because trees of the same species in the same valley answer the weather in the same way, their patterns can be matched like fingerprints.",
+          "By overlapping samples — a living tree with a beam from a farmhouse, that beam with a plank from an older church — researchers have built continuous records reaching back thousands of years in parts of Europe. The method fixes the year in which a piece of timber was cut, something radiocarbon dating cannot do. Museums now use it to check the age of panel paintings, and archaeologists to settle arguments about when a village was abandoned.",
+          "The limits are real. Tropical trees, which grow all year round, often produce no clear rings at all, and a single core taken from an unusual specimen can mislead. Specialists therefore insist on dozens of samples before they announce a date. Even so, the timber in an ordinary roof holds a record of summers that no written document ever mentioned."
         ],
         "questions": [
           {
@@ -244,38 +244,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Repair cafés mend household goods for free and, more importantly, show people that repair is possible.",
-              "Repair cafés have replaced most electrical shops in European cities.",
-              "Volunteers in Amsterdam buy and sell second-hand lamps and radios at a small profit.",
-              "Modern goods are built to last far longer than the products people bought fifty years ago."
+              "Tree rings record each year of growth, and by matching patterns researchers can date timber to an exact year, though the method has clear limits.",
+              "Radiocarbon dating has replaced the study of tree rings in most European museums.",
+              "Drilling cores from living pines damages the trees and is now strongly discouraged.",
+              "Tropical forests provide the clearest and most reliable tree-ring records in the world."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Because most modern goods are designed to be replaced rather than opened, repair can look",
-            "after": "until someone demonstrates otherwise.",
-            "options": ["impossible", "expensive", "fashionable", "urgent"],
+            "before": "Compared with radiocarbon dating, ring patterns can fix the year a beam was cut with far greater",
+            "after": "which is one reason museums rely on them.",
+            "options": ["precision", "difficulty", "expense", "frequency"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "修理カフェが防げるごみの量は多くないと認めている語句はどれですか。",
+            "prompt": "この方法がどこでも使えるわけではないことを示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the only rule is that owners must sit beside their own object" },
-              { "id": "s2", "text": "a busy session might save a few hundred items from landfill" },
-              { "id": "s3", "text": "began in Amsterdam in 2009 and has since spread" },
-              { "id": "s4", "text": "volunteers with screwdrivers, sewing machines and, above all, patience" }
+              { "id": "s1", "text": "their patterns can be matched like fingerprints" },
+              { "id": "s2", "text": "often produce no clear rings at all" },
+              { "id": "s3", "text": "fixes the year in which a piece of timber was cut" },
+              { "id": "s4", "text": "a record of summers that no written document ever mentioned" }
             ],
             "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "By the end of the afternoon, perhaps two thirds of those objects will work again.",
+            "sentence": "A wet spring, in other words, leaves a mark you can see from across the room.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 0
           },
@@ -284,10 +284,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "The value of a repair café lies less in the waste it prevents than in the confidence it gives ordinary people.",
-              "Repair cafés will soon solve the problem of household waste in large cities.",
-              "People should refuse to buy any electrical goods that come in glued cases.",
-              "Volunteers clearly enjoy repairing the objects more than their owners do."
+              "Carefully compared tree rings turn ordinary timber into a precise historical record, provided that enough samples are used.",
+              "Only wood taken from churches and farmhouses is old enough to be worth studying.",
+              "The main value of tree rings is that they show how much rain fell in tropical regions.",
+              "Archaeologists now agree that written documents are more reliable than any physical evidence."
             ],
             "answerIdx": 0
           }
@@ -297,21 +297,21 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "interactive_reading",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Wolves Came Back",
+        "title": "Switching Off the Sky",
         "paragraphs": [
-          "When the last wolf in the region was shot in 1893, farmers celebrated. A century later, without anyone releasing them, wolves walked back across the border. They had followed river valleys and quiet motorway verges from populations further east, and the first proof was not a photograph but a line of prints in spring mud.",
-          "Ecologists welcomed the return, and not only for the sake of the animal itself. Deer numbers had grown so high that young trees were eaten before they could reach the height of a person, and the forest was slowly ageing without replacing itself. Where wolves now hunt, deer move more often and graze in shorter bursts, and thin lines of new saplings have appeared along the streams.",
-          "For the farmers whose sheep are killed, none of this is comforting. Compensation schemes pay for animals that are found, but not for the ones that simply vanish, and not for the work of bringing a flock in every night. The debate is therefore less about biology than about who carries the cost of a shared decision, and that is a harder problem to solve than any fence."
+          "Ten years ago the streets of several small towns in northern Spain went noticeably darker. Old lamps that threw light in every direction were replaced with hooded ones that point only at the pavement, and the colour was changed from blue-white to a warm amber. Residents were told to expect complaints; what arrived instead were photographs of the Milky Way taken from bedroom windows.",
+          "The change was not made for astronomers alone. Insects are drawn to short blue wavelengths and die in their thousands around bright lamps, and the birds that feed on them follow. Doctors add that light leaking through curtains delays the body's own clock, which is why hotel rooms in these towns now feel darker than guests are used to. Councils, meanwhile, noticed something simpler: pointing light downwards meant fewer lamps were needed, and the electricity bill fell by roughly a third.",
+          "Not everyone was convinced at first. Some shopkeepers argued that dim streets would feel unsafe, and a few still do. Yet police figures in the towns have not moved in either direction, and surveys suggest that what people actually dislike is glare — a single fierce lamp that leaves everything beyond it in shadow. Softer light, aimed low, turns out to be easier to walk through than bright light aimed everywhere."
         ],
         "questions": [
           {
@@ -319,50 +319,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Wolves have returned to the region by themselves, bringing benefits to the forest but costs that fall mainly on farmers.",
-              "Scientists released wolves into the region in order to control the deer population.",
-              "Deer have almost disappeared from the forest since the wolves came back.",
-              "Farmers have accepted the return of the wolves now that compensation is paid in full."
+              "Redesigning street lighting has brought back the night sky while also helping wildlife, sleep and town budgets.",
+              "Small towns in Spain have decided to switch off their street lights completely at midnight.",
+              "Astronomers have persuaded councils to ban all outdoor lighting near observatories.",
+              "Warm amber lamps were introduced mainly because they are cheaper to manufacture than white ones."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Because deer were eating the young trees before they could grow tall, the forest was ageing without",
-            "after": "itself.",
-            "options": ["replacing", "protecting", "measuring", "warming"],
+            "before": "The councils supported the change partly for a practical reason: aiming light downwards meant that fewer lamps were needed and the electricity bill",
+            "after": "by about a third.",
+            "options": ["fell", "rose", "stayed", "spread"],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "オオカミが人の手で放されたのではないことを示している語句はどれですか。",
+            "prompt": "暗い通りは危険だという心配が数字では裏づけられていないことを示す語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "without anyone releasing them, wolves walked back across the border" },
-              { "id": "s2", "text": "Compensation schemes pay for animals that are found" },
-              { "id": "s3", "text": "thin lines of new saplings have appeared along the streams" },
-              { "id": "s4", "text": "deer move more often and graze in shorter bursts" }
+              { "id": "s1", "text": "Some shopkeepers argued that dim streets would feel unsafe" },
+              { "id": "s2", "text": "police figures in the towns have not moved in either direction" },
+              { "id": "s3", "text": "Insects are drawn to short blue wavelengths" },
+              { "id": "s4", "text": "hotel rooms in these towns now feel darker than guests are used to" }
             ],
-            "answerSpanId": "s1"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Foresters had been warning about that missing generation of trees for years.",
+            "sentence": "For many of them, it was the first time they had seen it from home.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 1
+            "answerSlot": 0
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "The wolves' return has helped the forest recover, but the burden of living with them is not shared equally.",
-              "Stronger fences are the only practical answer to conflicts between wolves and farmers.",
-              "The region's forests were in much better health before the wolves returned.",
-              "Compensation payments have made the argument about wolves disappear."
+              "Better-aimed, warmer street lighting gives back the stars and costs less, and the fear that it makes streets dangerous is not supported by the evidence.",
+              "Towns should accept higher crime rates as the price of seeing the Milky Way.",
+              "The strongest argument for changing street lamps is the comfort of hotel guests.",
+              "Insects and birds have recovered so well that lighting is no longer an environmental issue."
             ],
             "answerIdx": 0
           }
@@ -374,13 +374,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The training session starts at nine fifteen and lasts about two and a half hours.",
+      "transcript": "The museum reopens on March third, and tickets cost fourteen euros for adults.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -389,13 +389,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "There was nothing else we could have done about it at the time.",
+      "transcript": "She would have called you earlier if she had known about the change.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -404,13 +404,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Would you mind sending me the address before you leave the office?",
+      "transcript": "Most of the students said they had never worked on a project like this before.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -419,13 +419,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The thick fog made it hard to see the narrow path along the cliff.",
+      "transcript": "He thought the third path through the woods was the shortest one.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -434,13 +434,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "He said he would rather walk home than wait another twenty minutes for the bus.",
+      "transcript": "We are looking for someone who can start at the beginning of next month.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -449,13 +449,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Most of the people who signed up for the class had never studied it before.",
+      "transcript": "There has been a lot of interest in the course since the fee was lowered.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
