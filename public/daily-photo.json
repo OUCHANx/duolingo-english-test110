@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-30",
-  "image": "/daily-photo.jpg?v=2026-07-30",
+  "date": "2026-08-01",
+  "image": "/daily-photo.jpg?v=2026-08-01",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "夏の海で泳ぐ人たち。奥に大きな白い石を積んだ長い防波堤があり、その上に数人が座っている。白い波が次々に手前へ砕けてくる。浅い所で黒い水着の女性が立ち、手前の男の子が波を受けて腕を広げている。右側では青い浮き輪に乗った人、さらに遠くに黄色いボートが見える。空は淡い青で、晴れた暑い日の明るくにぎやかな雰囲気。",
-  "modelAnswer": "This photo was taken at the sea on a hot summer day. The sky is pale blue, and in the background there is a long line of big white rocks. A few people are sitting on them. White waves are breaking one after another and rolling toward the beach. Many people are playing in the shallow water. A woman in a black swimsuit is standing and watching the waves, and a boy near the front is opening his arms as a wave reaches him. On the right, someone is lying on a blue float, and a yellow boat is farther away. It feels like a lively, noisy summer afternoon.",
-  "modelAnswerJa": "この写真は、暑い夏の日に海で撮られたものです。空は淡い青色で、奥には大きな白い石が長く並んでいます。その上には数人が座っています。白い波が次々に砕けて、浜のほうへ押し寄せています。大勢の人が浅い水の中で遊んでいます。黒い水着を着た女性が立って波を見ていて、手前の男の子は波が来るのに合わせて両腕を広げています。右側では、青い浮き輪に乗っている人がいて、その先には黄色いボートが見えます。にぎやかで活気のある夏の午後、といった感じがします。",
+  "theme": "晴れた日の公園の遊び場。紫の柱・緑の壁・黄色い屋根のカラフルな大型遊具があり、黄色いチューブすべり台と赤いトンネルが付いている。地面は小石やウッドチップ。左には明るい色のシャツの女性が立ち、遊具のあたりで数人の子どもが遊んでいる。右奥には屋根付きのピクニック小屋とテーブル、車が見える。奥は緑の木々、空は真っ青。",
+  "modelAnswer": "This photo shows a playground in a park on a sunny day. The sky is clear and blue, and there are many green trees behind the playground. In the middle there is a big, colorful play structure with purple poles, green walls, and yellow roofs. It has a long yellow slide and a red tunnel. The ground is covered with small stones and wood chips. A woman in a light shirt is standing on the left, and a few children are playing near the slides. On the right, there is a shelter with picnic tables and some cars. Everyone looks relaxed and happy.",
+  "modelAnswerJa": "この写真は、晴れた日の公園にある遊び場を写しています。空は雲がなく真っ青で、遊び場の奥にはたくさんの緑の木があります。真ん中には、紫の柱と緑の壁、黄色い屋根がついた大きくてカラフルな遊具があります。長い黄色のすべり台と赤いトンネルが付いています。地面は小さな石やウッドチップで覆われています。左には明るい色のシャツを着た女性が立っていて、すべり台の近くで数人の子どもが遊んでいます。右側には、ピクニック用のテーブルがある屋根付きの小屋と、何台かの車が見えます。みんなくつろいで楽しそうに見えます。",
   "tips": [
-    { "term": "on a hot summer day", "ja": "暑い夏の日に" },
-    { "term": "in the background", "ja": "奥に、背景に" },
-    { "term": "waves are breaking", "ja": "波が砕けている" },
-    { "term": "one after another", "ja": "次々に" },
-    { "term": "play in the shallow water", "ja": "浅い水の中で遊ぶ" },
-    { "term": "farther away", "ja": "もっと遠くに" },
-    { "term": "It feels like ~", "ja": "～のような感じがする" }
+    { "term": "on a sunny day", "ja": "晴れた日に" },
+    { "term": "in the middle", "ja": "真ん中に" },
+    { "term": "be covered with ~", "ja": "～で覆われている" },
+    { "term": "on the left / on the right", "ja": "左側に／右側に" },
+    { "term": "a few children", "ja": "数人の子ども" },
+    { "term": "near ~", "ja": "～の近くで" },
+    { "term": "look relaxed and happy", "ja": "くつろいで楽しそうに見える" }
   ]
 }
