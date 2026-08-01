@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-02",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "eclipse", "isReal": true },
-          { "id": "w2", "text": "quandel", "isReal": false },
-          { "id": "w3", "text": "horizon", "isReal": true },
-          { "id": "w4", "text": "florast", "isReal": false },
-          { "id": "w5", "text": "drizzle", "isReal": true },
-          { "id": "w6", "text": "brimmet", "isReal": false },
-          { "id": "w7", "text": "forecast", "isReal": true },
-          { "id": "w8", "text": "thelvin", "isReal": false },
-          { "id": "w9", "text": "telescope", "isReal": true },
-          { "id": "w10", "text": "surpane", "isReal": false },
-          { "id": "w11", "text": "humid", "isReal": true },
-          { "id": "w12", "text": "crandle", "isReal": false }
+          { "id": "w1", "text": "simmer", "isReal": true },
+          { "id": "w2", "text": "plemish", "isReal": false },
+          { "id": "w3", "text": "cutlery", "isReal": true },
+          { "id": "w4", "text": "vandrel", "isReal": false },
+          { "id": "w5", "text": "appetite", "isReal": true },
+          { "id": "w6", "text": "spolter", "isReal": false },
+          { "id": "w7", "text": "harvest", "isReal": true },
+          { "id": "w8", "text": "cundrel", "isReal": false },
+          { "id": "w9", "text": "seasoning", "isReal": true },
+          { "id": "w10", "text": "trafile", "isReal": false },
+          { "id": "w11", "text": "grocery", "isReal": true },
+          { "id": "w12", "text": "molsent", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "deadline", "isReal": true },
-          { "id": "w2", "text": "meltrig", "isReal": false },
-          { "id": "w3", "text": "colleague", "isReal": true },
-          { "id": "w4", "text": "obtance", "isReal": false },
-          { "id": "w5", "text": "invoice", "isReal": true },
-          { "id": "w6", "text": "vurnish", "isReal": false },
-          { "id": "w7", "text": "agenda", "isReal": true },
-          { "id": "w8", "text": "clandet", "isReal": false },
-          { "id": "w9", "text": "budget", "isReal": true },
-          { "id": "w10", "text": "protule", "isReal": false },
-          { "id": "w11", "text": "promote", "isReal": true },
-          { "id": "w12", "text": "dascent", "isReal": false }
+          { "id": "w1", "text": "symptom", "isReal": true },
+          { "id": "w2", "text": "medrant", "isReal": false },
+          { "id": "w3", "text": "immune", "isReal": true },
+          { "id": "w4", "text": "poltive", "isReal": false },
+          { "id": "w5", "text": "dosage", "isReal": true },
+          { "id": "w6", "text": "hemrick", "isReal": false },
+          { "id": "w7", "text": "recovery", "isReal": true },
+          { "id": "w8", "text": "nurtile", "isReal": false },
+          { "id": "w9", "text": "nutrition", "isReal": true },
+          { "id": "w10", "text": "clampsis", "isReal": false },
+          { "id": "w11", "text": "physician", "isReal": true },
+          { "id": "w12", "text": "dravine", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,20 +74,20 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "City planners once treated noise as an unavoidable {{b1}} of growth. Recent studies, however, link constant traffic sound to poor sleep and higher blood {{b2}}, so several councils now measure decibels as carefully as they measure air quality. Quieter road surfaces and thicker glass in new flats can {{b3}} the problem, but the cheapest answer is often simply to slow the traffic {{b4}}.",
+        "text": "Antibiotics changed modern medicine, but they are slowly losing their {{b1}}. Every time the drugs are taken when they are not really needed, the bacteria that survive pass on their {{b2}} to the next generation. Doctors are therefore asked to {{b3}} them only when a test points to a bacterial infection, and patients are told to finish the whole {{b4}} even after the symptoms have gone.",
         "blanks": [
-          { "id": "b1", "full": "cost", "keepHead": 2 },
-          { "id": "b2", "full": "pressure", "keepHead": 4 },
-          { "id": "b3", "full": "reduce", "keepHead": 3 },
-          { "id": "b4", "full": "down", "keepHead": 2 }
+          { "id": "b1", "full": "power", "keepHead": 3 },
+          { "id": "b2", "full": "resistance", "keepHead": 5 },
+          { "id": "b3", "full": "prescribe", "keepHead": 4 },
+          { "id": "b4", "full": "course", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -96,42 +96,42 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Adults who begin a new language often worry that they have started too {{b1}}. Research on classroom learners suggests that progress depends less on age than on how regularly they {{b2}} the language and how willing they are to make mistakes in front of others. Short daily sessions beat long weekend ones, and speaking from the first week builds {{b3}} far faster than silent study, even while the grammar is still {{b4}}.",
+        "text": "A cheap shirt usually costs far more than its price {{b1}} suggests. Making it uses water, dye and fuel, yet most garments are thrown away long before they {{b2}} out. Second-hand shops and repair services are one answer, but they only work if buyers are willing to {{b3}} clothes that are no longer new. A few brands now take back worn items and turn the {{b4}} into something else.",
         "blanks": [
-          { "id": "b1", "full": "late", "keepHead": 2 },
-          { "id": "b2", "full": "practice", "keepHead": 4 },
-          { "id": "b3", "full": "confidence", "keepHead": 5 },
-          { "id": "b4", "full": "shaky", "keepHead": 2 }
+          { "id": "b1", "full": "tag", "keepHead": 2 },
+          { "id": "b2", "full": "wear", "keepHead": 2 },
+          { "id": "b3", "full": "accept", "keepHead": 3 },
+          { "id": "b4", "full": "fabric", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
-      "cefr": "C1",
+      "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "For decades the drawings sat in wooden drawers, seen only by the few researchers who could {{b1}} the museum in person. A three-year project has now photographed every sheet at high {{b2}} and put the images online, where anyone can zoom in on a single pencil line. Curators admit that a screen cannot {{b3}} the texture of old paper, yet requests to see the originals have actually {{b4}} since the archive opened.",
+        "text": "Supermarkets throw away tonnes of food that is still perfectly {{b1}} to eat. Much of it is rejected because a cucumber is bent or a label shows a date that is drawing close, not because anything is wrong with the {{b2}} of the food itself. A growing number of shops now sell such items at a lower {{b3}}, or hand them to charities that cook hot meals for families in {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "visit", "keepHead": 3 },
-          { "id": "b2", "full": "resolution", "keepHead": 5 },
-          { "id": "b3", "full": "capture", "keepHead": 4 },
-          { "id": "b4", "full": "risen", "keepHead": 3 }
+          { "id": "b1", "full": "safe", "keepHead": 2 },
+          { "id": "b2", "full": "quality", "keepHead": 4 },
+          { "id": "b3", "full": "price", "keepHead": 3 },
+          { "id": "b4", "full": "need", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -140,46 +140,55 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "When the city painted a protected cycle lane along its busiest {{b1}}, shopkeepers protested that losing the parking spaces would ruin them. Two years later, counts show that the number of riders has more than {{b2}}, while takings at the same shops are slightly up. People who arrive by bike buy less each time but return so often that their monthly {{b3}} is higher than that of drivers, and the street now feels {{b4}} to walk along.",
+        "text": "In many older cities, a fifth of the drinking water never reaches a tap. It escapes through cracked pipes that were {{b1}} more than a century ago, and because the leaks are underground, nobody {{b2}} them until a road begins to sink. Engineers now send sensors along the mains to listen for the sound of running water, which lets crews {{b3}} a small hole before it turns into an expensive {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "avenue", "keepHead": 3 },
-          { "id": "b2", "full": "doubled", "keepHead": 3 },
-          { "id": "b3", "full": "total", "keepHead": 3 },
-          { "id": "b4", "full": "safer", "keepHead": 3 }
+          { "id": "b1", "full": "laid", "keepHead": 2 },
+          { "id": "b2", "full": "notices", "keepHead": 4 },
+          { "id": "b3", "full": "repair", "keepHead": 3 },
+          { "id": "b4", "full": "flood", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["cohesion", "grammar"],
+      "tags": ["grammar", "collocation"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The first results were surprising,",
-            "after": "they were not published until two other teams had repeated the experiment.",
-            "options": ["which is why", "because", "in spite of", "so as"],
+            "before": "The committee agreed to postpone the vote",
+            "after": "further evidence could be collected from the two remaining sites.",
+            "options": ["so that", "in order", "such as", "as well as"],
             "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "前半（意外な結果）が理由で、後半（すぐに発表しなかったこと）が結果。前の文全体を受けて「だからこそ～」とつなげられるのは which is why。because では因果の向きが逆になり、in spite of は名詞句を、so as は to 不定詞を必要とする。"
+            "tag": "grammar",
+            "explanation": "後半は「証拠を集めるため」という目的で、〈主語＋助動詞〉の節が続くので so that が正解。in order は in order to ＋動詞の原形、または in order that の形にしないと節を導けない。such as は例を挙げる表現、as well as は「～も同様に」で、どちらも目的を表せない。"
           },
           {
             "id": "g2",
-            "before": "Few of the volunteers had any medical training,",
-            "after": "did they expect to work such long hours.",
-            "options": ["nor", "also", "besides", "so"],
+            "before": "Only after the machine had been switched off",
+            "after": "the engineer notice the loose wire behind the panel.",
+            "options": ["did", "had", "was", "has"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "否定的な内容に続けて「～もまた…ない」と言うときの倒置は nor did they ~。also や besides は副詞なので倒置を作れず、so did they では肯定の同意になり意味が逆になる。"
+            "explanation": "Only after ~ が文頭に出ると、主語と助動詞が倒置される。過去の出来事なので did the engineer notice が正しい形。had なら過去分詞 noticed が必要で、was は動詞 notice と結びつかず、has では現在完了になり過去の文脈と合わない。"
+          },
+          {
+            "id": "g3",
+            "before": "The new rules are expected to have a lasting",
+            "after": "on the way small firms hire and train their staff.",
+            "options": ["effect", "affect", "result", "outcome"],
+            "answerIdx": 0,
+            "tag": "collocation",
+            "explanation": "have a lasting effect on ~ で「～に長く続く影響を与える」という決まった言い方。affect は同じ意味の動詞なので have a ~ の後には置けない。result は result in ~ の形で使い、outcome は「結果」であって on を伴って影響を表す語ではない。"
           }
         ]
       }
@@ -187,34 +196,34 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "complete_the_sentences",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["collocation", "vocab"],
+      "tags": ["cohesion", "vocab"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The new policy is expected to have a lasting",
-            "after": "on how research money is shared between universities.",
-            "options": ["impact", "affect", "effort", "result"],
+            "before": "The survey reached only forty households in a single district;",
+            "after": ", its conclusions should be treated with caution.",
+            "options": ["accordingly", "nevertheless", "otherwise", "meanwhile"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "have a lasting impact on ~ で「~に長く続く影響を与える」という決まった言い方。affect は動詞なので名詞の位置に入らず、effort は「努力」で意味が合わない。result は on ではなく of / in を取る。"
+            "tag": "cohesion",
+            "explanation": "前半（調査の対象がわずか40世帯）が理由で、後半（結論は慎重に扱うべき）が結果なので、順接で結果を示す accordingly が適切。nevertheless は逆接、otherwise は「さもなければ」、meanwhile は「その一方で」と時間や場面の対比を表すため、ここでは筋が通らない。"
           },
           {
             "id": "g2",
-            "before": "She turned down the offer",
-            "after": "the grounds that the deadline was completely unrealistic.",
-            "options": ["on", "in", "by", "for"],
+            "before": "Far from solving the traffic problem, the new bypass simply",
+            "after": "the queues to the edge of town.",
+            "options": ["moved", "removed", "reduced", "prevented"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "on the grounds that ~ で「~という理由で」という固定表現。in / by / for ではこの成句にならず、that 節を理由として受けられない。"
+            "tag": "vocab",
+            "explanation": "Far from ~ は「～どころか」という否定的な前置き。したがって渋滞は解消されず、場所が町のはずれへ「移った」とする moved が正解。removed（取り除いた）、reduced（減らした）、prevented（防いだ）はいずれも問題が解決したことになり、前半と矛盾する。"
           }
         ]
       }
@@ -222,8 +231,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -232,11 +241,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Reading the Rings",
+        "title": "The Vault in the Ice",
         "paragraphs": [
-          "A core of wood no wider than a pencil can be drilled from a living pine without harming it. Under a lens the sample shows a row of pale and dark bands, one pair for every year the tree has lived. Wide bands mark seasons of rain and warmth; narrow ones record drought, cold, or the shadow of a taller neighbour. Because trees of the same species in the same valley answer the weather in the same way, their patterns can be matched like fingerprints.",
-          "By overlapping samples — a living tree with a beam from a farmhouse, that beam with a plank from an older church — researchers have built continuous records reaching back thousands of years in parts of Europe. The method fixes the year in which a piece of timber was cut, something radiocarbon dating cannot do. Museums now use it to check the age of panel paintings, and archaeologists to settle arguments about when a village was abandoned.",
-          "The limits are real. Tropical trees, which grow all year round, often produce no clear rings at all, and a single core taken from an unusual specimen can mislead. Specialists therefore insist on dozens of samples before they announce a date. Even so, the timber in an ordinary roof holds a record of summers that no written document ever mentioned."
+          "Halfway between Norway and the North Pole, a concrete tunnel runs a hundred metres into a frozen mountain. At the end of it stand three rooms lined with black boxes, and inside the boxes are seeds: more than a million varieties of wheat, rice, beans and grasses, sent from gene banks in almost every country. The mountain does the work that machinery would otherwise have to do, since even if the power failed the rock would stay cold for weeks.",
+          "The vault is not a museum. Every sample in it is a duplicate of one held somewhere else, and the seeds are stored precisely because the collections outside are fragile. Gene banks have been lost to floods, to budget cuts and to war. In 2015 researchers who had fled the fighting in Aleppo asked for their own boxes back, planted the seeds in Lebanon and Morocco, and later sent fresh copies to the ice. That withdrawal, the first in the vault's history, was treated less as an emergency than as proof that the system worked.",
+          "What the seeds protect against is narrower than most visitors imagine. They cannot stop a harvest failing next summer, and nobody plans to open the tunnel after some global disaster. Their value lies in variety: a wheat that resists a new fungus, or a bean that tolerates salt, is far more likely to be found among thousands of old local strains than among the handful of types now grown on most commercial farms."
         ],
         "questions": [
           {
@@ -244,38 +253,43 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Tree rings record each year of growth, and by matching patterns researchers can date timber to an exact year, though the method has clear limits.",
-              "Radiocarbon dating has replaced the study of tree rings in most European museums.",
-              "Drilling cores from living pines damages the trees and is now strongly discouraged.",
-              "Tropical forests provide the clearest and most reliable tree-ring records in the world."
+              "A frozen vault holds duplicate seed samples so that the world's crop variety survives when collections elsewhere are lost.",
+              "The vault was built to feed the survivors of a global disaster once ordinary farming has come to an end.",
+              "Norwegian researchers grow rare wheat and beans inside a tunnel dug into a frozen mountain.",
+              "Most countries have closed their own seed collections since the vault in the ice was opened."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Compared with radiocarbon dating, ring patterns can fix the year a beam was cut with far greater",
-            "after": "which is one reason museums rely on them.",
-            "options": ["precision", "difficulty", "expense", "frequency"],
+            "before": "The seeds are kept inside a mountain because the rock stays cold even when the",
+            "after": "which makes the store much cheaper to run.",
+            "options": [
+              "equipment stops working",
+              "tunnel is opened to visitors",
+              "samples are sent abroad",
+              "boxes are counted again"
+            ],
             "answerIdx": 0,
             "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "この方法がどこでも使えるわけではないことを示している語句はどれですか。",
+            "prompt": "保管された種子が実際に持ち出されたことを示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "their patterns can be matched like fingerprints" },
-              { "id": "s2", "text": "often produce no clear rings at all" },
-              { "id": "s3", "text": "fixes the year in which a piece of timber was cut" },
-              { "id": "s4", "text": "a record of summers that no written document ever mentioned" }
+              { "id": "s1", "text": "the rock would stay cold for weeks" },
+              { "id": "s2", "text": "asked for their own boxes back" },
+              { "id": "s3", "text": "nobody plans to open the tunnel after some global disaster" },
+              { "id": "s4", "text": "the handful of types now grown on most commercial farms" }
             ],
             "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "A wet spring, in other words, leaves a mark you can see from across the room.",
+            "sentence": "The cold, in other words, is free.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 0
           },
@@ -284,10 +298,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Carefully compared tree rings turn ordinary timber into a precise historical record, provided that enough samples are used.",
-              "Only wood taken from churches and farmhouses is old enough to be worth studying.",
-              "The main value of tree rings is that they show how much rain fell in tropical regions.",
-              "Archaeologists now agree that written documents are more reliable than any physical evidence."
+              "The vault matters not as insurance against the end of the world but as a backup that keeps rare crop varieties available to plant breeders.",
+              "Cold storage inside mountains will soon replace the gene banks that warmer countries now maintain.",
+              "The withdrawal made during the war in Syria showed that the vault had been badly designed from the start.",
+              "Commercial farms ought to give up modern varieties and return to the thousands of local strains kept in the tunnel."
             ],
             "answerIdx": 0
           }
@@ -297,21 +311,21 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "interactive_reading",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Switching Off the Sky",
+        "title": "Water Under the Desert",
         "paragraphs": [
-          "Ten years ago the streets of several small towns in northern Spain went noticeably darker. Old lamps that threw light in every direction were replaced with hooded ones that point only at the pavement, and the colour was changed from blue-white to a warm amber. Residents were told to expect complaints; what arrived instead were photographs of the Milky Way taken from bedroom windows.",
-          "The change was not made for astronomers alone. Insects are drawn to short blue wavelengths and die in their thousands around bright lamps, and the birds that feed on them follow. Doctors add that light leaking through curtains delays the body's own clock, which is why hotel rooms in these towns now feel darker than guests are used to. Councils, meanwhile, noticed something simpler: pointing light downwards meant fewer lamps were needed, and the electricity bill fell by roughly a third.",
-          "Not everyone was convinced at first. Some shopkeepers argued that dim streets would feel unsafe, and a few still do. Yet police figures in the towns have not moved in either direction, and surveys suggest that what people actually dislike is glare — a single fierce lamp that leaves everything beyond it in shadow. Softer light, aimed low, turns out to be easier to walk through than bright light aimed everywhere."
+          "Long before pumps and pipelines, farmers in the dry lands of Iran solved a problem that looks impossible: how to bring water from the mountains to a town twenty kilometres away without losing most of it to the sun. Their answer was the qanat, a tunnel dug at a very slight downward angle from an underground water source until it reaches the surface near the fields. Vertical shafts, spaced every few dozen metres, let the diggers lift out soil and later allow air in; from above, a qanat looks like a line of small craters crossing the desert.",
+          "The design has two quiet advantages. Because the water moves by gravity alone, the system needs no fuel and almost no machinery, and because it stays underground, very little of it is lost on the way. It also has a natural limit: a qanat can never deliver more water than the aquifer feeds into it, so the flow rises in wet years and falls in dry ones. Villages built their rules around that rhythm, dividing the water by time rather than by volume, and a household might own the whole stream for a fixed number of hours.",
+          "Diesel pumps changed everything. A well sunk beside a qanat can lift water far faster, and for a decade or two the fields flourish; then the water table drops, the old tunnel runs dry, and the shared timetable that once governed a valley loses its meaning. Some regions are now repairing their qanats, not out of nostalgia but because a system that cannot take more than the ground provides has begun to look less like a relic than like a design brief."
         ],
         "questions": [
           {
@@ -319,50 +333,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Redesigning street lighting has brought back the night sky while also helping wildlife, sleep and town budgets.",
-              "Small towns in Spain have decided to switch off their street lights completely at midnight.",
-              "Astronomers have persuaded councils to ban all outdoor lighting near observatories.",
-              "Warm amber lamps were introduced mainly because they are cheaper to manufacture than white ones."
+              "Qanats carried mountain water underground by gravity, and their built-in limits look useful again now that pumps have lowered water tables.",
+              "Iranian farmers dug qanats mainly to protect their villages from flooding after heavy rain in the mountains.",
+              "Diesel pumps have proved to be a cheaper and more reliable version of the qanat in every region where they were tried.",
+              "The vertical shafts along a qanat were dug so that travellers could drink on their way across the desert."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The councils supported the change partly for a practical reason: aiming light downwards meant that fewer lamps were needed and the electricity bill",
-            "after": "by about a third.",
-            "options": ["fell", "rose", "stayed", "spread"],
+            "before": "Since a qanat carries water below ground, far less of it disappears through",
+            "after": "than in an open channel crossing the desert.",
+            "options": ["evaporation", "pollution", "taxation", "navigation"],
             "answerIdx": 0,
-            "tag": "reading-detail"
+            "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "暗い通りは危険だという心配が数字では裏づけられていないことを示す語句はどれですか。",
+            "prompt": "qanat が供給できる水の量に自然な上限があることを示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "Some shopkeepers argued that dim streets would feel unsafe" },
-              { "id": "s2", "text": "police figures in the towns have not moved in either direction" },
-              { "id": "s3", "text": "Insects are drawn to short blue wavelengths" },
-              { "id": "s4", "text": "hotel rooms in these towns now feel darker than guests are used to" }
+              { "id": "s1", "text": "a line of small craters crossing the desert" },
+              { "id": "s2", "text": "can never deliver more water than the aquifer feeds into it" },
+              { "id": "s3", "text": "dividing the water by time rather than by volume" },
+              { "id": "s4", "text": "for a decade or two the fields flourish" }
             ],
             "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "For many of them, it was the first time they had seen it from home.",
+            "sentence": "Ownership, then, was measured in hours rather than in litres.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 0
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Better-aimed, warmer street lighting gives back the stars and costs less, and the fear that it makes streets dangerous is not supported by the evidence.",
-              "Towns should accept higher crime rates as the price of seeing the Milky Way.",
-              "The strongest argument for changing street lamps is the comfort of hotel guests.",
-              "Insects and birds have recovered so well that lighting is no longer an environmental issue."
+              "The strength of the qanat is that it takes only what the ground can spare, which is why an old technology is being restored where pumps have failed.",
+              "Villages should abandon diesel pumps at once and go back to digging every tunnel by hand as their ancestors did.",
+              "The main reason qanats are being repaired today is that they form an important part of the region's cultural history.",
+              "Qanats were given up because the vertical shafts proved far too dangerous for the people who had to dig them."
             ],
             "answerIdx": 0
           }
@@ -374,13 +388,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The museum reopens on March third, and tickets cost fourteen euros for adults.",
+      "transcript": "The train leaves from platform nine at seven forty-five, and the journey takes about two hours.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -389,13 +403,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She would have called you earlier if she had known about the change.",
+      "transcript": "She would have called you if she had known you were still at the office.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -404,13 +418,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "easy",
+      "cefr": "B1",
       "audioUrl": null,
-      "transcript": "Most of the students said they had never worked on a project like this before.",
+      "transcript": "Could you let me know as soon as the results are ready?",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -419,13 +433,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "He thought the third path through the woods was the shortest one.",
+      "transcript": "The thin path through the woods was covered with wet leaves.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -434,13 +448,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "We are looking for someone who can start at the beginning of next month.",
+      "transcript": "Most of the volunteers had never worked in a hospital before this summer.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -449,15 +463,15 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "updatedAt": "2026-08-02T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "There has been a lot of interest in the course since the fee was lowered.",
+      "transcript": "The report is due on the twenty-first, but the meeting was moved to Thursday morning.",
       "prompt": null,
-      "tags": ["listen-funcword"],
+      "tags": ["listen-numeral"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     }
