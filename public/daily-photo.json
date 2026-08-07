@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-02",
-  "image": "/daily-photo.jpg?v=2026-08-02",
+  "date": "2026-08-08",
+  "image": "/daily-photo.jpg?v=2026-08-08",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "屋外のアイスクリーム店（看板に ICE CREAM PARLOUR）の前。寒いが晴れた日で、空は青く大きな白い雲がある。左では紺のジャケットの男性が飲み物を手に立ち、スカーフの女性が木のテーブルに座り、そばにゴールデンの犬がいる。中央で紺のダウンを着た少年が紙コップから飲んでいる。右では厚いコートやニット帽の人々が窓口に列を作り、カラフルなアイスの看板が地面に並ぶ。",
-  "modelAnswer": "This photo was taken outside a cafe called the Ice Cream Parlour. It is a cold but sunny day: the sky is blue with big white clouds, and everyone is wearing a thick winter coat. On the left, a man in a dark blue jacket is standing with a drink in his hand, and a woman in a scarf is sitting at a wooden table with a golden dog beside her. In the middle of the photo, a boy in a blue jacket is drinking from a paper cup. On the right, a line of people is waiting at the window to buy ice cream. Everyone looks relaxed and happy.",
-  "modelAnswerJa": "この写真は、Ice Cream Parlour（アイスクリーム店）というカフェの外で撮られたものです。寒いけれど晴れた日で、空は青く、大きな白い雲が出ています。そして、みんな厚い冬のコートを着ています。左では、濃い青のジャケットを着た男性が飲み物を手に持って立っていて、スカーフを巻いた女性が木のテーブルに座り、そのそばにゴールデン色の犬がいます。写真の真ん中では、青いジャケットの男の子が紙コップから飲んでいます。右では、人々がアイスクリームを買うために窓口に列を作って待っています。みんなくつろいで楽しそうに見えます。",
+  "theme": "屋外マーケットの花屋の屋台。白いテントの下にピンクや赤の花のハンギングバスケットが吊るされ、テーブルには小さな緑の鉢植えが並ぶ。黄色い手書きの札（100% HOME GROWN など）が立っている。左手前に青いフリースの女性、奥に自転車に乗った人、背景はガラス張りの現代的な建物と広い石畳の広場。空は曇り。",
+  "modelAnswer": "This photo shows a flower stall at an outdoor market. The stall stands on a wide square in front of a big modern building with glass windows. A white tent covers the stall, and baskets of pink and red flowers hang from the frame. On the tables there are many small green pots with bright flowers, and yellow paper signs show the prices. One sign says \"100% Home Grown\". On the left, a woman in a blue jacket is walking past and looking at the plants. Behind her, a man is riding a bicycle. The sky is grey, but the flowers make the place look bright and cheerful.",
+  "modelAnswerJa": "この写真は、屋外マーケットの花屋の屋台を写しています。屋台は、ガラス窓のある大きくて現代的な建物の前の広い広場に立っています。白いテントが屋台をおおっていて、ピンクや赤の花のバスケットがその骨組みから吊り下がっています。テーブルの上には小さな緑の鉢植えがたくさんあり、黄色い紙の札が値段を示しています。ある札には「100% Home Grown（すべて自家栽培）」と書かれています。左手では、青い上着を着た女性が通り過ぎながら植物を見ています。その奥では、男性が自転車に乗っています。空は曇っていますが、花のおかげでその場所は明るく楽しそうに見えます。",
   "tips": [
-    { "term": "a cold but sunny day", "ja": "寒いけれど晴れた日" },
-    { "term": "wear a thick winter coat", "ja": "厚い冬のコートを着ている" },
-    { "term": "hold ~ in one's hand", "ja": "～を手に持っている" },
-    { "term": "a line of people", "ja": "人の列（並んでいる人たち）" },
-    { "term": "wait to buy ~", "ja": "～を買うために待つ" },
-    { "term": "beside ~", "ja": "～のそばに" },
-    { "term": "in the middle of the photo", "ja": "写真の真ん中で" }
+    { "term": "a flower stall", "ja": "花を売る屋台・売り場" },
+    { "term": "an outdoor market", "ja": "屋外の市場（マーケット）" },
+    { "term": "in front of ~", "ja": "～の前に" },
+    { "term": "hang from ~", "ja": "～からぶら下がる" },
+    { "term": "there are many ~", "ja": "～がたくさんある" },
+    { "term": "walk past", "ja": "通り過ぎる" },
+    { "term": "look bright and cheerful", "ja": "明るく楽しそうに見える" }
   ]
 }
