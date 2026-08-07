@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-02",
+  "generatedAt": "2026-08-08",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,56 +16,56 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "simmer", "isReal": true },
-          { "id": "w2", "text": "plemish", "isReal": false },
-          { "id": "w3", "text": "cutlery", "isReal": true },
-          { "id": "w4", "text": "vandrel", "isReal": false },
-          { "id": "w5", "text": "appetite", "isReal": true },
-          { "id": "w6", "text": "spolter", "isReal": false },
-          { "id": "w7", "text": "harvest", "isReal": true },
-          { "id": "w8", "text": "cundrel", "isReal": false },
-          { "id": "w9", "text": "seasoning", "isReal": true },
-          { "id": "w10", "text": "trafile", "isReal": false },
-          { "id": "w11", "text": "grocery", "isReal": true },
-          { "id": "w12", "text": "molsent", "isReal": false }
+          { "id": "w1", "text": "bandwidth", "isReal": true },
+          { "id": "w2", "text": "trandive", "isReal": false },
+          { "id": "w3", "text": "encrypt", "isReal": true },
+          { "id": "w4", "text": "glimter", "isReal": false },
+          { "id": "w5", "text": "latency", "isReal": true },
+          { "id": "w6", "text": "morbant", "isReal": false },
+          { "id": "w7", "text": "firmware", "isReal": true },
+          { "id": "w8", "text": "sprollit", "isReal": false },
+          { "id": "w9", "text": "glitch", "isReal": true },
+          { "id": "w10", "text": "dentrave", "isReal": false },
+          { "id": "w11", "text": "upgrade", "isReal": true },
+          { "id": "w12", "text": "flarnish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "read_and_select",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": ["vocab", "spelling"],
+      "tags": ["vocab"],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "symptom", "isReal": true },
-          { "id": "w2", "text": "medrant", "isReal": false },
-          { "id": "w3", "text": "immune", "isReal": true },
-          { "id": "w4", "text": "poltive", "isReal": false },
-          { "id": "w5", "text": "dosage", "isReal": true },
-          { "id": "w6", "text": "hemrick", "isReal": false },
-          { "id": "w7", "text": "recovery", "isReal": true },
-          { "id": "w8", "text": "nurtile", "isReal": false },
-          { "id": "w9", "text": "nutrition", "isReal": true },
-          { "id": "w10", "text": "clampsis", "isReal": false },
-          { "id": "w11", "text": "physician", "isReal": true },
-          { "id": "w12", "text": "dravine", "isReal": false }
+          { "id": "w1", "text": "rehearsal", "isReal": true },
+          { "id": "w2", "text": "prantose", "isReal": false },
+          { "id": "w3", "text": "melody", "isReal": true },
+          { "id": "w4", "text": "murtade", "isReal": false },
+          { "id": "w5", "text": "sculpture", "isReal": true },
+          { "id": "w6", "text": "chorbet", "isReal": false },
+          { "id": "w7", "text": "audience", "isReal": true },
+          { "id": "w8", "text": "vandrisk", "isReal": false },
+          { "id": "w9", "text": "gallery", "isReal": true },
+          { "id": "w10", "text": "sculvent", "isReal": false },
+          { "id": "w11", "text": "applause", "isReal": true },
+          { "id": "w12", "text": "feltrone", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,20 +74,20 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Antibiotics changed modern medicine, but they are slowly losing their {{b1}}. Every time the drugs are taken when they are not really needed, the bacteria that survive pass on their {{b2}} to the next generation. Doctors are therefore asked to {{b3}} them only when a test points to a bacterial infection, and patients are told to finish the whole {{b4}} even after the symptoms have gone.",
+        "text": "Teenagers are often accused of being lazy, but their body clocks are simply set to a later {{b1}}. During adolescence the brain releases the sleep hormone melatonin about two hours later than it does in {{b2}}, so falling asleep before midnight becomes genuinely difficult. Schools that have pushed their start times back report better attendance and fewer students {{b3}} asleep in class. The extra hour, researchers stress, is not a {{b4}}; it simply gives back the sleep that the timetable had been taking away.",
         "blanks": [
-          { "id": "b1", "full": "power", "keepHead": 3 },
-          { "id": "b2", "full": "resistance", "keepHead": 5 },
-          { "id": "b3", "full": "prescribe", "keepHead": 4 },
-          { "id": "b4", "full": "course", "keepHead": 3 }
+          { "id": "b1", "full": "hour", "keepHead": 2 },
+          { "id": "b2", "full": "childhood", "keepHead": 5 },
+          { "id": "b3", "full": "falling", "keepHead": 4 },
+          { "id": "b4", "full": "luxury", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -96,42 +96,42 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "A cheap shirt usually costs far more than its price {{b1}} suggests. Making it uses water, dye and fuel, yet most garments are thrown away long before they {{b2}} out. Second-hand shops and repair services are one answer, but they only work if buyers are willing to {{b3}} clothes that are no longer new. A few brands now take back worn items and turn the {{b4}} into something else.",
+        "text": "Not every good job begins with a degree. In several countries a seventeen-year-old can join a company and spend three days a week in a workshop and two in a {{b1}}, earning a wage while learning the trade. Employers who run such schemes say the money is repaid quickly, because apprentices already know the machines and the {{b2}} of the firm by the time they qualify. The main {{b3}} is status: parents still tend to assume that a university place is the safer {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "tag", "keepHead": 2 },
-          { "id": "b2", "full": "wear", "keepHead": 2 },
-          { "id": "b3", "full": "accept", "keepHead": 3 },
-          { "id": "b4", "full": "fabric", "keepHead": 3 }
+          { "id": "b1", "full": "classroom", "keepHead": 5 },
+          { "id": "b2", "full": "culture", "keepHead": 4 },
+          { "id": "b3", "full": "obstacle", "keepHead": 4 },
+          { "id": "b4", "full": "route", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
-      "cefr": "B2",
+      "cefr": "C1",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Supermarkets throw away tonnes of food that is still perfectly {{b1}} to eat. Much of it is rejected because a cucumber is bent or a label shows a date that is drawing close, not because anything is wrong with the {{b2}} of the food itself. A growing number of shops now sell such items at a lower {{b3}}, or hand them to charities that cook hot meals for families in {{b4}}.",
+        "text": "Students who type their lecture notes usually record more words than those who write by {{b1}}, and yet they tend to do worse when they are later tested on ideas rather than on facts. Because a keyboard is fast, it invites almost word-for-word {{b2}}. A pen is slow enough that the writer has to decide what matters and put it into their own {{b3}}. That extra effort feels uncomfortable at the time, but it is exactly what makes the material easier to {{b4}} a week later.",
         "blanks": [
-          { "id": "b1", "full": "safe", "keepHead": 2 },
-          { "id": "b2", "full": "quality", "keepHead": 4 },
-          { "id": "b3", "full": "price", "keepHead": 3 },
-          { "id": "b4", "full": "need", "keepHead": 2 }
+          { "id": "b1", "full": "hand", "keepHead": 2 },
+          { "id": "b2", "full": "copying", "keepHead": 4 },
+          { "id": "b3", "full": "words", "keepHead": 3 },
+          { "id": "b4", "full": "recall", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -140,55 +140,55 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "In many older cities, a fifth of the drinking water never reaches a tap. It escapes through cracked pipes that were {{b1}} more than a century ago, and because the leaks are underground, nobody {{b2}} them until a road begins to sink. Engineers now send sensors along the mains to listen for the sound of running water, which lets crews {{b3}} a small hole before it turns into an expensive {{b4}}.",
+        "text": "The battery in an electric car contains metals that were dug out of the ground at considerable {{b1}}, and nearly all of them can be used again. The difficulty is not chemistry but {{b2}}: the packs are heavy, glued together and designed for safety rather than for taking apart. Plants that recover lithium and cobalt therefore struggle to make a {{b3}} unless they are fed a steady supply. Some governments now require manufacturers to label every pack so that recyclers know exactly what they are {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "laid", "keepHead": 2 },
-          { "id": "b2", "full": "notices", "keepHead": 4 },
-          { "id": "b3", "full": "repair", "keepHead": 3 },
-          { "id": "b4", "full": "flood", "keepHead": 3 }
+          { "id": "b1", "full": "cost", "keepHead": 2 },
+          { "id": "b2", "full": "logistics", "keepHead": 5 },
+          { "id": "b3", "full": "profit", "keepHead": 3 },
+          { "id": "b4", "full": "handling", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation"],
+      "tags": ["grammar", "collocation", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The committee agreed to postpone the vote",
-            "after": "further evidence could be collected from the two remaining sites.",
-            "options": ["so that", "in order", "such as", "as well as"],
+            "before": "The council has come under growing",
+            "after": "to explain why the repair work has been delayed twice.",
+            "options": ["pressure", "stress", "force", "weight"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "後半は「証拠を集めるため」という目的で、〈主語＋助動詞〉の節が続くので so that が正解。in order は in order to ＋動詞の原形、または in order that の形にしないと節を導けない。such as は例を挙げる表現、as well as は「～も同様に」で、どちらも目的を表せない。"
+            "tag": "collocation",
+            "explanation": "come under pressure to do ~ で「～するよう圧力を受ける」という決まった言い方。stress は個人が感じる精神的な負担で、外からの要求には使わない。force は物理的な力、weight は重さや重要性を表し、どちらも to 不定詞を伴ってこの意味にはならない。"
           },
           {
             "id": "g2",
-            "before": "Only after the machine had been switched off",
-            "after": "the engineer notice the loose wire behind the panel.",
-            "options": ["did", "had", "was", "has"],
+            "before": "Not until the second week of the trial",
+            "after": "the patients notice any change in their symptoms.",
+            "options": ["did", "had", "were", "have"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Only after ~ が文頭に出ると、主語と助動詞が倒置される。過去の出来事なので did the engineer notice が正しい形。had なら過去分詞 noticed が必要で、was は動詞 notice と結びつかず、has では現在完了になり過去の文脈と合わない。"
+            "explanation": "否定の副詞句 Not until ~ が文頭に出ると、主語と助動詞が倒置される。過去の出来事なので did the patients notice が正しい。had なら noticed（過去分詞）が必要で、were は動詞 notice と結びつかず、have では現在完了になり過去を表す trial の文脈と合わない。"
           },
           {
             "id": "g3",
-            "before": "The new rules are expected to have a lasting",
-            "after": "on the way small firms hire and train their staff.",
-            "options": ["effect", "affect", "result", "outcome"],
+            "before": "The two reports reach opposite conclusions;",
+            "after": ", they rely on data that were collected in completely different years.",
+            "options": ["after all", "even so", "in short", "by contrast"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "have a lasting effect on ~ で「～に長く続く影響を与える」という決まった言い方。affect は同じ意味の動詞なので have a ~ の後には置けない。result は result in ~ の形で使い、outcome は「結果」であって on を伴って影響を表す語ではない。"
+            "tag": "cohesion",
+            "explanation": "後半は「結論が食い違う理由」を述べているので、理由や納得の材料を付け足す after all（何しろ～なのだから）が合う。even so は「それでも」と逆接、in short は要約、by contrast は二つのものを対比するときの表現で、いずれも理由を導けない。"
           }
         ]
       }
@@ -196,34 +196,43 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["cohesion", "vocab"],
+      "tags": ["grammar", "collocation", "vocab"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The survey reached only forty households in a single district;",
-            "after": ", its conclusions should be treated with caution.",
-            "options": ["accordingly", "nevertheless", "otherwise", "meanwhile"],
+            "before": "The manager insisted that every application",
+            "after": "reviewed by two members of staff before a decision is made.",
+            "options": ["be", "is", "was", "being"],
             "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "前半（調査の対象がわずか40世帯）が理由で、後半（結論は慎重に扱うべき）が結果なので、順接で結果を示す accordingly が適切。nevertheless は逆接、otherwise は「さもなければ」、meanwhile は「その一方で」と時間や場面の対比を表すため、ここでは筋が通らない。"
+            "tag": "grammar",
+            "explanation": "insist that ~ が「～するよう強く求める」の意味のとき、that 節の動詞は原形（仮定法現在）になる。ここは受け身なので be reviewed。is や was にすると「すでにそうである」という事実の報告になり、before a decision is made と合わない。being は節の動詞になれない。"
           },
           {
             "id": "g2",
-            "before": "Far from solving the traffic problem, the new bypass simply",
-            "after": "the queues to the edge of town.",
-            "options": ["moved", "removed", "reduced", "prevented"],
+            "before": "Weeks of heavy rain in June took a heavy",
+            "after": "on the region's fruit harvest, cutting it by almost a third.",
+            "options": ["toll", "damage", "loss", "effect"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "Far from ~ は「～どころか」という否定的な前置き。したがって渋滞は解消されず、場所が町のはずれへ「移った」とする moved が正解。removed（取り除いた）、reduced（減らした）、prevented（防いだ）はいずれも問題が解決したことになり、前半と矛盾する。"
+            "tag": "collocation",
+            "explanation": "take a heavy toll on ~ で「～に大きな打撃を与える」という固定表現。damage は do damage to ~、loss は cause a loss、effect は have an effect on ~ の形で使い、take a heavy ~ の形には入らない。"
+          },
+          {
+            "id": "g3",
+            "before": "The instructions were deliberately vague, which left the volunteers",
+            "after": "about how much detail the survey actually required.",
+            "options": ["uncertain", "uncertainly", "uncertainty", "certainty"],
+            "answerIdx": 0,
+            "tag": "grammar",
+            "explanation": "leave ＋ 目的語 ＋ 形容詞 で「～を…の状態のままにする」。volunteers の状態を説明するので形容詞 uncertain が入る。uncertainly は副詞、uncertainty と certainty は名詞で、目的語のあとに直接置くと文が成り立たない。"
           }
         ]
       }
@@ -231,8 +240,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -241,11 +250,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Vault in the Ice",
+        "title": "The Return of the Night Train",
         "paragraphs": [
-          "Halfway between Norway and the North Pole, a concrete tunnel runs a hundred metres into a frozen mountain. At the end of it stand three rooms lined with black boxes, and inside the boxes are seeds: more than a million varieties of wheat, rice, beans and grasses, sent from gene banks in almost every country. The mountain does the work that machinery would otherwise have to do, since even if the power failed the rock would stay cold for weeks.",
-          "The vault is not a museum. Every sample in it is a duplicate of one held somewhere else, and the seeds are stored precisely because the collections outside are fragile. Gene banks have been lost to floods, to budget cuts and to war. In 2015 researchers who had fled the fighting in Aleppo asked for their own boxes back, planted the seeds in Lebanon and Morocco, and later sent fresh copies to the ice. That withdrawal, the first in the vault's history, was treated less as an emergency than as proof that the system worked.",
-          "What the seeds protect against is narrower than most visitors imagine. They cannot stop a harvest failing next summer, and nobody plans to open the tunnel after some global disaster. Their value lies in variety: a wheat that resists a new fungus, or a bean that tolerates salt, is far more likely to be found among thousands of old local strains than among the handful of types now grown on most commercial farms."
+          "For thirty years the sleeper train looked like a museum piece. Budget airlines undercut it, new high-speed lines made daytime journeys short enough to finish before dinner, and one European operator after another sold off its carriages. Then, towards the end of the last decade, bookings began to climb again. Austrian, Swedish and Dutch companies bought rolling stock that had been standing unused in sidings, and routes closed for years reopened between capitals a thousand kilometres apart.",
+          "The usual explanation is climate. A night train produces a small fraction of the carbon dioxide of the equivalent flight, and in several countries flying has acquired a faint sense of embarrassment. Yet the operators are careful not to build a business on guilt alone. What sells the tickets, their own surveys suggest, is time: a passenger who boards at ten in the evening and steps out in the centre of another city at breakfast has spent none of their waking hours travelling, and has paid for no hotel.",
+          "The economics remain awkward. A sleeper carries far fewer paying passengers than a seated train of the same length, it occupies expensive track at night when maintenance crews would rather have it, and it has to be cleaned and staffed like a small hotel. Governments that want the service therefore tend to pay for it, either directly or by lending money for new carriages. Whether that support survives the first bad year is the question the operators, privately, are still asking."
         ],
         "questions": [
           {
@@ -253,23 +262,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "A frozen vault holds duplicate seed samples so that the world's crop variety survives when collections elsewhere are lost.",
-              "The vault was built to feed the survivors of a global disaster once ordinary farming has come to an end.",
-              "Norwegian researchers grow rare wheat and beans inside a tunnel dug into a frozen mountain.",
-              "Most countries have closed their own seed collections since the vault in the ice was opened."
+              "Night trains are being revived by a mixture of environmental feeling and convenience, but they are costly to run and depend heavily on government support.",
+              "European travellers have turned against budget airlines and now refuse to fly between capital cities at all.",
+              "Sleeper trains disappeared because their carriages wore out, and new rolling stock has finally solved the problem.",
+              "Governments have discovered that night trains earn more money per passenger than any other kind of rail service."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The seeds are kept inside a mountain because the rock stays cold even when the",
-            "after": "which makes the store much cheaper to run.",
+            "before": "According to the operators' own surveys, passengers buy a ticket mainly because the journey",
+            "after": "and also saves them the cost of a room for the night.",
             "options": [
-              "equipment stops working",
-              "tunnel is opened to visitors",
-              "samples are sent abroad",
-              "boxes are counted again"
+              "takes up none of their waking hours",
+              "is cheaper than any available flight",
+              "avoids the busiest maintenance periods",
+              "reopens routes that had been closed"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -277,31 +286,31 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "保管された種子が実際に持ち出されたことを示している語句はどれですか。",
+            "prompt": "夜行列車の運行費用が高くつく理由を最もよく示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the rock would stay cold for weeks" },
-              { "id": "s2", "text": "asked for their own boxes back" },
-              { "id": "s3", "text": "nobody plans to open the tunnel after some global disaster" },
-              { "id": "s4", "text": "the handful of types now grown on most commercial farms" }
+              { "id": "s1", "text": "sold off its carriages" },
+              { "id": "s2", "text": "a small fraction of the carbon dioxide of the equivalent flight" },
+              { "id": "s3", "text": "has to be cleaned and staffed like a small hotel" },
+              { "id": "s4", "text": "steps out in the centre of another city at breakfast" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The cold, in other words, is free.",
+            "sentence": "Guilt, in other words, gets people to look at the timetable; convenience gets them to pay.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 0
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "The vault matters not as insurance against the end of the world but as a backup that keeps rare crop varieties available to plant breeders.",
-              "Cold storage inside mountains will soon replace the gene banks that warmer countries now maintain.",
-              "The withdrawal made during the war in Syria showed that the vault had been badly designed from the start.",
-              "Commercial farms ought to give up modern varieties and return to the thousands of local strains kept in the tunnel."
+              "The comeback of the sleeper train rests less on environmental guilt than on the time it saves, and its future depends on whether states keep covering its high costs.",
+              "Night trains will replace short-haul flights across Europe within a few years because passengers now consider flying shameful.",
+              "The main obstacle to night trains is that maintenance crews refuse to work on tracks used after dark.",
+              "Operators have proved that sleeper services can be profitable without any help from governments."
             ],
             "answerIdx": 0
           }
@@ -311,8 +320,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -321,11 +330,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Water Under the Desert",
+        "title": "Four Days, Five Days' Pay",
         "paragraphs": [
-          "Long before pumps and pipelines, farmers in the dry lands of Iran solved a problem that looks impossible: how to bring water from the mountains to a town twenty kilometres away without losing most of it to the sun. Their answer was the qanat, a tunnel dug at a very slight downward angle from an underground water source until it reaches the surface near the fields. Vertical shafts, spaced every few dozen metres, let the diggers lift out soil and later allow air in; from above, a qanat looks like a line of small craters crossing the desert.",
-          "The design has two quiet advantages. Because the water moves by gravity alone, the system needs no fuel and almost no machinery, and because it stays underground, very little of it is lost on the way. It also has a natural limit: a qanat can never deliver more water than the aquifer feeds into it, so the flow rises in wet years and falls in dry ones. Villages built their rules around that rhythm, dividing the water by time rather than by volume, and a household might own the whole stream for a fixed number of hours.",
-          "Diesel pumps changed everything. A well sunk beside a qanat can lift water far faster, and for a decade or two the fields flourish; then the water table drops, the old tunnel runs dry, and the shared timetable that once governed a valley loses its meaning. Some regions are now repairing their qanats, not out of nostalgia but because a system that cannot take more than the ground provides has begun to look less like a relic than like a design brief."
+          "A few years ago sixty-one British companies agreed to try something their competitors thought reckless: five days of pay for four days of work, with no fall in what the staff were expected to produce. The firms ranged from a fish-and-chip shop to a software house with several hundred employees. Researchers tracked revenue, sick days and staff turnover for six months, and when the trial ended fifty-six of the sixty-one chose to carry on.",
+          "The findings are easy to overstate. Revenue held steady rather than rising sharply, and the companies that volunteered were, almost by definition, ones already confident that their work could be reorganised. What changed most was not output but the shape of the week. Meetings were cut, some of them by half, and long stretches of uninterrupted work replaced the habit of being visibly available. Employees reported sleeping better; managers reported spending less time chasing people for updates.",
+          "Where the model struggles is in work that cannot be compressed. A hospital ward, a bus route or a shop counter needs someone standing in it for a fixed number of hours, so a shorter week there means hiring more people rather than working differently. Several trials in such places have quietly ended. The lesson may be that the four-day week is less a universal reform than a test of how much of an ordinary office week was ever really work."
         ],
         "questions": [
           {
@@ -333,38 +342,43 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Qanats carried mountain water underground by gravity, and their built-in limits look useful again now that pumps have lowered water tables.",
-              "Iranian farmers dug qanats mainly to protect their villages from flooding after heavy rain in the mountains.",
-              "Diesel pumps have proved to be a cheaper and more reliable version of the qanat in every region where they were tried.",
-              "The vertical shafts along a qanat were dug so that travellers could drink on their way across the desert."
+              "A four-day week worked in the trial mainly by removing wasted time from office work, but it fits badly where a job requires someone to be present for fixed hours.",
+              "The trial proved that shorter weeks raise revenue sharply in every kind of business that tries them.",
+              "British companies abandoned the four-day week once researchers had finished measuring sick days and staff turnover.",
+              "Hospitals and bus companies have found the four-day week easier to introduce than software firms have."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Since a qanat carries water below ground, far less of it disappears through",
-            "after": "than in an open channel crossing the desert.",
-            "options": ["evaporation", "pollution", "taxation", "navigation"],
+            "before": "The results should be treated with care, because the firms that joined the trial were",
+            "after": "and so were not typical of businesses in general.",
+            "options": [
+              "already confident their work could be reorganised",
+              "selected at random by the research team",
+              "all small enough to close for a whole day",
+              "paid by the government to take part"
+            ],
             "answerIdx": 0,
-            "tag": "vocab"
+            "tag": "reading-detail"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "qanat が供給できる水の量に自然な上限があることを示している語句はどれですか。",
+            "prompt": "週を短くしても働き方の工夫では対応できず、人を増やすしかない職場を示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "a line of small craters crossing the desert" },
-              { "id": "s2", "text": "can never deliver more water than the aquifer feeds into it" },
-              { "id": "s3", "text": "dividing the water by time rather than by volume" },
-              { "id": "s4", "text": "for a decade or two the fields flourish" }
+              { "id": "s1", "text": "fifty-six of the sixty-one chose to carry on" },
+              { "id": "s2", "text": "Meetings were cut, some of them by half" },
+              { "id": "s3", "text": "A hospital ward, a bus route or a shop counter" },
+              { "id": "s4", "text": "Employees reported sleeping better" }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Ownership, then, was measured in hours rather than in litres.",
+            "sentence": "The gain, in other words, came out of the hours the week had been wasting.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -373,10 +387,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "The strength of the qanat is that it takes only what the ground can spare, which is why an old technology is being restored where pumps have failed.",
-              "Villages should abandon diesel pumps at once and go back to digging every tunnel by hand as their ancestors did.",
-              "The main reason qanats are being repaired today is that they form an important part of the region's cultural history.",
-              "Qanats were given up because the vertical shafts proved far too dangerous for the people who had to dig them."
+              "The trial says less about the length of the working week than about how much of a normal office week is spent on things that are not really work.",
+              "Companies should give up the four-day week because revenue failed to rise during the six-month trial.",
+              "Sleeping better is the only measurable benefit that the shorter week produced for employees.",
+              "Any business can move to four days as long as it halves the number of meetings it holds."
             ],
             "answerIdx": 0
           }
@@ -388,13 +402,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train leaves from platform nine at seven forty-five, and the journey takes about two hours.",
+      "transcript": "The flight was delayed by ninety minutes, so we reached the hotel just after eleven at night.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -403,13 +417,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She would have called you if she had known you were still at the office.",
+      "transcript": "I would have told you about it sooner if I had thought it mattered.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -418,13 +432,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "easy",
-      "cefr": "B1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Could you let me know as soon as the results are ready?",
+      "transcript": "Please make sure the windows are closed before you leave the building.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -433,13 +447,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The thin path through the woods was covered with wet leaves.",
+      "transcript": "The thick fog made it hard to see the path beside the river.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -448,30 +462,30 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Most of the volunteers had never worked in a hospital before this summer.",
+      "transcript": "Nearly half of the students said they preferred studying in the library after six o'clock.",
       "prompt": null,
-      "tags": ["listen-chunk"],
+      "tags": ["listen-numeral"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-02T00:00:00.000Z",
-      "updatedAt": "2026-08-02T00:00:00.000Z",
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The report is due on the twenty-first, but the meeting was moved to Thursday morning.",
+      "transcript": "There used to be a small bakery on the corner, but it closed at the end of last spring.",
       "prompt": null,
-      "tags": ["listen-numeral"],
+      "tags": ["listen-funcword"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     }
