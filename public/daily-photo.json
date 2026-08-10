@@ -1,17 +1,18 @@
 {
-  "date": "2026-08-08",
-  "image": "/daily-photo.jpg?v=2026-08-08",
+  "date": "2026-08-10",
+  "image": "/daily-photo.jpg?v=2026-08-10",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "屋外マーケットの花屋の屋台。白いテントの下にピンクや赤の花のハンギングバスケットが吊るされ、テーブルには小さな緑の鉢植えが並ぶ。黄色い手書きの札（100% HOME GROWN など）が立っている。左手前に青いフリースの女性、奥に自転車に乗った人、背景はガラス張りの現代的な建物と広い石畳の広場。空は曇り。",
-  "modelAnswer": "This photo shows a flower stall at an outdoor market. The stall stands on a wide square in front of a big modern building with glass windows. A white tent covers the stall, and baskets of pink and red flowers hang from the frame. On the tables there are many small green pots with bright flowers, and yellow paper signs show the prices. One sign says \"100% Home Grown\". On the left, a woman in a blue jacket is walking past and looking at the plants. Behind her, a man is riding a bicycle. The sky is grey, but the flowers make the place look bright and cheerful.",
-  "modelAnswerJa": "この写真は、屋外マーケットの花屋の屋台を写しています。屋台は、ガラス窓のある大きくて現代的な建物の前の広い広場に立っています。白いテントが屋台をおおっていて、ピンクや赤の花のバスケットがその骨組みから吊り下がっています。テーブルの上には小さな緑の鉢植えがたくさんあり、黄色い紙の札が値段を示しています。ある札には「100% Home Grown（すべて自家栽培）」と書かれています。左手では、青い上着を着た女性が通り過ぎながら植物を見ています。その奥では、男性が自転車に乗っています。空は曇っていますが、花のおかげでその場所は明るく楽しそうに見えます。",
+  "theme": "冬の鉄道駅のホーム。右側に緑と白の通勤電車が停車し、ドアが開いている。厚いコート・帽子・手袋姿の人々がホームを歩き、左では数人が自転車を押している。黒いコートで黒いバッグを持つ女性、赤白のジャケットの女性、スマホを持つ赤いリュックの女性。頭上には運行情報の画面と「to Bay Street」の案内板。手前には線路と黄色い安全ラインが見える。",
+  "modelAnswer": "This photo was taken on a platform at a train station. On the right, a long green and white train is waiting with its doors open. Many people are walking along the platform. They are wearing thick coats, hats and gloves, so it must be a cold winter day. Some of them are pushing bicycles, and a woman in a dark coat is carrying a black bag. Another woman on the right is holding her phone. Above them there are big screens with train information and a sign that points to Bay Street. In front, empty tracks run past the yellow line. The place feels busy but calm.",
+  "modelAnswerJa": "この写真は、鉄道の駅のホームで撮られたものです。右側では、緑と白の長い電車がドアを開けて待っています。大勢の人がホームを歩いています。人々は厚いコートや帽子、手袋を身につけているので、寒い冬の日にちがいありません。何人かは自転車を押していて、暗い色のコートを着た女性は黒いバッグを持っています。右側にいるもう一人の女性はスマートフォンを手にしています。頭の上には、電車の運行情報を映す大きな画面と、Bay Street の方向を示す案内板があります。手前では、黄色い線の向こうに誰もいない線路がのびています。その場所はにぎやかですが、落ち着いた雰囲気です。",
   "tips": [
-    { "term": "a flower stall", "ja": "花を売る屋台・売り場" },
-    { "term": "an outdoor market", "ja": "屋外の市場（マーケット）" },
-    { "term": "in front of ~", "ja": "～の前に" },
-    { "term": "hang from ~", "ja": "～からぶら下がる" },
-    { "term": "there are many ~", "ja": "～がたくさんある" },
-    { "term": "walk past", "ja": "通り過ぎる" },
-    { "term": "look bright and cheerful", "ja": "明るく楽しそうに見える" }
+    { "term": "a platform", "ja": "（駅の）ホーム" },
+    { "term": "wait with its doors open", "ja": "ドアを開けて待っている" },
+    { "term": "walk along ~", "ja": "～に沿って歩く" },
+    { "term": "wear a thick coat", "ja": "厚いコートを着ている" },
+    { "term": "It must be ~", "ja": "～にちがいない" },
+    { "term": "push a bicycle", "ja": "自転車を押す" },
+    { "term": "point to ~", "ja": "～の方向を示す" },
+    { "term": "busy but calm", "ja": "にぎやかだが落ち着いている" }
   ]
 }
