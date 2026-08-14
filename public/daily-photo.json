@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-14",
-  "image": "/daily-photo.jpg?v=2026-08-14",
+  "date": "2026-08-15",
+  "image": "/daily-photo.jpg?v=2026-08-15",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "中国の街角にある小さな軽食店（赤い看板に中国語）の前の歩道。右側でガラスケースの点心・肉まんを買おうと人々が並んでいる。赤と黒のチェックのジャケットの女性（後ろ姿）、黒いキャップと灰色のジャケットの男性、左側は黒いコートの女性たちが歩道を歩く。街路樹、コートを着た人が多く涼しい日。",
-  "modelAnswer": "This photo was taken on a city street in front of a small Chinese food shop. Red signs with Chinese words hang above the door. On the right, a line of people is waiting at glass cases full of steamed buns and other snacks. A woman in a red and black checked jacket has her back to the camera, and next to her a man in a grey jacket and a black cap is looking at the food. On the left, two women in dark coats are walking along the sidewalk. Everyone is wearing warm clothes, so it looks like a cool day. The street feels busy and lively.",
-  "modelAnswerJa": "この写真は、小さな中華の軽食店の前の街の通りで撮られたものです。ドアの上には、中国語が書かれた赤い看板がかかっています。右側では、肉まんやそのほかの軽食がいっぱいに並んだガラスケースの前に、人々が列を作って待っています。赤と黒のチェックのジャケットを着た女性がカメラに背を向けていて、そのとなりでは、灰色のジャケットと黒いキャップの男性が食べ物を見ています。左側では、暗い色のコートを着た二人の女性が歩道を歩いています。みんな暖かい服を着ているので、涼しい日のように見えます。通りはにぎやかで活気があります。",
+  "theme": "大学図書館の中。背景は天井まである木の書棚に古い本がぎっしり。手前に青いシャツの若い男性（首に黄色いヘッドホン、灰色のファイルを抱えて携帯で通話中、笑顔）と、その横に長い茶髪で黒縁めがねの若い女性（白いトップス、黒いバッグを肩に、親指を立てている）。明るく楽しそうな雰囲気。",
+  "modelAnswer": "This photo was taken inside a library. Behind the two young people, there are tall wooden bookcases that are full of old books. In front of them, a young man in a blue shirt is smiling and talking on his phone. He has yellow headphones around his neck, and he is holding a grey folder under his arm. Next to him stands a young woman with long brown hair and black glasses. She is wearing a white top and carrying a black bag on her shoulder, and she is giving a thumbs up. They look happy and relaxed, like students after class.",
+  "modelAnswerJa": "この写真は図書館の中で撮られたものです。二人の若者の後ろには、天井まで届く木の書棚があり、古い本がぎっしり詰まっています。手前では、青いシャツを着た若い男性がほほえみながら携帯電話で話しています。首には黄色いヘッドホンをかけ、わきには灰色のファイルをかかえています。そのとなりには、長い茶色の髪に黒いめがねをかけた若い女性が立っています。彼女は白いトップスを着て、黒いバッグを肩にかけ、親指を立てています。二人はうれしそうでリラックスして見え、授業のあとの学生のようです。",
   "tips": [
-    { "term": "in front of ~", "ja": "～の前に" },
-    { "term": "a line of people / wait in line", "ja": "人の列／列に並んで待つ" },
-    { "term": "on the right / on the left", "ja": "右側に／左側に" },
-    { "term": "have one's back to the camera", "ja": "カメラに背を向けている" },
-    { "term": "a man in a grey jacket", "ja": "灰色のジャケットを着た男性（in ＋ 服装）" },
-    { "term": "It looks like a cool day.", "ja": "涼しい日のように見える" },
-    { "term": "busy and lively", "ja": "にぎやかで活気がある" }
+    { "term": "This photo was taken ~", "ja": "この写真は～で撮られました（描写の書き出しに便利）" },
+    { "term": "behind ~ / in front of ~", "ja": "～の後ろに／～の前に" },
+    { "term": "be full of ~", "ja": "～でいっぱいだ" },
+    { "term": "talk on the phone", "ja": "電話で話す" },
+    { "term": "a man in a blue shirt", "ja": "青いシャツを着た男性（in ＋ 服装）" },
+    { "term": "give a thumbs up", "ja": "親指を立てる（「いいね」のしぐさ）" },
+    { "term": "They look happy and relaxed.", "ja": "うれしそうでリラックスして見える" }
   ]
 }
