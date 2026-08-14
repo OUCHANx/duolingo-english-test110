@@ -1,18 +1,17 @@
 {
-  "date": "2026-08-10",
-  "image": "/daily-photo.jpg?v=2026-08-10",
+  "date": "2026-08-14",
+  "image": "/daily-photo.jpg?v=2026-08-14",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "冬の鉄道駅のホーム。右側に緑と白の通勤電車が停車し、ドアが開いている。厚いコート・帽子・手袋姿の人々がホームを歩き、左では数人が自転車を押している。黒いコートで黒いバッグを持つ女性、赤白のジャケットの女性、スマホを持つ赤いリュックの女性。頭上には運行情報の画面と「to Bay Street」の案内板。手前には線路と黄色い安全ラインが見える。",
-  "modelAnswer": "This photo was taken on a platform at a train station. On the right, a long green and white train is waiting with its doors open. Many people are walking along the platform. They are wearing thick coats, hats and gloves, so it must be a cold winter day. Some of them are pushing bicycles, and a woman in a dark coat is carrying a black bag. Another woman on the right is holding her phone. Above them there are big screens with train information and a sign that points to Bay Street. In front, empty tracks run past the yellow line. The place feels busy but calm.",
-  "modelAnswerJa": "この写真は、鉄道の駅のホームで撮られたものです。右側では、緑と白の長い電車がドアを開けて待っています。大勢の人がホームを歩いています。人々は厚いコートや帽子、手袋を身につけているので、寒い冬の日にちがいありません。何人かは自転車を押していて、暗い色のコートを着た女性は黒いバッグを持っています。右側にいるもう一人の女性はスマートフォンを手にしています。頭の上には、電車の運行情報を映す大きな画面と、Bay Street の方向を示す案内板があります。手前では、黄色い線の向こうに誰もいない線路がのびています。その場所はにぎやかですが、落ち着いた雰囲気です。",
+  "theme": "中国の街角にある小さな軽食店（赤い看板に中国語）の前の歩道。右側でガラスケースの点心・肉まんを買おうと人々が並んでいる。赤と黒のチェックのジャケットの女性（後ろ姿）、黒いキャップと灰色のジャケットの男性、左側は黒いコートの女性たちが歩道を歩く。街路樹、コートを着た人が多く涼しい日。",
+  "modelAnswer": "This photo was taken on a city street in front of a small Chinese food shop. Red signs with Chinese words hang above the door. On the right, a line of people is waiting at glass cases full of steamed buns and other snacks. A woman in a red and black checked jacket has her back to the camera, and next to her a man in a grey jacket and a black cap is looking at the food. On the left, two women in dark coats are walking along the sidewalk. Everyone is wearing warm clothes, so it looks like a cool day. The street feels busy and lively.",
+  "modelAnswerJa": "この写真は、小さな中華の軽食店の前の街の通りで撮られたものです。ドアの上には、中国語が書かれた赤い看板がかかっています。右側では、肉まんやそのほかの軽食がいっぱいに並んだガラスケースの前に、人々が列を作って待っています。赤と黒のチェックのジャケットを着た女性がカメラに背を向けていて、そのとなりでは、灰色のジャケットと黒いキャップの男性が食べ物を見ています。左側では、暗い色のコートを着た二人の女性が歩道を歩いています。みんな暖かい服を着ているので、涼しい日のように見えます。通りはにぎやかで活気があります。",
   "tips": [
-    { "term": "a platform", "ja": "（駅の）ホーム" },
-    { "term": "wait with its doors open", "ja": "ドアを開けて待っている" },
-    { "term": "walk along ~", "ja": "～に沿って歩く" },
-    { "term": "wear a thick coat", "ja": "厚いコートを着ている" },
-    { "term": "It must be ~", "ja": "～にちがいない" },
-    { "term": "push a bicycle", "ja": "自転車を押す" },
-    { "term": "point to ~", "ja": "～の方向を示す" },
-    { "term": "busy but calm", "ja": "にぎやかだが落ち着いている" }
+    { "term": "in front of ~", "ja": "～の前に" },
+    { "term": "a line of people / wait in line", "ja": "人の列／列に並んで待つ" },
+    { "term": "on the right / on the left", "ja": "右側に／左側に" },
+    { "term": "have one's back to the camera", "ja": "カメラに背を向けている" },
+    { "term": "a man in a grey jacket", "ja": "灰色のジャケットを着た男性（in ＋ 服装）" },
+    { "term": "It looks like a cool day.", "ja": "涼しい日のように見える" },
+    { "term": "busy and lively", "ja": "にぎやかで活気がある" }
   ]
 }
