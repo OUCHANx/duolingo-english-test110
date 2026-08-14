@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-10",
+  "generatedAt": "2026-08-14",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,26 +16,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "simmer", "isReal": true },
-          { "id": "w2", "text": "sprundle", "isReal": false },
-          { "id": "w3", "text": "marinate", "isReal": true },
-          { "id": "w4", "text": "chelvit", "isReal": false },
-          { "id": "w5", "text": "seasoning", "isReal": true },
-          { "id": "w6", "text": "marnute", "isReal": false },
-          { "id": "w7", "text": "ingredient", "isReal": true },
-          { "id": "w8", "text": "flisker", "isReal": false },
-          { "id": "w9", "text": "leftover", "isReal": true },
-          { "id": "w10", "text": "quilbent", "isReal": false },
-          { "id": "w11", "text": "whisk", "isReal": true },
-          { "id": "w12", "text": "dremmish", "isReal": false }
+          { "id": "w1", "text": "orbit", "isReal": true },
+          { "id": "w2", "text": "brantule", "isReal": false },
+          { "id": "w3", "text": "eclipse", "isReal": true },
+          { "id": "w4", "text": "florvent", "isReal": false },
+          { "id": "w5", "text": "telescope", "isReal": true },
+          { "id": "w6", "text": "quindale", "isReal": false },
+          { "id": "w7", "text": "gravity", "isReal": true },
+          { "id": "w8", "text": "marlisk", "isReal": false },
+          { "id": "w9", "text": "satellite", "isReal": true },
+          { "id": "w10", "text": "vessorn", "isReal": false },
+          { "id": "w11", "text": "asteroid", "isReal": true },
+          { "id": "w12", "text": "plunterd", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "drizzle", "isReal": true },
-          { "id": "w2", "text": "plontern", "isReal": false },
-          { "id": "w3", "text": "glacier", "isReal": true },
-          { "id": "w4", "text": "gaskerly", "isReal": false },
-          { "id": "w5", "text": "humid", "isReal": true },
-          { "id": "w6", "text": "murbish", "isReal": false },
-          { "id": "w7", "text": "avalanche", "isReal": true },
-          { "id": "w8", "text": "trellon", "isReal": false },
-          { "id": "w9", "text": "coastline", "isReal": true },
-          { "id": "w10", "text": "helvint", "isReal": false },
-          { "id": "w11", "text": "thunderstorm", "isReal": true },
-          { "id": "w12", "text": "brimsale", "isReal": false }
+          { "id": "w1", "text": "invoice", "isReal": true },
+          { "id": "w2", "text": "gorbline", "isReal": false },
+          { "id": "w3", "text": "deadline", "isReal": true },
+          { "id": "w4", "text": "tramsile", "isReal": false },
+          { "id": "w5", "text": "colleague", "isReal": true },
+          { "id": "w6", "text": "delvanth", "isReal": false },
+          { "id": "w7", "text": "agenda", "isReal": true },
+          { "id": "w8", "text": "pronkish", "isReal": false },
+          { "id": "w9", "text": "refund", "isReal": true },
+          { "id": "w10", "text": "shalvern", "isReal": false },
+          { "id": "w11", "text": "warehouse", "isReal": true },
+          { "id": "w12", "text": "brisquen", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,20 +74,20 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "A row of street trees can lower the temperature of a pavement by several degrees on a hot afternoon, and the effect lasts well past {{b1}}. The leaves block the sun before it reaches the concrete, and the water they release cools the air around them like a slow, silent {{b2}}. Cities that treat their trees as part of the drainage system, rather than as mere {{b3}}, tend to plant a great many more of them. The catch is patience: a sapling planted this spring will not cast useful shade for another {{b4}}.",
+        "text": "Night workers often say the hardest part of the job is not the work itself but the {{b1}} that follows it. The body keeps its own clock, and no amount of {{b2}} coffee can persuade it that four in the morning is midday. Studies of hospital staff show that reaction times fall sharply near the end of a long shift, although the workers themselves rarely {{b3}} the change. Some employers now build short naps into the schedule, a policy that once sounded like a {{b4}} and is now treated as basic safety.",
         "blanks": [
-          { "id": "b1", "full": "sunset", "keepHead": 3 },
-          { "id": "b2", "full": "fountain", "keepHead": 4 },
-          { "id": "b3", "full": "decoration", "keepHead": 5 },
-          { "id": "b4", "full": "decade", "keepHead": 3 }
+          { "id": "b1", "full": "recovery", "keepHead": 4 },
+          { "id": "b2", "full": "strong", "keepHead": 3 },
+          { "id": "b3", "full": "notice", "keepHead": 3 },
+          { "id": "b4", "full": "joke", "keepHead": 2 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -96,20 +96,20 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Most museums can display only a tiny share of what they own; the rest sits in boxes in a basement or a rented {{b1}}. Photographing every object and putting the pictures online was once thought far too expensive to be worth it, but a cheap scanner and a student with a steady {{b2}} can now record hundreds of items a week. Curators who have finished the job report an odd {{b3}}: visitor numbers went up. Seeing a collection on a screen, it seems, makes people want to stand in front of the real {{b4}}.",
+        "text": "A field of apple trees may look complete on its own, but without insects most of the flowers will never become {{b1}}. Honeybees take most of the credit, yet wild species do a large share of the {{b2}} work, often earlier in the spring and in colder weather. Their numbers depend less on the crop itself than on what grows at the {{b3}} of the field: rough grass, hedges and weeds that farmers were once paid to clear away. Where those untidy strips have been restored, growers report a measurable rise in {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "warehouse", "keepHead": 5 },
-          { "id": "b2", "full": "hand", "keepHead": 2 },
-          { "id": "b3", "full": "result", "keepHead": 3 },
-          { "id": "b4", "full": "thing", "keepHead": 3 }
+          { "id": "b1", "full": "fruit", "keepHead": 3 },
+          { "id": "b2", "full": "pollinating", "keepHead": 5 },
+          { "id": "b3", "full": "edges", "keepHead": 2 },
+          { "id": "b4", "full": "yields", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -118,20 +118,20 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Long-distance runners have known for years that the final kilometres are governed as much by the mind as by the {{b1}}. In studies where cyclists raced against a recording of their own earlier ride, riders beat their supposed best whenever they were told, falsely, that the pace on the screen was {{b2}}. The brain, it appears, holds a reserve of energy back and releases it only once it judges the remaining effort to be {{b3}}. Training, on this view, is partly a matter of teaching that internal judge to be rather less {{b4}}.",
+        "text": "Students who take notes by hand tend to remember more of a lecture than those who type, even though typists record far more {{b1}}. Writing is slower, so the hand cannot keep up with the speaker and the listener is forced to {{b2}} what matters from what does not. Typing allows a nearly perfect transcript, which feels safer but leaves the material largely {{b3}}. The advantage disappears, however, if the handwritten notes are never opened again; the benefit lies in the choosing, not in the {{b4}} itself.",
         "blanks": [
-          { "id": "b1", "full": "legs", "keepHead": 2 },
-          { "id": "b2", "full": "identical", "keepHead": 5 },
-          { "id": "b3", "full": "safe", "keepHead": 2 },
-          { "id": "b4", "full": "cautious", "keepHead": 4 }
+          { "id": "b1", "full": "words", "keepHead": 2 },
+          { "id": "b2", "full": "separate", "keepHead": 4 },
+          { "id": "b3", "full": "unexamined", "keepHead": 5 },
+          { "id": "b4", "full": "paper", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -140,20 +140,20 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Roughly a third of the food grown in the world is never {{b1}}. Very little of that loss happens on the plate; most of it occurs long before, in fields left unharvested because prices collapsed, or in trucks and market stalls with no reliable {{b2}}. A chain that holds fresh produce near four degrees from the farm to the shelf can halve the losses of an entire region, which is why aid agencies now treat refrigeration as a form of {{b3}}. The cheapest way to feed more people, in other words, may be to stop {{b4}} the harvest we already have.",
+        "text": "Wind and solar farms now produce electricity more cheaply than almost any {{b1}} plant, but they do so on their own timetable. The difficulty is no longer generation; it is {{b2}}. Batteries can hold a few hours of supply, enough to carry a city through the evening peak, yet a still, grey week in winter demands something far larger. Pumped hydro remains the cheapest answer wherever the {{b3}} allows it, and several countries are testing tanks of hot rock and compressed air. None of this will matter, though, unless the grid itself is rebuilt to move power from where the wind {{b4}} to where the people live.",
         "blanks": [
-          { "id": "b1", "full": "eaten", "keepHead": 3 },
-          { "id": "b2", "full": "cooling", "keepHead": 4 },
-          { "id": "b3", "full": "production", "keepHead": 5 },
-          { "id": "b4", "full": "wasting", "keepHead": 4 }
+          { "id": "b1", "full": "coal", "keepHead": 2 },
+          { "id": "b2", "full": "storage", "keepHead": 4 },
+          { "id": "b3", "full": "landscape", "keepHead": 4 },
+          { "id": "b4", "full": "blows", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -165,30 +165,30 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "Three research teams have made remarkable",
-            "after": "towards a treatment that would work for every strain of the virus.",
-            "options": ["progress", "advance", "improvement", "development"],
+            "before": "The council has come under heavy",
+            "after": "for cutting the number of evening buses without consulting anyone who uses them.",
+            "options": ["criticism", "blame", "complaint", "judgement"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "make progress towards ~ で「～に向けて前進する」という決まった言い方。progress は数えられない名詞なので make remarkable progress と冠詞なしで使える。advance と improvement、development は可算名詞で、この位置では an や複数形が必要になり、make ~ towards の形にもなじまない。"
+            "explanation": "come under heavy criticism（激しい批判を浴びる）は決まった言い方。blame は take the blame / put the blame on ~ の形で使い、come under とは結びつかない。complaint は可算名詞なので a complaint / complaints が必要。judgement は「判断・審判」で、非難の意味にはならない。"
           },
           {
             "id": "g2",
-            "before": "Rarely",
-            "after": "a wooden building survive a fire of that intensity without serious damage.",
-            "options": ["does", "is", "has", "was"],
+            "before": "The report recommends that every applicant",
+            "after": "a second form of identification before the interview takes place.",
+            "options": ["provide", "provides", "provided", "is providing"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "否定的な副詞 Rarely が文頭に出ると主語と助動詞が倒置される。survive は原形なので助動詞 does が必要。is や was では動詞 survive とつながらず、has なら survived（過去分詞）でなければならない。"
+            "explanation": "recommend / suggest / insist などの後の that 節では動詞が原形（仮定法現在）になる。主語が every applicant でも provides とはせず provide のまま。provided や is providing はこの構文では使えない。"
           },
           {
             "id": "g3",
-            "before": "The new ferry is faster and cheaper to run than the old one;",
-            "after": ", it carries only half as many cars.",
-            "options": ["on the other hand", "as a result", "for instance", "in addition"],
+            "before": "Sales had fallen for three quarters in a row.",
+            "after": ", the board decided to close two of the older factories.",
+            "options": ["Accordingly", "Nevertheless", "By contrast", "Otherwise"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "前半は長所、後半は短所なので、対立する面を示す on the other hand（その一方で）が合う。as a result は結果、for instance は例示、in addition は同じ方向の情報の追加を表すため、長所と短所をつなぐことができない。"
+            "explanation": "売上が下がり続けた「結果として」工場を閉鎖したので、結果を示す Accordingly（それに応じて・したがって）が合う。Nevertheless は逆接、By contrast は対比、Otherwise は「さもなければ」で、いずれも原因→結果の流れをつなげない。"
           }
         ]
       }
@@ -196,43 +196,43 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation", "vocab"],
+      "tags": ["grammar", "vocab", "collocation"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "It was not the noise of the machines",
-            "after": "the constant interruptions that made the office impossible to work in.",
-            "options": ["but", "and", "or", "than"],
+            "before": "The museum's new lighting was designed to be",
+            "after": "enough to protect the oldest paintings without leaving visitors in the dark.",
+            "options": ["dim", "faint", "shallow", "vague"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "not A but B（AではなくB）の形。強調構文 It was ... that ... の中で、本当の原因が後ろの B であることを示している。and や or では「両方」「どちらか」の意味になり not との対比が崩れ、than は比較級がないと使えない。"
+            "tag": "vocab",
+            "explanation": "照明の明るさが「弱い・薄暗い」ことは dim で表す。faint は音・においや光の「かすかさ」を遠くから感じる場合に使い、設計された明るさの説明には合わない。shallow は「浅い」、vague は「あいまいな」で、どちらも光の強さを表さない。"
           },
           {
             "id": "g2",
-            "before": "After three hours of argument the committee finally",
-            "after": "a decision that satisfied nobody.",
-            "options": ["reached", "arrived", "took", "gave"],
+            "before": "By the time the funding was finally approved, the research team",
+            "after": "for nearly two years without a laboratory of their own.",
+            "options": ["had been working", "has worked", "was working", "would work"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "reach a decision で「決定に達する」という定型表現。arrive を使うなら arrive at a decision と前置詞 at が必要。take a decision は英国式で使われることもあるが、続く関係詞節を伴う書き言葉ではまれで、give a decision は判決を「言い渡す」場面に限られる。"
+            "tag": "grammar",
+            "explanation": "By the time + 過去 という基準時までの継続なので過去完了進行形 had been working が正しい。has worked は現在完了で過去の基準時に合わない。was working は継続期間 for nearly two years を基準時までまとめられず、would work は未来の話になる。"
           },
           {
             "id": "g3",
-            "before": "Had the warning been issued an hour earlier, the whole village",
-            "after": "before the water reached the main road.",
-            "options": ["could have been evacuated", "can be evacuated", "was evacuated", "had been evacuated"],
+            "before": "The trial results should be treated with",
+            "after": "until the study has been repeated by an independent team.",
+            "options": ["caution", "warning", "doubtful", "attention"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "Had the warning been issued ~ は仮定法過去完了の倒置形（＝If the warning had been issued ~）。過去の事実に反する仮定なので、主節は could have been evacuated の形になる。can be evacuated は現在、was evacuated は実際に起きた事実、had been evacuated は if 節側の形で、主節には使えない。"
+            "tag": "collocation",
+            "explanation": "treat ~ with caution で「～を慎重に扱う」という定型表現。warning は「他人に与える警告」であって扱う側の態度ではない。doubtful は形容詞なので with の後に置けない。attention は「注意を向ける」ことで、疑いを持って慎重に扱う意味にはならない。"
           }
         ]
       }
@@ -240,8 +240,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -250,11 +250,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Café Where Nothing Is for Sale",
+        "title": "The Ward That Turned the Volume Down",
         "paragraphs": [
-          "On the first Saturday of every month, a hall behind a library in Rotterdam fills with broken things. Visitors arrive carrying toasters, lamps, bicycle wheels and jackets with failed zips, and volunteers with screwdrivers sit waiting at long tables. Nothing is bought or sold. The idea, borrowed from a scheme started in the same city in 2009, has since spread to more than two thousand towns, and the tables now attract engineers, retired electricians and a steady supply of curious teenagers.",
-          "Organisers are quick to point out that the tonnage saved is modest. A hall might rescue forty kettles in a morning, which is nothing beside what a city throws away in an hour. The real product is confidence. Most visitors have never opened the case of an appliance and assume that what is inside is beyond them; they leave having watched a fuse or a frayed cable be replaced in ten minutes, and the next fault no longer sends them to a shop. Volunteers say the questions they are asked change noticeably after a second visit.",
-          "The obstacles are rarely technical. Manufacturers glue casings shut, sell spare parts only to approved dealers, and design circuit boards that cannot be opened without destroying them. Several European rules now require that common parts be available for a decade after a model is discontinued, but the fine print still allows firms to set the price. A repairer who can fix a machine in twenty minutes, and then finds the plastic clip costs more than a new machine, has met the limit of goodwill."
+          "An intensive care unit is one of the loudest rooms in which anybody is ever asked to sleep. Monitors beep, pumps click, doors swing and staff talk across the beds through the night. Measurements taken in several European hospitals put the average night-time level at around sixty decibels, roughly that of a busy restaurant, with peaks far above it. A ceiling of thirty-five decibels has been recommended for wards since the late 1990s; almost none of the units in the study came close, and the noisiest hours fell between two and four in the morning.",
+          "Patients notice, and so do their bodies. Sleep on a ward arrives in short fragments, and the deep stages that repair tissue and settle the immune system often never come at all. Researchers have linked this to slower healing, larger doses of painkillers and the confused, agitated state that is common in older patients after surgery. Staff, by contrast, stop hearing the noise entirely. Alarms sound so frequently that the great majority turn out to be false, and a nurse who has silenced forty of them since midnight will be slower to reach the one that matters.",
+          "The measures that work are unglamorous. One Dutch hospital fitted soft-closing lids to its bins, moved the shift handover away from the bedsides and set every non-urgent alarm to flash rather than sound; night-time levels fell by nine decibels within a month. Acoustic ceilings and single rooms achieve more, but they are paid for once, when a building goes up, and most of the wards in use today were drawn up at a time when quiet was thought of as a courtesy rather than as part of the treatment."
         ],
         "questions": [
           {
@@ -262,23 +262,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Repair cafés matter less for the waste they prevent than for the skills and confidence they pass on, though manufacturers' designs and parts prices still hold them back.",
-              "Repair cafés have become the main way European cities reduce the amount of electrical waste they send to landfill.",
-              "Volunteers at repair cafés have persuaded manufacturers to stop gluing their products shut and to give spare parts away.",
-              "The movement began in Rotterdam because the city had more retired electricians than anywhere else in Europe."
+              "Hospital wards are far noisier than the guidelines allow, and the noise harms patients' recovery and dulls staff's response to alarms, although cheap changes to routines and equipment can reduce it.",
+              "Intensive care units have become quieter than busy restaurants since the thirty-five decibel guideline was introduced in the late 1990s.",
+              "The main cause of noise on hospital wards is patients themselves, who talk and move about during the night and disturb one another.",
+              "Only hospitals with acoustic ceilings and single rooms can meet the recommended night-time noise levels, so older buildings should be replaced."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Organisers argue that the main value of a repair café is not the waste it prevents but the fact that visitors",
-            "after": "and so stop assuming that a fault can only be dealt with in a shop.",
+            "before": "Nurses become slower to answer alarms because",
+            "after": "and so the single alarm that signals a real emergency may not be reached in time.",
             "options": [
-              "watch a simple repair being done and gain confidence",
-              "are given free spare parts to take home",
-              "are trained to become qualified electricians",
-              "pay far less than a manufacturer would charge"
+              "so many of the alarms turn out to be false",
+              "the alarms are set at a volume that is too low to hear",
+              "patients regularly ask them to switch the alarms off",
+              "the monitors are turned off between two and four in the morning"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -286,19 +286,19 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "修理を難しくしている原因が技術ではなく製品の作り方にあることを最もよく示している語句はどれですか。",
+            "prompt": "高価な建物の改修ではなく、日々の習慣を変えることで騒音を減らせることを最もよく示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "volunteers with screwdrivers sit waiting at long tables" },
-              { "id": "s2", "text": "A hall might rescue forty kettles in a morning" },
-              { "id": "s3", "text": "design circuit boards that cannot be opened without destroying them" },
-              { "id": "s4", "text": "a steady supply of curious teenagers" }
+              { "id": "s1", "text": "put the average night-time level at around sixty decibels" },
+              { "id": "s2", "text": "the deep stages that repair tissue and settle the immune system" },
+              { "id": "s3", "text": "moved the shift handover away from the bedsides" },
+              { "id": "s4", "text": "most of the wards in use today were drawn up" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "What leaves the hall, in other words, is not so much a working kettle as a person who is no longer afraid of one.",
+            "sentence": "The trouble, in other words, is not only that the ward is loud but that the people working in it have stopped hearing how loud it is.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -307,10 +307,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Repair cafés spread a habit of mending rather than a measurable saving in rubbish, and the law will have to control the price of spare parts before that habit can grow further.",
-              "Repair cafés should charge a small fee so that they can buy spare parts directly from approved dealers.",
-              "The number of appliances saved each morning proves that repair cafés are already replacing the recycling industry.",
-              "European rules on spare parts have removed almost every practical barrier that volunteer repairers used to face."
+              "Quiet should be treated as part of a patient's treatment rather than as a politeness, and much of it can be won by changing routines and equipment instead of waiting for new buildings.",
+              "Hospitals should remove alarms from intensive care units altogether, since almost all of them are false and none of the staff respond to them anyway.",
+              "Noise levels in wards matter mainly because they make the work of nurses unpleasant, not because they have any effect on how patients recover.",
+              "Because the thirty-five decibel guideline is impossible to meet in practice, it should be raised to match the sixty decibels that wards actually reach."
             ],
             "answerIdx": 0
           }
@@ -320,8 +320,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -330,11 +330,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Digging Up the Rivers We Buried",
+        "title": "Reading the Air Trapped in Ice",
         "paragraphs": [
-          "Almost every old city is built over water. As populations grew, the streams that once ran through them were treated as open drains, roofed with brick and finally paved over, and the roads that took their place still follow their bends. For a century this looked like straightforward progress: the smell was gone, and the land above was worth a fortune. Engineers assumed the pipes beneath would carry whatever the sky delivered.",
-          "That assumption has aged badly. A buried stream can only take the volume its Victorian builders imagined, and storms now arrive in shorter, heavier bursts. When the pipe fills, the water surfaces in basements. Seoul offered the most watched alternative when it removed an elevated motorway in 2003 and uncovered the Cheonggyecheon below, giving the flow room to spread. Summer temperatures beside the restored channel fell by several degrees, and the fish and herons that returned were photographed so often that other mayors began asking what it had cost.",
-          "The answer is that it costs a great deal, and not only in money. Uncovering a stream means taking road space away from drivers who have used it all their lives, and the land alongside becomes so desirable that the residents the scheme was meant to serve are often priced out. Cities that have done it well tend to have started small, with a single block of a minor tributary, and to have let the argument be settled by a summer of people sitting on the new banks rather than by a report."
+          "Every winter, snow falls on the middle of Greenland and never melts. Each layer presses down on the ones beneath it, and the air caught between the flakes is slowly sealed into bubbles. A drill can lift out a column of that ice three kilometres long, and the lowest metre of it froze long before anyone planted the first field of wheat. Every bubble is a small, dated sample of the atmosphere itself, which is why a piece of ice can answer questions that no written record can.",
+          "The dating is the delicate part. Near the surface, annual layers can be counted rather like tree rings, using the dust that blows in each spring. Further down, the layers are squeezed to the thickness of a page and simple counting fails, so researchers match volcanic ash and sudden chemical spikes to eruptions whose dates are already known from elsewhere. An error of only a few years at a depth of fifty thousand years is regarded as a good result, and every claim about how quickly the climate once changed rests on that accuracy.",
+          "What the bubbles show is that carbon dioxide and temperature have risen and fallen together for at least eight hundred thousand years, within a band that the present century has already left far behind. The ice also records how fast the system can turn: at the end of the last ice age, Greenland warmed by something close to ten degrees within a single human lifetime. Cores from mountain glaciers, which hold the most recent centuries in the finest detail, are the ones now vanishing fastest, and several teams are drilling simply to store the ice in freezers before it is gone."
         ],
         "questions": [
           {
@@ -342,23 +342,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Uncovering buried streams helps cities cope with heavier storms and cools them down, but it is expensive and politically difficult, so it works best when begun on a small scale.",
-              "Victorian engineers deliberately built drains that were too small so that later cities would be forced to uncover their rivers.",
-              "Seoul's Cheonggyecheon project failed because the returning fish and herons attracted too many visitors to the area.",
-              "The main reason cities bury their rivers today is that riverside land has become too cheap to be worth keeping open."
+              "Ice cores preserve dated samples of ancient air, and although dating them deep down is difficult, they reveal both the long link between carbon dioxide and temperature and how abruptly the climate can shift.",
+              "Drilling in Greenland has shown that carbon dioxide levels have stayed inside the same narrow band throughout the present century.",
+              "Counting annual layers in ice is as straightforward as counting the rings of a tree, whatever the depth of the core.",
+              "Mountain glaciers are melting so quickly that ice cores can no longer be used as a record of the atmosphere."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Buried streams flood basements today mainly because they were built to carry",
-            "after": "and rainfall now arrives in shorter, heavier bursts.",
+            "before": "Counting yearly layers becomes impossible deep inside a core because",
+            "after": "so researchers rely instead on ash from eruptions whose dates are already known.",
             "options": [
-              "only the volume that their Victorian designers expected",
-              "waste water from factories rather than rain",
-              "the flow of several tributaries at once",
-              "far more water than any modern pipe could hold"
+              "the pressure squeezes the layers until they are far too thin to separate",
+              "the ice at that depth contains no trapped air at all",
+              "the dust that marks each spring never reaches central Greenland",
+              "the drill destroys the lower part of the column as it turns"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -366,19 +366,19 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "川を地上に戻すことが、本来助けようとした住民に不利益をもたらしうることを示している語句はどれですか。",
+            "prompt": "気候が人ひとりの一生ほどの短い間に大きく変わりうることを最もよく示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the roads that took their place still follow their bends" },
-              { "id": "s2", "text": "Summer temperatures beside the restored channel fell by several degrees" },
-              { "id": "s3", "text": "the residents the scheme was meant to serve are often priced out" },
-              { "id": "s4", "text": "started small, with a single block of a minor tributary" }
+              { "id": "s1", "text": "the air caught between the flakes is slowly sealed into bubbles" },
+              { "id": "s2", "text": "An error of only a few years at a depth of fifty thousand years" },
+              { "id": "s3", "text": "Greenland warmed by something close to ten degrees within a single human lifetime" },
+              { "id": "s4", "text": "several teams are drilling simply to store the ice in freezers" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The sky, unfortunately, no longer delivers rain in the polite instalments those calculations were based on.",
+            "sentence": "Nothing else keeps the air itself; a fossil or a tree ring can only record what that air did to something living.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 0
           },
@@ -387,10 +387,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Bringing a hidden river back to the surface solves real problems of flooding and heat, but its cost falls on drivers and poorer neighbours, so cautious, small beginnings are the surest route.",
-              "Every city should copy Seoul exactly and remove its main motorway as quickly as possible.",
-              "The return of fish and birds is the only benefit that uncovering a stream has been shown to produce.",
-              "Because the money involved is so large, cities would be wiser to leave their buried streams alone and widen the pipes instead."
+              "Ice is the only archive that holds ancient air directly, and reading it carefully shows both a long partnership between carbon dioxide and temperature and a capacity for very sudden change — which is why the melting cores are being rescued.",
+              "Because dating errors of a few years are unavoidable, conclusions drawn from ice cores about past climate change should be treated as guesswork.",
+              "The main value of ice cores is that they let scientists predict exactly when the next ice age will begin and how long it will last.",
+              "Storing glacier ice in freezers has become unnecessary now that mountain cores have all been drilled and measured."
             ],
             "answerIdx": 0
           }
@@ -402,13 +402,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The gallery opens at nine thirty, and the last tickets are sold at four fifteen.",
+      "transcript": "The train leaves from platform seven at six forty-five, not from platform eleven.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -417,13 +417,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She said she would rather wait outside than sit in that crowded room.",
+      "transcript": "I would have called you earlier if I had known you were still at the office.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -432,13 +432,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "We should probably leave a little earlier than usual because of the traffic.",
+      "transcript": "He asked whether the parcel had already been sent to the wrong address.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -447,43 +447,43 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She slipped on the wet steps and dropped a glass jar on the floor.",
-      "prompt": null,
-      "tags": ["listen-phoneme"],
-      "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
-    },
-    {
-      "id": "daily-lt-5",
-      "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
-      "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
-      "audioUrl": null,
-      "transcript": "Almost two thirds of the seats were still empty when the concert began.",
+      "transcript": "The recipe calls for three cups of flour and half a teaspoon of salt.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
+      "id": "daily-lt-5",
+      "userId": null,
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "audioUrl": null,
+      "transcript": "The thin sheet of ice cracked the moment he stepped onto it.",
+      "prompt": null,
+      "tags": ["listen-phoneme"],
+      "source": "daily",
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+    },
+    {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-10T00:00:00.000Z",
-      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "There is nothing to worry about as long as you keep hold of your receipt.",
+      "transcript": "She hardly ever leaves the house without checking that the windows are shut.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
