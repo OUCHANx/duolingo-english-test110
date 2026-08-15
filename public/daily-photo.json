@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-15",
-  "image": "/daily-photo.jpg?v=2026-08-15",
+  "date": "2026-08-16",
+  "image": "/daily-photo.jpg?v=2026-08-16",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "大学図書館の中。背景は天井まである木の書棚に古い本がぎっしり。手前に青いシャツの若い男性（首に黄色いヘッドホン、灰色のファイルを抱えて携帯で通話中、笑顔）と、その横に長い茶髪で黒縁めがねの若い女性（白いトップス、黒いバッグを肩に、親指を立てている）。明るく楽しそうな雰囲気。",
-  "modelAnswer": "This photo was taken inside a library. Behind the two young people, there are tall wooden bookcases that are full of old books. In front of them, a young man in a blue shirt is smiling and talking on his phone. He has yellow headphones around his neck, and he is holding a grey folder under his arm. Next to him stands a young woman with long brown hair and black glasses. She is wearing a white top and carrying a black bag on her shoulder, and she is giving a thumbs up. They look happy and relaxed, like students after class.",
-  "modelAnswerJa": "この写真は図書館の中で撮られたものです。二人の若者の後ろには、天井まで届く木の書棚があり、古い本がぎっしり詰まっています。手前では、青いシャツを着た若い男性がほほえみながら携帯電話で話しています。首には黄色いヘッドホンをかけ、わきには灰色のファイルをかかえています。そのとなりには、長い茶色の髪に黒いめがねをかけた若い女性が立っています。彼女は白いトップスを着て、黒いバッグを肩にかけ、親指を立てています。二人はうれしそうでリラックスして見え、授業のあとの学生のようです。",
+  "theme": "公園の広い芝生でピクニックをする家族連れ。麦わら帽子と黒いタンクトップの女性、赤いTシャツで巻き毛の若い女性、しま模様のシャツで下を向く白髪まじりの男性、左手前にツインテールの女の子と水色の服の男の子。オレンジや赤の折りたたみ椅子、青いバッグ、敷物。奥にはひとりで座る人とぼやけた木々。晴れた穏やかな日。",
+  "modelAnswer": "This photo was taken in a park on a sunny day. There is a wide green lawn, and in the background you can see trees and a fence. In the middle, a family is sitting together on a picnic blanket. A woman in a black top and a straw hat is sitting cross-legged and looking to the side. Next to her, a young woman with curly hair wears a red T-shirt and blue jeans. A man in a striped shirt is looking down at something in his hands. Two small children, some folding chairs and a few bags are on the grass. Everyone looks relaxed and the park feels peaceful.",
+  "modelAnswerJa": "この写真は、晴れた日に公園で撮られたものです。広い緑の芝生があり、奥には木々とフェンスが見えます。まん中では、家族がピクニック用の敷物の上にいっしょにすわっています。黒いトップスに麦わら帽子をかぶった女性が、あぐらをかいて横のほうを見ています。そのとなりでは、巻き毛の若い女性が赤いTシャツと青いジーンズを着ています。しま模様のシャツを着た男性は、手元の何かを見下ろしています。小さな子どもが二人と、折りたたみ椅子やいくつかのバッグが芝生の上にあります。みんなリラックスして見え、公園は穏やかな感じがします。",
   "tips": [
-    { "term": "This photo was taken ~", "ja": "この写真は～で撮られました（描写の書き出しに便利）" },
-    { "term": "behind ~ / in front of ~", "ja": "～の後ろに／～の前に" },
-    { "term": "be full of ~", "ja": "～でいっぱいだ" },
-    { "term": "talk on the phone", "ja": "電話で話す" },
-    { "term": "a man in a blue shirt", "ja": "青いシャツを着た男性（in ＋ 服装）" },
-    { "term": "give a thumbs up", "ja": "親指を立てる（「いいね」のしぐさ）" },
-    { "term": "They look happy and relaxed.", "ja": "うれしそうでリラックスして見える" }
+    { "term": "in the background", "ja": "奥に／背景に（手前は in the front / in the middle は真ん中に）" },
+    { "term": "have a picnic / a picnic blanket", "ja": "ピクニックをする／ピクニック用の敷物" },
+    { "term": "sit on the grass", "ja": "芝生にすわる" },
+    { "term": "a woman in a black top", "ja": "黒いトップスを着た女性（in ＋ 服装で人を説明できる）" },
+    { "term": "next to ~", "ja": "～のとなりに" },
+    { "term": "look down at ~", "ja": "～を見下ろす／手元の～を見る" },
+    { "term": "look relaxed / feel peaceful", "ja": "リラックスして見える／穏やかな感じがする（雰囲気を言うとき）" }
   ]
 }
