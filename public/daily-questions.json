@@ -1,194 +1,389 @@
 {
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-16",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": ["vocab"],
+      "tags": [
+        "vocab"
+      ],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "simmer", "isReal": true },
-          { "id": "w2", "text": "grantle", "isReal": false },
-          { "id": "w3", "text": "kettle", "isReal": true },
-          { "id": "w4", "text": "skommer", "isReal": false },
-          { "id": "w5", "text": "recipe", "isReal": true },
-          { "id": "w6", "text": "flandish", "isReal": false },
-          { "id": "w7", "text": "spice", "isReal": true },
-          { "id": "w8", "text": "cruthing", "isReal": false },
-          { "id": "w9", "text": "peel", "isReal": true },
-          { "id": "w10", "text": "murplet", "isReal": false },
-          { "id": "w11", "text": "leftover", "isReal": true },
-          { "id": "w12", "text": "brindock", "isReal": false }
+          {
+            "id": "w1",
+            "text": "melody",
+            "isReal": true
+          },
+          {
+            "id": "w2",
+            "text": "plonter",
+            "isReal": false
+          },
+          {
+            "id": "w3",
+            "text": "rehearse",
+            "isReal": true
+          },
+          {
+            "id": "w4",
+            "text": "criffle",
+            "isReal": false
+          },
+          {
+            "id": "w5",
+            "text": "chorus",
+            "isReal": true
+          },
+          {
+            "id": "w6",
+            "text": "marbish",
+            "isReal": false
+          },
+          {
+            "id": "w7",
+            "text": "applause",
+            "isReal": true
+          },
+          {
+            "id": "w8",
+            "text": "glentor",
+            "isReal": false
+          },
+          {
+            "id": "w9",
+            "text": "drum",
+            "isReal": true
+          },
+          {
+            "id": "w10",
+            "text": "tundrick",
+            "isReal": false
+          },
+          {
+            "id": "w11",
+            "text": "tune",
+            "isReal": true
+          },
+          {
+            "id": "w12",
+            "text": "sondrelly",
+            "isReal": false
+          }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": ["vocab"],
+      "tags": [
+        "vocab"
+      ],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "drought", "isReal": true },
-          { "id": "w2", "text": "prellow", "isReal": false },
-          { "id": "w3", "text": "hailstorm", "isReal": true },
-          { "id": "w4", "text": "thundle", "isReal": false },
-          { "id": "w5", "text": "humid", "isReal": true },
-          { "id": "w6", "text": "wintrack", "isReal": false },
-          { "id": "w7", "text": "forecast", "isReal": true },
-          { "id": "w8", "text": "glumpid", "isReal": false },
-          { "id": "w9", "text": "breeze", "isReal": true },
-          { "id": "w10", "text": "sprantel", "isReal": false },
-          { "id": "w11", "text": "shelter", "isReal": true },
-          { "id": "w12", "text": "cloxern", "isReal": false }
+          {
+            "id": "w1",
+            "text": "platform",
+            "isReal": true
+          },
+          {
+            "id": "w2",
+            "text": "flimber",
+            "isReal": false
+          },
+          {
+            "id": "w3",
+            "text": "luggage",
+            "isReal": true
+          },
+          {
+            "id": "w4",
+            "text": "quandrel",
+            "isReal": false
+          },
+          {
+            "id": "w5",
+            "text": "ferry",
+            "isReal": true
+          },
+          {
+            "id": "w6",
+            "text": "feltrose",
+            "isReal": false
+          },
+          {
+            "id": "w7",
+            "text": "timetable",
+            "isReal": true
+          },
+          {
+            "id": "w8",
+            "text": "mongrip",
+            "isReal": false
+          },
+          {
+            "id": "w9",
+            "text": "delay",
+            "isReal": true
+          },
+          {
+            "id": "w10",
+            "text": "sprindle",
+            "isReal": false
+          },
+          {
+            "id": "w11",
+            "text": "detour",
+            "isReal": true
+          },
+          {
+            "id": "w12",
+            "text": "veltock",
+            "isReal": false
+          }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["spelling", "vocab"],
+      "tags": [
+        "spelling",
+        "vocab"
+      ],
       "source": "daily",
       "payload": {
-        "text": "Cities have turned out to be surprisingly good places for bees. Parks, balconies and railway lines offer a longer flowering {{b1}} than the fields around them, where a single crop blooms for a week and then leaves nothing behind. Keeping hives on rooftops has become so {{b2}} in some capitals that experts now warn of the opposite problem: too many colonies competing for the same flowers. The honeybee, after all, is a kind of farm animal, and protecting it does little for the wild species that are genuinely at {{b3}}. What those insects need is not more hives but more {{b4}} ground.",
+        "text": "Sleep researchers have long argued that teenagers are not simply lazy. During adolescence the body clock shifts by roughly two hours, so a student ordered to be in class at eight is being asked to wake in the middle of their biological {{b1}}. Schools that moved the first lesson later reported fewer absences and a modest {{b2}} in test scores, and, to the surprise of many parents, no loss of time for sport. The change costs almost nothing beyond redrawing the bus {{b3}}, and yet most districts still {{b4}} to make it.",
         "blanks": [
-          { "id": "b1", "full": "season", "keepHead": 3 },
-          { "id": "b2", "full": "popular", "keepHead": 4 },
-          { "id": "b3", "full": "risk", "keepHead": 2 },
-          { "id": "b4", "full": "wild", "keepHead": 2 }
+          {
+            "id": "b1",
+            "full": "night",
+            "keepHead": 3
+          },
+          {
+            "id": "b2",
+            "full": "rise",
+            "keepHead": 2
+          },
+          {
+            "id": "b3",
+            "full": "timetable",
+            "keepHead": 5
+          },
+          {
+            "id": "b4",
+            "full": "refuse",
+            "keepHead": 3
+          }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["spelling", "vocab"],
+      "tags": [
+        "spelling",
+        "vocab"
+      ],
       "source": "daily",
       "payload": {
-        "text": "Music teachers used to warn that anyone who had not taken up an instrument by the age of ten had left it too {{b1}}. That view has quietly collapsed. Adult beginners learn differently rather than badly: they practise with a clearer {{b2}} of what they want to sound like, and they can tell a teacher exactly which bar is giving them {{b3}}. What they lack is time, and the willingness to sound bad in front of other people. Progress, most teachers now agree, depends far more on how {{b4}} someone practises than on the age at which they begin.",
+        "text": "For a century the stones on the hillside were taken for the ruins of a fort. Only when a farmer’s plough turned up a row of carved posts did anyone {{b1}} that the site had been a place of gathering rather than of defence. Dating placed the timbers at more than four thousand years old, which made them far older than the walls that {{b2}} them. The excavation has since been {{b3}}, partly because digging destroys what it reveals, and archaeologists would rather leave something for methods that have not been {{b4}} yet.",
         "blanks": [
-          { "id": "b1", "full": "late", "keepHead": 2 },
-          { "id": "b2", "full": "idea", "keepHead": 2 },
-          { "id": "b3", "full": "trouble", "keepHead": 4 },
-          { "id": "b4", "full": "often", "keepHead": 3 }
+          {
+            "id": "b1",
+            "full": "suspect",
+            "keepHead": 4
+          },
+          {
+            "id": "b2",
+            "full": "surrounded",
+            "keepHead": 5
+          },
+          {
+            "id": "b3",
+            "full": "paused",
+            "keepHead": 3
+          },
+          {
+            "id": "b4",
+            "full": "invented",
+            "keepHead": 4
+          }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["spelling", "vocab"],
+      "tags": [
+        "spelling",
+        "vocab"
+      ],
       "source": "daily",
       "payload": {
-        "text": "Clothes are now made so cheaply that giving them away can cost more than throwing them out. Charity shops in Europe receive far more donations than they can possibly {{b1}}, and much of what arrives is shipped abroad, where a growing share of it is quietly {{b2}} as waste. The industry's own figures suggest that the average garment is worn only a handful of times before it is {{b3}}. Repairing and reselling would help, but both depend on clothes being well made to begin with, and durability is the one {{b4}} that a price tag never shows.",
+        "text": "When the offices emptied, managers assumed that productivity would collapse. What actually fell was the number of hours people spent {{b1}} to work, and a good deal of that saved time went straight back into the working day. The harder problem turned out to be {{b2}}: a new employee learns the job by overhearing the people sitting beside them, and a video call offers almost none of that. Firms that now ask staff to come in three days a week worry less about output than about the slow {{b3}} of knowledge that used to happen by {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "sell", "keepHead": 2 },
-          { "id": "b2", "full": "buried", "keepHead": 3 },
-          { "id": "b3", "full": "discarded", "keepHead": 4 },
-          { "id": "b4", "full": "quality", "keepHead": 4 }
+          {
+            "id": "b1",
+            "full": "commuting",
+            "keepHead": 5
+          },
+          {
+            "id": "b2",
+            "full": "training",
+            "keepHead": 4
+          },
+          {
+            "id": "b3",
+            "full": "transfer",
+            "keepHead": 4
+          },
+          {
+            "id": "b4",
+            "full": "accident",
+            "keepHead": 4
+          }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
       "passage": null,
-      "tags": ["spelling", "vocab"],
+      "tags": [
+        "spelling",
+        "vocab"
+      ],
       "source": "daily",
       "payload": {
-        "text": "Students who type their lecture notes end up with a far more complete {{b1}} than those who write by hand, and remember noticeably less of it. Typing is fast enough to let the words pass straight from the speaker to the screen without being {{b2}} at all. A pen forces a choice about what matters, and that choice is itself a form of {{b3}}. The advice that follows is not to abandon laptops but to slow down: summarise rather than {{b4}}, and read the notes again while the lecture is still fresh.",
+        "text": "Most of the plastic in the sea is not floating in one great island of rubbish. Sunlight and waves break it into fragments so small that they slip through any {{b1}} a ship can tow, and the pieces then sink or are swallowed. Cleaning the open ocean is therefore far less {{b2}} than stopping the plastic at the dozen or so rivers that deliver most of it. That work is unglamorous, and it takes place where the people who fund such {{b3}} rarely go, which may explain why the floating machines attract so much of the {{b4}}.",
         "blanks": [
-          { "id": "b1", "full": "record", "keepHead": 3 },
-          { "id": "b2", "full": "understood", "keepHead": 5 },
-          { "id": "b3", "full": "learning", "keepHead": 4 },
-          { "id": "b4", "full": "copy", "keepHead": 2 }
+          {
+            "id": "b1",
+            "full": "net",
+            "keepHead": 2
+          },
+          {
+            "id": "b2",
+            "full": "effective",
+            "keepHead": 5
+          },
+          {
+            "id": "b3",
+            "full": "projects",
+            "keepHead": 4
+          },
+          {
+            "id": "b4",
+            "full": "attention",
+            "keepHead": 5
+          }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation", "cohesion"],
+      "tags": [
+        "collocation",
+        "grammar",
+        "cohesion"
+      ],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The findings of the survey bear little",
-            "after": "to what the managers had confidently predicted a year earlier.",
-            "options": ["resemblance", "similarity", "likeness", "comparison"],
+            "before": "The photographs taken that evening cast serious",
+            "after": "on the account the witness had given to the police.",
+            "options": [
+              "doubt",
+              "question",
+              "suspicion",
+              "disbelief"
+            ],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "bear little / no resemblance to ~（～とほとんど似ていない）は決まった言い方。similarity は have similarities with / there are similarities between の形で使い、bear とは組まない。likeness は「肖像・面影」の意味が中心。comparison は bear comparison with ~（～に匹敵する）となり意味が逆になる。"
+            "explanation": "cast doubt on ~（～に疑いを投げかける）は決まった組み合わせ。question は call ~ into question の形で使い、cast question on とは言わない。suspicion は cast suspicion on ~ で「人に嫌疑をかける」意味になり、供述の信頼性には合わない。disbelief は「信じられない気持ち」で cast とは組まない。"
           },
           {
             "id": "g2",
-            "before": "Not until the final week of the trial",
-            "after": "that the drug had been tested on so few patients.",
-            "options": ["did the committee learn", "the committee learned", "the committee did learn", "had the committee learned"],
+            "before": "The minister insisted that every application",
+            "after": "by an independent panel before any money was released.",
+            "options": [
+              "be reviewed",
+              "is reviewed",
+              "was reviewed",
+              "will be reviewed"
+            ],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Not until ~ が文頭に出ると、主節は疑問文と同じ語順（倒置）になるので did the committee learn が正しい。the committee learned は倒置していない。the committee did learn も語順が逆。had the committee learned は倒置の形だが、that 節の had been tested より前の出来事にはならず時制が合わない。"
+            "explanation": "insist that ... のように「要求・提案」を表す動詞の後の that 節では、動詞は原形（仮定法現在）になるので be reviewed が正しい。is / was / will be reviewed はいずれも時制のある形で、この構文では使えない。"
           },
           {
             "id": "g3",
-            "before": "Rain had been falling steadily since dawn.",
-            "after": ", the match went ahead exactly as planned.",
-            "options": ["Even so", "Because of this", "In other words", "For instance"],
+            "before": "The first two trials produced almost identical results.",
+            "after": ", the third found no effect at all.",
+            "options": [
+              "By contrast",
+              "As a result",
+              "In short",
+              "Likewise"
+            ],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「雨が降り続いた」のに「試合は予定どおり行われた」という逆接の流れなので Even so（それでもなお）が合う。Because of this は原因→結果、In other words は言い換え、For instance は例示で、いずれも逆接をつなげない。"
+            "explanation": "「最初の2回はほぼ同じ結果」→「3回目は効果なし」という対比なので By contrast が合う。As a result は因果、In short は要約、Likewise は「同様に」で前後が同じ内容のときに使うため、いずれも対比をつなげない。"
           }
         ]
       }
@@ -196,43 +391,62 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う選択肢を選んでください。",
       "passage": null,
-      "tags": ["grammar", "collocation", "vocab"],
+      "tags": [
+        "vocab",
+        "collocation",
+        "grammar"
+      ],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The scheme was designed to",
-            "after": "the gap between what schools teach and what local employers actually need.",
-            "options": ["bridge", "join", "link", "tie"],
+            "before": "The two words look alike, but they are not",
+            "after": "in formal writing, and editors will change one for the other.",
+            "options": [
+              "interchangeable",
+              "exchangeable",
+              "changeable",
+              "convertible"
+            ],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "bridge the gap between A and B（AとBの隔たりを埋める）が定型表現。join / link / tie は「物どうしをつなぐ」意味で、gap（すき間そのもの）を目的語には取れない。"
+            "tag": "vocab",
+            "explanation": "interchangeable は「互いに置きかえられる」で、語や表現について使う標準的な語。exchangeable は「（商品などを）交換できる」、changeable は「変わりやすい」（天気など）、convertible は「別の形・通貨などに変えられる」で、いずれも語の言いかえには使わない。"
           },
           {
             "id": "g2",
-            "before": "Had the engineers checked the second pump that morning,",
-            "after": "would have been noticed weeks before the shutdown.",
-            "options": ["the leak", "the leak would", "the leak had", "the leak has"],
+            "before": "Rather than pointing at his team, the manager",
+            "after": "the blame for a launch that had gone wrong in every possible way.",
+            "options": [
+              "took",
+              "had",
+              "made",
+              "gave"
+            ],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "Had + 主語 + 過去分詞 は If the engineers had checked ... の if を省いた倒置形。主節はすでに would have been noticed があるので、空所には主語 the leak だけが入る。would / had / has を足すと動詞が重複してしまう。"
+            "tag": "collocation",
+            "explanation": "take the blame（責任を引き受ける）が正しい組み合わせ。have the blame とは言わず、make the blame も不可。give someone the blame なら「人のせいにする」で、自分が引き受ける文脈とは逆になる。"
           },
           {
             "id": "g3",
-            "before": "The figures in the appendix are worth",
-            "after": "once more before the paper is submitted.",
-            "options": ["checking", "to check", "check", "checked"],
+            "before": "The iron bridge across the river,",
+            "after": "in the 1890s, still carries more traffic than its designers can ever have imagined.",
+            "options": [
+              "built",
+              "building",
+              "it was built",
+              "having built"
+            ],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "be worth の後ろは動名詞（-ing）で、意味は受け身でも -ing のまま使う（worth checking＝確認する価値がある）。to check や原形 check は続かず、checked も be worth の後ろでは使えない。"
+            "explanation": "橋は「建てられた」側なので、受け身の意味を持つ過去分詞 built を使って主語を後ろから説明する。building や having built は「橋が何かを建てた」という能動の意味になり不自然。it was built は完全な文なので、コンマだけで前後の節をつなぐことはできない。"
           }
         ]
       }
@@ -240,21 +454,26 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
+      "tags": [
+        "reading-gist",
+        "reading-detail",
+        "inference",
+        "cohesion"
+      ],
       "source": "daily",
       "payload": {
-        "title": "The City That Painted Its Roofs White",
+        "title": "The Ships That Learned to Slow Down",
         "paragraphs": [
-          "Every large city is warmer than the fields around it, and the gap is widest not at noon but around midnight. Brick, concrete and dark asphalt absorb sunlight all afternoon and then release it slowly for hours after dark, so that the air above a dense district can stay four to seven degrees warmer than the air a few kilometres outside. Trees and open soil do the opposite: water evaporating from leaves carries heat away. A neighbourhood built of hard surfaces has almost no way of losing what it has taken in.",
-          "The consequence is a night that never cools, and it is the night that does the damage. A body recovers from a hot day only if the temperature drops enough for sleep, and in heatwaves the deaths are concentrated among older residents living on upper floors in the districts with the fewest trees. Air conditioning protects the people who have it while pumping still more heat into the street outside, which is one reason the burden falls so unevenly. The poorest streets are usually the hottest ones, and they were hot long before the current warming began.",
-          "What has proved effective is also cheap. Ahmedabad, in western India, began coating the flat roofs of low-income housing with ordinary white lime paint; indoor temperatures fell by two to five degrees for a cost of a few dollars a roof, and the city's heat-warning plan is now copied across South Asia. White surfaces do have limits. They save far more energy in summer than they cost in winter in hot climates, but the balance is closer in northern cities, and paint has to be renewed as it weathers. Planting shade trees does more and lasts longer, though a young tree needs watering for years before it shelters anyone at all."
+          "A container ship burns fuel roughly in proportion to the cube of its speed. Cut the speed by a tenth and the fuel bill falls by nearly a third, which is why, during the trade slump that followed 2008, owners quietly told their captains to throttle back. The practice acquired a name, slow steaming, and it was adopted for the plainest of reasons: with freight rates on the floor, fuel was the one large cost a company could still control.",
+          "The environmental effect was an accident, and a large one. Shipping moves about ninety per cent of world trade and releases roughly as much carbon dioxide each year as Germany, so a fleet-wide cut in fuel use is not a small saving. Slower ships are quieter too, and the noise of propellers is now known to disturb the way whales feed and find one another. None of this was the industry’s aim; it was simply what happened when the accountants won an argument.",
+          "Making the habit permanent is harder than it sounds. A slower fleet needs more ships to carry the same cargo, and building them releases carbon of its own. Perishable cargo, and factories that run on parts arriving exactly when they are wanted, will pay for speed whatever the fuel costs. Regulators have therefore begun to write speed into the rules rather than leave it to the freight market, on the reasonable assumption that when rates rise again, captains will be told to open the throttle."
         ],
         "questions": [
           {
@@ -262,23 +481,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Hard urban surfaces keep cities hot at night and the harm falls mainly on the poorest residents, but simple measures such as white roofs and shade trees can bring real relief.",
-              "Cities are warmer than the countryside chiefly because so many residents run air conditioning during the hottest hours of the afternoon.",
-              "White paint has now solved the problem of urban heat in South Asia, and northern cities should adopt exactly the same policy without changes.",
-              "The only lasting answer to urban heat is to plant large numbers of trees, since painted roofs weather too quickly to be of any use."
+              "Ships slowed down in order to save money, the environmental benefits that followed were unintended, and regulators now want speed written into the rules rather than left to the market.",
+              "Shipping companies reduced their speed mainly in order to protect whales from the noise made by their propellers.",
+              "Slow steaming has already removed most of the carbon emissions of shipping, so no further regulation of the industry is needed.",
+              "Because a slower fleet needs more ships, slow steaming raises emissions overall and the practice should be abandoned."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Heatwaves are most dangerous at night because",
-            "after": "and the strain of the previous day is carried into the next one.",
+            "before": "Owners first told their captains to slow down because",
+            "after": "at a time when freight rates left them almost no other saving to make.",
             "options": [
-              "the air never cools enough for the body to rest properly",
-              "hospitals keep fewer staff on duty after midnight",
-              "roofs painted white stop reflecting sunlight once it is dark",
-              "older residents tend to leave their windows open while they sleep"
+              "fuel was the largest cost still under their control",
+              "new rules on underwater noise had just come into force",
+              "there were not enough ships available to carry the cargo",
+              "engineers had shown that slower engines last much longer"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -286,31 +505,47 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "都市の暑さの負担が住民のあいだで不公平に分かれていることを最もよく示している語句はどれですか。",
+            "prompt": "速度を落としたことによる環境面の利点が、業界のねらいではなかったことを最もよく示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "water evaporating from leaves carries heat away" },
-              { "id": "s2", "text": "The poorest streets are usually the hottest ones" },
-              { "id": "s3", "text": "indoor temperatures fell by two to five degrees" },
-              { "id": "s4", "text": "paint has to be renewed as it weathers" }
+              {
+                "id": "s1",
+                "text": "burns fuel roughly in proportion to the cube of its speed"
+              },
+              {
+                "id": "s2",
+                "text": "it was simply what happened when the accountants won an argument"
+              },
+              {
+                "id": "s3",
+                "text": "building them releases carbon of its own"
+              },
+              {
+                "id": "s4",
+                "text": "write speed into the rules rather than leave it to the freight market"
+              }
             ],
             "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "In other words, the city does not simply get hot; it stores heat and hands it back long after the sun has gone.",
-            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
-            "answerSlot": 0
+            "sentence": "In other words, the cleanest thing the industry has ever done was chosen for reasons that had nothing to do with the climate.",
+            "slots": [
+              "[after paragraph 1]",
+              "[after paragraph 2]",
+              "[after paragraph 3]"
+            ],
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Urban heat is built into the materials cities are made of, so the practical response is to change those surfaces where people actually live, using cheap measures now and slower ones such as trees for the long term.",
-              "Because heat affects the poorest districts most, cities should concentrate on supplying air conditioning to every household on an upper floor.",
-              "Since a young tree takes years to give shade, planting programmes should be abandoned in favour of painting every roof in the city white.",
-              "The temperature difference between a city and the surrounding countryside is too small to justify spending public money on it."
+              "Slow steaming shows that a decision taken purely to cut costs can bring real environmental gains, but because those gains rest on the price of fuel rather than on any intention, they have to be secured by rules.",
+              "Since shipping carries ninety per cent of world trade, any attempt to limit the speed of ships would damage the world economy and ought to be resisted.",
+              "The strongest argument for slow steaming is the protection of whales, and the saving of fuel is only a minor side benefit.",
+              "Speed limits are unnecessary, because shipping companies have shown that they will keep their ships slow without being told to."
             ],
             "answerIdx": 0
           }
@@ -320,21 +555,26 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
+      "tags": [
+        "reading-gist",
+        "reading-detail",
+        "inference",
+        "cohesion"
+      ],
       "source": "daily",
       "payload": {
-        "title": "The Ferry That Runs on Batteries",
+        "title": "The Four-Day Week, Measured",
         "paragraphs": [
-          "The crossing takes twenty minutes, and the ferry has made it more than thirty times a day since 2015 without burning a drop of diesel. Norway's first electric car ferry works because the route is short and utterly predictable: the vessel docks, charges for about ten minutes while the cars roll off and on, and leaves again. The battery it carries is far smaller than the distance would suggest, since it is topped up at both ends rather than filled once a day. The fjord village on one side, however, had a grid too weak to deliver that much power in ten minutes, so a second battery was installed on the quay, charging slowly all day and emptying itself into the ship in short bursts.",
-          "The numbers that persuaded other operators were not environmental. Electricity for the route costs a fraction of what the diesel did, and an electric drive has fewer moving parts to service, so the running costs fell by roughly two thirds even though the vessel itself was more expensive to build. What turned a single experiment into a fleet was the way contracts were written: when the transport authority began awarding routes on emissions as well as price, shipyards suddenly had a reason to design for batteries, and dozens of electric ferries followed within a decade.",
-          "It would be a mistake to read this as a template for shipping as a whole. A container vessel crossing the Pacific cannot stop to charge, and no battery light enough to carry is large enough to move it; for those routes the argument has moved on to hydrogen and ammonia, neither of which is yet produced cleanly at scale. Ferries were the easy case, and they were solved first for exactly that reason: a ship that returns to the same two quays all day is, in energy terms, barely a ship at all."
+          "The idea sounds like a gift and is usually sold as one: five days of pay for four days of work. What made the recent trials worth reading was that they were not run as favours. Firms joining the largest of them agreed in advance to a rule known as one hundred, eighty, one hundred: full pay, four-fifths of the time, and the same output as before. Almost every company that finished the trial chose to keep the arrangement.",
+          "The gains did not come from working faster. Teams cut the things that had survived only because nobody had ever counted their cost: meetings that could have been a message, reports that no one read, the habit of copying a dozen colleagues into every email. Where output held up, it held up because a week of work had been examined honestly for the first time in years. Where it fell, the reason was almost always that the job was tied to somebody else’s clock: a shop that must open, a ward that must be staffed, a customer who calls on Friday.",
+          "That distinction matters for what the trials can prove. The firms that volunteer are mostly small, mostly office-based, and led by people who already believed the idea would work; a hospital cannot cut its meetings and send a fifth of its staff home. Sceptics add that part of the reported gain is the ordinary enthusiasm of doing something new, which fades. The honest conclusion is narrower than the headlines, but it is not nothing: for a certain kind of work, a great deal of the week turns out to be waste, and a shorter deadline is what exposes it."
         ],
         "questions": [
           {
@@ -342,23 +582,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Short, repetitive ferry routes suited batteries so well that electric ferries spread quickly once contracts rewarded low emissions, but the same approach will not work for long-distance shipping.",
-              "Electric ferries were adopted across Norway mainly because passengers demanded a quieter and cleaner journey across the fjords.",
-              "Battery technology has now advanced far enough for container ships to cross oceans without any fuel at all.",
-              "The Norwegian ferry succeeded only because the village grid was strong enough to charge the vessel in ten minutes."
+              "The trials worked mainly by forcing firms to cut low-value work, but the result fits a limited kind of job and cannot simply be extended to every workplace.",
+              "The trials show that employees can produce the same output in four days provided they work faster and take fewer breaks.",
+              "Because the firms in the trials were small and enthusiastic, the results mean nothing and no company should change its hours.",
+              "The main obstacle to a four-day week is the cost of paying five days of wages, which most firms cannot afford."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "A battery was installed on the quay because",
-            "after": "so the power had to be gathered slowly and released all at once.",
+            "before": "Output was most likely to fall in workplaces where",
+            "after": ", since the hours could not be rearranged to suit the staff.",
             "options": [
-              "the local grid could not supply so much electricity in a few minutes",
-              "the ship's own battery had begun to fail after ten years of service",
-              "the operator wanted to sell surplus electricity back to the village",
-              "diesel generators were banned in the fjord by the transport authority"
+              "the work had to match somebody else’s timetable",
+              "employees were paid for four days rather than five",
+              "managers had cancelled too many of their meetings",
+              "the trial had run for less than a full year"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -366,20 +606,36 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "一隻の実験が国全体の変化に広がった理由を最もよく示している語句はどれですか。",
+            "prompt": "この試験の結果をそのまま一般化できない理由を最もよく示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "the vessel docks, charges for about ten minutes" },
-              { "id": "s2", "text": "an electric drive has fewer moving parts to service" },
-              { "id": "s3", "text": "began awarding routes on emissions as well as price" },
-              { "id": "s4", "text": "no battery light enough to carry is large enough to move it" }
+              {
+                "id": "s1",
+                "text": "full pay, four-fifths of the time, and the same output as before"
+              },
+              {
+                "id": "s2",
+                "text": "meetings that could have been a message"
+              },
+              {
+                "id": "s3",
+                "text": "The firms that volunteer are mostly small, mostly office-based"
+              },
+              {
+                "id": "s4",
+                "text": "a shorter deadline is what exposes it"
+              }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The saving, in short, came from the engine room rather than from any goodwill about the climate.",
-            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
+            "sentence": "The saving, in other words, came out of the week itself rather than out of the people working it.",
+            "slots": [
+              "[after paragraph 1]",
+              "[after paragraph 2]",
+              "[after paragraph 3]"
+            ],
             "answerSlot": 1
           },
           {
@@ -387,10 +643,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Electrification works where a route is short and repeated, and it spread because it was cheaper to run and because the rules rewarded it; the harder half of shipping still has no answer.",
-              "Because ocean shipping cannot use batteries, the money spent on electric ferries in Norway should have been saved for hydrogen research.",
-              "Any vessel can be converted to batteries provided a second battery is installed on the quay to make up for a weak local grid.",
-              "The main lesson of the Norwegian ferry is that transport authorities should award every contract to the cheapest bidder available."
+              "The trials suggest that much of a typical office week is low-value activity which a shorter deadline strips out, though the finding holds for a limited range of jobs and may partly reflect the novelty of the change.",
+              "The trials prove that every organisation, hospitals and shops included, could move to four days without any loss of output.",
+              "Because enthusiasm for anything new always fades, the four-day week produced no real gains at all.",
+              "The chief lesson of the trials is that workers value extra pay more highly than extra free time."
             ],
             "answerIdx": 0
           }
@@ -402,92 +658,128 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The workshop has been moved to the fifteenth of March at nine thirty in room twelve.",
+      "transcript": "The training session starts at a quarter past nine and lasts about two and a half hours.",
       "prompt": null,
-      "tags": ["listen-numeral"],
+      "tags": [
+        "listen-numeral"
+      ],
       "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
     },
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She would have told us about the change if she had thought it mattered to anyone.",
+      "transcript": "I would have called you earlier if I had known you were still at the office.",
       "prompt": null,
-      "tags": ["listen-funcword"],
+      "tags": [
+        "listen-funcword"
+      ],
       "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
     },
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "As soon as the rain stopped, we packed up the tent and walked back to the car.",
+      "transcript": "Most of the seats had already been taken by the time we got to the hall.",
       "prompt": null,
-      "tags": ["listen-chunk"],
+      "tags": [
+        "listen-chunk"
+      ],
       "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
     },
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "He was surprised that such a thin wooden shelf could hold so much weight.",
+      "transcript": "She thought the third path through the woods was the shortest one.",
       "prompt": null,
-      "tags": ["listen-phoneme"],
+      "tags": [
+        "listen-phoneme"
+      ],
       "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
     },
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "easy",
+      "cefr": "B1",
       "audioUrl": null,
-      "transcript": "There is hardly any milk left, so could you pick some up on your way home?",
+      "transcript": "Please turn to page fifty-four and look at the chart at the bottom.",
       "prompt": null,
-      "tags": ["listen-funcword"],
+      "tags": [
+        "listen-numeral"
+      ],
       "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
     },
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "updatedAt": "2026-08-15T00:00:00.000Z",
+      "createdAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The gallery stays open until eight on Fridays, but it is closed all day on Monday.",
+      "transcript": "The delivery was supposed to arrive on Tuesday, but it turned up almost a week late.",
       "prompt": null,
-      "tags": ["listen-chunk"],
+      "tags": [
+        "listen-chunk"
+      ],
       "source": "daily",
-      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
     }
   ]
 }
