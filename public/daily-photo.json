@@ -1,17 +1,38 @@
 {
-  "date": "2026-08-16",
-  "image": "/daily-photo.jpg?v=2026-08-16",
+  "date": "2026-08-19",
+  "image": "/daily-photo.jpg?v=2026-08-19",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "公園の広い芝生でピクニックをする家族連れ。麦わら帽子と黒いタンクトップの女性、赤いTシャツで巻き毛の若い女性、しま模様のシャツで下を向く白髪まじりの男性、左手前にツインテールの女の子と水色の服の男の子。オレンジや赤の折りたたみ椅子、青いバッグ、敷物。奥にはひとりで座る人とぼやけた木々。晴れた穏やかな日。",
-  "modelAnswer": "This photo was taken in a park on a sunny day. There is a wide green lawn, and in the background you can see trees and a fence. In the middle, a family is sitting together on a picnic blanket. A woman in a black top and a straw hat is sitting cross-legged and looking to the side. Next to her, a young woman with curly hair wears a red T-shirt and blue jeans. A man in a striped shirt is looking down at something in his hands. Two small children, some folding chairs and a few bags are on the grass. Everyone looks relaxed and the park feels peaceful.",
-  "modelAnswerJa": "この写真は、晴れた日に公園で撮られたものです。広い緑の芝生があり、奥には木々とフェンスが見えます。まん中では、家族がピクニック用の敷物の上にいっしょにすわっています。黒いトップスに麦わら帽子をかぶった女性が、あぐらをかいて横のほうを見ています。そのとなりでは、巻き毛の若い女性が赤いTシャツと青いジーンズを着ています。しま模様のシャツを着た男性は、手元の何かを見下ろしています。小さな子どもが二人と、折りたたみ椅子やいくつかのバッグが芝生の上にあります。みんなリラックスして見え、公園は穏やかな感じがします。",
+  "theme": "学校の大きな講堂での集会。左に「CLASS OF 2024」と映る大きなスクリーン、右上に同じ表示の小さなモニター。低いステージ上で水色シャツ・紺のズボンの男性がマイクを持って話している。ステージ右側には白い服の女性が腰かけ、濃い色のシャツの男性が腕を組んで座り、学校の紋章のついた木の演台と黄色い花がある。手前には赤い座席に大勢の学生が後ろ姿で座って聞いている。",
+  "modelAnswer": "This photo was taken inside a large hall at a school. On the left there is a big screen, and it says \"Class of 2024\". A smaller screen on the wall on the right shows the same words. A man in a light blue shirt is standing on a low stage. He is holding a microphone and talking to the students. Behind him, a woman is sitting on the edge of the stage, and a man is sitting on a chair with his arms crossed. In front of the stage, many students are sitting in rows of red seats and listening quietly. The room feels busy but calm.",
+  "modelAnswerJa": "この写真は、学校の大きなホールの中で撮られたものです。左には大きなスクリーンがあり、「Class of 2024」と書かれています。右の壁にある小さな画面にも同じ言葉が映っています。水色のシャツを着た男性が、低いステージの上に立っています。彼はマイクを持って学生たちに話しています。その後ろでは、女性がステージのふちに腰かけ、男性が腕を組んでいすに座っています。ステージの前では、大勢の学生が赤い座席の列にすわって、静かに話を聞いています。部屋はにぎやかですが、落ち着いた感じがします。",
   "tips": [
-    { "term": "in the background", "ja": "奥に／背景に（手前は in the front / in the middle は真ん中に）" },
-    { "term": "have a picnic / a picnic blanket", "ja": "ピクニックをする／ピクニック用の敷物" },
-    { "term": "sit on the grass", "ja": "芝生にすわる" },
-    { "term": "a woman in a black top", "ja": "黒いトップスを着た女性（in ＋ 服装で人を説明できる）" },
-    { "term": "next to ~", "ja": "～のとなりに" },
-    { "term": "look down at ~", "ja": "～を見下ろす／手元の～を見る" },
-    { "term": "look relaxed / feel peaceful", "ja": "リラックスして見える／穏やかな感じがする（雰囲気を言うとき）" }
+    {
+      "term": "on the left / on the right",
+      "ja": "左に／右に（写真の位置を説明するときの基本）"
+    },
+    {
+      "term": "it says ~",
+      "ja": "（看板や画面に）～と書いてある"
+    },
+    {
+      "term": "stand on a stage",
+      "ja": "ステージの上に立つ"
+    },
+    {
+      "term": "hold a microphone",
+      "ja": "マイクを持つ"
+    },
+    {
+      "term": "talk to ~ / listen to ~",
+      "ja": "～に話しかける／～を聞く"
+    },
+    {
+      "term": "sit in rows of seats",
+      "ja": "座席の列にすわる"
+    },
+    {
+      "term": "with his arms crossed",
+      "ja": "腕を組んで（with ＋ 名詞 ＋ 状態で様子を足せる）"
+    }
   ]
 }
