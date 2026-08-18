@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-16",
+  "generatedAt": "2026-08-19",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -20,62 +20,62 @@
         "words": [
           {
             "id": "w1",
-            "text": "melody",
+            "text": "surgeon",
             "isReal": true
           },
           {
             "id": "w2",
-            "text": "plonter",
+            "text": "creptual",
             "isReal": false
           },
           {
             "id": "w3",
-            "text": "rehearse",
+            "text": "bandage",
             "isReal": true
           },
           {
             "id": "w4",
-            "text": "criffle",
+            "text": "hantorise",
             "isReal": false
           },
           {
             "id": "w5",
-            "text": "chorus",
+            "text": "symptom",
             "isReal": true
           },
           {
             "id": "w6",
-            "text": "marbish",
+            "text": "blimful",
             "isReal": false
           },
           {
             "id": "w7",
-            "text": "applause",
+            "text": "vaccine",
             "isReal": true
           },
           {
             "id": "w8",
-            "text": "glentor",
+            "text": "medrantic",
             "isReal": false
           },
           {
             "id": "w9",
-            "text": "drum",
+            "text": "pharmacy",
             "isReal": true
           },
           {
             "id": "w10",
-            "text": "tundrick",
+            "text": "sprellow",
             "isReal": false
           },
           {
             "id": "w11",
-            "text": "tune",
+            "text": "inhale",
             "isReal": true
           },
           {
             "id": "w12",
-            "text": "sondrelly",
+            "text": "quandive",
             "isReal": false
           }
         ]
@@ -84,8 +84,8 @@
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -100,62 +100,62 @@
         "words": [
           {
             "id": "w1",
-            "text": "platform",
+            "text": "scaffold",
             "isReal": true
           },
           {
             "id": "w2",
-            "text": "flimber",
+            "text": "flombered",
             "isReal": false
           },
           {
             "id": "w3",
-            "text": "luggage",
+            "text": "brickwork",
             "isReal": true
           },
           {
             "id": "w4",
-            "text": "quandrel",
+            "text": "brindesk",
             "isReal": false
           },
           {
             "id": "w5",
-            "text": "ferry",
+            "text": "tenant",
             "isReal": true
           },
           {
             "id": "w6",
-            "text": "feltrose",
+            "text": "grondish",
             "isReal": false
           },
           {
             "id": "w7",
-            "text": "timetable",
+            "text": "corridor",
             "isReal": true
           },
           {
             "id": "w8",
-            "text": "mongrip",
+            "text": "hesplin",
             "isReal": false
           },
           {
             "id": "w9",
-            "text": "delay",
+            "text": "insulate",
             "isReal": true
           },
           {
             "id": "w10",
-            "text": "sprindle",
+            "text": "vurtaneous",
             "isReal": false
           },
           {
             "id": "w11",
-            "text": "detour",
+            "text": "foundation",
             "isReal": true
           },
           {
             "id": "w12",
-            "text": "veltock",
+            "text": "clabbet",
             "isReal": false
           }
         ]
@@ -164,8 +164,8 @@
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -177,26 +177,26 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "Sleep researchers have long argued that teenagers are not simply lazy. During adolescence the body clock shifts by roughly two hours, so a student ordered to be in class at eight is being asked to wake in the middle of their biological {{b1}}. Schools that moved the first lesson later reported fewer absences and a modest {{b2}} in test scores, and, to the surprise of many parents, no loss of time for sport. The change costs almost nothing beyond redrawing the bus {{b3}}, and yet most districts still {{b4}} to make it.",
+        "text": "A peat bog looks like waste ground, and for centuries that is exactly how it was {{b1}}. Drained, cut and burned, it gave farmers a field and households a cheap fuel. What nobody counted was the carbon: waterlogged moss decays so slowly that a metre of peat may hold the remains of a thousand years of plants, and the bogs of the world store more carbon than all its {{b2}} put together. Once the water table drops, that store begins to leak into the air. Restoration is unglamorous work, mostly blocking ditches and letting the ground go {{b3}} again, but it is far cheaper than planting the trees that would be needed to {{b4}} the same amount.",
         "blanks": [
           {
             "id": "b1",
-            "full": "night",
+            "full": "treated",
             "keepHead": 3
           },
           {
             "id": "b2",
-            "full": "rise",
-            "keepHead": 2
+            "full": "forests",
+            "keepHead": 3
           },
           {
             "id": "b3",
-            "full": "timetable",
-            "keepHead": 5
+            "full": "wet",
+            "keepHead": 2
           },
           {
             "id": "b4",
-            "full": "refuse",
+            "full": "absorb",
             "keepHead": 3
           }
         ]
@@ -205,8 +205,8 @@
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -218,27 +218,27 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "For a century the stones on the hillside were taken for the ruins of a fort. Only when a farmer’s plough turned up a row of carved posts did anyone {{b1}} that the site had been a place of gathering rather than of defence. Dating placed the timbers at more than four thousand years old, which made them far older than the walls that {{b2}} them. The excavation has since been {{b3}}, partly because digging destroys what it reveals, and archaeologists would rather leave something for methods that have not been {{b4}} yet.",
+        "text": "Speaking two languages does not make anyone cleverer, whatever proud parents may {{b1}}. What it does is give the brain constant practice at one narrow skill: choosing a single system while holding the other one back. Both languages stay switched on, so every sentence obliges the speaker to {{b2}} the words that do not belong. Psychologists find that bilinguals are quicker at tasks with a similar shape, such as ignoring a distraction or changing rule in the middle of a game, and slower, by a fraction of a second, at simply {{b3}} everyday objects. The advantage, in other words, is not general intelligence but a very well-trained {{b4}}.",
         "blanks": [
           {
             "id": "b1",
-            "full": "suspect",
-            "keepHead": 4
+            "full": "hope",
+            "keepHead": 2
           },
           {
             "id": "b2",
-            "full": "surrounded",
-            "keepHead": 5
+            "full": "suppress",
+            "keepHead": 4
           },
           {
             "id": "b3",
-            "full": "paused",
+            "full": "naming",
             "keepHead": 3
           },
           {
             "id": "b4",
-            "full": "invented",
-            "keepHead": 4
+            "full": "switch",
+            "keepHead": 3
           }
         ]
       }
@@ -246,8 +246,8 @@
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -259,27 +259,27 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "When the offices emptied, managers assumed that productivity would collapse. What actually fell was the number of hours people spent {{b1}} to work, and a good deal of that saved time went straight back into the working day. The harder problem turned out to be {{b2}}: a new employee learns the job by overhearing the people sitting beside them, and a video call offers almost none of that. Firms that now ask staff to come in three days a week worry less about output than about the slow {{b3}} of knowledge that used to happen by {{b4}}.",
+        "text": "A volcano rarely erupts without warning; the difficulty is that the warnings are written in signals nobody can feel. Weeks beforehand, magma pushing upwards makes the ground {{b1}} by a few centimetres, small earthquakes multiply, and the gases leaking from the summit change their mixture. Satellites and instruments on the slope now record all three, and in several countries the readings are streamed to the public rather than kept in a laboratory. The remaining problem is human. An alert issued too early empties a town for nothing and makes the next warning easier to {{b2}}, while an alert issued too late is worthless. Officials therefore speak in levels of {{b3}} rather than in dates, and ask people to prepare for something that may never {{b4}}.",
         "blanks": [
           {
             "id": "b1",
-            "full": "commuting",
-            "keepHead": 5
+            "full": "swell",
+            "keepHead": 3
           },
           {
             "id": "b2",
-            "full": "training",
-            "keepHead": 4
+            "full": "ignore",
+            "keepHead": 3
           },
           {
             "id": "b3",
-            "full": "transfer",
-            "keepHead": 4
+            "full": "probability",
+            "keepHead": 5
           },
           {
             "id": "b4",
-            "full": "accident",
-            "keepHead": 4
+            "full": "happen",
+            "keepHead": 3
           }
         ]
       }
@@ -287,8 +287,8 @@
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -300,27 +300,27 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "Most of the plastic in the sea is not floating in one great island of rubbish. Sunlight and waves break it into fragments so small that they slip through any {{b1}} a ship can tow, and the pieces then sink or are swallowed. Cleaning the open ocean is therefore far less {{b2}} than stopping the plastic at the dozen or so rivers that deliver most of it. That work is unglamorous, and it takes place where the people who fund such {{b3}} rarely go, which may explain why the floating machines attract so much of the {{b4}}.",
+        "text": "Almost every antibiotic in use was found in soil, made by bacteria to poison their {{b1}}. The easy ones were collected in the 1950s, and since then the same handful of soil microbes have been cultured again and again, so that laboratories kept rediscovering drugs they already {{b2}}. The trick that reopened the field was to stop bringing the bacteria indoors. By growing them in tiny chambers buried in the ground, where they still receive whatever unknown nutrients they {{b3}}, researchers have coaxed into life species that had never before survived in a dish, and with them a fresh set of molecules to {{b4}}.",
         "blanks": [
           {
             "id": "b1",
-            "full": "net",
-            "keepHead": 2
+            "full": "rivals",
+            "keepHead": 3
           },
           {
             "id": "b2",
-            "full": "effective",
-            "keepHead": 5
+            "full": "knew",
+            "keepHead": 2
           },
           {
             "id": "b3",
-            "full": "projects",
-            "keepHead": 4
+            "full": "require",
+            "keepHead": 3
           },
           {
             "id": "b4",
-            "full": "attention",
-            "keepHead": 5
+            "full": "examine",
+            "keepHead": 3
           }
         ]
       }
@@ -328,12 +328,12 @@
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
-      "prompt": "文脈に最も合う選択肢を選んでください。",
+      "prompt": "各空所に最も適切な語句を選んでください。",
       "passage": null,
       "tags": [
         "collocation",
@@ -345,45 +345,45 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The photographs taken that evening cast serious",
-            "after": "on the account the witness had given to the police.",
+            "before": "The letters found in the attic have thrown fresh",
+            "after": "on a case that everyone had assumed was closed.",
             "options": [
-              "doubt",
-              "question",
-              "suspicion",
-              "disbelief"
+              "light",
+              "sight",
+              "view",
+              "glow"
             ],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "cast doubt on ~（～に疑いを投げかける）は決まった組み合わせ。question は call ~ into question の形で使い、cast question on とは言わない。suspicion は cast suspicion on ~ で「人に嫌疑をかける」意味になり、供述の信頼性には合わない。disbelief は「信じられない気持ち」で cast とは組まない。"
+            "explanation": "throw fresh light on ~（～に新たな光を当てる＝解明の手がかりを与える）が定型表現。sight は「視力・光景」で throw とは組まない。view は take a view / in view of の形で使う。glow は「やわらかな輝き」で比喩的な「解明」の意味にはならない。"
           },
           {
             "id": "g2",
-            "before": "The minister insisted that every application",
-            "after": "by an independent panel before any money was released.",
+            "before": "The tunnel,",
+            "after": "in the 1890s and never widened, still carries more freight than any other line in the region.",
             "options": [
-              "be reviewed",
-              "is reviewed",
-              "was reviewed",
-              "will be reviewed"
+              "built",
+              "building",
+              "was built",
+              "having built"
             ],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "insist that ... のように「要求・提案」を表す動詞の後の that 節では、動詞は原形（仮定法現在）になるので be reviewed が正しい。is / was / will be reviewed はいずれも時制のある形で、この構文では使えない。"
+            "explanation": "コンマに挟まれた分詞句で主語 The tunnel を説明する形。トンネルは「建設される」側なので過去分詞 built（＝which was built）が正しい。building は能動で「トンネルが建設する」ことになり不可。was built を入れると主節の動詞 carries と二重になる。having built も能動で意味が合わない。"
           },
           {
             "id": "g3",
-            "before": "The first two trials produced almost identical results.",
-            "after": ", the third found no effect at all.",
+            "before": "The two drugs are chemically almost identical;",
+            "after": ", they behave quite differently once they reach the liver.",
             "options": [
-              "By contrast",
-              "As a result",
-              "In short",
-              "Likewise"
+              "nevertheless",
+              "therefore",
+              "moreover",
+              "similarly"
             ],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「最初の2回はほぼ同じ結果」→「3回目は効果なし」という対比なので By contrast が合う。As a result は因果、In short は要約、Likewise は「同様に」で前後が同じ内容のときに使うため、いずれも対比をつなげない。"
+            "explanation": "前半「化学的にほぼ同一」と後半「働きが違う」は逆接の関係なので nevertheless（それにもかかわらず）が適切。therefore は順接の結果、moreover は情報の追加、similarly は「同様に」で、いずれも対立を示せない。"
           }
         ]
       }
@@ -391,62 +391,62 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
-      "prompt": "文脈に最も合う選択肢を選んでください。",
+      "prompt": "各空所に最も適切な語句を選んでください。",
       "passage": null,
       "tags": [
-        "vocab",
         "collocation",
-        "grammar"
+        "grammar",
+        "vocab"
       ],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The two words look alike, but they are not",
-            "after": "in formal writing, and editors will change one for the other.",
+            "before": "The interview was going well until the candidate",
+            "after": "a remark that she regretted the moment it left her mouth.",
             "options": [
-              "interchangeable",
-              "exchangeable",
-              "changeable",
-              "convertible"
-            ],
-            "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "interchangeable は「互いに置きかえられる」で、語や表現について使う標準的な語。exchangeable は「（商品などを）交換できる」、changeable は「変わりやすい」（天気など）、convertible は「別の形・通貨などに変えられる」で、いずれも語の言いかえには使わない。"
-          },
-          {
-            "id": "g2",
-            "before": "Rather than pointing at his team, the manager",
-            "after": "the blame for a launch that had gone wrong in every possible way.",
-            "options": [
-              "took",
-              "had",
               "made",
-              "gave"
+              "said",
+              "told",
+              "spoke"
             ],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "take the blame（責任を引き受ける）が正しい組み合わせ。have the blame とは言わず、make the blame も不可。give someone the blame なら「人のせいにする」で、自分が引き受ける文脈とは逆になる。"
+            "explanation": "make a remark（発言をする）が正しい組み合わせ。say は say something のように内容を直接目的語に取り、say a remark とは言わない。tell は tell someone something の形で人を必要とする。speak は自動詞的で speak a remark とは言わない。"
           },
           {
-            "id": "g3",
-            "before": "The iron bridge across the river,",
-            "after": "in the 1890s, still carries more traffic than its designers can ever have imagined.",
+            "id": "g2",
+            "before": "If the sensors",
+            "after": "properly calibrated last spring, the fault would have been picked up months ago.",
             "options": [
-              "built",
-              "building",
-              "it was built",
-              "having built"
+              "had been",
+              "were",
+              "have been",
+              "would be"
             ],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "橋は「建てられた」側なので、受け身の意味を持つ過去分詞 built を使って主語を後ろから説明する。building や having built は「橋が何かを建てた」という能動の意味になり不自然。it was built は完全な文なので、コンマだけで前後の節をつなぐことはできない。"
+            "explanation": "主節が would have been picked up（過去の事実に反する仮定）なので、if 節は過去完了 had been を使う仮定法過去完了。were は現在の事実に反する仮定で last spring と合わない。have been は現在完了で仮定法にならない。would be を if 節に入れるのは誤り。"
+          },
+          {
+            "id": "g3",
+            "before": "Sales figures on their own are a poor",
+            "after": "of how loyal a company’s customers really are.",
+            "options": [
+              "indicator",
+              "guide",
+              "evidence",
+              "witness"
+            ],
+            "answerIdx": 0,
+            "tag": "vocab",
+            "explanation": "indicator of ~（～を示す指標）が形も意味も合う。guide は a guide to ~ の形をとるので of とはつながらない。evidence は不可算名詞なので a evidence / a poor evidence とは言えない。witness は「目撃者」で人を指す。"
           }
         ]
       }
@@ -454,8 +454,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -469,11 +469,11 @@
       ],
       "source": "daily",
       "payload": {
-        "title": "The Ships That Learned to Slow Down",
+        "title": "The Town That Aimed Its Lights Downwards",
         "paragraphs": [
-          "A container ship burns fuel roughly in proportion to the cube of its speed. Cut the speed by a tenth and the fuel bill falls by nearly a third, which is why, during the trade slump that followed 2008, owners quietly told their captains to throttle back. The practice acquired a name, slow steaming, and it was adopted for the plainest of reasons: with freight rates on the floor, fuel was the one large cost a company could still control.",
-          "The environmental effect was an accident, and a large one. Shipping moves about ninety per cent of world trade and releases roughly as much carbon dioxide each year as Germany, so a fleet-wide cut in fuel use is not a small saving. Slower ships are quieter too, and the noise of propellers is now known to disturb the way whales feed and find one another. None of this was the industry’s aim; it was simply what happened when the accountants won an argument.",
-          "Making the habit permanent is harder than it sounds. A slower fleet needs more ships to carry the same cargo, and building them releases carbon of its own. Perishable cargo, and factories that run on parts arriving exactly when they are wanted, will pay for speed whatever the fuel costs. Regulators have therefore begun to write speed into the rules rather than leave it to the freight market, on the reasonable assumption that when rates rise again, captains will be told to open the throttle."
+          "Flagstaff, in northern Arizona, has been fussy about its lighting since 1958, when the city banned searchlights to protect the work of an observatory on the hill above it. What began as a favour to astronomers has hardened into an unusually detailed code: street lamps must throw their light downwards, the brightness of shop signs is capped, and most of the town is lit by lamps whose colour sits at the warm end of the spectrum. Visitors often arrive expecting a dim place. It is not dim; it is simply lit where the light is wanted.",
+          "The argument for copying Flagstaff has quietly moved away from astronomy. Ecologists have spent two decades documenting what a lit night does to animals that evolved without one: moths circling a lamp until they drop, hatchling turtles crawling inland towards a car park instead of the sea, migrating birds pulled into cities and killed against glass. Blue-rich white light, the kind that arrived with the switch to LEDs, is the worst offender, and that switch was made almost everywhere on the grounds that it would save electricity.",
+          "The saving is real but smaller than promised, because cheap light invites more of it; towns that changed their bulbs frequently ended up lighting streets that had never been lit before. The remedy is not darkness, which nobody is proposing, but discipline about direction, colour and hour. Where councils have tried it, dimming after midnight, shielding fittings and choosing amber over blue, complaints have been rare and bills have fallen, which suggests that the obstacle was never public opinion."
         ],
         "questions": [
           {
@@ -481,23 +481,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Ships slowed down in order to save money, the environmental benefits that followed were unintended, and regulators now want speed written into the rules rather than left to the market.",
-              "Shipping companies reduced their speed mainly in order to protect whales from the noise made by their propellers.",
-              "Slow steaming has already removed most of the carbon emissions of shipping, so no further regulation of the industry is needed.",
-              "Because a slower fleet needs more ships, slow steaming raises emissions overall and the practice should be abandoned."
+              "Rules first written to protect a telescope now rest on a broader ecological case, and the answer is light that is better aimed, warmer in colour and switched down at night rather than removed.",
+              "LEDs should be abandoned altogether, because every town that installed them has seen its electricity bills rise.",
+              "Light pollution is essentially a problem for astronomers, so towns without an observatory have little reason to change their lighting.",
+              "Public opposition is the main reason councils have been unable to reduce street lighting after midnight."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Owners first told their captains to slow down because",
-            "after": "at a time when freight rates left them almost no other saving to make.",
+            "before": "The electricity saved by moving to LEDs proved disappointing because",
+            "after": "rather than simply replacing the lamps they already had.",
             "options": [
-              "fuel was the largest cost still under their control",
-              "new rules on underwater noise had just come into force",
-              "there were not enough ships available to carry the cargo",
-              "engineers had shown that slower engines last much longer"
+              "cheaper light encouraged towns to illuminate places that had previously been dark",
+              "the new lamps failed far sooner than their manufacturers had claimed",
+              "councils were required by law to raise the brightness of every street",
+              "amber lamps consume noticeably more power than blue-rich white ones"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -505,23 +505,23 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "速度を落としたことによる環境面の利点が、業界のねらいではなかったことを最もよく示している語句はどれですか。",
+            "prompt": "フラッグスタッフが「暗い町」ではないことを最もよく示している語句はどれですか。",
             "spans": [
               {
                 "id": "s1",
-                "text": "burns fuel roughly in proportion to the cube of its speed"
+                "text": "banned searchlights to protect the work of an observatory"
               },
               {
                 "id": "s2",
-                "text": "it was simply what happened when the accountants won an argument"
+                "text": "it is simply lit where the light is wanted"
               },
               {
                 "id": "s3",
-                "text": "building them releases carbon of its own"
+                "text": "hatchling turtles crawling inland towards a car park"
               },
               {
                 "id": "s4",
-                "text": "write speed into the rules rather than leave it to the freight market"
+                "text": "complaints have been rare and bills have fallen"
               }
             ],
             "answerSpanId": "s2"
@@ -529,7 +529,7 @@
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "In other words, the cleanest thing the industry has ever done was chosen for reasons that had nothing to do with the climate.",
+            "sentence": "The observatory, in other words, has become the least of the reasons for turning the lamps down.",
             "slots": [
               "[after paragraph 1]",
               "[after paragraph 2]",
@@ -542,10 +542,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Slow steaming shows that a decision taken purely to cut costs can bring real environmental gains, but because those gains rest on the price of fuel rather than on any intention, they have to be secured by rules.",
-              "Since shipping carries ninety per cent of world trade, any attempt to limit the speed of ships would damage the world economy and ought to be resisted.",
-              "The strongest argument for slow steaming is the protection of whales, and the saving of fuel is only a minor side benefit.",
-              "Speed limits are unnecessary, because shipping companies have shown that they will keep their ships slow without being told to."
+              "A code drawn up decades ago for one city’s telescopes now looks like a general model, since light that is aimed, tinted and timed with care protects wildlife and cuts costs without leaving anybody in the dark.",
+              "The evidence shows that street lighting should be switched off completely at night in order to protect migrating birds.",
+              "Because LEDs save so much electricity, worrying about the colour of their light distracts from the real question of energy use.",
+              "Councils have learned that residents resist any change to street lighting, which makes reform impractical in most towns."
             ],
             "answerIdx": 0
           }
@@ -555,8 +555,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -570,11 +570,11 @@
       ],
       "source": "daily",
       "payload": {
-        "title": "The Four-Day Week, Measured",
+        "title": "The Language That Came Back",
         "paragraphs": [
-          "The idea sounds like a gift and is usually sold as one: five days of pay for four days of work. What made the recent trials worth reading was that they were not run as favours. Firms joining the largest of them agreed in advance to a rule known as one hundred, eighty, one hundred: full pay, four-fifths of the time, and the same output as before. Almost every company that finished the trial chose to keep the arrangement.",
-          "The gains did not come from working faster. Teams cut the things that had survived only because nobody had ever counted their cost: meetings that could have been a message, reports that no one read, the habit of copying a dozen colleagues into every email. Where output held up, it held up because a week of work had been examined honestly for the first time in years. Where it fell, the reason was almost always that the job was tied to somebody else’s clock: a shop that must open, a ward that must be staffed, a customer who calls on Friday.",
-          "That distinction matters for what the trials can prove. The firms that volunteer are mostly small, mostly office-based, and led by people who already believed the idea would work; a hospital cannot cut its meetings and send a fifth of its staff home. Sceptics add that part of the reported gain is the ordinary enthusiasm of doing something new, which fades. The honest conclusion is narrower than the headlines, but it is not nothing: for a certain kind of work, a great deal of the week turns out to be waste, and a shorter deadline is what exposes it."
+          "When the last speaker who had grown up with Manx died in 1974, the language was written up as a closed case, and international lists duly recorded it as extinct. The obituary was premature. Enthusiasts had been recording the old speakers on tape since the 1940s, and a smaller group had learned to speak from those recordings: imperfectly, with English vowels, but well enough to argue about grammar in a pub.",
+          "The revival became serious only when it stopped being an adult hobby. In 2001 a primary school opened on the island in which every subject is taught in Manx, and the children who passed through it now supply most of the language’s young speakers. Purists complained, reasonably enough, that the Manx coming out of the classroom was not the Manx of the tapes: the idioms were thinner, and the sentence patterns leaned towards English.",
+          "What a school cannot manufacture is a reason to use the language outside it. Manx has perhaps two thousand people with some ability in it and a few dozen households raising children in it, which is enough for songs, road signs and a weekly radio slot, and nowhere near enough for a labour market. Its defenders have therefore stopped promising restoration and now describe a smaller, harder goal: making sure that in every generation somebody grows up with the language."
         ],
         "questions": [
           {
@@ -582,23 +582,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "The trials worked mainly by forcing firms to cut low-value work, but the result fits a limited kind of job and cannot simply be extended to every workplace.",
-              "The trials show that employees can produce the same output in four days provided they work faster and take fewer breaks.",
-              "Because the firms in the trials were small and enthusiastic, the results mean nothing and no company should change its hours.",
-              "The main obstacle to a four-day week is the cost of paying five days of wages, which most firms cannot afford."
+              "Manx survived through tape recordings and a school that produced new young speakers, but the language that returned differs from the old one and still has few everyday uses, so its supporters now aim only at continuity between generations.",
+              "Manx died out in 1974, and the attempt to teach it in schools has failed to produce any new speakers at all.",
+              "The chief obstacle to reviving Manx has been the refusal of purists to accept any change in its grammar.",
+              "Manx is now used widely enough on the island to support employment and ordinary business in the language."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Output was most likely to fall in workplaces where",
-            "after": ", since the hours could not be rearranged to suit the staff.",
+            "before": "The revival gained real momentum once",
+            "after": "instead of remaining something that adults studied in their spare time.",
             "options": [
-              "the work had to match somebody else’s timetable",
-              "employees were paid for four days rather than five",
-              "managers had cancelled too many of their meetings",
-              "the trial had run for less than a full year"
+              "children were being educated through the language across the whole curriculum",
+              "international lists agreed to remove the language from the extinct category",
+              "the original tape recordings of the old speakers were published in full",
+              "the island’s road signs were rewritten so as to show both languages"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -606,47 +606,47 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "この試験の結果をそのまま一般化できない理由を最もよく示している語句はどれですか。",
+            "prompt": "復活した言語が、録音に残る古いマン島語とは異なってしまったことを最もよく示す語句はどれですか。",
             "spans": [
               {
                 "id": "s1",
-                "text": "full pay, four-fifths of the time, and the same output as before"
+                "text": "recording the old speakers on tape since the 1940s"
               },
               {
                 "id": "s2",
-                "text": "meetings that could have been a message"
+                "text": "the idioms were thinner, and the sentence patterns leaned towards English"
               },
               {
                 "id": "s3",
-                "text": "The firms that volunteer are mostly small, mostly office-based"
+                "text": "enough for songs, road signs and a weekly radio slot"
               },
               {
                 "id": "s4",
-                "text": "a shorter deadline is what exposes it"
+                "text": "making sure that in every generation somebody grows up with the language"
               }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The saving, in other words, came out of the week itself rather than out of the people working it.",
+            "sentence": "Fluency, it turns out, is easier to arrange than a reason to use it.",
             "slots": [
               "[after paragraph 1]",
               "[after paragraph 2]",
               "[after paragraph 3]"
             ],
-            "answerSlot": 1
+            "answerSlot": 2
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "The trials suggest that much of a typical office week is low-value activity which a shorter deadline strips out, though the finding holds for a limited range of jobs and may partly reflect the novelty of the change.",
-              "The trials prove that every organisation, hospitals and shops included, could move to four days without any loss of output.",
-              "Because enthusiasm for anything new always fades, the four-day week produced no real gains at all.",
-              "The chief lesson of the trials is that workers value extra pay more highly than extra free time."
+              "A language can be recovered from recordings and passed to children, but the version that comes back is altered, and it lasts only if each generation is deliberately given it.",
+              "Since the revived form differs from the original, the effort to teach Manx to children ought to be judged a failure.",
+              "The case of Manx shows that any language declared extinct can be fully restored to daily use within a single generation.",
+              "Manx survived chiefly because the island government made the language compulsory in workplaces and business."
             ],
             "answerIdx": 0
           }
@@ -658,13 +658,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The training session starts at a quarter past nine and lasts about two and a half hours.",
+      "transcript": "The library closes at half past seven on weekdays, but on Saturday it stays open until nine.",
       "prompt": null,
       "tags": [
         "listen-numeral"
@@ -679,13 +679,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I would have called you earlier if I had known you were still at the office.",
+      "transcript": "She would have told us about the delay if anyone had bothered to ask her.",
       "prompt": null,
       "tags": [
         "listen-funcword"
@@ -700,13 +700,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Most of the seats had already been taken by the time we got to the hall.",
+      "transcript": "Most of the volunteers had never handled a camera before the workshop began.",
       "prompt": null,
       "tags": [
         "listen-chunk"
@@ -721,13 +721,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She thought the third path through the woods was the shortest one.",
+      "transcript": "The thin sheet of ice cracked as soon as she stepped onto it.",
       "prompt": null,
       "tags": [
         "listen-phoneme"
@@ -742,13 +742,13 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "easy",
-      "cefr": "B1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Please turn to page fifty-four and look at the chart at the bottom.",
+      "transcript": "Roughly forty per cent of the seats were still empty fifteen minutes before the show.",
       "prompt": null,
       "tags": [
         "listen-numeral"
@@ -763,13 +763,13 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z",
+      "createdAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "The delivery was supposed to arrive on Tuesday, but it turned up almost a week late.",
+      "transcript": "Nobody expected the repairs to take longer than a fortnight, and yet they did.",
       "prompt": null,
       "tags": [
         "listen-chunk"
