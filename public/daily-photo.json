@@ -1,38 +1,17 @@
 {
-  "date": "2026-08-19",
-  "image": "/daily-photo.jpg?v=2026-08-19",
+  "date": "2026-08-24",
+  "image": "/daily-photo.jpg?v=2026-08-24",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "学校の大きな講堂での集会。左に「CLASS OF 2024」と映る大きなスクリーン、右上に同じ表示の小さなモニター。低いステージ上で水色シャツ・紺のズボンの男性がマイクを持って話している。ステージ右側には白い服の女性が腰かけ、濃い色のシャツの男性が腕を組んで座り、学校の紋章のついた木の演台と黄色い花がある。手前には赤い座席に大勢の学生が後ろ姿で座って聞いている。",
-  "modelAnswer": "This photo was taken inside a large hall at a school. On the left there is a big screen, and it says \"Class of 2024\". A smaller screen on the wall on the right shows the same words. A man in a light blue shirt is standing on a low stage. He is holding a microphone and talking to the students. Behind him, a woman is sitting on the edge of the stage, and a man is sitting on a chair with his arms crossed. In front of the stage, many students are sitting in rows of red seats and listening quietly. The room feels busy but calm.",
-  "modelAnswerJa": "この写真は、学校の大きなホールの中で撮られたものです。左には大きなスクリーンがあり、「Class of 2024」と書かれています。右の壁にある小さな画面にも同じ言葉が映っています。水色のシャツを着た男性が、低いステージの上に立っています。彼はマイクを持って学生たちに話しています。その後ろでは、女性がステージのふちに腰かけ、男性が腕を組んでいすに座っています。ステージの前では、大勢の学生が赤い座席の列にすわって、静かに話を聞いています。部屋はにぎやかですが、落ち着いた感じがします。",
+  "theme": "通りから見た古い小さなパン屋の店先。緑色の枠に花の絵が描かれた入口の向こうは暖かい黄色の照明で、奥の壁には古い金属の焼き型がたくさん掛かり、天井から琥珀色のランプが下がっている。カウンターには赤い古風なはかり、ガラスのカバーをかぶせたケーキ、パン、レモン、花瓶の花。手前では水色のダウンコートの女性が前かがみでケーキをのぞき込み、右側に紺のコートで白いトートバッグを持った女性が立つ。カウンターの奥ではマスクをした女性と男性の店員が接客している。",
+  "modelAnswer": "This photo shows a small old bakery, seen from the street. The doorway has a green frame with flowers painted on it. Inside, the light is warm and yellow. Many old metal baking pans hang on the wall, and a lamp hangs from the ceiling. On the counter there are cakes under a glass cover, some bread, lemons and a red weighing scale. Two women are standing in front of the counter. One of them, in a light blue coat, is leaning forward to look at the cakes. Behind the counter, two workers in masks are helping them. The shop looks old and friendly.",
+  "modelAnswerJa": "この写真は、通りから見た小さな古いパン屋を写しています。入口は緑色の枠で、花の絵がかかれています。中は明かりが暖かい黄色です。壁には古い金属の焼き型がたくさんかかっていて、天井からはランプが下がっています。カウンターの上には、ガラスのカバーの下にケーキがあり、パンやレモン、赤いはかりもあります。二人の女性がカウンターの前に立っています。そのうちの一人は水色のコートを着て、前かがみになってケーキを見ています。カウンターの奥では、マスクをした二人の店員が二人を手伝っています。この店は古くて、親しみやすい感じがします。",
   "tips": [
-    {
-      "term": "on the left / on the right",
-      "ja": "左に／右に（写真の位置を説明するときの基本）"
-    },
-    {
-      "term": "it says ~",
-      "ja": "（看板や画面に）～と書いてある"
-    },
-    {
-      "term": "stand on a stage",
-      "ja": "ステージの上に立つ"
-    },
-    {
-      "term": "hold a microphone",
-      "ja": "マイクを持つ"
-    },
-    {
-      "term": "talk to ~ / listen to ~",
-      "ja": "～に話しかける／～を聞く"
-    },
-    {
-      "term": "sit in rows of seats",
-      "ja": "座席の列にすわる"
-    },
-    {
-      "term": "with his arms crossed",
-      "ja": "腕を組んで（with ＋ 名詞 ＋ 状態で様子を足せる）"
-    }
+    { "term": "seen from the street", "ja": "通りから見た（写真を撮った位置を説明できる）" },
+    { "term": "hang on the wall", "ja": "壁にかかっている" },
+    { "term": "in front of ~", "ja": "～の前に" },
+    { "term": "lean forward", "ja": "前かがみになる、身を乗り出す" },
+    { "term": "under a glass cover", "ja": "ガラスのカバーの下に" },
+    { "term": "a woman in a light blue coat", "ja": "水色のコートを着た女性（in ＋ 服 で服装を表せる）" },
+    { "term": "look old and friendly", "ja": "古くて親しみやすく見える（look ＋ 形容詞で雰囲気を言える）" }
   ]
 }
