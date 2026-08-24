@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-19",
+  "generatedAt": "2026-08-24",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -20,62 +20,62 @@
         "words": [
           {
             "id": "w1",
-            "text": "surgeon",
+            "text": "knead",
             "isReal": true
           },
           {
             "id": "w2",
-            "text": "creptual",
+            "text": "quinlade",
             "isReal": false
           },
           {
             "id": "w3",
-            "text": "bandage",
+            "text": "skillet",
             "isReal": true
           },
           {
             "id": "w4",
-            "text": "hantorise",
+            "text": "flondish",
             "isReal": false
           },
           {
             "id": "w5",
-            "text": "symptom",
+            "text": "marinade",
             "isReal": true
           },
           {
             "id": "w6",
-            "text": "blimful",
+            "text": "harnelow",
             "isReal": false
           },
           {
             "id": "w7",
-            "text": "vaccine",
+            "text": "ladle",
             "isReal": true
           },
           {
             "id": "w8",
-            "text": "medrantic",
+            "text": "spadrine",
             "isReal": false
           },
           {
             "id": "w9",
-            "text": "pharmacy",
+            "text": "simmer",
             "isReal": true
           },
           {
             "id": "w10",
-            "text": "sprellow",
+            "text": "clemmick",
             "isReal": false
           },
           {
             "id": "w11",
-            "text": "inhale",
+            "text": "dough",
             "isReal": true
           },
           {
             "id": "w12",
-            "text": "quandive",
+            "text": "trupplen",
             "isReal": false
           }
         ]
@@ -84,8 +84,8 @@
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -100,62 +100,62 @@
         "words": [
           {
             "id": "w1",
-            "text": "scaffold",
+            "text": "rehearsal",
             "isReal": true
           },
           {
             "id": "w2",
-            "text": "flombered",
+            "text": "prendola",
             "isReal": false
           },
           {
             "id": "w3",
-            "text": "brickwork",
+            "text": "applause",
             "isReal": true
           },
           {
             "id": "w4",
-            "text": "brindesk",
+            "text": "blaskert",
             "isReal": false
           },
           {
             "id": "w5",
-            "text": "tenant",
+            "text": "conductor",
             "isReal": true
           },
           {
             "id": "w6",
-            "text": "grondish",
+            "text": "vontrill",
             "isReal": false
           },
           {
             "id": "w7",
-            "text": "corridor",
+            "text": "backstage",
             "isReal": true
           },
           {
             "id": "w8",
-            "text": "hesplin",
+            "text": "chandrel",
             "isReal": false
           },
           {
             "id": "w9",
-            "text": "insulate",
+            "text": "orchestra",
             "isReal": true
           },
           {
             "id": "w10",
-            "text": "vurtaneous",
+            "text": "lomterick",
             "isReal": false
           },
           {
             "id": "w11",
-            "text": "foundation",
+            "text": "encore",
             "isReal": true
           },
           {
             "id": "w12",
-            "text": "clabbet",
+            "text": "ferstane",
             "isReal": false
           }
         ]
@@ -164,8 +164,8 @@
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -177,27 +177,27 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "A peat bog looks like waste ground, and for centuries that is exactly how it was {{b1}}. Drained, cut and burned, it gave farmers a field and households a cheap fuel. What nobody counted was the carbon: waterlogged moss decays so slowly that a metre of peat may hold the remains of a thousand years of plants, and the bogs of the world store more carbon than all its {{b2}} put together. Once the water table drops, that store begins to leak into the air. Restoration is unglamorous work, mostly blocking ditches and letting the ground go {{b3}} again, but it is far cheaper than planting the trees that would be needed to {{b4}} the same amount.",
+        "text": "Teenagers are not simply lazy when they refuse to sleep before midnight; their body clocks genuinely {{b1}} later than those of younger children. The hormone that announces night arrives an hour or two behind schedule, so a timetable written for farming hours asks them to sit exams while the brain is still {{b2}} down. A handful of districts have pushed the first lesson back to nine o'clock and then measured what happened: attendance rose, accidents involving young drivers {{b3}}, and grades improved a little. The change costs almost nothing beyond rewriting the bus {{b4}}, which is why the argument has outlived the evidence.",
         "blanks": [
           {
             "id": "b1",
-            "full": "treated",
+            "full": "shift",
             "keepHead": 3
           },
           {
             "id": "b2",
-            "full": "forests",
-            "keepHead": 3
+            "full": "shutting",
+            "keepHead": 4
           },
           {
             "id": "b3",
-            "full": "wet",
+            "full": "fell",
             "keepHead": 2
           },
           {
             "id": "b4",
-            "full": "absorb",
-            "keepHead": 3
+            "full": "timetable",
+            "keepHead": 4
           }
         ]
       }
@@ -205,8 +205,8 @@
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -218,26 +218,26 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "Speaking two languages does not make anyone cleverer, whatever proud parents may {{b1}}. What it does is give the brain constant practice at one narrow skill: choosing a single system while holding the other one back. Both languages stay switched on, so every sentence obliges the speaker to {{b2}} the words that do not belong. Psychologists find that bilinguals are quicker at tasks with a similar shape, such as ignoring a distraction or changing rule in the middle of a game, and slower, by a fraction of a second, at simply {{b3}} everyday objects. The advantage, in other words, is not general intelligence but a very well-trained {{b4}}.",
+        "text": "Arabica coffee grows well only in a narrow band of altitude and temperature, and that band is climbing the mountainside. Farmers who inherited land at eight hundred metres now watch their yields {{b1}} while neighbours a thousand metres higher enjoy their best harvests in living memory. Moving uphill is rarely possible, since the upper slopes are either national park or already {{b2}}. Breeding offers one escape: tougher varieties exist, though most were abandoned decades ago because buyers judged their flavour too {{b3}}. The industry is now paying to recover what it once threw away, and that work will take at least a {{b4}} to bear fruit.",
         "blanks": [
           {
             "id": "b1",
-            "full": "hope",
-            "keepHead": 2
+            "full": "shrink",
+            "keepHead": 3
           },
           {
             "id": "b2",
-            "full": "suppress",
+            "full": "occupied",
             "keepHead": 4
           },
           {
             "id": "b3",
-            "full": "naming",
-            "keepHead": 3
+            "full": "plain",
+            "keepHead": 2
           },
           {
             "id": "b4",
-            "full": "switch",
+            "full": "decade",
             "keepHead": 3
           }
         ]
@@ -246,8 +246,8 @@
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -259,27 +259,27 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "A volcano rarely erupts without warning; the difficulty is that the warnings are written in signals nobody can feel. Weeks beforehand, magma pushing upwards makes the ground {{b1}} by a few centimetres, small earthquakes multiply, and the gases leaking from the summit change their mixture. Satellites and instruments on the slope now record all three, and in several countries the readings are streamed to the public rather than kept in a laboratory. The remaining problem is human. An alert issued too early empties a town for nothing and makes the next warning easier to {{b2}}, while an alert issued too late is worthless. Officials therefore speak in levels of {{b3}} rather than in dates, and ask people to prepare for something that may never {{b4}}.",
+        "text": "A painted line on a busy road is the cheapest sort of cycle lane and, judging by the crash figures, close to the least {{b1}}. Riders in a painted lane sit within a door's width of parked cars and are overtaken at speed by drivers who feel entitled to ignore them. Where cities have instead built lanes separated by a kerb, the number of people willing to {{b2}} has risen sharply, and most of the newcomers are precisely the cautious riders that surveys said did not exist. The lesson is awkward for a planner on a {{b3}}: a network of half measures may attract almost nobody, while three properly protected routes can change how a whole district {{b4}}.",
         "blanks": [
           {
             "id": "b1",
-            "full": "swell",
-            "keepHead": 3
+            "full": "effective",
+            "keepHead": 4
           },
           {
             "id": "b2",
-            "full": "ignore",
+            "full": "cycle",
             "keepHead": 3
           },
           {
             "id": "b3",
-            "full": "probability",
-            "keepHead": 5
+            "full": "budget",
+            "keepHead": 3
           },
           {
             "id": "b4",
-            "full": "happen",
-            "keepHead": 3
+            "full": "travels",
+            "keepHead": 4
           }
         ]
       }
@@ -287,8 +287,8 @@
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
@@ -300,27 +300,27 @@
       ],
       "source": "daily",
       "payload": {
-        "text": "Almost every antibiotic in use was found in soil, made by bacteria to poison their {{b1}}. The easy ones were collected in the 1950s, and since then the same handful of soil microbes have been cultured again and again, so that laboratories kept rediscovering drugs they already {{b2}}. The trick that reopened the field was to stop bringing the bacteria indoors. By growing them in tiny chambers buried in the ground, where they still receive whatever unknown nutrients they {{b3}}, researchers have coaxed into life species that had never before survived in a dish, and with them a fresh set of molecules to {{b4}}.",
+        "text": "Most of what archaeologists know about ancient trade comes from rubbish: broken pots, kitchen bones and the seeds that fell between floorboards. Treasure tells a thinner story, because valuables were mended, melted and passed on, while a cracked jar was simply {{b1}} where it lay. Waste is also honest about quantity, since a single kitchen heap can show that oil arrived from three provinces, which no inscription would ever trouble to {{b2}}. The difficulty is that rubbish survives only where the ground is {{b3}} or dry enough to halt bacteria, so the map of what we know follows soil chemistry rather than the real {{b4}} of ancient life.",
         "blanks": [
           {
             "id": "b1",
-            "full": "rivals",
-            "keepHead": 3
+            "full": "dropped",
+            "keepHead": 4
           },
           {
             "id": "b2",
-            "full": "knew",
-            "keepHead": 2
+            "full": "record",
+            "keepHead": 3
           },
           {
             "id": "b3",
-            "full": "require",
-            "keepHead": 3
+            "full": "waterlogged",
+            "keepHead": 5
           },
           {
             "id": "b4",
-            "full": "examine",
-            "keepHead": 3
+            "full": "pattern",
+            "keepHead": 4
           }
         ]
       }
@@ -328,8 +328,8 @@
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
@@ -345,45 +345,45 @@
         "gaps": [
           {
             "id": "g1",
-            "before": "The letters found in the attic have thrown fresh",
-            "after": "on a case that everyone had assumed was closed.",
+            "before": "Nobody in the room was willing to",
+            "after": "the blame for a decision that six departments had approved.",
             "options": [
-              "light",
-              "sight",
-              "view",
-              "glow"
+              "take",
+              "catch",
+              "hold",
+              "bring"
             ],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "throw fresh light on ~（～に新たな光を当てる＝解明の手がかりを与える）が定型表現。sight は「視力・光景」で throw とは組まない。view は take a view / in view of の形で使う。glow は「やわらかな輝き」で比喩的な「解明」の意味にはならない。"
+            "explanation": "take the blame（責任・非を引き受ける）が定型表現。catch は「捕まえる」で blame とは組まない。hold は hold someone responsible の形なら使えるが hold the blame とは言わない。bring も bring a charge against ~ のように使い、bring the blame とはしない。"
           },
           {
             "id": "g2",
-            "before": "The tunnel,",
-            "after": "in the 1890s and never widened, still carries more freight than any other line in the region.",
+            "before": "The safety inspector insisted that every fire door",
+            "after": "left unlocked while the drill was in progress.",
             "options": [
-              "built",
-              "building",
-              "was built",
-              "having built"
+              "be",
+              "is",
+              "was",
+              "would be"
             ],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "コンマに挟まれた分詞句で主語 The tunnel を説明する形。トンネルは「建設される」側なので過去分詞 built（＝which was built）が正しい。building は能動で「トンネルが建設する」ことになり不可。was built を入れると主節の動詞 carries と二重になる。having built も能動で意味が合わない。"
+            "explanation": "insist that ~ の that 節では、要求・提案を表すため動詞は原形（仮定法現在）になる。every fire door be left ~ が正しい形。is / was は時制の一致で入れたくなるが、要求の内容を述べる節では使わない。would be も未来の予測になり、指示の内容にならない。"
           },
           {
             "id": "g3",
-            "before": "The two drugs are chemically almost identical;",
-            "after": ", they behave quite differently once they reach the liver.",
+            "before": "Rain had washed the path away in three places;",
+            "after": ", the walkers had to turn back well before the summit.",
             "options": [
-              "nevertheless",
-              "therefore",
-              "moreover",
-              "similarly"
+              "as a result",
+              "by contrast",
+              "for instance",
+              "even so"
             ],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "前半「化学的にほぼ同一」と後半「働きが違う」は逆接の関係なので nevertheless（それにもかかわらず）が適切。therefore は順接の結果、moreover は情報の追加、similarly は「同様に」で、いずれも対立を示せない。"
+            "explanation": "前半が原因、後半がその結果なので as a result（その結果）が適切。by contrast は対比、for instance は具体例の提示、even so は「それでも」と逆接になり、いずれも因果関係を示せない。"
           }
         ]
       }
@@ -391,62 +391,62 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "各空所に最も適切な語句を選んでください。",
       "passage": null,
       "tags": [
-        "collocation",
+        "vocab",
         "grammar",
-        "vocab"
+        "collocation"
       ],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The interview was going well until the candidate",
-            "after": "a remark that she regretted the moment it left her mouth.",
+            "before": "The report is careful to",
+            "after": "between an error in the data and an error in the argument.",
             "options": [
-              "made",
-              "said",
-              "told",
-              "spoke"
-            ],
-            "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "make a remark（発言をする）が正しい組み合わせ。say は say something のように内容を直接目的語に取り、say a remark とは言わない。tell は tell someone something の形で人を必要とする。speak は自動詞的で speak a remark とは言わない。"
-          },
-          {
-            "id": "g2",
-            "before": "If the sensors",
-            "after": "properly calibrated last spring, the fault would have been picked up months ago.",
-            "options": [
-              "had been",
-              "were",
-              "have been",
-              "would be"
-            ],
-            "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "主節が would have been picked up（過去の事実に反する仮定）なので、if 節は過去完了 had been を使う仮定法過去完了。were は現在の事実に反する仮定で last spring と合わない。have been は現在完了で仮定法にならない。would be を if 節に入れるのは誤り。"
-          },
-          {
-            "id": "g3",
-            "before": "Sales figures on their own are a poor",
-            "after": "of how loyal a company’s customers really are.",
-            "options": [
-              "indicator",
-              "guide",
-              "evidence",
-              "witness"
+              "distinguish",
+              "separate",
+              "divide",
+              "compare"
             ],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "indicator of ~（～を示す指標）が形も意味も合う。guide は a guide to ~ の形をとるので of とはつながらない。evidence は不可算名詞なので a evidence / a poor evidence とは言えない。witness は「目撃者」で人を指す。"
+            "explanation": "distinguish between A and B（AとBを区別する）が正しい形で、「二つの誤りを見分ける」という文意にも合う。separate は separate A from B、divide は divide A into B の形をとり、between とは組まない。compare も compare A with B が普通で、compare between とは言わない。"
+          },
+          {
+            "id": "g2",
+            "before": "The opening concert will have to be cancelled",
+            "after": "the strike continue into next week.",
+            "options": [
+              "should",
+              "if",
+              "unless",
+              "were"
+            ],
+            "answerIdx": 0,
+            "tag": "grammar",
+            "explanation": "if を省いた倒置の条件文 should + 主語 + 動詞の原形（＝if the strike should continue）で「万一〜なら」という控えめな仮定を表す。If / Unless を使うなら continues と三人称単数の s が必要で、原形 continue とは合わない。Were なら were the strike to continue の形になる。"
+          },
+          {
+            "id": "g3",
+            "before": "She has a habit of",
+            "after": "conclusions long before the evidence is in.",
+            "options": [
+              "jumping to",
+              "falling into",
+              "running at",
+              "getting on"
+            ],
+            "answerIdx": 0,
+            "tag": "collocation",
+            "explanation": "jump to conclusions（早合点する）が定型表現で、「証拠が出そろう前に結論を出す」という文意にぴったり合う。fall into は fall into a trap / a habit の形、run at は「〜に突進する」、get on は「乗る・うまくやる」で、いずれも conclusions とは組まない。"
           }
         ]
       }
@@ -454,8 +454,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -469,11 +469,11 @@
       ],
       "source": "daily",
       "payload": {
-        "title": "The Town That Aimed Its Lights Downwards",
+        "title": "The Night Train Comes Back",
         "paragraphs": [
-          "Flagstaff, in northern Arizona, has been fussy about its lighting since 1958, when the city banned searchlights to protect the work of an observatory on the hill above it. What began as a favour to astronomers has hardened into an unusually detailed code: street lamps must throw their light downwards, the brightness of shop signs is capped, and most of the town is lit by lamps whose colour sits at the warm end of the spectrum. Visitors often arrive expecting a dim place. It is not dim; it is simply lit where the light is wanted.",
-          "The argument for copying Flagstaff has quietly moved away from astronomy. Ecologists have spent two decades documenting what a lit night does to animals that evolved without one: moths circling a lamp until they drop, hatchling turtles crawling inland towards a car park instead of the sea, migrating birds pulled into cities and killed against glass. Blue-rich white light, the kind that arrived with the switch to LEDs, is the worst offender, and that switch was made almost everywhere on the grounds that it would save electricity.",
-          "The saving is real but smaller than promised, because cheap light invites more of it; towns that changed their bulbs frequently ended up lighting streets that had never been lit before. The remedy is not darkness, which nobody is proposing, but discipline about direction, colour and hour. Where councils have tried it, dimming after midnight, shielding fittings and choosing amber over blue, complaints have been rare and bills have fallen, which suggests that the obstacle was never public opinion."
+          "For about thirty years the sleeper train looked like a museum piece. Budget airlines undercut it on price, new high-speed lines beat it between capitals close enough to reach before lunch, and the carriages themselves were the least profitable stock an operator could own: heavy, slow to clean, and standing still for most of every day. Between 2000 and 2016 one European network after another quietly withdrew them, and the services that survived did so on scenic routes where the journey, rather than the destination, was the point.",
+          "The revival that followed was not driven by nostalgia. An Austrian operator bought the discarded carriages of a larger neighbour, rebuilt them, and ran the night train as an ordinary business, adding routes when the bookings justified it and dropping them when they did not. Passengers were doing their own arithmetic in the meantime: a berth from Vienna to Brussels saves a night's hotel as well as a flight, and it removes two airport transfers, two security queues and a whole day from the calendar.",
+          "The obstacles now are administrative rather than commercial. Charges for using the track are set country by country and can double the cost of crossing three borders; safety rules for sleeping passengers differ from state to state; and a carriage approved in one country may sit unused for a year while a neighbouring authority examines it. None of that is beyond the reach of policy, which is why the operators keep saying that what they want is not subsidy but a single set of rules."
         ],
         "questions": [
           {
@@ -481,23 +481,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Rules first written to protect a telescope now rest on a broader ecological case, and the answer is light that is better aimed, warmer in colour and switched down at night rather than removed.",
-              "LEDs should be abandoned altogether, because every town that installed them has seen its electricity bills rise.",
-              "Light pollution is essentially a problem for astronomers, so towns without an observatory have little reason to change their lighting.",
-              "Public opposition is the main reason councils have been unable to reduce street lighting after midnight."
+              "Night trains were withdrawn as unprofitable, but have returned on straightforwardly commercial grounds, and what limits them now is a patchwork of national regulation rather than weak demand.",
+              "Sleeper services can survive only where governments are willing to pay for them, since no operator has ever run one at a profit.",
+              "Budget airlines have lost so many passengers to the railways that several of them have withdrawn from short European routes.",
+              "Older travellers' affection for the sleeping car has persuaded operators to restore services that make no financial sense."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The electricity saved by moving to LEDs proved disappointing because",
-            "after": "rather than simply replacing the lamps they already had.",
+            "before": "Operators found sleeper carriages unattractive in the early 2000s partly because the vehicles",
+            "after": "unlike the trains that used the same lines by day.",
             "options": [
-              "cheaper light encouraged towns to illuminate places that had previously been dark",
-              "the new lamps failed far sooner than their manufacturers had claimed",
-              "councils were required by law to raise the brightness of every street",
-              "amber lamps consume noticeably more power than blue-rich white ones"
+              "earned nothing during the many hours they spent standing idle",
+              "could not be fitted with the safety equipment that new rules demanded",
+              "were far too light to be run safely on high-speed track",
+              "had to be replaced every few years because of the distances they covered"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -505,31 +505,31 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "フラッグスタッフが「暗い町」ではないことを最もよく示している語句はどれですか。",
+            "prompt": "夜行列車が乗客にとって費用の面で有利になる理由を最もよく表している語句はどれですか。",
             "spans": [
               {
                 "id": "s1",
-                "text": "banned searchlights to protect the work of an observatory"
+                "text": "Budget airlines undercut it on price"
               },
               {
                 "id": "s2",
-                "text": "it is simply lit where the light is wanted"
+                "text": "ran the night train as an ordinary business"
               },
               {
                 "id": "s3",
-                "text": "hatchling turtles crawling inland towards a car park"
+                "text": "saves a night's hotel as well as a flight"
               },
               {
                 "id": "s4",
-                "text": "complaints have been rare and bills have fallen"
+                "text": "Charges for using the track are set country by country"
               }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The observatory, in other words, has become the least of the reasons for turning the lamps down.",
+            "sentence": "The carriages had not suddenly become popular again; the sums around them had changed.",
             "slots": [
               "[after paragraph 1]",
               "[after paragraph 2]",
@@ -542,10 +542,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "A code drawn up decades ago for one city’s telescopes now looks like a general model, since light that is aimed, tinted and timed with care protects wildlife and cuts costs without leaving anybody in the dark.",
-              "The evidence shows that street lighting should be switched off completely at night in order to protect migrating birds.",
-              "Because LEDs save so much electricity, worrying about the colour of their light distracts from the real question of energy use.",
-              "Councils have learned that residents resist any change to street lighting, which makes reform impractical in most towns."
+              "Written off as unprofitable relics, sleeper trains have been brought back by an operator running them on commercial terms and by passengers who count hotel nights and airport time, so the remaining barrier is Europe's mismatched national rules rather than a shortage of demand.",
+              "Because high-speed lines now link most European capitals, the night train can only ever serve tourists travelling for the scenery.",
+              "The main lesson of the sleeper's return is that heavy old carriages should be scrapped and replaced with newly built ones as soon as funds allow.",
+              "Track charges are so high across Europe that no cross-border rail service can be expected to survive without public money."
             ],
             "answerIdx": 0
           }
@@ -555,8 +555,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -570,11 +570,11 @@
       ],
       "source": "daily",
       "payload": {
-        "title": "The Language That Came Back",
+        "title": "The Shop That Only Fixes Things",
         "paragraphs": [
-          "When the last speaker who had grown up with Manx died in 1974, the language was written up as a closed case, and international lists duly recorded it as extinct. The obituary was premature. Enthusiasts had been recording the old speakers on tape since the 1940s, and a smaller group had learned to speak from those recordings: imperfectly, with English vowels, but well enough to argue about grammar in a pub.",
-          "The revival became serious only when it stopped being an adult hobby. In 2001 a primary school opened on the island in which every subject is taught in Manx, and the children who passed through it now supply most of the language’s young speakers. Purists complained, reasonably enough, that the Manx coming out of the classroom was not the Manx of the tapes: the idioms were thinner, and the sentence patterns leaned towards English.",
-          "What a school cannot manufacture is a reason to use the language outside it. Manx has perhaps two thousand people with some ability in it and a few dozen households raising children in it, which is enough for songs, road signs and a weekly radio slot, and nowhere near enough for a labour market. Its defenders have therefore stopped promising restoration and now describe a smaller, harder goal: making sure that in every generation somebody grows up with the language."
+          "A repair cafe is a simple idea: a hall, a few tables, volunteers who own tools, and anybody who turns up carrying something broken. Nothing is sold and nothing is charged for, which keeps the whole event outside the rules that govern a shop. The first was held in Amsterdam in 2009, and there are now several thousand around the world. The same three items dominate every log book: lamps, vacuum cleaners, and the cheaper sort of headphones.",
+          "The movement's own figures are modest and honestly reported, since rather more than half of what comes through the door leaves working. The failures are the instructive part. A volunteer can usually fit a new switch or a new cable, but is stopped by a glued case, a screw with an unfamiliar head, or a component that the manufacturer sells only to approved workshops, if it sells it at all. Most of what defeats a repair cafe was decided years earlier at a drawing board.",
+          "That is the argument which has carried the idea into law. Several governments now require makers of household machines to supply spare parts for a decade and to publish repair manuals, and a few have cut the tax charged on repair work. The cafes themselves will never handle much of a country's waste. What they produce is evidence, in the form of a queue of ordinary objects that could have been mended, photographed and counted, and evidence is what committees respond to."
         ],
         "questions": [
           {
@@ -582,23 +582,23 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Manx survived through tape recordings and a school that produced new young speakers, but the language that returned differs from the old one and still has few everyday uses, so its supporters now aim only at continuity between generations.",
-              "Manx died out in 1974, and the attempt to teach it in schools has failed to produce any new speakers at all.",
-              "The chief obstacle to reviving Manx has been the refusal of purists to accept any change in its grammar.",
-              "Manx is now used widely enough on the island to support employment and ordinary business in the language."
+              "Volunteer repair events mend a fair share of what they receive, but their real contribution is the evidence they gather that design choices, not owners' carelessness, make many goods unrepairable.",
+              "Repair cafes have grown so quickly that they now divert a significant proportion of household waste from landfill.",
+              "The chief obstacle facing repair cafes is a shortage of volunteers with the skills to work on modern electrical goods.",
+              "Because manufacturers have begun publishing repair manuals, the work of repair cafes is largely finished."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The revival gained real momentum once",
-            "after": "instead of remaining something that adults studied in their spare time.",
+            "before": "Repair cafes fall outside commercial regulation because the event",
+            "after": "for any of the work that its volunteers do.",
             "options": [
-              "children were being educated through the language across the whole curriculum",
-              "international lists agreed to remove the language from the extinct category",
-              "the original tape recordings of the old speakers were published in full",
-              "the island’s road signs were rewritten so as to show both languages"
+              "neither sells goods nor takes payment",
+              "is held only a few times each year",
+              "operates under a licence granted by the local council",
+              "accepts responsibility for any damage caused"
             ],
             "answerIdx": 0,
             "tag": "reading-detail"
@@ -606,47 +606,47 @@
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "復活した言語が、録音に残る古いマン島語とは異なってしまったことを最もよく示す語句はどれですか。",
+            "prompt": "修理できない原因が製品の設計段階にあることを最も明確に示している語句はどれですか。",
             "spans": [
               {
                 "id": "s1",
-                "text": "recording the old speakers on tape since the 1940s"
+                "text": "a hall, a few tables, volunteers who own tools"
               },
               {
                 "id": "s2",
-                "text": "the idioms were thinner, and the sentence patterns leaned towards English"
+                "text": "rather more than half of what comes through the door leaves working"
               },
               {
                 "id": "s3",
-                "text": "enough for songs, road signs and a weekly radio slot"
+                "text": "was decided years earlier at a drawing board"
               },
               {
                 "id": "s4",
-                "text": "making sure that in every generation somebody grows up with the language"
+                "text": "a few have cut the tax charged on repair work"
               }
             ],
-            "answerSpanId": "s2"
+            "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Fluency, it turns out, is easier to arrange than a reason to use it.",
+            "sentence": "Success rates, in other words, say more about manufacturers than about volunteers.",
             "slots": [
               "[after paragraph 1]",
               "[after paragraph 2]",
               "[after paragraph 3]"
             ],
-            "answerSlot": 2
+            "answerSlot": 1
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "A language can be recovered from recordings and passed to children, but the version that comes back is altered, and it lasts only if each generation is deliberately given it.",
-              "Since the revived form differs from the original, the effort to teach Manx to children ought to be judged a failure.",
-              "The case of Manx shows that any language declared extinct can be fully restored to daily use within a single generation.",
-              "Manx survived chiefly because the island government made the language compulsory in workplaces and business."
+              "Free volunteer workshops repair over half of the goods brought to them, and the ones they cannot save expose glued cases and withheld parts, so their lasting effect has been to supply lawmakers with the evidence behind spare-part and manual requirements.",
+              "Repair cafes have proved that most broken household goods can be mended by anyone who is given a screwdriver and a little patience.",
+              "The tax cuts introduced for repair work explain almost all of the recent growth in the number of repair cafes worldwide.",
+              "Since the cafes handle only a tiny share of household waste, their influence on manufacturers and governments has been negligible."
             ],
             "answerIdx": 0
           }
@@ -658,13 +658,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The library closes at half past seven on weekdays, but on Saturday it stays open until nine.",
+      "transcript": "The flight was delayed by ninety minutes, so we reached the hotel just after midnight.",
       "prompt": null,
       "tags": [
         "listen-numeral"
@@ -679,13 +679,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "She would have told us about the delay if anyone had bothered to ask her.",
+      "transcript": "There isn't much that any of us can do about it at this stage.",
       "prompt": null,
       "tags": [
         "listen-funcword"
@@ -700,34 +700,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Most of the volunteers had never handled a camera before the workshop began.",
-      "prompt": null,
-      "tags": [
-        "listen-chunk"
-      ],
-      "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
-    },
-    {
-      "id": "daily-lt-4",
-      "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
-      "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
-      "audioUrl": null,
-      "transcript": "The thin sheet of ice cracked as soon as she stepped onto it.",
+      "transcript": "The path through the woods was wet and slippery after the storm.",
       "prompt": null,
       "tags": [
         "listen-phoneme"
@@ -740,18 +719,39 @@
       }
     },
     {
-      "id": "daily-lt-5",
+      "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Roughly forty per cent of the seats were still empty fifteen minutes before the show.",
+      "transcript": "I'd rather walk home than wait twenty minutes for the next bus.",
       "prompt": null,
       "tags": [
-        "listen-numeral"
+        "listen-chunk"
+      ],
+      "source": "daily",
+      "payload": {
+        "rate": 0.9,
+        "voiceHint": "en-US",
+        "maxReplays": 3
+      }
+    },
+    {
+      "id": "daily-lt-5",
+      "userId": null,
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "taskType": "listen_and_type",
+      "difficulty": "hard",
+      "cefr": "C1",
+      "audioUrl": null,
+      "transcript": "They've been meaning to replace that old printer since the spring.",
+      "prompt": null,
+      "tags": [
+        "listen-chunk"
       ],
       "source": "daily",
       "payload": {
@@ -763,16 +763,16 @@
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z",
+      "createdAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Nobody expected the repairs to take longer than a fortnight, and yet they did.",
+      "transcript": "Had we known about the traffic, we would have left an hour earlier.",
       "prompt": null,
       "tags": [
-        "listen-chunk"
+        "listen-funcword"
       ],
       "source": "daily",
       "payload": {
