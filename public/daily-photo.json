@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-24",
-  "image": "/daily-photo.jpg?v=2026-08-24",
+  "date": "2026-08-26",
+  "image": "/daily-photo.jpg?v=2026-08-26",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "通りから見た古い小さなパン屋の店先。緑色の枠に花の絵が描かれた入口の向こうは暖かい黄色の照明で、奥の壁には古い金属の焼き型がたくさん掛かり、天井から琥珀色のランプが下がっている。カウンターには赤い古風なはかり、ガラスのカバーをかぶせたケーキ、パン、レモン、花瓶の花。手前では水色のダウンコートの女性が前かがみでケーキをのぞき込み、右側に紺のコートで白いトートバッグを持った女性が立つ。カウンターの奥ではマスクをした女性と男性の店員が接客している。",
-  "modelAnswer": "This photo shows a small old bakery, seen from the street. The doorway has a green frame with flowers painted on it. Inside, the light is warm and yellow. Many old metal baking pans hang on the wall, and a lamp hangs from the ceiling. On the counter there are cakes under a glass cover, some bread, lemons and a red weighing scale. Two women are standing in front of the counter. One of them, in a light blue coat, is leaning forward to look at the cakes. Behind the counter, two workers in masks are helping them. The shop looks old and friendly.",
-  "modelAnswerJa": "この写真は、通りから見た小さな古いパン屋を写しています。入口は緑色の枠で、花の絵がかかれています。中は明かりが暖かい黄色です。壁には古い金属の焼き型がたくさんかかっていて、天井からはランプが下がっています。カウンターの上には、ガラスのカバーの下にケーキがあり、パンやレモン、赤いはかりもあります。二人の女性がカウンターの前に立っています。そのうちの一人は水色のコートを着て、前かがみになってケーキを見ています。カウンターの奥では、マスクをした二人の店員が二人を手伝っています。この店は古くて、親しみやすい感じがします。",
+  "theme": "晴れた日の公園。木のピクニックテーブルの前で、二人の男の子が肩を寄せ合って立っている。左の子は黒いTシャツ・紺のショートパンツ・黒い腕時計、右の子は白い横じま入りの紺のTシャツと黒いショートパンツでカメラに向かってほほえんでいる。テーブルの上にはカラーペンでいっぱいのピンクのコップと白い箱、ベンチには青い水筒。奥には緑の芝生、荷物の置かれた別のテーブル、数人の人。サマーキャンプのような雰囲気。",
+  "modelAnswer": "This photo was taken in a park on a sunny day. Two boys are standing close together in front of a wooden picnic table. The boy on the left is wearing a black T-shirt, dark shorts and a black watch. The boy on the right has a blue T-shirt with white stripes, and he is smiling at the camera. On the table there is a pink cup full of colored pens, and a blue water bottle is standing on the bench. Behind them I can see green grass, some bags on the ground and a few other people. It looks like a summer camp.",
+  "modelAnswerJa": "この写真は、晴れた日に公園で撮られました。二人の男の子が、木のピクニックテーブルの前でぴったりくっついて立っています。左の男の子は黒いTシャツと濃い色のショートパンツを身につけ、黒い腕時計をしています。右の男の子は白いしまの入った紺のTシャツを着ていて、カメラに向かってほほえんでいます。テーブルの上には色ペンでいっぱいのピンクのコップがあり、ベンチには青い水筒が置かれています。二人の後ろには、緑の芝生や地面に置かれたかばん、数人の人が見えます。サマーキャンプのように見えます。",
   "tips": [
-    { "term": "seen from the street", "ja": "通りから見た（写真を撮った位置を説明できる）" },
-    { "term": "hang on the wall", "ja": "壁にかかっている" },
-    { "term": "in front of ~", "ja": "～の前に" },
-    { "term": "lean forward", "ja": "前かがみになる、身を乗り出す" },
-    { "term": "under a glass cover", "ja": "ガラスのカバーの下に" },
-    { "term": "a woman in a light blue coat", "ja": "水色のコートを着た女性（in ＋ 服 で服装を表せる）" },
-    { "term": "look old and friendly", "ja": "古くて親しみやすく見える（look ＋ 形容詞で雰囲気を言える）" }
+    { "term": "was taken in ~", "ja": "～で撮られた（写真の場所を言うときの決まった形）" },
+    { "term": "stand close together", "ja": "ぴったりくっついて立つ" },
+    { "term": "the boy on the left / on the right", "ja": "左の／右の男の子（位置の言い分け）" },
+    { "term": "be wearing ~", "ja": "～を着ている、身につけている" },
+    { "term": "smile at the camera", "ja": "カメラに向かってほほえむ" },
+    { "term": "full of ~", "ja": "～でいっぱいの" },
+    { "term": "It looks like ~", "ja": "～のように見える、～みたいだ" }
   ]
 }
