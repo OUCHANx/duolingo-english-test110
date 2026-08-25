@@ -1,389 +1,181 @@
 {
-  "generatedAt": "2026-08-24",
+  "generatedAt": "2026-08-26",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": [
-        "vocab"
-      ],
+      "tags": ["vocab"],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          {
-            "id": "w1",
-            "text": "knead",
-            "isReal": true
-          },
-          {
-            "id": "w2",
-            "text": "quinlade",
-            "isReal": false
-          },
-          {
-            "id": "w3",
-            "text": "skillet",
-            "isReal": true
-          },
-          {
-            "id": "w4",
-            "text": "flondish",
-            "isReal": false
-          },
-          {
-            "id": "w5",
-            "text": "marinade",
-            "isReal": true
-          },
-          {
-            "id": "w6",
-            "text": "harnelow",
-            "isReal": false
-          },
-          {
-            "id": "w7",
-            "text": "ladle",
-            "isReal": true
-          },
-          {
-            "id": "w8",
-            "text": "spadrine",
-            "isReal": false
-          },
-          {
-            "id": "w9",
-            "text": "simmer",
-            "isReal": true
-          },
-          {
-            "id": "w10",
-            "text": "clemmick",
-            "isReal": false
-          },
-          {
-            "id": "w11",
-            "text": "dough",
-            "isReal": true
-          },
-          {
-            "id": "w12",
-            "text": "trupplen",
-            "isReal": false
-          }
+          { "id": "w1", "text": "drizzle", "isReal": true },
+          { "id": "w2", "text": "plimber", "isReal": false },
+          { "id": "w3", "text": "humid", "isReal": true },
+          { "id": "w4", "text": "vandrisk", "isReal": false },
+          { "id": "w5", "text": "gale", "isReal": true },
+          { "id": "w6", "text": "frendlish", "isReal": false },
+          { "id": "w7", "text": "thaw", "isReal": true },
+          { "id": "w8", "text": "murgate", "isReal": false },
+          { "id": "w9", "text": "blizzard", "isReal": true },
+          { "id": "w10", "text": "sperlock", "isReal": false },
+          { "id": "w11", "text": "hailstone", "isReal": true },
+          { "id": "w12", "text": "tavolish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
-      "cefr": "B2",
+      "cefr": "C1",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": [
-        "vocab"
-      ],
+      "tags": ["vocab"],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          {
-            "id": "w1",
-            "text": "rehearsal",
-            "isReal": true
-          },
-          {
-            "id": "w2",
-            "text": "prendola",
-            "isReal": false
-          },
-          {
-            "id": "w3",
-            "text": "applause",
-            "isReal": true
-          },
-          {
-            "id": "w4",
-            "text": "blaskert",
-            "isReal": false
-          },
-          {
-            "id": "w5",
-            "text": "conductor",
-            "isReal": true
-          },
-          {
-            "id": "w6",
-            "text": "vontrill",
-            "isReal": false
-          },
-          {
-            "id": "w7",
-            "text": "backstage",
-            "isReal": true
-          },
-          {
-            "id": "w8",
-            "text": "chandrel",
-            "isReal": false
-          },
-          {
-            "id": "w9",
-            "text": "orchestra",
-            "isReal": true
-          },
-          {
-            "id": "w10",
-            "text": "lomterick",
-            "isReal": false
-          },
-          {
-            "id": "w11",
-            "text": "encore",
-            "isReal": true
-          },
-          {
-            "id": "w12",
-            "text": "ferstane",
-            "isReal": false
-          }
+          { "id": "w1", "text": "delegate", "isReal": true },
+          { "id": "w2", "text": "quantrel", "isReal": false },
+          { "id": "w3", "text": "streamline", "isReal": true },
+          { "id": "w4", "text": "blemisk", "isReal": false },
+          { "id": "w5", "text": "backlog", "isReal": true },
+          { "id": "w6", "text": "dorranty", "isReal": false },
+          { "id": "w7", "text": "appraisal", "isReal": true },
+          { "id": "w8", "text": "prelisk", "isReal": false },
+          { "id": "w9", "text": "overtime", "isReal": true },
+          { "id": "w10", "text": "fandolate", "isReal": false },
+          { "id": "w11", "text": "mentor", "isReal": true },
+          { "id": "w12", "text": "grombish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Teenagers are not simply lazy when they refuse to sleep before midnight; their body clocks genuinely {{b1}} later than those of younger children. The hormone that announces night arrives an hour or two behind schedule, so a timetable written for farming hours asks them to sit exams while the brain is still {{b2}} down. A handful of districts have pushed the first lesson back to nine o'clock and then measured what happened: attendance rose, accidents involving young drivers {{b3}}, and grades improved a little. The change costs almost nothing beyond rewriting the bus {{b4}}, which is why the argument has outlived the evidence.",
+        "text": "Astronomers almost never see a distant planet directly; instead they {{b1}} its presence from the tiny dip in starlight that occurs whenever the planet {{b2}} in front of its star. The method is indirect, but it has already {{b3}} thousands of worlds that no telescope could photograph.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "shift",
-            "keepHead": 3
-          },
-          {
-            "id": "b2",
-            "full": "shutting",
-            "keepHead": 4
-          },
-          {
-            "id": "b3",
-            "full": "fell",
-            "keepHead": 2
-          },
-          {
-            "id": "b4",
-            "full": "timetable",
-            "keepHead": 4
-          }
+          { "id": "b1", "full": "infer", "keepHead": 3 },
+          { "id": "b2", "full": "passes", "keepHead": 3 },
+          { "id": "b3", "full": "revealed", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Arabica coffee grows well only in a narrow band of altitude and temperature, and that band is climbing the mountainside. Farmers who inherited land at eight hundred metres now watch their yields {{b1}} while neighbours a thousand metres higher enjoy their best harvests in living memory. Moving uphill is rarely possible, since the upper slopes are either national park or already {{b2}}. Breeding offers one escape: tougher varieties exist, though most were abandoned decades ago because buyers judged their flavour too {{b3}}. The industry is now paying to recover what it once threw away, and that work will take at least a {{b4}} to bear fruit.",
+        "text": "A leaking pipe under a city street can waste more water in a week than a household {{b1}} in a year, yet the leak is invisible and therefore {{b2}} to be repaired last. Utilities have begun to place acoustic sensors along the mains, hoping to {{b3}} the faint noise that a crack makes underground.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "shrink",
-            "keepHead": 3
-          },
-          {
-            "id": "b2",
-            "full": "occupied",
-            "keepHead": 4
-          },
-          {
-            "id": "b3",
-            "full": "plain",
-            "keepHead": 2
-          },
-          {
-            "id": "b4",
-            "full": "decade",
-            "keepHead": 3
-          }
+          { "id": "b1", "full": "consumes", "keepHead": 4 },
+          { "id": "b2", "full": "tends", "keepHead": 3 },
+          { "id": "b3", "full": "detect", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "collocation"],
       "source": "daily",
       "payload": {
-        "text": "A painted line on a busy road is the cheapest sort of cycle lane and, judging by the crash figures, close to the least {{b1}}. Riders in a painted lane sit within a door's width of parked cars and are overtaken at speed by drivers who feel entitled to ignore them. Where cities have instead built lanes separated by a kerb, the number of people willing to {{b2}} has risen sharply, and most of the newcomers are precisely the cautious riders that surveys said did not exist. The lesson is awkward for a planner on a {{b3}}: a network of half measures may attract almost nobody, while three properly protected routes can change how a whole district {{b4}}.",
+        "text": "Working from home saves the commute, but it also {{b1}} the corridor conversations in which colleagues once picked up half of what they knew about a project. Managers must now {{b2}} deliberately the sort of information that used to travel by {{b3}}.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "effective",
-            "keepHead": 4
-          },
-          {
-            "id": "b2",
-            "full": "cycle",
-            "keepHead": 3
-          },
-          {
-            "id": "b3",
-            "full": "budget",
-            "keepHead": 3
-          },
-          {
-            "id": "b4",
-            "full": "travels",
-            "keepHead": 4
-          }
+          { "id": "b1", "full": "removes", "keepHead": 4 },
+          { "id": "b2", "full": "circulate", "keepHead": 5 },
+          { "id": "b3", "full": "accident", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "read_and_complete",
-      "difficulty": "hard",
-      "cefr": "C1",
-      "prompt": "各空所に入る語を、見えている文字に続けて完成させてください。",
+      "difficulty": "medium",
+      "cefr": "B2",
+      "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Most of what archaeologists know about ancient trade comes from rubbish: broken pots, kitchen bones and the seeds that fell between floorboards. Treasure tells a thinner story, because valuables were mended, melted and passed on, while a cracked jar was simply {{b1}} where it lay. Waste is also honest about quantity, since a single kitchen heap can show that oil arrived from three provinces, which no inscription would ever trouble to {{b2}}. The difficulty is that rubbish survives only where the ground is {{b3}} or dry enough to halt bacteria, so the map of what we know follows soil chemistry rather than the real {{b4}} of ancient life.",
+        "text": "Muscle does not grow during exercise itself. Hard training merely causes microscopic tears, and the repair that {{b1}} afterwards is what makes the fibre stronger. Since most of that repair happens during deep sleep, athletes who {{b2}} rest in favour of extra sessions tend to {{b3}} rather than improve.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "dropped",
-            "keepHead": 4
-          },
-          {
-            "id": "b2",
-            "full": "record",
-            "keepHead": 3
-          },
-          {
-            "id": "b3",
-            "full": "waterlogged",
-            "keepHead": 5
-          },
-          {
-            "id": "b4",
-            "full": "pattern",
-            "keepHead": 4
-          }
+          { "id": "b1", "full": "follows", "keepHead": 4 },
+          { "id": "b2", "full": "neglect", "keepHead": 4 },
+          { "id": "b3", "full": "plateau", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-cts-1",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
-      "prompt": "各空所に最も適切な語句を選んでください。",
+      "prompt": "文脈に最も合う語句を選んでください。",
       "passage": null,
-      "tags": [
-        "collocation",
-        "grammar",
-        "cohesion"
-      ],
+      "tags": ["collocation", "grammar"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "Nobody in the room was willing to",
-            "after": "the blame for a decision that six departments had approved.",
-            "options": [
-              "take",
-              "catch",
-              "hold",
-              "bring"
-            ],
+            "before": "The company was quick to",
+            "after": "responsibility for the outage, but far slower to explain what had actually failed.",
+            "options": ["accept", "receive", "obtain", "gather"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "take the blame（責任・非を引き受ける）が定型表現。catch は「捕まえる」で blame とは組まない。hold は hold someone responsible の形なら使えるが hold the blame とは言わない。bring も bring a charge against ~ のように使い、bring the blame とはしない。"
+            "explanation": "accept responsibility で「責任を引き受ける」という決まった組み合わせ。receive（受け取る）/ obtain（手に入れる）/ gather（集める）は responsibility とは結びつかない。"
           },
           {
             "id": "g2",
-            "before": "The safety inspector insisted that every fire door",
-            "after": "left unlocked while the drill was in progress.",
-            "options": [
-              "be",
-              "is",
-              "was",
-              "would be"
-            ],
+            "before": "Only after the third audit",
+            "after": "the full extent of the problem become clear to the board.",
+            "options": ["did", "had", "was", "it did"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "insist that ~ の that 節では、要求・提案を表すため動詞は原形（仮定法現在）になる。every fire door be left ~ が正しい形。is / was は時制の一致で入れたくなるが、要求の内容を述べる節では使わない。would be も未来の予測になり、指示の内容にならない。"
-          },
-          {
-            "id": "g3",
-            "before": "Rain had washed the path away in three places;",
-            "after": ", the walkers had to turn back well before the summit.",
-            "options": [
-              "as a result",
-              "by contrast",
-              "for instance",
-              "even so"
-            ],
-            "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "前半が原因、後半がその結果なので as a result（その結果）が適切。by contrast は対比、for instance は具体例の提示、even so は「それでも」と逆接になり、いずれも因果関係を示せない。"
+            "explanation": "Only after ~ が文頭に出ると倒置が起き、〈did ＋ 主語 ＋ 動詞の原形〉の語順になる。後ろの become が原形であることが手がかり。"
           }
         ]
       }
@@ -391,62 +183,34 @@
     {
       "id": "daily-cts-2",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
-      "prompt": "各空所に最も適切な語句を選んでください。",
+      "prompt": "文脈に最も合う語句を選んでください。",
       "passage": null,
-      "tags": [
-        "vocab",
-        "grammar",
-        "collocation"
-      ],
+      "tags": ["cohesion", "collocation"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The report is careful to",
-            "after": "between an error in the data and an error in the argument.",
-            "options": [
-              "distinguish",
-              "separate",
-              "divide",
-              "compare"
-            ],
+            "before": "Planting trees along a street lowers the summer temperature by several degrees. That benefit,",
+            "after": ", is not shared equally, because the wealthiest districts already have the most shade.",
+            "options": ["however", "therefore", "for instance", "in short"],
             "answerIdx": 0,
-            "tag": "vocab",
-            "explanation": "distinguish between A and B（AとBを区別する）が正しい形で、「二つの誤りを見分ける」という文意にも合う。separate は separate A from B、divide は divide A into B の形をとり、between とは組まない。compare も compare A with B が普通で、compare between とは言わない。"
+            "tag": "cohesion",
+            "explanation": "前文で述べた利点に対して「しかし公平には分配されていない」と対比を示すので however。therefore は結果、for instance は例示、in short は要約を導く。"
           },
           {
             "id": "g2",
-            "before": "The opening concert will have to be cancelled",
-            "after": "the strike continue into next week.",
-            "options": [
-              "should",
-              "if",
-              "unless",
-              "were"
-            ],
-            "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "if を省いた倒置の条件文 should + 主語 + 動詞の原形（＝if the strike should continue）で「万一〜なら」という控えめな仮定を表す。If / Unless を使うなら continues と三人称単数の s が必要で、原形 continue とは合わない。Were なら were the strike to continue の形になる。"
-          },
-          {
-            "id": "g3",
-            "before": "She has a habit of",
-            "after": "conclusions long before the evidence is in.",
-            "options": [
-              "jumping to",
-              "falling into",
-              "running at",
-              "getting on"
-            ],
+            "before": "The council has promised to",
+            "after": "the gap within a decade, starting with the three hottest neighbourhoods.",
+            "options": ["narrow", "shorten", "shrink", "tighten"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "jump to conclusions（早合点する）が定型表現で、「証拠が出そろう前に結論を出す」という文意にぴったり合う。fall into は fall into a trap / a habit の形、run at は「〜に突進する」、get on は「乗る・うまくやる」で、いずれも conclusions とは組まない。"
+            "explanation": "「格差を縮める」は narrow the gap。shorten は長さ・時間、shrink は全体が縮むこと、tighten は締めることに使い、gap とは組み合わせない。"
           }
         ]
       }
@@ -454,26 +218,21 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": [
-        "reading-gist",
-        "reading-detail",
-        "inference",
-        "cohesion"
-      ],
+      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Night Train Comes Back",
+        "title": "Bringing the River Back",
         "paragraphs": [
-          "For about thirty years the sleeper train looked like a museum piece. Budget airlines undercut it on price, new high-speed lines beat it between capitals close enough to reach before lunch, and the carriages themselves were the least profitable stock an operator could own: heavy, slow to clean, and standing still for most of every day. Between 2000 and 2016 one European network after another quietly withdrew them, and the services that survived did so on scenic routes where the journey, rather than the destination, was the point.",
-          "The revival that followed was not driven by nostalgia. An Austrian operator bought the discarded carriages of a larger neighbour, rebuilt them, and ran the night train as an ordinary business, adding routes when the bookings justified it and dropping them when they did not. Passengers were doing their own arithmetic in the meantime: a berth from Vienna to Brussels saves a night's hotel as well as a flight, and it removes two airport transfers, two security queues and a whole day from the calendar.",
-          "The obstacles now are administrative rather than commercial. Charges for using the track are set country by country and can double the cost of crossing three borders; safety rules for sleeping passengers differ from state to state; and a carriage approved in one country may sit unused for a year while a neighbouring authority examines it. None of that is beyond the reach of policy, which is why the operators keep saying that what they want is not subsidy but a single set of rules."
+          "For most of the twentieth century, a stream running through a growing city was treated as a drain. It was straightened, lined with concrete and finally buried, and the ground above it became a road or a car park. The logic was simple: water that could not be seen could not flood, could not smell, and could not be blamed for disease. Whole rivers disappeared from the maps in this way, surviving only in the names of the streets laid over them.",
+          "The reversal, known as daylighting, began where the engineering had failed rather than where the nostalgia was strongest. Buried culverts age badly, and replacing a collapsing concrete tunnel beneath a city centre can cost more than removing it altogether and letting the stream run in the open air. Seoul's Cheonggyecheon, uncovered in 2005 once the elevated motorway above it was judged unsafe, is the example everyone cites, but smaller schemes in Sheffield, Zurich and Yonkers were driven by the same unglamorous arithmetic.",
+          "What the engineers did not anticipate was how much else would change. An open channel slows heavy rain instead of firing it downstream, so flooding fell in districts the project had never been designed to protect, and summer temperatures beside the water dropped by two or three degrees. Property values rose as well, and that is where the difficulty begins: the residents who lived for decades with the culvert are not always the ones who can afford the street once the river is back."
         ],
         "questions": [
           {
@@ -481,60 +240,39 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Night trains were withdrawn as unprofitable, but have returned on straightforwardly commercial grounds, and what limits them now is a patchwork of national regulation rather than weak demand.",
-              "Sleeper services can survive only where governments are willing to pay for them, since no operator has ever run one at a profit.",
-              "Budget airlines have lost so many passengers to the railways that several of them have withdrawn from short European routes.",
-              "Older travellers' affection for the sleeping car has persuaded operators to restore services that make no financial sense."
+              "Cities are uncovering their buried streams mainly because the ageing culverts have become expensive to maintain, and the finished projects have delivered benefits nobody planned for along with a new problem of affordability.",
+              "Daylighting has been driven above all by public affection for lost rivers, which is why the schemes started in the cities with the longest recorded history.",
+              "Burying urban streams was recognised as an engineering mistake from the beginning, and nineteenth-century critics correctly predicted that it would make flooding worse.",
+              "Seoul's Cheonggyecheon is the only daylighting scheme that has ever worked, and other cities have quietly abandoned the idea as too costly."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Operators found sleeper carriages unattractive in the early 2000s partly because the vehicles",
-            "after": "unlike the trains that used the same lines by day.",
-            "options": [
-              "earned nothing during the many hours they spent standing idle",
-              "could not be fitted with the safety equipment that new rules demanded",
-              "were far too light to be run safely on high-speed track",
-              "had to be replaced every few years because of the distances they covered"
-            ],
+            "before": "According to the first paragraph, burying a stream appealed to city authorities because water they had hidden could no longer be",
+            "after": "for floods, bad smells or outbreaks of disease.",
+            "options": ["blamed", "accused", "charged", "suspected"],
             "answerIdx": 0,
-            "tag": "reading-detail"
+            "tag": "collocation"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "夜行列車が乗客にとって費用の面で有利になる理由を最もよく表している語句はどれですか。",
+            "prompt": "河川を再び地上に出す事業が公平性の問題を生むことを最も明確に示している語句はどれですか。",
             "spans": [
-              {
-                "id": "s1",
-                "text": "Budget airlines undercut it on price"
-              },
-              {
-                "id": "s2",
-                "text": "ran the night train as an ordinary business"
-              },
-              {
-                "id": "s3",
-                "text": "saves a night's hotel as well as a flight"
-              },
-              {
-                "id": "s4",
-                "text": "Charges for using the track are set country by country"
-              }
+              { "id": "s1", "text": "An open channel slows heavy rain instead of firing it downstream" },
+              { "id": "s2", "text": "summer temperatures beside the water dropped by two or three degrees" },
+              { "id": "s3", "text": "the residents who lived for decades with the culvert are not always the ones who can afford the street once the river is back" },
+              { "id": "s4", "text": "flooding fell in districts the project had never been designed to protect" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The carriages had not suddenly become popular again; the sums around them had changed.",
-            "slots": [
-              "[after paragraph 1]",
-              "[after paragraph 2]",
-              "[after paragraph 3]"
-            ],
+            "sentence": "Demolition, in other words, was often the cheaper line in the budget.",
+            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
           {
@@ -542,10 +280,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Written off as unprofitable relics, sleeper trains have been brought back by an operator running them on commercial terms and by passengers who count hotel nights and airport time, so the remaining barrier is Europe's mismatched national rules rather than a shortage of demand.",
-              "Because high-speed lines now link most European capitals, the night train can only ever serve tourists travelling for the scenery.",
-              "The main lesson of the sleeper's return is that heavy old carriages should be scrapped and replaced with newly built ones as soon as funds allow.",
-              "Track charges are so high across Europe that no cross-border rail service can be expected to survive without public money."
+              "Streams that cities once buried as drains are being reopened because crumbling culverts cost more to replace than to remove, and the results—less flooding, cooler streets and higher rents—include benefits the engineers never intended and a fairness problem they never addressed.",
+              "The main reason cities are reopening their rivers is that residents have campaigned for the return of landscapes their grandparents remembered.",
+              "Because daylighting raises property values, it should be regarded primarily as a tool of urban regeneration rather than as a water-management measure.",
+              "Concrete culverts remain the safest way to handle an urban stream, and the recent schemes to remove them will have to be reversed within a generation."
             ],
             "answerIdx": 0
           }
@@ -555,26 +293,21 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": [
-        "reading-gist",
-        "reading-detail",
-        "inference",
-        "cohesion"
-      ],
+      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Shop That Only Fixes Things",
+        "title": "What the Forest Floor Actually Does",
         "paragraphs": [
-          "A repair cafe is a simple idea: a hall, a few tables, volunteers who own tools, and anybody who turns up carrying something broken. Nothing is sold and nothing is charged for, which keeps the whole event outside the rules that govern a shop. The first was held in Amsterdam in 2009, and there are now several thousand around the world. The same three items dominate every log book: lamps, vacuum cleaners, and the cheaper sort of headphones.",
-          "The movement's own figures are modest and honestly reported, since rather more than half of what comes through the door leaves working. The failures are the instructive part. A volunteer can usually fit a new switch or a new cable, but is stopped by a glued case, a screw with an unfamiliar head, or a component that the manufacturer sells only to approved workshops, if it sells it at all. Most of what defeats a repair cafe was decided years earlier at a drawing board.",
-          "That is the argument which has carried the idea into law. Several governments now require makers of household machines to supply spare parts for a decade and to publish repair manuals, and a few have cut the tax charged on repair work. The cafes themselves will never handle much of a country's waste. What they produce is evidence, in the form of a queue of ordinary objects that could have been mended, photographed and counted, and evidence is what committees respond to."
+          "Few scientific images have travelled as far as the wood wide web. Fungal threads, the story goes, knit the roots of a forest into a single network along which older trees feed sugar to struggling seedlings, and warnings of insect attack pass from neighbour to neighbour. The picture is attractive because it turns a wood into a community, and it has been repeated in documentaries, novels and school textbooks until it reads like settled fact.",
+          "The underlying biology is not in doubt. Mycorrhizal fungi genuinely wrap around and enter tree roots, and they genuinely trade mineral nutrients for the sugars a tree makes above ground; carbon labelled in a laboratory has certainly been traced from one seedling into another through fungal tissue. What is disputed is the leap from those observations to the claim that mature trees deliberately support their offspring. A recent review of the field found that the most-cited studies were small, conducted mostly in a handful of North American plots, and rarely repeated.",
+          "The correction matters beyond the seminar room. Forestry policies have been redrafted on the assumption that leaving a few large trees standing will nurse a new generation through the network below, and money has followed the assumption. If the transfers are modest, or if the fungus is simply pursuing its own interest rather than the forest's, the practice may still be worth keeping for other reasons, but the reasons will have to be argued rather than assumed."
         ],
         "questions": [
           {
@@ -582,71 +315,50 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Volunteer repair events mend a fair share of what they receive, but their real contribution is the evidence they gather that design choices, not owners' carelessness, make many goods unrepairable.",
-              "Repair cafes have grown so quickly that they now divert a significant proportion of household waste from landfill.",
-              "The chief obstacle facing repair cafes is a shortage of volunteers with the skills to work on modern electrical goods.",
-              "Because manufacturers have begun publishing repair manuals, the work of repair cafes is largely finished."
+              "The fungal connections between forest trees are real, but the popular claim that old trees deliberately nurse seedlings through them rests on thin evidence, which matters because forestry policy has already been built on it.",
+              "Mycorrhizal fungi have turned out not to exist in the form biologists once described, and the entire field will have to begin again from the laboratory.",
+              "Documentaries and novels should be barred from discussing scientific findings until those findings have been replicated by independent teams.",
+              "Because trees clearly cooperate underground, forestry policy has at last caught up with what ecologists have known for a century."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "Repair cafes fall outside commercial regulation because the event",
-            "after": "for any of the work that its volunteers do.",
-            "options": [
-              "neither sells goods nor takes payment",
-              "is held only a few times each year",
-              "operates under a licence granted by the local council",
-              "accepts responsibility for any damage caused"
-            ],
+            "before": "The writer accepts that fungi exchange nutrients with tree roots, and questions instead whether such transfers",
+            "after": "any intention on the part of the older trees.",
+            "options": ["demonstrate", "resemble", "withstand", "postpone"],
             "answerIdx": 0,
-            "tag": "reading-detail"
+            "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "修理できない原因が製品の設計段階にあることを最も明確に示している語句はどれですか。",
+            "prompt": "有名な研究結果を慎重に受け止めるべき理由を最もよく示している語句はどれですか。",
             "spans": [
-              {
-                "id": "s1",
-                "text": "a hall, a few tables, volunteers who own tools"
-              },
-              {
-                "id": "s2",
-                "text": "rather more than half of what comes through the door leaves working"
-              },
-              {
-                "id": "s3",
-                "text": "was decided years earlier at a drawing board"
-              },
-              {
-                "id": "s4",
-                "text": "a few have cut the tax charged on repair work"
-              }
+              { "id": "s1", "text": "it turns a wood into a community" },
+              { "id": "s2", "text": "carbon labelled in a laboratory has certainly been traced from one seedling into another" },
+              { "id": "s3", "text": "the most-cited studies were small, conducted mostly in a handful of North American plots, and rarely repeated" },
+              { "id": "s4", "text": "money has followed the assumption" }
             ],
             "answerSpanId": "s3"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Success rates, in other words, say more about manufacturers than about volunteers.",
-            "slots": [
-              "[after paragraph 1]",
-              "[after paragraph 2]",
-              "[after paragraph 3]"
-            ],
-            "answerSlot": 1
+            "sentence": "Being popular, however, is not the same as being tested.",
+            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
+            "answerSlot": 0
           },
           {
             "kind": "summarize",
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Free volunteer workshops repair over half of the goods brought to them, and the ones they cannot save expose glued cases and withheld parts, so their lasting effect has been to supply lawmakers with the evidence behind spare-part and manual requirements.",
-              "Repair cafes have proved that most broken household goods can be mended by anyone who is given a screwdriver and a little patience.",
-              "The tax cuts introduced for repair work explain almost all of the recent growth in the number of repair cafes worldwide.",
-              "Since the cafes handle only a tiny share of household waste, their influence on manufacturers and governments has been negligible."
+              "The fungal links beneath a forest are well established, but the widely repeated story that mature trees use them to feed their young comes from a few small, seldom-repeated studies, and since forestry rules and funding now depend on that story, the case for those rules needs to be made on evidence rather than on a pleasing image.",
+              "Since the wood wide web has been shown to be a myth, foresters should now remove mature trees from replanted areas rather than leaving them standing.",
+              "The chief value of the wood wide web idea is that it encourages the public to think of forests as communities, which is more important than whether the details are accurate.",
+              "Laboratory work on labelled carbon has proved that trees consciously choose which neighbours to feed and when to feed them."
             ],
             "answerIdx": 0
           }
@@ -658,128 +370,92 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The flight was delayed by ninety minutes, so we reached the hotel just after midnight.",
+      "transcript": "The seminar starts at quarter past four in room three fifteen.",
       "prompt": null,
-      "tags": [
-        "listen-numeral"
-      ],
+      "tags": ["listen-numeral"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "There isn't much that any of us can do about it at this stage.",
+      "transcript": "She would have told us if there had been any change to the schedule.",
       "prompt": null,
-      "tags": [
-        "listen-funcword"
-      ],
+      "tags": ["listen-funcword"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The path through the woods was wet and slippery after the storm.",
+      "transcript": "I'm not sure whether it's worth the extra cost, to be honest.",
       "prompt": null,
-      "tags": [
-        "listen-phoneme"
-      ],
+      "tags": ["listen-chunk"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I'd rather walk home than wait twenty minutes for the next bus.",
+      "transcript": "The thick fog made it hard to see the ships leaving the harbour.",
       "prompt": null,
-      "tags": [
-        "listen-chunk"
-      ],
+      "tags": ["listen-phoneme"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "They've been meaning to replace that old printer since the spring.",
+      "transcript": "We ought to have booked the tickets while they were still cheap.",
       "prompt": null,
-      "tags": [
-        "listen-chunk"
-      ],
+      "tags": ["listen-chunk"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z",
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "hard",
-      "cefr": "C1",
+      "difficulty": "medium",
+      "cefr": "B2",
       "audioUrl": null,
-      "transcript": "Had we known about the traffic, we would have left an hour earlier.",
+      "transcript": "Roughly forty percent of the students said they study best before eight in the morning.",
       "prompt": null,
-      "tags": [
-        "listen-funcword"
-      ],
+      "tags": ["listen-numeral"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     }
   ]
 }
