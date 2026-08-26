@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-26",
+  "generatedAt": "2026-08-27",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
@@ -16,28 +16,28 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "drizzle", "isReal": true },
-          { "id": "w2", "text": "plimber", "isReal": false },
-          { "id": "w3", "text": "humid", "isReal": true },
-          { "id": "w4", "text": "vandrisk", "isReal": false },
-          { "id": "w5", "text": "gale", "isReal": true },
-          { "id": "w6", "text": "frendlish", "isReal": false },
-          { "id": "w7", "text": "thaw", "isReal": true },
-          { "id": "w8", "text": "murgate", "isReal": false },
-          { "id": "w9", "text": "blizzard", "isReal": true },
-          { "id": "w10", "text": "sperlock", "isReal": false },
-          { "id": "w11", "text": "hailstone", "isReal": true },
-          { "id": "w12", "text": "tavolish", "isReal": false }
+          { "id": "w1", "text": "simmer", "isReal": true },
+          { "id": "w2", "text": "grandle", "isReal": false },
+          { "id": "w3", "text": "marinate", "isReal": true },
+          { "id": "w4", "text": "plunket", "isReal": false },
+          { "id": "w5", "text": "ladle", "isReal": true },
+          { "id": "w6", "text": "chostery", "isReal": false },
+          { "id": "w7", "text": "brittle", "isReal": true },
+          { "id": "w8", "text": "sprandal", "isReal": false },
+          { "id": "w9", "text": "garnish", "isReal": true },
+          { "id": "w10", "text": "frimble", "isReal": false },
+          { "id": "w11", "text": "leftover", "isReal": true },
+          { "id": "w12", "text": "quandish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "read_and_select",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "cefr": "C1",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
@@ -46,26 +46,26 @@
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          { "id": "w1", "text": "delegate", "isReal": true },
-          { "id": "w2", "text": "quantrel", "isReal": false },
-          { "id": "w3", "text": "streamline", "isReal": true },
-          { "id": "w4", "text": "blemisk", "isReal": false },
-          { "id": "w5", "text": "backlog", "isReal": true },
-          { "id": "w6", "text": "dorranty", "isReal": false },
-          { "id": "w7", "text": "appraisal", "isReal": true },
-          { "id": "w8", "text": "prelisk", "isReal": false },
-          { "id": "w9", "text": "overtime", "isReal": true },
-          { "id": "w10", "text": "fandolate", "isReal": false },
-          { "id": "w11", "text": "mentor", "isReal": true },
-          { "id": "w12", "text": "grombish", "isReal": false }
+          { "id": "w1", "text": "scaffold", "isReal": true },
+          { "id": "w2", "text": "torvicate", "isReal": false },
+          { "id": "w3", "text": "tenant", "isReal": true },
+          { "id": "w4", "text": "blennish", "isReal": false },
+          { "id": "w5", "text": "renovate", "isReal": true },
+          { "id": "w6", "text": "cormidge", "isReal": false },
+          { "id": "w7", "text": "corridor", "isReal": true },
+          { "id": "w8", "text": "starnable", "isReal": false },
+          { "id": "w9", "text": "dwelling", "isReal": true },
+          { "id": "w10", "text": "prandiver", "isReal": false },
+          { "id": "w11", "text": "skyline", "isReal": true },
+          { "id": "w12", "text": "moltrey", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -74,61 +74,40 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Astronomers almost never see a distant planet directly; instead they {{b1}} its presence from the tiny dip in starlight that occurs whenever the planet {{b2}} in front of its star. The method is indirect, but it has already {{b3}} thousands of worlds that no telescope could photograph.",
+        "text": "Most people assume that they simply need more hours in bed, but researchers who study sleep insist that {{b1}} matters as much as duration. A night broken into short fragments never lets the brain {{b2}} into its deeper stages, and the result is a morning that feels {{b3}} even after a full eight hours.",
         "blanks": [
-          { "id": "b1", "full": "infer", "keepHead": 3 },
-          { "id": "b2", "full": "passes", "keepHead": 3 },
-          { "id": "b3", "full": "revealed", "keepHead": 4 }
+          { "id": "b1", "full": "quality", "keepHead": 3 },
+          { "id": "b2", "full": "settle", "keepHead": 3 },
+          { "id": "b3", "full": "sluggish", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "read_and_complete",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "prompt": "空所に入る語を完成させてください。",
       "passage": null,
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "A leaking pipe under a city street can waste more water in a week than a household {{b1}} in a year, yet the leak is invisible and therefore {{b2}} to be repaired last. Utilities have begun to place acoustic sensors along the mains, hoping to {{b3}} the faint noise that a crack makes underground.",
+        "text": "Almost all international data crosses the world along cables that {{b1}} on the ocean floor rather than through satellites. Each one is barely thicker than a garden hose, so a single anchor dragged in the wrong place can {{b2}} an entire region's traffic until a repair ship arrives. To reduce that risk, operators deliberately {{b3}} spare lines along completely different routes.",
         "blanks": [
-          { "id": "b1", "full": "consumes", "keepHead": 4 },
-          { "id": "b2", "full": "tends", "keepHead": 3 },
-          { "id": "b3", "full": "detect", "keepHead": 3 }
+          { "id": "b1", "full": "rest", "keepHead": 2 },
+          { "id": "b2", "full": "disrupt", "keepHead": 3 },
+          { "id": "b3", "full": "install", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
-      "taskType": "read_and_complete",
-      "difficulty": "hard",
-      "cefr": "C1",
-      "prompt": "空所に入る語を完成させてください。",
-      "passage": null,
-      "tags": ["spelling", "collocation"],
-      "source": "daily",
-      "payload": {
-        "text": "Working from home saves the commute, but it also {{b1}} the corridor conversations in which colleagues once picked up half of what they knew about a project. Managers must now {{b2}} deliberately the sort of information that used to travel by {{b3}}.",
-        "blanks": [
-          { "id": "b1", "full": "removes", "keepHead": 4 },
-          { "id": "b2", "full": "circulate", "keepHead": 5 },
-          { "id": "b3", "full": "accident", "keepHead": 4 }
-        ]
-      }
-    },
-    {
-      "id": "daily-rc-4",
-      "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
@@ -137,80 +116,119 @@
       "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Muscle does not grow during exercise itself. Hard training merely causes microscopic tears, and the repair that {{b1}} afterwards is what makes the fibre stronger. Since most of that repair happens during deep sleep, athletes who {{b2}} rest in favour of extra sessions tend to {{b3}} rather than improve.",
+        "text": "Long before refrigeration existed, cooks relied on salt and patience to stop food from {{b1}}. Cabbage packed tightly into a jar releases its own brine, and the bacteria that {{b2}} in that salty liquid turn sugars into acid. The acid soon makes the jar far too sour for anything harmful to {{b3}}, which is why a crock of sauerkraut can sit in a cellar all winter.",
         "blanks": [
-          { "id": "b1", "full": "follows", "keepHead": 4 },
-          { "id": "b2", "full": "neglect", "keepHead": 4 },
-          { "id": "b3", "full": "plateau", "keepHead": 4 }
+          { "id": "b1", "full": "spoiling", "keepHead": 4 },
+          { "id": "b2", "full": "thrive", "keepHead": 3 },
+          { "id": "b3", "full": "survive", "keepHead": 3 }
         ]
       }
     },
     {
-      "id": "daily-cts-1",
+      "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
-      "taskType": "complete_the_sentences",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
+      "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
+      "prompt": "空所に入る語を完成させてください。",
+      "passage": null,
+      "tags": ["spelling", "vocab"],
+      "source": "daily",
+      "payload": {
+        "text": "A conservator's first duty is not to make an old painting look new but to keep every repair {{b1}}, so that a later specialist can undo the work without harming the original. Varnish that has yellowed is lifted with solvents chosen to {{b2}} the paint underneath, and colour added to a damaged area is applied in thin strokes that remain {{b3}} under ultraviolet light.",
+        "blanks": [
+          { "id": "b1", "full": "reversible", "keepHead": 5 },
+          { "id": "b2", "full": "spare", "keepHead": 2 },
+          { "id": "b3", "full": "visible", "keepHead": 3 }
+        ]
+      }
+    },
+    {
+      "id": "daily-cs-1",
+      "userId": null,
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
+      "taskType": "complete_the_sentences",
+      "difficulty": "medium",
+      "cefr": "B2",
       "prompt": "文脈に最も合う語句を選んでください。",
       "passage": null,
-      "tags": ["collocation", "grammar"],
+      "tags": ["grammar", "collocation", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The company was quick to",
-            "after": "responsibility for the outage, but far slower to explain what had actually failed.",
-            "options": ["accept", "receive", "obtain", "gather"],
+            "before": "The library's evening reading classes were nearly cancelled last spring;",
+            "after": "a group of retired teachers offered to run them without pay.",
+            "options": ["however,", "therefore,", "meanwhile,", "besides,"],
             "answerIdx": 0,
-            "tag": "collocation",
-            "explanation": "accept responsibility で「責任を引き受ける」という決まった組み合わせ。receive（受け取る）/ obtain（手に入れる）/ gather（集める）は responsibility とは結びつかない。"
+            "tag": "cohesion",
+            "explanation": "「中止寸前だった」→「無償で引き受ける人が現れた」は逆接の展開なので however が適切。therefore は因果、meanwhile は同時進行、besides は追加。"
           },
           {
             "id": "g2",
-            "before": "Only after the third audit",
-            "after": "the full extent of the problem become clear to the board.",
-            "options": ["did", "had", "was", "it did"],
+            "before": "Attendance has",
+            "after": "by almost half since then, and the council now points to the programme as a model.",
+            "options": ["risen", "raised", "arisen", "aroused"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "Only after ~ が文頭に出ると倒置が起き、〈did ＋ 主語 ＋ 動詞の原形〉の語順になる。後ろの become が原形であることが手がかり。"
+            "explanation": "目的語がなく「(出席者数が)増えた」という自動詞なので rise の過去分詞 risen。raise は他動詞、arise は「生じる」、arouse は「感情を呼び起こす」。"
+          },
+          {
+            "id": "g3",
+            "before": "The volunteers say they take real",
+            "after": "in watching an adult read a whole page aloud for the first time.",
+            "options": ["pride", "proud", "pridefully", "prided"],
+            "answerIdx": 0,
+            "tag": "collocation",
+            "explanation": "take pride in ~ で「～を誇りに思う」。take の目的語なので名詞 pride が必要。"
           }
         ]
       }
     },
     {
-      "id": "daily-cts-2",
+      "id": "daily-cs-2",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う語句を選んでください。",
       "passage": null,
-      "tags": ["cohesion", "collocation"],
+      "tags": ["collocation", "vocab", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "Planting trees along a street lowers the summer temperature by several degrees. That benefit,",
-            "after": ", is not shared equally, because the wealthiest districts already have the most shade.",
-            "options": ["however", "therefore", "for instance", "in short"],
+            "before": "Software designed to hold your attention rarely announces",
+            "after": "; it simply removes every natural place to stop.",
+            "options": ["itself", "himself", "oneself", "themselves"],
             "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "前文で述べた利点に対して「しかし公平には分配されていない」と対比を示すので however。therefore は結果、for instance は例示、in short は要約を導く。"
+            "tag": "grammar",
+            "explanation": "主語は単数の物 Software なので再帰代名詞は itself。announce itself で「自らの存在を告げる」。"
           },
           {
             "id": "g2",
-            "before": "The council has promised to",
-            "after": "the gap within a decade, starting with the three hottest neighbourhoods.",
-            "options": ["narrow", "shorten", "shrink", "tighten"],
+            "before": "A feed has no final page, so the decision to put the phone down must",
+            "after": "entirely from the reader.",
+            "options": ["come", "arrive", "reach", "occur"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "「格差を縮める」は narrow the gap。shorten は長さ・時間、shrink は全体が縮むこと、tighten は締めることに使い、gap とは組み合わせない。"
+            "explanation": "come from ~ で「～から生じる／～次第である」。arrive は from を伴わず、reach は他動詞、occur は from を取らない。"
+          },
+          {
+            "id": "g3",
+            "before": "Some designers now argue for deliberate friction —",
+            "after": ", a screen that quietly asks whether you meant to keep scrolling.",
+            "options": ["for instance", "in contrast", "as a result", "on the whole"],
+            "answerIdx": 0,
+            "tag": "cohesion",
+            "explanation": "直前の deliberate friction の具体例を挙げているので for instance。in contrast は対比、as a result は結果、on the whole は総括。"
           }
         ]
       }
@@ -218,8 +236,8 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -228,11 +246,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Bringing the River Back",
+        "title": "Rooftops for Rent",
         "paragraphs": [
-          "For most of the twentieth century, a stream running through a growing city was treated as a drain. It was straightened, lined with concrete and finally buried, and the ground above it became a road or a car park. The logic was simple: water that could not be seen could not flood, could not smell, and could not be blamed for disease. Whole rivers disappeared from the maps in this way, surviving only in the names of the streets laid over them.",
-          "The reversal, known as daylighting, began where the engineering had failed rather than where the nostalgia was strongest. Buried culverts age badly, and replacing a collapsing concrete tunnel beneath a city centre can cost more than removing it altogether and letting the stream run in the open air. Seoul's Cheonggyecheon, uncovered in 2005 once the elevated motorway above it was judged unsafe, is the example everyone cites, but smaller schemes in Sheffield, Zurich and Yonkers were driven by the same unglamorous arithmetic.",
-          "What the engineers did not anticipate was how much else would change. An open channel slows heavy rain instead of firing it downstream, so flooding fell in districts the project had never been designed to protect, and summer temperatures beside the water dropped by two or three degrees. Property values rose as well, and that is where the difficulty begins: the residents who lived for decades with the culvert are not always the ones who can afford the street once the river is back."
+          "Ten years ago, keeping bees on a city roof was a mild act of rebellion, practised by a few enthusiasts who carried their equipment up fire escapes. Today it is a service that can be ordered by email. Hotels, banks and museums lease hives by the year, photograph the harvest for their annual reports, and hand small jars of honey to visitors as proof that the building is doing something for nature.",
+          "Ecologists have watched this boom with growing unease, because the honeybee is a farm animal rather than a wild one. A single managed hive sends out tens of thousands of foragers, and in a dense district they strip the same limited flowers that solitary bees and hoverflies depend on. Surveys in London and Paris have found neighbourhoods where the density of hives now exceeds anything the surrounding gardens could plausibly feed. The pollinators genuinely at risk are the wild species, and they do not live in boxes.",
+          "None of this makes the rooftop keepers villains; it makes their enthusiasm badly aimed. What a city can offer that farmland cannot is scruffiness: road verges left unmown until midsummer, balconies planted with lavender rather than turf, dead wood tolerated in a corner of a park. Such measures photograph poorly and produce nothing to put in a jar, which is exactly why they need arguing for."
         ],
         "questions": [
           {
@@ -240,38 +258,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Cities are uncovering their buried streams mainly because the ageing culverts have become expensive to maintain, and the finished projects have delivered benefits nobody planned for along with a new problem of affordability.",
-              "Daylighting has been driven above all by public affection for lost rivers, which is why the schemes started in the cities with the longest recorded history.",
-              "Burying urban streams was recognised as an engineering mistake from the beginning, and nineteenth-century critics correctly predicted that it would make flooding worse.",
-              "Seoul's Cheonggyecheon is the only daylighting scheme that has ever worked, and other cities have quietly abandoned the idea as too costly."
+              "Urban beekeeping has grown into a corporate gesture that can actually harm the wild pollinators it is meant to help, and cities would do better to provide untidy, flower-rich habitat instead.",
+              "Honeybees are dying out in cities, so companies should be encouraged to lease many more rooftop hives than they currently do.",
+              "Rooftop beekeepers are dishonest people who know perfectly well that their hives damage wildlife and continue regardless.",
+              "Because wild bees cannot be counted accurately, ecologists have no reliable evidence about what is happening to pollinators in cities."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "According to the first paragraph, burying a stream appealed to city authorities because water they had hidden could no longer be",
-            "after": "for floods, bad smells or outbreaks of disease.",
-            "options": ["blamed", "accused", "charged", "suspected"],
+            "before": "The writer stresses that the honeybee is a farm animal in order to suggest that adding hives to a city no more helps wild insects than adding cattle to a field would",
+            "after": "the wild grazing animals that once lived there.",
+            "options": ["benefit", "afford", "grant", "supply"],
             "answerIdx": 0,
-            "tag": "collocation"
+            "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "河川を再び地上に出す事業が公平性の問題を生むことを最も明確に示している語句はどれですか。",
+            "prompt": "都市の巣箱の数がすでに環境の許容量を超えている可能性を最も直接的に示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "An open channel slows heavy rain instead of firing it downstream" },
-              { "id": "s2", "text": "summer temperatures beside the water dropped by two or three degrees" },
-              { "id": "s3", "text": "the residents who lived for decades with the culvert are not always the ones who can afford the street once the river is back" },
-              { "id": "s4", "text": "flooding fell in districts the project had never been designed to protect" }
+              { "id": "s1", "text": "Hotels, banks and museums lease hives by the year" },
+              { "id": "s2", "text": "neighbourhoods where the density of hives now exceeds anything the surrounding gardens could plausibly feed" },
+              { "id": "s3", "text": "The pollinators genuinely at risk are the wild species, and they do not live in boxes" },
+              { "id": "s4", "text": "road verges left unmown until midsummer" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Demolition, in other words, was often the cheaper line in the budget.",
+            "sentence": "Good intentions, in other words, have been pointed at the wrong insect.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
@@ -280,10 +298,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Streams that cities once buried as drains are being reopened because crumbling culverts cost more to replace than to remove, and the results—less flooding, cooler streets and higher rents—include benefits the engineers never intended and a fairness problem they never addressed.",
-              "The main reason cities are reopening their rivers is that residents have campaigned for the return of landscapes their grandparents remembered.",
-              "Because daylighting raises property values, it should be regarded primarily as a tool of urban regeneration rather than as a water-management measure.",
-              "Concrete culverts remain the safest way to handle an urban stream, and the recent schemes to remove them will have to be reversed within a generation."
+              "City beekeeping has become a visible, easily marketed gesture, but honeybees are managed livestock that compete with the wild pollinators actually in trouble, so cities should invest in messy, flower-rich habitat even though it offers nothing photogenic to show for it.",
+              "Since honey produced on city roofs is of poor quality, companies should stop distributing it to visitors and buy their honey from rural farms instead.",
+              "The main problem with rooftop hives is that carrying heavy equipment up fire escapes is dangerous, and the practice should therefore be licensed by city authorities.",
+              "Wild bees and honeybees compete so fiercely that neither can survive in a modern city, and pollination there will soon have to be done by hand."
             ],
             "answerIdx": 0
           }
@@ -293,8 +311,8 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
@@ -303,11 +321,11 @@
       "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "What the Forest Floor Actually Does",
+        "title": "The Second Life of Cloth",
         "paragraphs": [
-          "Few scientific images have travelled as far as the wood wide web. Fungal threads, the story goes, knit the roots of a forest into a single network along which older trees feed sugar to struggling seedlings, and warnings of insect attack pass from neighbour to neighbour. The picture is attractive because it turns a wood into a community, and it has been repeated in documentaries, novels and school textbooks until it reads like settled fact.",
-          "The underlying biology is not in doubt. Mycorrhizal fungi genuinely wrap around and enter tree roots, and they genuinely trade mineral nutrients for the sugars a tree makes above ground; carbon labelled in a laboratory has certainly been traced from one seedling into another through fungal tissue. What is disputed is the leap from those observations to the claim that mature trees deliberately support their offspring. A recent review of the field found that the most-cited studies were small, conducted mostly in a handful of North American plots, and rarely repeated.",
-          "The correction matters beyond the seminar room. Forestry policies have been redrafted on the assumption that leaving a few large trees standing will nurse a new generation through the network below, and money has followed the assumption. If the transfers are modest, or if the fungus is simply pursuing its own interest rather than the forest's, the practice may still be worth keeping for other reasons, but the reasons will have to be argued rather than assumed."
+          "The bin outside the supermarket promises that your old clothes will be recycled, and most shoppers picture the jumper they dropped in becoming another jumper. Very little of it works that way. Sorters open the bags, pull out whatever can be resold as it is, and send the rest abroad or to a shredder, where it is torn into short fibres and pressed into insulation, mattress filling or industrial wipes.",
+          "The obstacle is chemistry rather than goodwill. A shirt described as cotton is usually cotton spun together with elastane, dyed, coated and finished with several substances that no label records. Separating those components costs more than growing new cotton, and shredding shortens the fibres so severely that they can rarely be spun into thread again. Recyclers therefore speak carefully of downcycling, a word that concedes the material is moving one step closer to the landfill each time.",
+          "Designers who take the problem seriously have concluded that recycling has to begin at the drawing board. A garment made from a single fibre, sewn with thread of the same material and fastened with buttons that can be cut off in one pass, can genuinely be turned back into cloth. Such garments are duller to design and slower to make, and they will only be made in quantity if buyers stop treating the recycling bin as an excuse."
         ],
         "questions": [
           {
@@ -315,38 +333,38 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "The fungal connections between forest trees are real, but the popular claim that old trees deliberately nurse seedlings through them rests on thin evidence, which matters because forestry policy has already been built on it.",
-              "Mycorrhizal fungi have turned out not to exist in the form biologists once described, and the entire field will have to begin again from the laboratory.",
-              "Documentaries and novels should be barred from discussing scientific findings until those findings have been replicated by independent teams.",
-              "Because trees clearly cooperate underground, forestry policy has at last caught up with what ecologists have known for a century."
+              "Most collected clothing cannot become new clothing because of the way garments are blended and finished, so real textile recycling depends on designing simpler, single-fibre garments from the start.",
+              "Clothing collection bins are a deliberate fraud, and the companies that run them know that everything placed inside is sent straight to landfill.",
+              "Recycling cotton is technically straightforward, and the only reason it is not done more widely is that shoppers refuse to pay slightly higher prices.",
+              "Because synthetic fibres last far longer than natural ones, the textile industry should abandon cotton entirely in favour of elastane blends."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The writer accepts that fungi exchange nutrients with tree roots, and questions instead whether such transfers",
-            "after": "any intention on the part of the older trees.",
-            "options": ["demonstrate", "resemble", "withstand", "postpone"],
+            "before": "The writer says recyclers prefer the term downcycling because it honestly",
+            "after": "that the material loses value at every stage rather than circulating unchanged.",
+            "options": ["acknowledges", "reminds", "informs", "convinces"],
             "answerIdx": 0,
-            "tag": "vocab"
+            "tag": "collocation"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "有名な研究結果を慎重に受け止めるべき理由を最もよく示している語句はどれですか。",
+            "prompt": "衣類のリサイクルが進まない理由が「意欲の欠如」ではなく「技術的・経済的な壁」であることを最も明確に示している語句はどれですか。",
             "spans": [
-              { "id": "s1", "text": "it turns a wood into a community" },
-              { "id": "s2", "text": "carbon labelled in a laboratory has certainly been traced from one seedling into another" },
-              { "id": "s3", "text": "the most-cited studies were small, conducted mostly in a handful of North American plots, and rarely repeated" },
-              { "id": "s4", "text": "money has followed the assumption" }
+              { "id": "s1", "text": "most shoppers picture the jumper they dropped in becoming another jumper" },
+              { "id": "s2", "text": "Separating those components costs more than growing new cotton" },
+              { "id": "s3", "text": "Such garments are duller to design and slower to make" },
+              { "id": "s4", "text": "pressed into insulation, mattress filling or industrial wipes" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s2"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "Being popular, however, is not the same as being tested.",
+            "sentence": "The bin, in short, is where the difficulty is discovered, not where it is solved.",
             "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 0
           },
@@ -355,10 +373,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "The fungal links beneath a forest are well established, but the widely repeated story that mature trees use them to feed their young comes from a few small, seldom-repeated studies, and since forestry rules and funding now depend on that story, the case for those rules needs to be made on evidence rather than on a pleasing image.",
-              "Since the wood wide web has been shown to be a myth, foresters should now remove mature trees from replanted areas rather than leaving them standing.",
-              "The chief value of the wood wide web idea is that it encourages the public to think of forests as communities, which is more important than whether the details are accurate.",
-              "Laboratory work on labelled carbon has proved that trees consciously choose which neighbours to feed and when to feed them."
+              "Because ordinary garments are blends that are chemically and financially impractical to separate, collected clothing is mostly downcycled into low-value products; genuine recycling requires garments designed from one material, which will be produced only if shoppers stop letting the bin excuse their buying habits.",
+              "Textile recycling already works well for cotton garments, and the only remaining task is to build more collection bins outside supermarkets.",
+              "Shredding clothes into short fibres is the ideal solution because insulation and mattress filling are more useful to society than new clothing.",
+              "The clothing industry has proved that single-fibre garments are impossible to manufacture, so consumers should simply buy far fewer clothes."
             ],
             "answerIdx": 0
           }
@@ -370,13 +388,13 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The seminar starts at quarter past four in room three fifteen.",
+      "transcript": "The workshop was moved to the ninth of March at half past two.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
@@ -385,13 +403,13 @@
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "She would have told us if there had been any change to the schedule.",
+      "transcript": "Had we known about the delay, we could have taken the earlier flight.",
       "prompt": null,
       "tags": ["listen-funcword"],
       "source": "daily",
@@ -400,13 +418,13 @@
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "I'm not sure whether it's worth the extra cost, to be honest.",
+      "transcript": "As far as I can tell, nobody has looked at the figures since Friday.",
       "prompt": null,
       "tags": ["listen-chunk"],
       "source": "daily",
@@ -415,13 +433,13 @@
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The thick fog made it hard to see the ships leaving the harbour.",
+      "transcript": "A thin layer of frost covered the windows of the parked cars.",
       "prompt": null,
       "tags": ["listen-phoneme"],
       "source": "daily",
@@ -430,28 +448,28 @@
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "We ought to have booked the tickets while they were still cheap.",
+      "transcript": "There's hardly any point in applying unless you can start next month.",
       "prompt": null,
-      "tags": ["listen-chunk"],
+      "tags": ["listen-funcword"],
       "source": "daily",
       "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "createdAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z",
       "taskType": "listen_and_type",
-      "difficulty": "medium",
-      "cefr": "B2",
+      "difficulty": "hard",
+      "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Roughly forty percent of the students said they study best before eight in the morning.",
+      "transcript": "Nearly two thirds of the seats were still empty at seven fifteen.",
       "prompt": null,
       "tags": ["listen-numeral"],
       "source": "daily",
