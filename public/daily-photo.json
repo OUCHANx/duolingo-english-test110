@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-26",
-  "image": "/daily-photo.jpg?v=2026-08-26",
+  "date": "2026-08-27",
+  "image": "/daily-photo.jpg?v=2026-08-27",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "晴れた日の公園。木のピクニックテーブルの前で、二人の男の子が肩を寄せ合って立っている。左の子は黒いTシャツ・紺のショートパンツ・黒い腕時計、右の子は白い横じま入りの紺のTシャツと黒いショートパンツでカメラに向かってほほえんでいる。テーブルの上にはカラーペンでいっぱいのピンクのコップと白い箱、ベンチには青い水筒。奥には緑の芝生、荷物の置かれた別のテーブル、数人の人。サマーキャンプのような雰囲気。",
-  "modelAnswer": "This photo was taken in a park on a sunny day. Two boys are standing close together in front of a wooden picnic table. The boy on the left is wearing a black T-shirt, dark shorts and a black watch. The boy on the right has a blue T-shirt with white stripes, and he is smiling at the camera. On the table there is a pink cup full of colored pens, and a blue water bottle is standing on the bench. Behind them I can see green grass, some bags on the ground and a few other people. It looks like a summer camp.",
-  "modelAnswerJa": "この写真は、晴れた日に公園で撮られました。二人の男の子が、木のピクニックテーブルの前でぴったりくっついて立っています。左の男の子は黒いTシャツと濃い色のショートパンツを身につけ、黒い腕時計をしています。右の男の子は白いしまの入った紺のTシャツを着ていて、カメラに向かってほほえんでいます。テーブルの上には色ペンでいっぱいのピンクのコップがあり、ベンチには青い水筒が置かれています。二人の後ろには、緑の芝生や地面に置かれたかばん、数人の人が見えます。サマーキャンプのように見えます。",
+  "theme": "レストランのオープンキッチン。長いステンレスのカウンターの奥に二人の料理人。左の男性は濃い色のエプロンとチェックのスカーフ姿で、丸い竹のせいろを手に笑いながら話している。右の男性はあごひげがあり黒いコックコートを着て、カウンターの上で手を動かして作業中。左側と上の棚には竹のせいろが山積みで、奥にはスパイスの入ったガラス瓶、白い皿の重ね置き、大きな業務用オーブン、天井には換気フード。忙しいが和やかな雰囲気。",
+  "modelAnswer": "This photo was taken inside the open kitchen of a restaurant. Two cooks are standing behind a long steel counter. The man on the left is wearing a dark apron and holding a round bamboo steamer. He is smiling and talking to the other cook. The man on the right has a beard and a black chef's jacket, and he is working with his hands on the counter. There are many bamboo steamers piled up beside him, and glass jars, white plates and a big oven behind them. They are probably getting ready to cook dumplings. The kitchen looks busy but friendly.",
+  "modelAnswerJa": "この写真は、あるレストランのオープンキッチンの中で撮られました。二人の料理人が、長いステンレスのカウンターの奥に立っています。左の男性は濃い色のエプロンを身につけ、丸い竹のせいろを持っています。彼はほほえみながら、もう一人の料理人と話しています。右の男性はあごひげがあり、黒いコックコートを着ていて、カウンターの上で手を動かして作業しています。彼のそばには竹のせいろがたくさん積み上げられていて、その奥にはガラスの瓶、白いお皿、大きなオーブンが見えます。二人はおそらく、これから餃子（点心）を作る準備をしているのでしょう。キッチンは忙しそうですが、和やかな感じがします。",
   "tips": [
-    { "term": "was taken in ~", "ja": "～で撮られた（写真の場所を言うときの決まった形）" },
-    { "term": "stand close together", "ja": "ぴったりくっついて立つ" },
-    { "term": "the boy on the left / on the right", "ja": "左の／右の男の子（位置の言い分け）" },
+    { "term": "be taken inside ~", "ja": "～の中で撮られた（写真の場所を言うときの形）" },
+    { "term": "stand behind ~", "ja": "～の後ろに立っている" },
+    { "term": "the man on the left / on the right", "ja": "左の／右の男性（位置の言い分け）" },
     { "term": "be wearing ~", "ja": "～を着ている、身につけている" },
-    { "term": "smile at the camera", "ja": "カメラに向かってほほえむ" },
-    { "term": "full of ~", "ja": "～でいっぱいの" },
-    { "term": "It looks like ~", "ja": "～のように見える、～みたいだ" }
+    { "term": "be piled up", "ja": "積み上げられている" },
+    { "term": "get ready to ~", "ja": "～する準備をする" },
+    { "term": "look busy but friendly", "ja": "忙しそうだが和やかに見える（雰囲気の言い方）" }
   ]
 }
