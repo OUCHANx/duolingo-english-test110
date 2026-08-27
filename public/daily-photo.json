@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-27",
-  "image": "/daily-photo.jpg?v=2026-08-27",
+  "date": "2026-08-28",
+  "image": "/daily-photo.jpg?v=2026-08-28",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "レストランのオープンキッチン。長いステンレスのカウンターの奥に二人の料理人。左の男性は濃い色のエプロンとチェックのスカーフ姿で、丸い竹のせいろを手に笑いながら話している。右の男性はあごひげがあり黒いコックコートを着て、カウンターの上で手を動かして作業中。左側と上の棚には竹のせいろが山積みで、奥にはスパイスの入ったガラス瓶、白い皿の重ね置き、大きな業務用オーブン、天井には換気フード。忙しいが和やかな雰囲気。",
-  "modelAnswer": "This photo was taken inside the open kitchen of a restaurant. Two cooks are standing behind a long steel counter. The man on the left is wearing a dark apron and holding a round bamboo steamer. He is smiling and talking to the other cook. The man on the right has a beard and a black chef's jacket, and he is working with his hands on the counter. There are many bamboo steamers piled up beside him, and glass jars, white plates and a big oven behind them. They are probably getting ready to cook dumplings. The kitchen looks busy but friendly.",
-  "modelAnswerJa": "この写真は、あるレストランのオープンキッチンの中で撮られました。二人の料理人が、長いステンレスのカウンターの奥に立っています。左の男性は濃い色のエプロンを身につけ、丸い竹のせいろを持っています。彼はほほえみながら、もう一人の料理人と話しています。右の男性はあごひげがあり、黒いコックコートを着ていて、カウンターの上で手を動かして作業しています。彼のそばには竹のせいろがたくさん積み上げられていて、その奥にはガラスの瓶、白いお皿、大きなオーブンが見えます。二人はおそらく、これから餃子（点心）を作る準備をしているのでしょう。キッチンは忙しそうですが、和やかな感じがします。",
+  "theme": "屋外の簡素な教室。壁はなく、細い木の柱と横木で組まれた屋根の下に、粗い木のベンチと机が並ぶ。10人ほどの子どもたちが座り、ノートにペンで書いている。手前左は黄色いTシャツに青い短パンの男の子がうつむいて本を見ており、中央では黄色と黒のしま模様の服にグレーのスカートの子がノートに身をかがめて書いている。白いシャツの子や青と赤のサッカーシャツの子もいる。明るい日ざしが差し込み、静かで真剣な雰囲気。",
+  "modelAnswer": "This photo shows an outdoor classroom. There are no walls, and the roof is held up by many thin wooden poles, so bright sunlight comes in from every side. About ten children are sitting on long wooden benches at simple wooden desks. Most of them are writing in their notebooks with pens. The boy in front is wearing a yellow T-shirt and blue shorts, and he is looking down at his book. Another child next to him is bending over a notebook and writing carefully. The children look quiet and serious. Although the school is very simple, everyone seems ready to learn.",
+  "modelAnswerJa": "この写真は、屋外の教室を写しています。壁はなく、屋根は細い木の柱がたくさん並んで支えているので、明るい日の光がどの方向からも差し込んでいます。10人ほどの子どもたちが、簡素な木の机に向かって長い木のベンチに座っています。ほとんどの子がノートにペンで書いています。手前の男の子は黄色いTシャツと青い短パンを身につけ、うつむいて本を見ています。その隣の子はノートに身をかがめて、ていねいに書いています。子どもたちは静かで真剣な様子です。学校はとても簡素ですが、みんな学ぶ準備ができているように見えます。",
   "tips": [
-    { "term": "be taken inside ~", "ja": "～の中で撮られた（写真の場所を言うときの形）" },
-    { "term": "stand behind ~", "ja": "～の後ろに立っている" },
-    { "term": "the man on the left / on the right", "ja": "左の／右の男性（位置の言い分け）" },
-    { "term": "be wearing ~", "ja": "～を着ている、身につけている" },
-    { "term": "be piled up", "ja": "積み上げられている" },
-    { "term": "get ready to ~", "ja": "～する準備をする" },
-    { "term": "look busy but friendly", "ja": "忙しそうだが和やかに見える（雰囲気の言い方）" }
+    { "term": "outdoor / no walls", "ja": "屋外の／壁がない（建物の様子を言うとき）" },
+    { "term": "be held up by ~", "ja": "～に支えられている" },
+    { "term": "sit on a bench", "ja": "ベンチに座る" },
+    { "term": "write in a notebook", "ja": "ノートに書く" },
+    { "term": "look down at ~", "ja": "～を見下ろす、うつむいて～を見る" },
+    { "term": "bend over ~", "ja": "～に身をかがめる" },
+    { "term": "Although ~, ...", "ja": "～だけれども…（対比を出す言い方）" }
   ]
 }
