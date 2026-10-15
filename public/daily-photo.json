@@ -1,17 +1,45 @@
 {
-  "date": "2026-08-28",
-  "image": "/daily-photo.jpg?v=2026-08-28",
+  "date": "2026-10-16",
+  "image": "/daily-photo.jpg?v=2026-10-16",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "屋外の簡素な教室。壁はなく、細い木の柱と横木で組まれた屋根の下に、粗い木のベンチと机が並ぶ。10人ほどの子どもたちが座り、ノートにペンで書いている。手前左は黄色いTシャツに青い短パンの男の子がうつむいて本を見ており、中央では黄色と黒のしま模様の服にグレーのスカートの子がノートに身をかがめて書いている。白いシャツの子や青と赤のサッカーシャツの子もいる。明るい日ざしが差し込み、静かで真剣な雰囲気。",
-  "modelAnswer": "This photo shows an outdoor classroom. There are no walls, and the roof is held up by many thin wooden poles, so bright sunlight comes in from every side. About ten children are sitting on long wooden benches at simple wooden desks. Most of them are writing in their notebooks with pens. The boy in front is wearing a yellow T-shirt and blue shorts, and he is looking down at his book. Another child next to him is bending over a notebook and writing carefully. The children look quiet and serious. Although the school is very simple, everyone seems ready to learn.",
-  "modelAnswerJa": "この写真は、屋外の教室を写しています。壁はなく、屋根は細い木の柱がたくさん並んで支えているので、明るい日の光がどの方向からも差し込んでいます。10人ほどの子どもたちが、簡素な木の机に向かって長い木のベンチに座っています。ほとんどの子がノートにペンで書いています。手前の男の子は黄色いTシャツと青い短パンを身につけ、うつむいて本を見ています。その隣の子はノートに身をかがめて、ていねいに書いています。子どもたちは静かで真剣な様子です。学校はとても簡素ですが、みんな学ぶ準備ができているように見えます。",
+  "theme": "市場の野菜売り場を上から見た写真。黒白の頭巾と濃い色のエプロンの年配の女性店主がテーブルの奥に座り、ほおづえをついている。手前にはお金の入った赤いボウル、小さな電卓、ペットボトルの水。左には黒いジャケット（黄色いフード）とリュックの客が立ち、お金を手に持っている。台の上にはパセリやディルなどの緑のハーブ、長い青唐辛子、にんじんやセロリアック・パースニップなどの根菜が山積みで、手書きの値札がある。落ち着いて静かな雰囲気。",
+  "modelAnswer": "This photo shows a vegetable stall inside a large market. It was taken from above, so we can see the whole stall. An old woman is sitting behind the table. She wears a black and white scarf on her head and a dark apron, and she is resting her chin on her hand. In front of her there is a red bowl full of money. On the left, a customer in a black jacket with a yellow hood is standing and holding some money. The table is covered with fresh green herbs, long green peppers and carrots, and there are hand-written price signs. The market looks calm and quiet.",
+  "modelAnswerJa": "この写真は、大きな市場の中にある野菜売り場を写しています。上から撮られているので、売り場全体が見えます。年配の女性がテーブルの奥に座っています。頭に黒と白のスカーフを巻き、濃い色のエプロンをつけて、手にあごをのせています。彼女の前には、お金でいっぱいの赤いボウルがあります。左側では、黄色いフードのついた黒いジャケットを着た客が立ち、お金を手に持っています。台の上は新鮮な緑のハーブ、長い青唐辛子、にんじんでおおわれていて、手書きの値札があります。市場は落ち着いていて静かに見えます。",
   "tips": [
-    { "term": "outdoor / no walls", "ja": "屋外の／壁がない（建物の様子を言うとき）" },
-    { "term": "be held up by ~", "ja": "～に支えられている" },
-    { "term": "sit on a bench", "ja": "ベンチに座る" },
-    { "term": "write in a notebook", "ja": "ノートに書く" },
-    { "term": "look down at ~", "ja": "～を見下ろす、うつむいて～を見る" },
-    { "term": "bend over ~", "ja": "～に身をかがめる" },
-    { "term": "Although ~, ...", "ja": "～だけれども…（対比を出す言い方）" }
-  ]
+    {
+      "term": "be taken from above",
+      "ja": "上から撮られている（写真の視点を言うとき）"
+    },
+    {
+      "term": "sit behind the table",
+      "ja": "テーブルの奥（後ろ）に座る"
+    },
+    {
+      "term": "rest one's chin on one's hand",
+      "ja": "手にあごをのせる、ほおづえをつく"
+    },
+    {
+      "term": "be full of ~",
+      "ja": "～でいっぱいである"
+    },
+    {
+      "term": "hold ~ in one's hand",
+      "ja": "～を手に持っている"
+    },
+    {
+      "term": "be covered with ~",
+      "ja": "～でおおわれている、～がたくさん置かれている"
+    },
+    {
+      "term": "hand-written price signs",
+      "ja": "手書きの値札"
+    }
+  ],
+  "credit": {
+    "source": "Wikimedia Commons",
+    "title": "File:Bucharest - Obor Market (53706489764).jpg",
+    "author": "Jorge Franganillo",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bucharest_-_Obor_Market_(53706489764).jpg"
+  }
 }
