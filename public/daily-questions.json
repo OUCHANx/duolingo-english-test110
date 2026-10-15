@@ -1,369 +1,205 @@
 {
-  "generatedAt": "2026-08-28",
+  "generatedAt": "2026-10-16",
   "readingQuestions": [
     {
       "id": "daily-rs-1",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": [
-        "vocab"
-      ],
+      "tags": ["vocab"],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          {
-            "id": "w1",
-            "text": "drizzle",
-            "isReal": true
-          },
-          {
-            "id": "w2",
-            "text": "brontle",
-            "isReal": false
-          },
-          {
-            "id": "w3",
-            "text": "glacier",
-            "isReal": true
-          },
-          {
-            "id": "w4",
-            "text": "flurnip",
-            "isReal": false
-          },
-          {
-            "id": "w5",
-            "text": "sediment",
-            "isReal": true
-          },
-          {
-            "id": "w6",
-            "text": "gantrose",
-            "isReal": false
-          },
-          {
-            "id": "w7",
-            "text": "humid",
-            "isReal": true
-          },
-          {
-            "id": "w8",
-            "text": "melvish",
-            "isReal": false
-          },
-          {
-            "id": "w9",
-            "text": "erode",
-            "isReal": true
-          },
-          {
-            "id": "w10",
-            "text": "scradden",
-            "isReal": false
-          },
-          {
-            "id": "w11",
-            "text": "thaw",
-            "isReal": true
-          },
-          {
-            "id": "w12",
-            "text": "poltrish",
-            "isReal": false
-          }
+          { "id": "w1", "text": "harvest", "isReal": true },
+          { "id": "w2", "text": "plinder", "isReal": false },
+          { "id": "w3", "text": "lantern", "isReal": true },
+          { "id": "w4", "text": "scorvent", "isReal": false },
+          { "id": "w5", "text": "shrug", "isReal": true },
+          { "id": "w6", "text": "trabble", "isReal": false },
+          { "id": "w7", "text": "fragile", "isReal": true },
+          { "id": "w8", "text": "mundrel", "isReal": false },
+          { "id": "w9", "text": "quarrel", "isReal": true },
+          { "id": "w10", "text": "vorpet", "isReal": false },
+          { "id": "w11", "text": "orchard", "isReal": true },
+          { "id": "w12", "text": "snorvel", "isReal": false },
+          { "id": "w13", "text": "tremble", "isReal": true },
+          { "id": "w14", "text": "glishen", "isReal": false },
+          { "id": "w15", "text": "venture", "isReal": true },
+          { "id": "w16", "text": "brankish", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rs-2",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "read_and_select",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "実在する英単語をすべて選んでください。",
       "passage": null,
-      "tags": [
-        "vocab"
-      ],
+      "tags": ["vocab"],
       "source": "daily",
       "payload": {
         "timeLimitSec": 70,
         "words": [
-          {
-            "id": "w1",
-            "text": "rehearse",
-            "isReal": true
-          },
-          {
-            "id": "w2",
-            "text": "quaverine",
-            "isReal": false
-          },
-          {
-            "id": "w3",
-            "text": "ensemble",
-            "isReal": true
-          },
-          {
-            "id": "w4",
-            "text": "plintage",
-            "isReal": false
-          },
-          {
-            "id": "w5",
-            "text": "sculptor",
-            "isReal": true
-          },
-          {
-            "id": "w6",
-            "text": "grascule",
-            "isReal": false
-          },
-          {
-            "id": "w7",
-            "text": "tapestry",
-            "isReal": true
-          },
-          {
-            "id": "w8",
-            "text": "vermolant",
-            "isReal": false
-          },
-          {
-            "id": "w9",
-            "text": "improvise",
-            "isReal": true
-          },
-          {
-            "id": "w10",
-            "text": "trennock",
-            "isReal": false
-          },
-          {
-            "id": "w11",
-            "text": "acoustic",
-            "isReal": true
-          },
-          {
-            "id": "w12",
-            "text": "dramble",
-            "isReal": false
-          }
+          { "id": "w1", "text": "meticulous", "isReal": true },
+          { "id": "w2", "text": "obstrave", "isReal": false },
+          { "id": "w3", "text": "candour", "isReal": true },
+          { "id": "w4", "text": "quandrish", "isReal": false },
+          { "id": "w5", "text": "loathe", "isReal": true },
+          { "id": "w6", "text": "fortelate", "isReal": false },
+          { "id": "w7", "text": "scaffold", "isReal": true },
+          { "id": "w8", "text": "velmorous", "isReal": false },
+          { "id": "w9", "text": "ubiquitous", "isReal": true },
+          { "id": "w10", "text": "tessible", "isReal": false },
+          { "id": "w11", "text": "wither", "isReal": true },
+          { "id": "w12", "text": "cavorlent", "isReal": false },
+          { "id": "w13", "text": "ledger", "isReal": true },
+          { "id": "w14", "text": "mendrical", "isReal": false },
+          { "id": "w15", "text": "plausible", "isReal": true },
+          { "id": "w16", "text": "introque", "isReal": false }
         ]
       }
     },
     {
       "id": "daily-rc-1",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "When the city widened its bike lanes, planners expected only a modest {{b1}} in car traffic, but the number of daily riders doubled within a year. Many commuters said the change had less to do with speed than with feeling {{b2}} enough to let their children ride beside them. Engineers now {{b3}} that protected lanes are the cheapest way to move people through a crowded centre.",
+        "text": "When the district pushed its high school start time back by one hour, teachers expected students to simply stay up {{b1}}. Instead, most teenagers kept their old bedtimes and gained nearly fifty minutes of sleep. Attendance improved, and the number of students who fell {{b2}} in first-period classes dropped sharply. The change cost almost nothing, yet few {{b3}} have been willing to copy it, mainly because bus schedules and sports practices are hard to {{b4}}.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "reduction",
-            "keepHead": 4
-          },
-          {
-            "id": "b2",
-            "full": "safe",
-            "keepHead": 2
-          },
-          {
-            "id": "b3",
-            "full": "argue",
-            "keepHead": 2
-          }
+          { "id": "b1", "full": "later", "keepHead": 3 },
+          { "id": "b2", "full": "asleep", "keepHead": 3 },
+          { "id": "b3", "full": "districts", "keepHead": 4 },
+          { "id": "b4", "full": "rearrange", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-2",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Coral reefs cover less than one per cent of the ocean floor, yet they {{b1}} roughly a quarter of all marine species. When the water stays too warm for weeks, the corals expel the algae that feed them and turn a ghostly white, a process known as {{b2}}. A reef can recover if the heat {{b3}} quickly, but repeated summers leave almost no time between shocks.",
+        "text": "Rooftop hives have become a {{b1}} way for city firms to signal their green credentials, but ecologists are increasingly {{b2}}. Honeybees are livestock, not wildlife, and a single hive can {{b3}} the nectar that hundreds of wild bees depend on. In some districts the density of hives now {{b4}} anything found in farmland. Planting flowers, researchers say, would do far more good than adding yet another {{b5}}.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "shelter",
-            "keepHead": 3
-          },
-          {
-            "id": "b2",
-            "full": "bleaching",
-            "keepHead": 5
-          },
-          {
-            "id": "b3",
-            "full": "passes",
-            "keepHead": 3
-          }
+          { "id": "b1", "full": "fashionable", "keepHead": 5 },
+          { "id": "b2", "full": "uneasy", "keepHead": 3 },
+          { "id": "b3", "full": "consume", "keepHead": 4 },
+          { "id": "b4", "full": "exceeds", "keepHead": 3 },
+          { "id": "b5", "full": "colony", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-rc-3",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Most of a museum's collection never leaves storage, so curators have begun photographing every object and posting the images online. The aim is not to {{b1}} the experience of standing in front of a painting, but to make the other ninety per cent of the collection {{b2}} to anyone with a phone. Researchers abroad, who once waited months for a single visit, can now {{b3}} thousands of items in an afternoon.",
+        "text": "For decades, parents in the region {{b1}} that a university degree was the only safe route to a good job. That belief is starting to {{b2}}. Local employers now offer paid apprenticeships in which young people {{b3}} a wage while they learn, and many finish with no debt and a {{b4}} position. A few graduates have even {{b5}} to retrain as electricians.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "replace",
-            "keepHead": 3
-          },
-          {
-            "id": "b2",
-            "full": "visible",
-            "keepHead": 3
-          },
-          {
-            "id": "b3",
-            "full": "examine",
-            "keepHead": 3
-          }
+          { "id": "b1", "full": "assumed", "keepHead": 3 },
+          { "id": "b2", "full": "shift", "keepHead": 2 },
+          { "id": "b3", "full": "earn", "keepHead": 2 },
+          { "id": "b4", "full": "guaranteed", "keepHead": 5 },
+          { "id": "b5", "full": "returned", "keepHead": 4 }
         ]
       }
     },
     {
       "id": "daily-rc-4",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "read_and_complete",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "空所に入る語を完成させてください。",
       "passage": null,
-      "tags": [
-        "spelling",
-        "vocab"
-      ],
+      "tags": ["spelling", "vocab"],
       "source": "daily",
       "payload": {
-        "text": "Students who reread their notes usually feel confident, but that {{b1}} fades the moment the textbook is closed. Testing yourself is far less pleasant, and for that reason it is often {{b2}}, yet it forces the brain to retrieve information instead of merely recognising it. Weeks later, the material practised by recall is the material that {{b3}}.",
+        "text": "When a forecast says there is a seventy per cent chance of rain, most people {{b1}} it as a statement about how much of the day will be wet. Meteorologists mean something {{b2}}: on seventy out of a hundred days with these conditions, measurable rain falls at that location. The {{b3}} between the two readings is not trivial, since it shapes whether a farmer harvests early or a council cancels a festival. Some services have {{b4}} percentages altogether in favour of plain {{b5}} such as 'rain likely by evening'.",
         "blanks": [
-          {
-            "id": "b1",
-            "full": "confidence",
-            "keepHead": 5
-          },
-          {
-            "id": "b2",
-            "full": "avoided",
-            "keepHead": 3
-          },
-          {
-            "id": "b3",
-            "full": "remains",
-            "keepHead": 3
-          }
+          { "id": "b1", "full": "interpret", "keepHead": 5 },
+          { "id": "b2", "full": "narrower", "keepHead": 4 },
+          { "id": "b3", "full": "gap", "keepHead": 2 },
+          { "id": "b4", "full": "abandoned", "keepHead": 4 },
+          { "id": "b5", "full": "phrases", "keepHead": 3 }
         ]
       }
     },
     {
       "id": "daily-cs-1",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "文脈に最も合う語句を選んでください。",
       "passage": null,
-      "tags": [
-        "grammar",
-        "collocation",
-        "cohesion"
-      ],
+      "tags": ["grammar", "collocation", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "Managers had expected productivity to collapse when the factory moved to a four-day week;",
-            "after": "output has stayed almost exactly the same.",
-            "options": [
-              "in fact,",
-              "as a result,",
-              "for instance,",
-              "in addition,"
-            ],
+            "before": "For years the airline treated lost luggage as an unavoidable cost;",
+            "after": "it has now cut mishandled bags by a third with a single change.",
+            "options": ["however,", "therefore,", "similarly,", "meanwhile,"],
             "answerIdx": 0,
             "tag": "cohesion",
-            "explanation": "「下がると予想した」→「ほとんど変わらなかった」は予想に反する展開なので in fact が適切。as a result は因果、for instance は例示、in addition は追加。"
+            "explanation": "「避けられないコストと見なしていた」→「一つの変更で3分の1減らした」は対比なので however。therefore は因果、similarly は類似、meanwhile は同時進行。"
           },
           {
             "id": "g2",
-            "before": "Staff now spend fewer hours on site, but they report",
-            "after": "less time on tasks that nobody could really explain.",
-            "options": [
-              "wasting",
-              "to waste",
-              "waste",
-              "wasted"
-            ],
+            "before": "Each tag now contains a tiny chip, which lets passengers",
+            "after": "exactly where their suitcase is at any moment.",
+            "options": ["see", "to see", "seeing", "seen"],
             "answerIdx": 0,
             "tag": "grammar",
-            "explanation": "report は動名詞を目的語にとる動詞（report doing）。report to do の形は取らない。"
+            "explanation": "let + 目的語 + 原形不定詞（let someone do）。allow なら to see だが、let は to を取らない。"
           },
           {
             "id": "g3",
-            "before": "The company says the experiment has already paid",
-            "after": "in lower recruitment costs.",
-            "options": [
-              "off",
-              "back",
-              "up",
-              "out"
-            ],
+            "before": "Staff say the system has also made it much easier to",
+            "after": "a bag that has been loaded onto the wrong plane.",
+            "options": ["track down", "put off", "take over", "turn up"],
             "answerIdx": 0,
             "tag": "collocation",
-            "explanation": "pay off で「（努力・投資が）実を結ぶ、報われる」。pay back は「返済する」、pay up は「しぶしぶ払う」、pay out は「支払う（金額）」。"
+            "explanation": "track down は「（探して）見つけ出す」。put off は「延期する」、take over は「引き継ぐ」、turn up は自動詞的に「現れる」で目的語を取る形に合わない。"
           }
         ]
       }
@@ -371,62 +207,52 @@
     {
       "id": "daily-cs-2",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "complete_the_sentences",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "文脈に最も合う語句を選んでください。",
       "passage": null,
-      "tags": [
-        "grammar",
-        "vocab",
-        "cohesion"
-      ],
+      "tags": ["vocab", "grammar", "collocation", "cohesion"],
       "source": "daily",
       "payload": {
         "gaps": [
           {
             "id": "g1",
-            "before": "The new plant will supply drinking water to a region that has",
-            "after": "on a single shrinking reservoir for decades.",
-            "options": [
-              "relied",
-              "confided",
-              "assured",
-              "entrusted"
-            ],
+            "before": "When the city made its buses free, officials predicted that car journeys would fall",
+            "after": "; in the first year, they dropped by barely two per cent.",
+            "options": ["dramatically", "gradually", "occasionally", "temporarily"],
             "answerIdx": 0,
             "tag": "vocab",
-            "explanation": "rely on ~ で「～に頼る」。confide in、assure someone of、entrust A with B と、前置詞 on を取らない語は不可。"
+            "explanation": "セミコロン以降の「わずか2%しか減らなかった」と対比させるには、予測は「大幅に（dramatically）減る」でなければならない。gradually / temporarily では barely との対比が弱く、occasionally は文脈に合わない。"
           },
           {
             "id": "g2",
-            "before": "Critics point out that the process consumes so much electricity",
-            "after": "the savings in water may be cancelled out by the emissions.",
-            "options": [
-              "that",
-              "as",
-              "which",
-              "so"
-            ],
+            "before": "Most new passengers, it turned out, were people who",
+            "after": "have walked or cycled.",
+            "options": ["would otherwise", "had rather", "should instead", "might already"],
             "answerIdx": 0,
-            "tag": "grammar",
-            "explanation": "so + 形容詞/副詞/much + that ... の「あまりに～なので…」の相関構文。so much as / which では節をつなげない。"
+            "tag": "cohesion",
+            "explanation": "「（無料でなければ）そうでなければ歩くか自転車に乗っていたはずの人」= would otherwise have done。車から乗り換えた人ではなかった、という論旨につながる。had rather は誤形、should instead は非難の意味になり不自然。"
           },
           {
             "id": "g3",
-            "before": "Engineers accept the criticism.",
-            "after": ", they argue that a plant powered by wind changes the calculation entirely.",
-            "options": [
-              "Even so",
-              "That is",
-              "In short",
-              "By contrast"
-            ],
+            "before": "Supporters argue that the policy was never intended to reduce traffic alone, but to give low-income residents",
+            "after": "to jobs across the city.",
+            "options": ["access", "approach", "entry", "admission"],
             "answerIdx": 0,
-            "tag": "cohesion",
-            "explanation": "「批判は認める」→「それでも～と主張する」という譲歩の後の反論なので Even so。That is は言い換え、In short は要約、By contrast は対比の並列。"
+            "tag": "collocation",
+            "explanation": "give someone access to ~「～を利用できるようにする」が定型。entry / admission は「入場・入学」、approach は「接近・方法」で合わない。"
+          },
+          {
+            "id": "g4",
+            "before": "On that",
+            "after": ", the free fares have been a clear success: applications for jobs in outlying districts rose sharply.",
+            "options": ["measure", "scale", "degree", "level"],
+            "answerIdx": 0,
+            "tag": "collocation",
+            "explanation": "on that measure「その基準で判断すれば」。直前の「交通量ではなく雇用へのアクセスが目的」という基準を受けている。on that scale は「その規模で」、to that degree、at that level と前置詞も異なる。"
           }
         ]
       }
@@ -434,26 +260,21 @@
     {
       "id": "daily-ir-1",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "hard",
       "cefr": "C1",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": [
-        "reading-gist",
-        "reading-detail",
-        "inference",
-        "cohesion"
-      ],
+      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "Switching Off the Sky",
+        "title": "Counting Birds from the Kitchen Window",
         "paragraphs": [
-          "For most of human history the night sky was one of the few sights everyone shared. A child in a mountain village and an astronomer in a capital city looked up at the same few thousand stars. Today more than a third of the world's population cannot see the Milky Way from home, and not because the stars have dimmed. The ground beneath them has begun to glow.",
-          "The usual response is to blame the sheer number of lamps, yet the real culprit is design. A great deal of outdoor lighting points sideways or upward, spilling far beyond the path or car park it was bought to illuminate. Cheap white LEDs have made matters worse in an unexpected way: because they are so efficient, councils simply install more of them, and their blue-rich glare scatters through the atmosphere far more readily than the warm sodium light it replaced.",
-          "What makes light pollution unusual among environmental problems is that it disappears the moment it is addressed. A shielded lamp aimed at the pavement and dimmed after midnight costs less to run and restores the sky above it that same night. Moths return to the hedgerows within a season. No decades-long cleanup is needed, no new technology waits to be invented; what is missing is only the decision to point the light downwards."
+          "Every January, close to half a million people in Britain spend one hour watching the birds in their gardens and send the results to a conservation charity. The instructions are deliberately simple: count the highest number of each species you see at any one time, not the total number of visits, and record nothing you merely heard. The scheme has run since 1979, which makes it one of the longest continuous surveys of wildlife anywhere.",
+          "Its value lies less in any single year than in the trend. Individual counts are noisy, because a cold snap or a neighbour's new cat can empty a garden for a morning. Spread across hundreds of thousands of gardens, however, those accidents cancel out, and slow changes become visible that no team of professionals could afford to measure. The decline of the house sparrow, now down by more than half since the survey began, was first noticed in exactly this way.",
+          "The organisers are honest about what the data cannot show. Gardens are not the countryside, and species that avoid people are missed entirely. Participants are also more likely to live in suburbs than on farms, so the map of sightings is partly a map of who took part. Even so, the charity argues that an imperfect record kept for fifty years is worth more than a perfect one that nobody can afford to keep."
         ],
         "questions": [
           {
@@ -461,60 +282,39 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "Light pollution is caused mainly by badly aimed lighting rather than by the number of lamps, and unlike most environmental damage it can be undone almost immediately.",
-              "Because modern LEDs use very little electricity, cities should install as many of them as possible and accept that the stars will no longer be visible.",
-              "Astronomers have exaggerated the loss of the night sky, since the stars themselves are gradually growing fainter for natural reasons.",
-              "The only realistic way to see the Milky Way again is for people to move out of cities and into mountain villages."
+              "A long-running volunteer bird count is unreliable in any single garden or year, but across huge numbers of gardens it reveals trends that professionals could never afford to track, despite known gaps in what it records.",
+              "Professional scientists have rejected the survey because the counting method ignores birds that are heard but not seen.",
+              "The survey's main achievement has been to reverse the decline of the house sparrow in British gardens since 1979.",
+              "Because most participants live in suburbs, the charity has decided to restrict future counts to farms and open countryside."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The writer mentions the efficiency of LEDs in order to explain an unexpected",
-            "after": "of the switch: because running costs fell, towns simply put up more lights than before.",
-            "options": [
-              "consequence",
-              "precaution",
-              "exception",
-              "objection"
-            ],
+            "before": "Because a single garden's count can be",
+            "after": "by chance events such as bad weather, the organisers rely on the combined results of many thousands of participants.",
+            "options": ["distorted", "dissolved", "discharged", "dismissed"],
             "answerIdx": 0,
             "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "光害が他の環境問題と異なる点を最も直接的に述べている語句はどれですか。",
+            "prompt": "主催者が調査の「限界」を認めていることを最も直接的に示している語句はどれですか。",
             "spans": [
-              {
-                "id": "s1",
-                "text": "more than a third of the world's population cannot see the Milky Way from home"
-              },
-              {
-                "id": "s2",
-                "text": "spilling far beyond the path or car park it was bought to illuminate"
-              },
-              {
-                "id": "s3",
-                "text": "it disappears the moment it is addressed"
-              },
-              {
-                "id": "s4",
-                "text": "Moths return to the hedgerows within a season"
-              }
+              { "id": "s1", "text": "The organisers are honest about what the data cannot show" },
+              { "id": "s2", "text": "count the highest number of each species you see at any one time" },
+              { "id": "s3", "text": "one of the longest continuous surveys of wildlife anywhere" },
+              { "id": "s4", "text": "those accidents cancel out, and slow changes become visible" }
             ],
-            "answerSpanId": "s3"
+            "answerSpanId": "s1"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "The problem, in other words, is not how much light we buy but where we allow it to fall.",
-            "slots": [
-              "[after paragraph 1]",
-              "[after paragraph 2]",
-              "[after paragraph 3]"
-            ],
+            "sentence": "What matters, in other words, is not the accuracy of any one hour but the sheer number of hours added together.",
+            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
           {
@@ -522,10 +322,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Most of the light that hides the stars is simply aimed badly, and efficient LEDs have multiplied the waste rather than reduced it; because shielded, dimmed lamps repair the sky overnight and cost less to run, the obstacle is a matter of decision rather than of money or technology.",
-              "Since outdoor lighting is necessary for safety, the loss of the night sky is an unavoidable price of urban life that only astronomers have any reason to regret.",
-              "Sodium lamps should be reinstalled everywhere because warm light is more attractive to residents than the white light produced by modern LEDs.",
-              "Light pollution resembles other forms of pollution in that recovery will take many decades even after the sources have been removed."
+              "A simple annual garden bird count, run by volunteers for decades, is statistically weak in any single year but powerful over time because of its scale; its organisers admit it under-records shy species and reflects where participants live, yet argue that a long imperfect record beats a perfect one that could never be funded.",
+              "The article explains how to attract more birds to a garden in winter and warns that domestic cats are the main reason for the sparrow's decline.",
+              "The writer argues that only trained professionals should collect wildlife data, since volunteers in suburbs produce maps that are too misleading to use.",
+              "Because the survey has run since 1979, its organisers now consider the record complete and plan to replace it with satellite monitoring."
             ],
             "answerIdx": 0
           }
@@ -535,26 +335,21 @@
     {
       "id": "daily-ir-2",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "interactive_reading",
       "difficulty": "medium",
       "cefr": "B2",
       "prompt": "本文を読んで各設問に答えてください。",
       "passage": null,
-      "tags": [
-        "reading-gist",
-        "reading-detail",
-        "inference",
-        "cohesion"
-      ],
+      "tags": ["reading-gist", "reading-detail", "inference", "cohesion"],
       "source": "daily",
       "payload": {
-        "title": "The Toaster on the Table",
+        "title": "A Bus That Comes When You Call",
         "paragraphs": [
-          "On the first Saturday of each month, the hall behind the town library fills with broken things. People arrive carrying lamps that flicker, kettles that leak and coats with torn linings, and they queue for a seat beside one of the volunteers. The event is called a repair cafe, and nobody is charged; the only rule is that the owner must sit at the table and watch the repair being done.",
-          "That rule is the point of the whole exercise. A volunteer could work far faster alone, but then the visitor would leave with a working toaster and nothing else. Sitting beside the tools, people discover that a dead appliance often has one loose wire, and that opening a case is a matter of patience rather than expertise. Roughly six items in ten leave the hall working again.",
-          "The organisers are careful not to claim too much. A monthly session cannot compete with the volume of goods a single shop sells in a morning, and some products are sealed so tightly that no volunteer can open them without breaking them. Still, the visitors who return tend to arrive with better questions, and a few now bring their neighbours' appliances as well as their own."
+          "In the hills north of the town, the number 32 bus used to run four times a day along a fixed route, and on most trips it carried fewer than three passengers. Last spring the council replaced it with something different. There is no timetable and no set route; instead, residents book a seat through an app or a phone line, and a small minibus plans its journey around the requests it receives.",
+          "The early results surprised even the people who designed the scheme. Passenger numbers have more than doubled, partly because the minibus now stops close to people's homes rather than at a distant shelter on the main road. Older residents, who were expected to struggle with the app, have become its most regular users, usually by phoning a coordinator who books for them.",
+          "Not everyone is pleased. Some people miss the certainty of a printed timetable and dislike having to plan a trip the evening before. The council also admits that the service is more expensive to run per passenger than a conventional bus would be in a busy town. For a scattered rural population, though, it argues that the comparison is unfair: the real alternative was no bus at all."
         ],
         "questions": [
           {
@@ -562,60 +357,39 @@
             "id": "q1",
             "prompt": "本文の主旨として最も適切なものはどれですか。",
             "options": [
-              "A repair cafe fixes household objects for free, but its real value is that owners sit beside the volunteers and learn that many repairs are within their own reach.",
-              "Repair cafes have already replaced ordinary shops in many towns because volunteers can work faster than professional technicians.",
-              "The main purpose of a repair cafe is to raise money for the town library through the small fees charged for each repair.",
-              "Most household appliances are now impossible to open, so repair cafes have quietly abandoned their original aim."
+              "A rural council replaced an almost empty fixed-route bus with a bookable minibus, which has attracted far more passengers despite some complaints and a higher cost per rider.",
+              "The council cancelled the number 32 bus and now expects residents to rely on taxis and private cars.",
+              "Older residents refused to use the new service because it can only be booked through a smartphone app.",
+              "The new minibus follows the same route as the old bus but runs more often, which explains the rise in passengers."
             ],
             "answerIdx": 0
           },
           {
             "kind": "completeSentence",
             "id": "q2",
-            "before": "The organisers admit that a single monthly session cannot",
-            "after": "the quantity of new goods sold in local shops, but they still see the habit it teaches as worthwhile.",
-            "options": [
-              "match",
-              "belong",
-              "consist",
-              "rely"
-            ],
+            "before": "The council accepts that the service costs more per passenger, but insists that comparing it with a town bus is",
+            "after": "because the only realistic alternative in the area was no service at all.",
+            "options": ["misleading", "convincing", "inevitable", "affordable"],
             "answerIdx": 0,
-            "tag": "collocation"
+            "tag": "vocab"
           },
           {
             "kind": "highlight",
             "id": "q3",
-            "prompt": "修理カフェが「物を直すこと」以上のものを目指していると最も直接的に示している語句はどれですか。",
+            "prompt": "新しいサービスの利用者が増えた理由を最も直接的に述べている語句はどれですか。",
             "spans": [
-              {
-                "id": "s1",
-                "text": "the only rule is that the owner must sit at the table and watch the repair being done"
-              },
-              {
-                "id": "s2",
-                "text": "lamps that flicker, kettles that leak and coats with torn linings"
-              },
-              {
-                "id": "s3",
-                "text": "Roughly six items in ten leave the hall working again"
-              },
-              {
-                "id": "s4",
-                "text": "some products are sealed so tightly that no volunteer can open them"
-              }
+              { "id": "s1", "text": "the minibus now stops close to people's homes rather than at a distant shelter on the main road" },
+              { "id": "s2", "text": "on most trips it carried fewer than three passengers" },
+              { "id": "s3", "text": "There is no timetable and no set route" },
+              { "id": "s4", "text": "dislike having to plan a trip the evening before" }
             ],
             "answerSpanId": "s1"
           },
           {
             "kind": "insertSentence",
             "id": "q4",
-            "sentence": "What they take home, then, is a small piece of confidence as well as a working object.",
-            "slots": [
-              "[after paragraph 1]",
-              "[after paragraph 2]",
-              "[after paragraph 3]"
-            ],
+            "sentence": "A ride that once meant a long walk uphill with shopping bags now ends at the garden gate.",
+            "slots": ["[after paragraph 1]", "[after paragraph 2]", "[after paragraph 3]"],
             "answerSlot": 1
           },
           {
@@ -623,10 +397,10 @@
             "id": "q5",
             "prompt": "筆者が本文全体で最も伝えたいことはどれですか。",
             "options": [
-              "Repair cafes mend everyday objects for nothing, but by insisting that owners watch and help, they pass on the confidence to attempt repairs at home; the organisers accept that their scale is small and that sealed products defeat them, yet the habit spreads through the people who keep coming back.",
-              "Because volunteers repair about six items in ten, repair cafes have proved that almost nothing sold today genuinely needs to be thrown away.",
-              "The article argues that manufacturers should be forced by law to design appliances that open without tools, and that repair cafes exist mainly to collect evidence for that campaign.",
-              "Repair cafes are pleasant social occasions, but the writer concludes that they teach visitors very little and are unlikely to continue."
+              "Replacing an almost empty fixed-route bus with an on-demand minibus has more than doubled passenger numbers in a rural area, with older people among the keenest users; although some miss the fixed timetable and the cost per passenger is higher, the council argues the fair comparison is with having no bus at all.",
+              "App-based transport only works in cities, since rural residents found the booking system too complicated and went back to using their cars.",
+              "The council introduced the minibus mainly to save money, and the scheme has succeeded because it is cheaper per passenger than the old bus.",
+              "Printed timetables should be brought back because most passengers prefer certainty to convenience."
             ],
             "answerIdx": 0
           }
@@ -638,128 +412,92 @@
     {
       "id": "daily-lt-1",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "The train to the airport leaves from platform fourteen at a quarter to nine.",
+      "transcript": "The meeting has been moved to the third floor, two doors down from the lift.",
       "prompt": null,
-      "tags": [
-        "listen-numeral"
-      ],
+      "tags": ["listen-numeral"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-2",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "I wouldn't have mentioned it at all if I'd known she was still in the room.",
+      "transcript": "If it hadn't rained so heavily, we would have finished the roof by Friday.",
       "prompt": null,
-      "tags": [
-        "listen-funcword"
-      ],
+      "tags": ["listen-chunk"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-3",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "We ought to check the forecast before we set off tomorrow morning.",
+      "transcript": "She asked whether anyone had seen her keys since lunchtime.",
       "prompt": null,
-      "tags": [
-        "listen-chunk"
-      ],
+      "tags": ["listen-funcword"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-4",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Her third attempt at the puzzle was far closer than either of the others.",
+      "transcript": "Nearly a third of the shops on this street have changed hands in the past two years.",
       "prompt": null,
-      "tags": [
-        "listen-phoneme"
-      ],
+      "tags": ["listen-numeral", "listen-chunk"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-5",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "medium",
       "cefr": "B2",
       "audioUrl": null,
-      "transcript": "There seems to be some confusion about who is supposed to lock up.",
+      "transcript": "They can't have left already; their coats are still hanging by the door.",
       "prompt": null,
-      "tags": [
-        "listen-chunk"
-      ],
+      "tags": ["listen-phoneme"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     },
     {
       "id": "daily-lt-6",
       "userId": null,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "createdAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z",
       "taskType": "listen_and_type",
       "difficulty": "hard",
       "cefr": "C1",
       "audioUrl": null,
-      "transcript": "Roughly forty per cent of the applicants this year were under twenty-five.",
+      "transcript": "I'd rather walk the long way round than wait for a bus that may never come.",
       "prompt": null,
-      "tags": [
-        "listen-numeral"
-      ],
+      "tags": ["listen-chunk", "listen-funcword"],
       "source": "daily",
-      "payload": {
-        "rate": 0.9,
-        "voiceHint": "en-US",
-        "maxReplays": 3
-      }
+      "payload": { "rate": 0.9, "voiceHint": "en-US", "maxReplays": 3 }
     }
   ]
 }
