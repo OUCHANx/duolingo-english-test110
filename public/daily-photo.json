@@ -1,45 +1,24 @@
 {
-  "date": "2026-10-16",
-  "image": "/daily-photo.jpg?v=2026-10-16",
+  "date": "2026-10-17",
+  "image": "/daily-photo.jpg?v=2026-10-17",
   "prompt": "Describe what you see in this photo in detail: where it is, who is there, what is happening, and what kind of atmosphere it has.",
-  "theme": "市場の野菜売り場を上から見た写真。黒白の頭巾と濃い色のエプロンの年配の女性店主がテーブルの奥に座り、ほおづえをついている。手前にはお金の入った赤いボウル、小さな電卓、ペットボトルの水。左には黒いジャケット（黄色いフード）とリュックの客が立ち、お金を手に持っている。台の上にはパセリやディルなどの緑のハーブ、長い青唐辛子、にんじんやセロリアック・パースニップなどの根菜が山積みで、手書きの値札がある。落ち着いて静かな雰囲気。",
-  "modelAnswer": "This photo shows a vegetable stall inside a large market. It was taken from above, so we can see the whole stall. An old woman is sitting behind the table. She wears a black and white scarf on her head and a dark apron, and she is resting her chin on her hand. In front of her there is a red bowl full of money. On the left, a customer in a black jacket with a yellow hood is standing and holding some money. The table is covered with fresh green herbs, long green peppers and carrots, and there are hand-written price signs. The market looks calm and quiet.",
-  "modelAnswerJa": "この写真は、大きな市場の中にある野菜売り場を写しています。上から撮られているので、売り場全体が見えます。年配の女性がテーブルの奥に座っています。頭に黒と白のスカーフを巻き、濃い色のエプロンをつけて、手にあごをのせています。彼女の前には、お金でいっぱいの赤いボウルがあります。左側では、黄色いフードのついた黒いジャケットを着た客が立ち、お金を手に持っています。台の上は新鮮な緑のハーブ、長い青唐辛子、にんじんでおおわれていて、手書きの値札があります。市場は落ち着いていて静かに見えます。",
+  "theme": "東京の駅のホームで電車を待つ人々（暗めの写真）。上に「1 山手線 Yamanote Line」の案内板。中央では眼鏡をかけ、黒いコートとスーツにネクタイの男性が黒いかばんを持ってホームの端の黄色い点字ブロックの上をこちらへ歩いてくる。右側には柱のそばに男性が2人並んで立ち、白いマスクの年配の男性と若い男性がそれぞれスマートフォンを見ている。左は暗い線路。右手前にはぼやけた人の姿。夜か早朝のような、静かで少しさびしい雰囲気。",
+  "modelAnswer": "This photo shows a train platform in a station in Japan. A sign above says \"Yamanote Line\" and the number one. The picture is quite dark, so it may be late in the evening. In the middle, a man with glasses is walking toward the camera. He is wearing a dark coat, a suit and a tie, and he is carrying a black bag. On the right, two men are standing in a line next to a pillar. They are both looking at their smartphones while they wait for the train. One of them is wearing a white mask. On the left, we can see the empty tracks. The atmosphere is quiet and a little lonely.",
+  "modelAnswerJa": "この写真は、日本の駅のホームを写しています。上の案内板には「山手線」と数字の1が書かれています。写真はかなり暗いので、夜遅い時間かもしれません。真ん中では、眼鏡をかけた男性がカメラの方へ歩いてきています。彼は濃い色のコート、スーツ、ネクタイを身につけ、黒いかばんを持っています。右側では、2人の男性が柱の横に並んで立っています。2人とも電車を待ちながらスマートフォンを見ています。そのうちの1人は白いマスクをしています。左側には、何もない線路が見えます。雰囲気は静かで、少しさびしい感じです。",
   "tips": [
-    {
-      "term": "be taken from above",
-      "ja": "上から撮られている（写真の視点を言うとき）"
-    },
-    {
-      "term": "sit behind the table",
-      "ja": "テーブルの奥（後ろ）に座る"
-    },
-    {
-      "term": "rest one's chin on one's hand",
-      "ja": "手にあごをのせる、ほおづえをつく"
-    },
-    {
-      "term": "be full of ~",
-      "ja": "～でいっぱいである"
-    },
-    {
-      "term": "hold ~ in one's hand",
-      "ja": "～を手に持っている"
-    },
-    {
-      "term": "be covered with ~",
-      "ja": "～でおおわれている、～がたくさん置かれている"
-    },
-    {
-      "term": "hand-written price signs",
-      "ja": "手書きの値札"
-    }
+    { "term": "a train platform", "ja": "駅のホーム" },
+    { "term": "A sign above says ~", "ja": "上の看板（案内板）には～と書いてある" },
+    { "term": "walk toward the camera", "ja": "カメラの方へ歩いてくる" },
+    { "term": "stand in a line", "ja": "一列に並んで立つ" },
+    { "term": "while they wait for ~", "ja": "～を待っている間に" },
+    { "term": "It may be late in the evening.", "ja": "夜遅い時間かもしれない（推測を言うとき）" },
+    { "term": "a little lonely", "ja": "少しさびしい" }
   ],
   "credit": {
     "source": "Wikimedia Commons",
-    "title": "File:Bucharest - Obor Market (53706489764).jpg",
-    "author": "Jorge Franganillo",
-    "license": "CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Bucharest_-_Obor_Market_(53706489764).jpg"
+    "title": "File:People waiting for the train (Unsplash).jpg",
+    "author": "Redd Angelo",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:People_waiting_for_the_train_(Unsplash).jpg"
   }
 }
